@@ -169,6 +169,23 @@
 - [Kim Scott](guests/kim-scott.md) — Author Radical Candor; ruinous empathy, obnoxious aggression, giving feedback that helps
 - [Kunal Shah](guests/kunal-shah.md) — CEO CRED; delta-4 framework, second-order thinking, winning in India
 - [Lulu Cheng Meservey](guests/lulu-cheng-meservey.md) — Comms expert, ex-Substack; communicate like a founder, concentric circles framework
+- [Madhavan Ramanujam](guests/madhavan-ramanujam.md) — Partner Simon-Kucher; pricing 400+ companies, AI monetization two-by-two
+- [Maggie Crowley](guests/maggie-crowley.md) — VP Product Toast, ex-Drift; mastering product strategy, PM growth
+- [Manik Gupta](guests/manik-gupta.md) — Corporate VP Microsoft, ex-CPO Uber; building successful consumer products, consumer stack
+- [Marc Benioff](guests/marc-benioff.md) — Co-founder/CEO Salesforce; founder psychology, AI transformation, Ohana culture
+- [Marily Nika](guests/marily-nika.md) — AI Product Lead Meta Reality Labs; AI product management, lecture-based PM education
+- [Marty Cagan](guests/marty-cagan.md) — Founder SVPG; product management theater, empowered teams, INSPIRED framework
+- [Matt Abrahams](guests/matt-abrahams.md) — Stanford GSB professor; speaking confidently, spontaneous communication, Think Fast Talk Smart
+- [Matt Dixon](guests/matt-dixon.md) — Sales researcher; The Challenger Sale, The JOLT Effect, FOMU
+- [Matt LeMay](guests/matt-lemay.md) — Product consultant; impact-first teams, low-impact PM death spiral, OKRs
+- [Matt MacInnis](guests/matt-macinnis.md) — CEO Inkling; counterintuitive company-building secrets, ops principles
+- [Matt Mochary](guests/matt-mochary.md) — Executive coach, Mochary Method; fear gives bad advice, The Great CEO Within
+- [Matthew Dicks](guests/matthew-dicks.md) — 56-time Moth StorySLAM champion; Storyworthy, five-second moment, business storytelling
+- [Maya Prohovnik](guests/maya-prohovnik.md) — VP Product Spotify/Anchor; dogfooding, gut instinct, acquisition integration
+- [Mayur Kamat](guests/mayur-kamat.md) — Head of Product Binance; crypto product, compound learning, cultural adaptation
+- [Megan Cook](guests/megan-cook.md) — Head of Product Atlassian; influence without authority, psychological safety
+- [Melanie Perkins](guests/melanie-perkins.md) — Co-founder/CEO Canva; 100+ rejections to $40B, Column B thinking
+- [Molly Graham](guests/molly-graham.md) — ex-Facebook/Google/Quip; Give Away Your Legos, waterline model, scaling yourself
 
 ## Frameworks
 
@@ -253,6 +270,14 @@
 - [Unsell Email](frameworks/unsell-email.md) — Kevin Yien's candidate filtering technique to test genuine motivation
 - [Walk the Store](frameworks/walk-the-store.md) — Katie Dill's practice of regularly using your product as a customer would
 - [Nervous System Toolkit](frameworks/nervous-system-toolkit.md) — Jonny Miller's body-based practices for managing anxiety, energy, and burnout
+- [AI Monetization Two-by-Two](frameworks/ai-monetization-two-by-two.md) — Ramanujam's attribution × autonomy matrix for AI product pricing
+- [Challenger Sale Framework](frameworks/challenger-sale-framework.md) — Matt Dixon's teach-tailor-take-control selling methodology
+- [Column B Thinking](frameworks/column-b-thinking.md) — Melanie Perkins' reframe: list Column A obstacles, then ask what would have to be true to solve them
+- [Consumer Stack](frameworks/consumer-stack.md) — Manik Gupta's layers of consumer product success: core value → trust → habit → love
+- [J-Curve Career Growth](frameworks/j-curve-career-growth.md) — Molly Graham's model: performance dips before rising when taking on more responsibility
+- [JOLT Method](frameworks/jolt-method.md) — Matt Dixon's four steps for overcoming buyer indecision: Judge, Offer, Limit, Take-risk-off
+- [Low-Impact PM Death Spiral](frameworks/low-impact-pm-death-spiral.md) — Matt LeMay's pattern: busy work crowds out customer contact, leading to irrelevance
+- [Waterline Model](frameworks/waterline-model.md) — Molly Graham's framework for when to make decisions autonomously vs. surface upward
 
 ## Concepts
 
@@ -316,6 +341,9 @@
 - [Enterprise Sales Stages](concepts/enterprise-sales-stages.md) — Jen Abel's 6-stage enterprise deal framework: Intro→Demo→Proposal→Co-author→Procurement→Signature
 - [Social Radar](concepts/social-radar.md) — YC's term for a founder's ability to read people accurately and quickly
 - [Feelings Over Metrics](concepts/feelings-over-metrics.md) — Josh Miller's design philosophy: lead with emotional intent, use metrics as validation
+- [Fear Gives Bad Advice](concepts/fear-gives-bad-advice.md) — Matt Mochary's insight: decisions made from fear are almost always wrong
+- [Five-Second Moment](concepts/five-second-moment.md) — Matthew Dicks' storytelling technique: identify the five seconds that changed you
+- [Giving Away Your Legos](concepts/giving-away-your-legos.md) — Molly Graham's mental model for scaling: letting go of responsibilities as the team grows
 - [Community Notes](concepts/community-notes.md) — X/Twitter's bridging-based algorithm for crowdsourced fact-checking
 - [Model Maximalism](concepts/model-maximalism.md) — Kevin Weil's AI product strategy: default to most powerful model, then optimize
 - [Personal Operating Manual](concepts/personal-operating-manual.md) — "How to Work with Me" document that surfaces working preferences to teammates

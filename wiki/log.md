@@ -2,6 +2,41 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 9 — Episodes madhavan-ramanujam through molly-graham
+
+### Processed Episodes (17 unique, 20 attempted)
+1. **Madhavan Ramanujam** — "Pricing your AI product: Lessons from 400+ companies and 50 unicorns"
+2. **Maggie Crowley** — "Mastering product strategy and growing as a PM"
+3. **Manik Gupta** — "Building successful consumer products: Google Maps, Uber, and the consumer stack"
+4. **Marc Benioff** — "Behind the founder: Marc Benioff"
+5. **Marily Nika** — "AI and product management"
+6. **Marty Cagan** — "Product management theater"
+7. **Matt Abrahams** — "How to speak more confidently and persuasively"
+8. **Matt Dixon** — "The surprising truth about what closes deals: Insights from 2.5m sales conversations"
+9. **Matt LeMay** — "The secret to building high-impact product teams"
+10. **Matt MacInnis** — "The counterintuitive secrets to building a great company"
+11. **Matt Mochary** — "Are your fears giving you terrible advice?"
+12. **Matthew Dicks** — "How to tell a great story (and why it matters in business)"
+13. **Maya Prohovnik** — "How to build great products through dogfooding and gut instinct"
+14. **Mayur Kamat** — "Inside Binance: Building products at the world's largest crypto exchange"
+15. **Megan Cook** — "How to lead without authority and get buy-in for your ideas"
+16. **Melanie Perkins** — "Melanie Perkins on building Canva: From 100+ rejections to a $40B company"
+17. **Molly Graham** — "Give away your Legos and other advice for scaling yourself and your team"
+
+### Skipped
+- **madhavan-ramanujam-20**: Duplicate transcript, identical content
+- **marty-cagan-20**: Duplicate transcript, anomalous 2:03 duration metadata
+- **matt-mullenweg**: Mislabeled — identical video_id to matt-lemay (ts9ZvlkeWGs)
+
+### Created
+- **Guests (17):** madhavan-ramanujam, maggie-crowley, manik-gupta, marc-benioff, marily-nika, marty-cagan, matt-abrahams, matt-dixon, matt-lemay, matt-macinnis, matt-mochary, matthew-dicks, maya-prohovnik, mayur-kamat, megan-cook, melanie-perkins, molly-graham
+- **Frameworks (8):** ai-monetization-two-by-two, challenger-sale-framework, column-b-thinking, consumer-stack, j-curve-career-growth, jolt-method, low-impact-pm-death-spiral, waterline-model
+- **Concepts (3):** fear-gives-bad-advice, five-second-moment, giving-away-your-legos
+
+### Updated
+- wiki/concepts/outcomes-based-pricing.md — added Madhavan Ramanujam's AI monetization perspective
+- wiki/concepts/b2b-buyer-indecision.md — added Matt Dixon's JOLT Effect research (FOMU, 87% backfire stat)
+
 ## [2026-04-07] ingest | Batch 8 — Episodes judd-antin through lulu-cheng-meservey
 
 ### Processed Episodes (18 unique, 20 attempted)

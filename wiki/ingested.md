@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (170 unique / 303 total)
+## Episodes (187 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -175,6 +175,23 @@
 169. kim-scott
 170. kunal-shah
 171. lulu-cheng-meservey
+172. madhavan-ramanujam
+173. maggie-crowley
+174. manik-gupta
+175. marc-benioff
+176. marily-nika
+177. marty-cagan
+178. matt-abrahams
+179. matt-dixon
+180. matt-lemay
+181. matt-macinnis
+182. matt-mochary
+183. matthew-dicks
+184. maya-prohovnik
+185. mayur-kamat
+186. megan-cook
+187. melanie-perkins
+188. molly-graham
 
 ## Skipped
 
@@ -196,4 +213,7 @@
 - hamelshreya (duplicate of hamel-husain-shreya-shankar)
 - jake-knapp-john-zeratsky-20 (duplicate of jake-knapp-john-zeratsky, same video ID)
 - julian-shapiro (mislabeled directory — transcript is Julie Zhuo's 2025 episode, same video_id c_w0LaFahxk)
-- julie-zhuo-20 (second Julie Zhuo episode — 2024 Summit; needs merge into julie-zhuo.md — TODO)
+- julie-zhuo-20 (verbatim duplicate of julie-zhuo, same transcript content, different video_id)
+- madhavan-ramanujam-20 (duplicate transcript of madhavan-ramanujam, identical content)
+- marty-cagan-20 (duplicate transcript of marty-cagan, anomalous 2:03 duration, identical content)
+- matt-mullenweg (duplicate of matt-lemay — identical video_id ts9ZvlkeWGs, mislabeled directory)
