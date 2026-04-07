@@ -1,0 +1,239 @@
+# Ingest Log
+
+> Append-only chronological record of all ingest operations.
+
+## [2026-04-06] ingest | Batch 1 — Episodes ada-chen-rekhi through alisa-cohn
+
+### Processed Episodes
+1. **Ada Chen Rekhi** — "Feeling stuck? Here's how to know when it's time to leave your job"
+2. **Adam Fishman** — "How to build a high-performing growth team"
+3. **Adam Grenier** — "When to invest in new acquisition channels"
+4. **Adriel Frederick** — "Humanizing product development"
+5. **Aishwarya Naresh Reganti & Kiriti Badam** — "Why most AI products fail: Lessons from 50+ AI deployments"
+6. **Albert Cheng** — "Finding hidden growth opportunities in your product"
+7. **Alex Hardiman** — "An inside look at how the New York Times builds product"
+8. **Alex Komoroske** — "Thinking like a gardener, slime mold, the adjacent possible"
+9. **Alexander Embiricos** — "Building OpenAI's Codex: The future of coding agents and AGI"
+10. **Alisa Cohn** — "Scripts for navigating difficult conversations"
+
+### Created
+- **Guests (10):** ada-chen-rekhi, adam-fishman, adam-grenier, adriel-frederick, aishwarya-naresh-reganti-kiriti-badam, albert-cheng, alex-hardiman, alex-komoroske, alexander-embiricos, alisa-cohn
+- **Frameworks (17):** adjacent-possible, agency-control-tradeoff-ladder, continuous-calibration-continuous-development, curiosity-loop, emerging-channel-evaluation-framework, explore-and-exploit, founder-prenup, gamification-three-pillars, gardening-vs-building, growth-competency-model, human-algorithm-interface, marginal-user-framework, opinionated-defaults, organizational-kayfabe, personal-operating-manual, solar-system-product-strategy, three-questions-end-meeting
+- **Concepts (8):** ai-non-determinism, diversity-product-velocity, experimentation-culture, observable-facts-feedback, product-market-fit, reverse-free-trial, taste-as-competitive-advantage, wartime-product-management
+- **Topics (9):** ai-products, career-strategy, executive-coaching, feedback, growth, leadership, onboarding, retention, strategy
+
+### Updated
+- index.md — full rebuild with all new pages
+
+## [2026-04-07] ingest | Andy Raskin — "The power of strategic narrative"
+- Note: `andy-raskin` and `andy-raskin_` are duplicate transcripts of the same episode
+- Created: wiki/guests/andy-raskin.md, wiki/frameworks/strategic-narrative-framework.md, wiki/concepts/movement-over-product.md, wiki/topics/storytelling-and-pitching.md
+- Updated: wiki/topics/strategy.md (added strategic narrative as north star), wiki/topics/leadership.md (added CEO as chief storyteller), wiki/index.md
+
+## [2026-04-07] ingest | Anneka Gupta — "Becoming more strategic, navigating difficult colleagues, founder mode, more"
+
+### Processed Episodes
+1. **Anneka Gupta** — "Becoming more strategic, navigating difficult colleagues, founder mode, more"
+
+### Created
+- **Guests (1):** anneka-gupta
+- **Concepts (1):** energy-management
+
+### Updated
+- wiki/topics/strategy.md (added summarization as strategic thinking)
+- wiki/topics/leadership.md (added navigating difficult personalities)
+- wiki/topics/feedback.md (added receiving/giving feedback models)
+- wiki/topics/career-strategy.md (added breaking into PM)
+- wiki/index.md
+
+## [2026-04-07] ingest | Annie Duke — "This will make you a better decision maker"
+
+### Processed Episodes
+1. **Annie Duke** — "This will make you a better decision maker"
+
+### Created
+- **Guests (1):** annie-duke
+- **Frameworks (2):** nominal-group-technique, kill-criteria
+
+### Updated
+- wiki/topics/strategy.md (added make-implicit-explicit, no long feedback loops)
+- wiki/topics/leadership.md (added "nevertheless" tool, curiosity over coercion)
+- wiki/topics/feedback.md (added structured decision feedback at scale)
+- wiki/topics/career-strategy.md (added mental time travel, when to quit)
+- wiki/index.md
+
+## [2026-04-07] ingest | Ami Vora — "Making an impact through authenticity and curiosity"
+
+### Processed Episodes
+1. **Ami Vora** — "Making an impact through authenticity and curiosity"
+
+### Created
+- **Guests (1):** ami-vora
+- **Frameworks (2):** dinosaur-brain-product-reviews, hill-climb-local-vs-global-optimum
+- **Concepts (1):** curiosity-as-disagreement-tool
+
+### Updated
+- wiki/topics/leadership.md (added curiosity as leadership superpower, senior leadership least-bad option)
+- wiki/topics/strategy.md (added execution eats strategy for breakfast)
+- wiki/topics/feedback.md (added choosing which feedback to act on)
+- wiki/topics/career-strategy.md (added put on the coat of the job, expand your toolset)
+- wiki/index.md
+
+## [2026-04-07] ingest | Amjad Masad — "Behind the product: Replit"
+
+### Processed Episodes
+1. **Amjad Masad** — "Behind the product: Replit"
+
+### Created
+- **Guests (1):** amjad-masad
+- **Concepts (2):** jevons-paradox-software, ai-computer-interfaces
+
+### Updated
+- wiki/topics/ai-products.md (added Replit thesis, Jevons' Paradox)
+- wiki/topics/strategy.md (added kill the roadmap in the AI era)
+- wiki/topics/career-strategy.md (added AI-native skills)
+- wiki/index.md
+
+## [2026-04-07] ingest | Andrew Wilkinson — "I've run 75+ businesses. Here's why you're probably chasing the wrong idea."
+
+### Processed Episodes
+1. **Andrew Wilkinson** — "I've run 75+ businesses. Here's why you're probably chasing the wrong idea."
+
+### Created
+- **Guests (1):** andrew-wilkinson
+- **Frameworks (1):** fish-where-the-fish-are
+- **Concepts (2):** boring-business-thesis, lazy-leadership
+
+### Updated
+- wiki/topics/strategy.md (added fish where the fish are)
+- wiki/topics/leadership.md (added lazy leadership and hiring for fit)
+- wiki/topics/ai-products.md (added AI as the $200/month employee)
+- wiki/topics/career-strategy.md (added start with baby weights, find your unfair advantage)
+- wiki/index.md
+
+## [2026-04-07] ingest | Andy Johns — "When enough is enough"
+
+### Processed Episodes
+1. **Andy Johns** — "When enough is enough"
+
+### Created
+- **Guests (1):** andy-johns
+- **Frameworks (1):** four-steps-personal-transformation
+- **Concepts (1):** burnout
+- **Topics (1):** mental-health
+
+### Updated
+- wiki/topics/leadership.md (added the cost of ignoring burnout)
+- wiki/topics/career-strategy.md (added when achievement becomes the trap)
+- wiki/index.md
+
+## [2026-04-07] ingest | Annie Pearl — "Behind the scenes of Calendly's rapid growth"
+
+### Processed Episodes
+1. **Annie Pearl** — "Behind the scenes of Calendly's rapid growth"
+
+### Created
+- **Guests (1):** annie-pearl
+- **Frameworks (2):** playing-to-win-strategy, product-development-lifecycle
+- **Concepts (1):** viral-growth-loop
+
+### Updated
+- wiki/topics/growth.md (added viral loops as PLG engine)
+- wiki/topics/strategy.md (added Playing to Win at Calendly)
+- wiki/topics/leadership.md (added focus wisely as leadership principle)
+- wiki/topics/career-strategy.md (added four paths into PM)
+- wiki/index.md
+
+## [2026-04-07] ingest | Anton Osika — "Building Lovable: $10M ARR in 60 days with 15 people"
+
+### Processed Episodes
+1. **Anton Osika** — "Building Lovable: $10M ARR in 60 days with 15 people"
+
+### Created
+- **Guests (1):** anton-osika
+- **Concepts (1):** minimum-lovable-product
+
+### Updated
+- wiki/topics/growth.md (added product love as growth driver)
+- wiki/topics/strategy.md (added biggest bottleneck first)
+- wiki/topics/ai-products.md (added AI as universal builder, prompting as PM skill)
+- wiki/topics/leadership.md (added care/obsession and high-ambition hiring)
+- wiki/topics/career-strategy.md (added become top 1% in AI in one week)
+- wiki/concepts/taste-as-competitive-advantage.md (added taste as new bottleneck)
+- wiki/index.md
+
+## [2026-04-06] ingest | Batch 3 — Episodes anuj-rathi through bangaly-kaba
+
+### Processed Episodes
+1. **Anuj Rathi** — "The full-stack PM: India's unique product challenges, lazy/vain/selfish users, Four BB Framework"
+2. **Aparna Chennapragada** — "Microsoft CPO: If you aren't prototyping with AI you're doing it wrong"
+3. **April Dunford** — "A step-by-step guide to crafting a sales pitch that wins" (april-dunford + april-dunford-20 are duplicate transcripts of the same episode)
+4. **Archie Abrams** — "Shopify's VP of Product Growth on long-term holdout experiments and cohort GMV"
+5. **Arielle Jackson** — "The art of building legendary brands"
+6. **Asha Sharma** — "How 80,000 companies build with AI"
+7. **Austin Hay** — "The ultimate guide to Martech"
+8. **Ayo Omojola** — "Frameworks for product differentiation, team building, and first principles thinking"
+9. **Bangaly Kaba** — "Unorthodox frameworks for growing your product, career, and impact"
+
+### Created
+- **Guests (9):** anuj-rathi, aparna-chennapragada, april-dunford, archie-abrams, arielle-jackson, asha-sharma, austin-hay, ayo-omojola, bangaly-kaba
+- **Frameworks (5):** four-bb-framework, sales-pitch-framework, understand-identify-execute, impact-environment-skills, long-term-holdout-experiments
+- **Concepts (3):** nlx-natural-language-experience, product-as-organism, b2b-buyer-indecision
+- **Topics (1):** positioning
+
+### Updated
+- wiki/topics/ai-products.md (added NLX, product as organism, agents dimensions, successful AI company pattern)
+- wiki/topics/growth.md (added Shopify cohort GMV, monetary friction, understand before you build)
+- wiki/topics/strategy.md (added Four BB Framework, Three Inflection Points, seasons over roadmaps)
+- wiki/topics/career-strategy.md (added Impact=Environment×Skills, hire founders, regulated industries)
+- wiki/topics/leadership.md (added Managing Complex Change, optimism as strategic skill)
+- wiki/topics/onboarding.md (added Shopify onboarding as highest-leverage GMV, consistent positioning)
+- wiki/topics/storytelling-and-pitching.md (added two-phase sales pitch, demos before memos, B2B buyer indecision)
+- wiki/index.md
+
+## [2026-04-07] ingest | Batch 4 — barbra-gago through boz
+
+- Processed: barbra-gago, ben-horowitz, ben-williams, benjamin-lauzier, benjamin-mann, bill-carr, bob-baxley, bob-moesta, bob-moesta-20, boz (10 episodes)
+- Skipped: none (bob-moesta-20 confirmed as genuinely different episode from bob-moesta)
+- Note: benjamin-mann raw file has mismatched frontmatter (shows benjamin-lauzier metadata), processed based on actual transcript content
+- Created: 10 guest pages, concepts/category-creation, concepts/jobs-to-be-done, frameworks/design-tenets
+- Updated: frameworks/working-backwards (added Bill Carr's historical account)
+
+## [2026-04-07] ingest | Batch 5 — brandon-chu through camille-ricketts
+
+- Processed: brandon-chu, brendan-foody, bret-taylor, brian-balfour, brian-chesky, brian-tolkin, cam-adams, camille-fournier, camille-hearst, camille-ricketts (10 episodes)
+- Skipped: none
+- Created: 10 guest pages, concepts/ai-evals, concepts/community-led-growth, concepts/outcomes-based-pricing, concepts/founder-mode, frameworks/distribution-platform-cycle
+- Updated: topics/ai-products (Taylor agents, Foody evals, Balfour AI distribution), topics/growth (Balfour platform cycle, Ricketts community flywheel, Adams profitability), topics/leadership (Taylor, Chesky, Chu, Fournier)
+
+## [2026-04-07] ingest | Batch 6 — carilu-dietrich through christina-wodtke
+
+- Processed: carilu-dietrich, carole-robin, casey-winters_, chandra-janakiraman, chip-conley, chip-huyen, chris-hutchins, christian-idiodi, christina-wodtke (9 episodes)
+- Skipped: casey-winters (99-second promo clip, not a full episode)
+- Note: chip-conley and chip-huyen have mismatched YAML titles in raw data; processed correctly based on actual transcript content
+- Created: 9 guest pages, frameworks/okrs-radical-focus, frameworks/operators-strategy-process, concepts/network-effects, concepts/reference-customers, concepts/zirp-pm
+- Updated: topics/strategy (Janakiraman five-phase, Wodtke OKRs, Winters founder intuition), topics/feedback (Robin three realities), topics/growth (Dietrich hypergrowth, Winters network effects), topics/ai-products (Huyen RAG/post-training), topics/leadership (Robin interpersonal competence, Conley Modern Elder)
+
+## [2026-04-07] ingest | Batch 7 — christine-itwaru through dan-shipper
+
+- Processed: christine-itwaru, christopher-lochhead, christopher-miller, claire-butler, claire-hughes-johnson, claire-vo, crystal-w, dalton-caldwell, dan-hockenmaier, dan-shipper (10 episodes)
+- Skipped: none
+- Created: 10 guest pages, frameworks/category-design, frameworks/bottom-up-gtm, frameworks/growth-model-framework, frameworks/personal-operating-principles, frameworks/backcasting, concepts/product-ops, concepts/tar-pit-ideas, concepts/ai-operations-role, concepts/startup-resilience, concepts/context-engineering
+- Updated: concepts/category-creation (Lochhead perspective), concepts/community-led-growth (Butler designer advocates), topics/growth (Hockenmaier, Crystal W, Miller), topics/leadership (Hughes Johnson, Vo), topics/positioning (Lochhead category design), topics/ai-products (Shipper context engineering), topics/career-strategy (Vo clock speed)
+
+## [2026-04-07] ingest | Batch 8 — daniel-lereya through drew-houston
+
+- Processed: daniel-lereya, david-placek, david-singleton, deb-liu, dhanji-r-prasanna, dharmesh-shah, dmitry-zlokazov, donna-lichaw, dr-fei-fei-li, drew-houston (10 episodes)
+- Skipped: none
+- Note: david-placek raw file has mismatched YAML frontmatter (shows david-singleton metadata); processed correctly from transcript content
+- Created: 10 guest pages, frameworks/friction-logging, frameworks/identify-invent-implement, concepts/world-models, concepts/local-ceo-model
+- Updated: concepts/startup-resilience (Houston), concepts/founder-mode (Houston), concepts/viral-growth-loop (Houston), frameworks/playing-to-win-strategy (Houston), frameworks/personal-operating-manual (Lichaw), topics/ai-products (Prasanna, Li), topics/career-strategy (Liu, Lichaw), topics/leadership (Lichaw, Lereya), topics/growth (Houston)
+
+## [2026-04-07] ingest | Batch 9 — dylan-field through ethan-smith (2 parallel agents)
+
+- Processed: dylan-field, dylan-field-20, ebi-atawodi, edwin-chen, eeke-de-milliano, elena-verna, elena-verna-20, elena-verna-40, eli-schwartz, elizabeth-stone, emilie-gerber, emily-kramer, eoghan-mccabe, eric-ries, eric-simons, ethan-evans, ethan-evans-20, ethan-smith (18 episodes)
+- Skipped: elena-verna-30 (duplicate of elena-verna-20), ethan-evans-20 (duplicate of ethan-evans), eoy-review (non-guest)
+- Merged: dylan-field + dylan-field-20 into one guest page; elena-verna + elena-verna-20 + elena-verna-40 into one guest page
+- Created: 14 guest pages, concepts/product-led-growth, concepts/product-led-sales, concepts/product-led-seo, concepts/rl-environments, concepts/answer-engine-optimization, concepts/talent-density, frameworks/product-vision-framework, frameworks/minimum-viable-process, frameworks/magic-loop, frameworks/fuel-vs-engine, frameworks/lean-startup-principles
+- Updated: concepts/founder-mode (McCabe), concepts/outcomes-based-pricing (McCabe)
+- Topic tags deferred to synthesis pass (new process)

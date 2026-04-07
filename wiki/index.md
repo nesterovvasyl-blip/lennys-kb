@@ -1,0 +1,217 @@
+# Lenny's Podcast Knowledge Base — Index
+
+> Auto-maintained catalog of all wiki pages. Updated after each ingest batch.
+
+## Guests
+
+- [Ada Chen Rekhi](guests/ada-chen-rekhi.md) — Executive coach, co-founder of Notejoy, former LinkedIn/SurveyMonkey
+- [Adam Fishman](guests/adam-fishman.md) — First growth hire at Lyft, growth lead at Patreon
+- [Adam Grenier](guests/adam-grenier.md) — Head of Growth Marketing at Uber, VP Marketing at MasterClass
+- [Adriel Frederick](guests/adriel-frederick.md) — VP Product at Reddit X, former Lyft and Facebook PM
+- [Aishwarya Naresh Reganti & Kiriti Badam](guests/aishwarya-naresh-reganti-kiriti-badam.md) — AI researchers, 50+ AI deployments
+- [Albert Cheng](guests/albert-cheng.md) — Growth leader at Duolingo, Grammarly, Chess.com
+- [Alex Hardiman](guests/alex-hardiman.md) — CPO at the New York Times
+- [Alex Komoroske](guests/alex-komoroske.md) — Strategy at Google/Stripe, systems thinker
+- [Alexander Embiricos](guests/alexander-embiricos.md) — Product Lead for Codex at OpenAI
+- [Alisa Cohn](guests/alisa-cohn.md) — Executive coach, #1 startup coach by Global Gurus
+- [Ami Vora](guests/ami-vora.md) — CPO at Faire, ex-Meta (WhatsApp, Facebook Ads, Instagram)
+- [Amjad Masad](guests/amjad-masad.md) — Co-founder and CEO of Replit
+- [Andrew Wilkinson](guests/andrew-wilkinson.md) — Co-founder of Tiny, serial acquirer of 40+ internet businesses
+- [Andy Johns](guests/andy-johns.md) — Former growth leader at Facebook/Twitter/Quora, mental health advocate
+- [Andy Raskin](guests/andy-raskin.md) — Strategic narrative consultant, author of "The Greatest Sales Deck I've Ever Seen"
+- [Anneka Gupta](guests/anneka-gupta.md) — CPO at Rubrik, Stanford PM lecturer
+- [Annie Duke](guests/annie-duke.md) — Decision-making expert, former pro poker player, author of Thinking in Bets
+- [Annie Pearl](guests/annie-pearl.md) — CPO at Calendly, former CPO at Glassdoor, Director of PM at Box
+- [Anton Osika](guests/anton-osika.md) — Co-founder and CEO of Lovable, creator of GPT Engineer
+- [Anuj Rathi](guests/anuj-rathi.md) — CPMO at Jupiter Money, ex-Flipkart/Swiggy
+- [Aparna Chennapragada](guests/aparna-chennapragada.md) — CPO at Microsoft, ex-Google
+- [April Dunford](guests/april-dunford.md) — Positioning expert, author of Obviously Awesome and Sales Pitch
+- [Archie Abrams](guests/archie-abrams.md) — VP Product Growth at Shopify
+- [Arielle Jackson](guests/arielle-jackson.md) — Brand and marketing expert, ex-Google, investor at First Round Capital
+- [Asha Sharma](guests/asha-sharma.md) — CVP at Microsoft Azure AI, ex-Meta/Pinterest
+- [Austin Hay](guests/austin-hay.md) — MarTech lead at Reforge, ex-Brex/Runway
+- [Ayo Omojola](guests/ayo-omojola.md) — Product leader at Carbon Health, formerly Cash App
+- [Bangaly Kaba](guests/bangaly-kaba.md) — VP Product at Rippling, ex-Instagram/Facebook
+- [Barbra Gago](guests/barbra-gago.md) — Category creation expert, Miro and Greenhouse experience
+- [Ben Horowitz](guests/ben-horowitz.md) — Co-founder of a16z, founder psychology, running toward fear
+- [Ben Williams](guests/ben-williams.md) — Snyk, PLG for developers, viral growth in security
+- [Benjamin Lauzier](guests/benjamin-lauzier.md) — Marketplace dynamics, liquidity as foundational metric
+- [Benjamin Mann](guests/benjamin-mann.md) — Anthropic co-founder, AI safety, Constitutional AI
+- [Bill Carr](guests/bill-carr.md) — Amazon Working Backwards origins, single-threaded leaders, Bar Raiser
+- [Bob Baxley](guests/bob-baxley.md) — Design tenets vs. principles, primal mark theory, software as medium
+- [Bob Moesta](guests/bob-moesta.md) — JTBD four forces model, Job Moves career application
+- [Bob Moesta (2023)](guests/bob-moesta-20.md) — Four career quests, energy drivers/drains, jobcation
+- [Boz (Andrew Bosworth)](guests/boz.md) — Meta VP, leverage your leaders, HPM updates, transparency model
+- [Brandon Chu](guests/brandon-chu.md) — VP Product at Shopify, platform PM, writing as career multiplier
+- [Brendan Foody](guests/brendan-foody.md) — CEO of Mercor, AI evals era, expert labor markets
+- [Bret Taylor](guests/bret-taylor.md) — Co-founder Sierra, former co-CEO Salesforce, agents as new apps
+- [Brian Balfour](guests/brian-balfour.md) — Founder of Reforge, distribution platform cycle
+- [Brian Chesky](guests/brian-chesky.md) — CEO of Airbnb, founder mode, single roadmap, functional org
+- [Brian Tolkin](guests/brian-tolkin.md) — Head of Product at Opendoor, product+ops integration
+- [Cam Adams](guests/cam-adams.md) — CPO of Canva, coaches not managers, visual product culture
+- [Camille Fournier](guests/camille-fournier.md) — Author of "The Manager's Path", PMs and engineers, rewrite trap
+- [Camille Hearst](guests/camille-hearst.md) — Head of Fan Monetization at Spotify, creator economy
+- [Camille Ricketts](guests/camille-ricketts.md) — Former Head of Marketing at Notion, community-led growth
+- [Carilu Dietrich](guests/carilu-dietrich.md) — Hypergrowth advisor, former Atlassian CMO
+- [Carole Robin](guests/carole-robin.md) — Stanford interpersonal dynamics, three realities framework
+- [Casey Winters](guests/casey-winters_.md) — Growth/strategy expert, network effects, ZIRP PM diagnosis
+- [Chandra Janakiraman](guests/chandra-janakiraman.md) — Five-phase strategy process, operator's playbook
+- [Chip Conley](guests/chip-conley.md) — Modern Elder, wisdom as competitive advantage
+- [Chip Huyen](guests/chip-huyen.md) — AI/ML engineer, what actually improves AI apps, RAG
+- [Chris Hutchins](guests/chris-hutchins.md) — Optimization and personal finance expert
+- [Christian Idiodi](guests/christian-idiodi.md) — SVPG partner, reference customers, product discovery
+- [Christina Wodtke](guests/christina-wodtke.md) — OKRs Radical Focus, goal-setting systems
+- [Christine Itwaru](guests/christine-itwaru.md) — VP Product Operations at Pendo; defines product ops function, VOC systems, transparency
+- [Christopher Lochhead](guests/christopher-lochhead.md) — "Godfather of Category Design"; frame/name/claim, languaging, Better Trap, super consumers
+- [Christopher Miller](guests/christopher-miller.md) — VP Product Growth+AI HubSpot; PLG flywheel, microapps, radical accountability
+- [Claire Butler](guests/claire-butler.md) — Figma's first GTM hire; IC-first bottom-up GTM, designer advocates, Config
+- [Claire Hughes Johnson](guests/claire-hughes-johnson.md) — Ex-COO Stripe; Scaling People, personal operating principles, founding documents
+- [Claire Vo](guests/claire-vo.md) — CPO LaunchDarkly; bend the universe, clock speed, CPTO role, ChatPRD
+- [Crystal W](guests/crystal-w.md) — CPO Kumu / ex-Gojek growth; Wizard of Oz experiments, GoPay driver tactic
+- [Dalton Caldwell](guests/dalton-caldwell.md) — MD at YC; "just don't die", tar pit ideas, pivot toward warmer ground
+- [Dan Hockenmaier](guests/dan-hockenmaier.md) — Head of Strategy Faire; growth = acquisition × retention × monetization, marketplace liquidity
+- [Dan Shipper](guests/dan-shipper.md) — CEO Every; AI-native company, context engineering, head of AI ops
+- [Daniel Lereya](guests/daniel-lereya.md) — CPTO Monday.com; Impact Driven Development, radical transparency, product-engineering integration
+- [David Placek](guests/david-placek.md) — Lexicon Branding founder; brand naming science, sound symbolism, named Sonos/Azure/Blackberry/Pentium
+- [David Singleton](guests/david-singleton.md) — CTO Stripe; friction logging, product-minded engineering, meticulous craft
+- [Deb Liu](guests/deb-liu.md) — CEO Ancestry, ex-Facebook VP Product; career strategy, zero-to-one inside large companies, sponsorship
+- [Dhanji R. Prasanna](guests/dhanji-r-prasanna.md) — CTO Block; Goose AI agent, AI-native enterprise, functional org, MCP/context engineering
+- [Dharmesh Shah](guests/dharmesh-shah.md) — Co-founder/CTO HubSpot; no direct reports, entropy fighting, contrarian SMB bet, radical transparency
+- [Dmitry Zlokazov](guests/dmitry-zlokazov.md) — Global Head of Product Revolut; Local CEO model, wow product bar, raw intellect hiring
+- [Donna Lichaw](guests/donna-lichaw.md) — Executive coach; story-driven leadership, superpowers and kryptonite, inside-out leadership
+- [Dr. Fei-Fei Li](guests/dr-fei-fei-li.md) — Godmother of AI, World Labs; ImageNet, world models, spatial intelligence
+- [Drew Houston](guests/drew-houston.md) — CEO Dropbox; three eras, boa constrictor threat model, founder mode, viral growth architecture
+- [Dylan Field](guests/dylan-field.md) — Co-founder/CEO Figma; intuition as hypothesis generator, simplicity as product discipline, design as AI-era moat
+- [Ebi Atawodi](guests/ebi-atawodi.md) — Director of PM at YouTube; product vision framework, clarity and conviction model
+- [Edwin Chen](guests/edwin-chen.md) — CEO Surge AI; $1B revenue bootstrapped, AI data quality, benchmark skepticism, RL environments
+- [Eeke de Milliano](guests/eeke-de-milliano.md) — Head of Product Retool, early Stripe PM; Minimum Viable Process, Crazy Ideas doc
+- [Elena Verna](guests/elena-verna.md) — Head of Growth Lovable; PLG, product-led sales, 10 growth tactics that never work, AI growth playbook
+- [Eli Schwartz](guests/eli-schwartz.md) — SEO advisor; product-led SEO, AI Overviews impact, when B2B SaaS should skip SEO
+- [Elizabeth Stone](guests/elizabeth-stone.md) — Netflix CTO; talent density, Keeper Test, centralized data org
+- [Emilie Gerber](guests/emilie-gerber.md) — PR expert (Six Eastern); startup PR guide, publication-goal fit map
+- [Emily Kramer](guests/emily-kramer.md) — MKT1 co-founder; fuel vs. engine framework, π-shaped marketers
+- [Eoghan McCabe](guests/eoghan-mccabe.md) — Intercom CEO; AI pivot in 6 weeks, $0.99/resolved ticket outcome pricing
+- [Eric Ries](guests/eric-ries.md) — Lean Startup creator; MVP redefined, sticky vs. viral engines, foundation-controlled companies
+- [Eric Simons](guests/eric-simons.md) — StackBlitz/Bolt CEO; WebContainer, 67% non-developer users, Sonnet as inflection
+- [Ethan Evans](guests/ethan-evans.md) — Former Amazon VP; The Magic Loop, senior manager plateau, ownership principle
+- [Ethan Smith](guests/ethan-smith.md) — Graphite CEO; AEO guide, Webflow 6X conversion from LLMs, citation optimization
+
+## Frameworks
+
+- [Adjacent Possible](frameworks/adjacent-possible.md) — Incremental steps toward a long-range North Star
+- [Four BB Framework](frameworks/four-bb-framework.md) — Brilliant Basics, Bread and Butter, Big Bets, Breaking Bad
+- [Agency-Control Trade-off Ladder](frameworks/agency-control-tradeoff-ladder.md) — Staged AI deployment with increasing autonomy
+- [CC/CD](frameworks/continuous-calibration-continuous-development.md) — Continuous Calibration / Continuous Development for AI
+- [Curiosity Loop](frameworks/curiosity-loop.md) — Structured advice-gathering method
+- [Emerging Channel Evaluation](frameworks/emerging-channel-evaluation-framework.md) — Three-ingredient channel assessment
+- [Explore and Exploit](frameworks/explore-and-exploit.md) — Career/growth strategy oscillation
+- [Founder Prenup](frameworks/founder-prenup.md) — Co-founder alignment questionnaire
+- [Gamification Three Pillars](frameworks/gamification-three-pillars.md) — Core Loop, Metagame, Profile
+- [Gardening vs. Building](frameworks/gardening-vs-building.md) — Compounding systems vs. linear plans
+- [Growth Competency Model](frameworks/growth-competency-model.md) — Four quadrants for growth hiring
+- [Human-Algorithm Interface](frameworks/human-algorithm-interface.md) — Designing human vs. machine decision boundaries
+- [Marginal User Framework](frameworks/marginal-user-framework.md) — Study users on the cusp of converting
+- [Opinionated Defaults](frameworks/opinionated-defaults.md) — Guide users toward success via smart defaults
+- [Organizational Kayfabe](frameworks/organizational-kayfabe.md) — Compounding optimistic spin in hierarchies
+- [Personal Operating Manual](frameworks/personal-operating-manual.md) — Document your working style for your team
+- [Solar System Product Strategy](frameworks/solar-system-product-strategy.md) — Core product as sun, satellites orbiting
+- [Dinosaur Brain Product Reviews](frameworks/dinosaur-brain-product-reviews.md) — Bring recommendations, not data dumps
+- [Fish Where the Fish Are](frameworks/fish-where-the-fish-are.md) — Find high-demand, low-competition markets
+- [Four Steps of Personal Transformation](frameworks/four-steps-personal-transformation.md) — Suffering, truth, self-compassion, compassion for others
+- [Hill Climb: Local vs. Global Optimum](frameworks/hill-climb-local-vs-global-optimum.md) — Navigating transformative change
+- [Impact = Environment × Skills](frameworks/impact-environment-skills.md) — Career framework: environment is the higher-leverage variable
+- [Kill Criteria](frameworks/kill-criteria.md) — Pre-committed signals and actions for when to pivot or stop
+- [Long-Term Holdout Experiments](frameworks/long-term-holdout-experiments.md) — Validating short-term experiment wins over 12-month cohorts
+- [Nominal Group Technique](frameworks/nominal-group-technique.md) — Independent opinion-gathering before group discussion
+- [Playing to Win Strategy](frameworks/playing-to-win-strategy.md) — Integrated choices: where to play, how to win
+- [Product Development Lifecycle](frameworks/product-development-lifecycle.md) — Discovery > Solutioning > Build > Launch/Measure/Iterate
+- [Strategic Narrative Framework](frameworks/strategic-narrative-framework.md) — Five-step movement-based pitch structure
+- [Sales Pitch Framework](frameworks/sales-pitch-framework.md) — Two-phase sales pitch: Setup and Follow-through
+- [Three Questions to End a Meeting](frameworks/three-questions-end-meeting.md) — Decide, assign, inform
+- [Understand-Identify-Execute](frameworks/understand-identify-execute.md) — Budget explicit time for problem understanding before building
+- [Slime Mold Framework](frameworks/slime-mold-framework.md) — Coordination costs scale with team size; large orgs behave like decentralized organisms
+- [Working Backwards](frameworks/working-backwards.md) — Amazon's PR/FAQ process for product decisions
+- [Values Exercise](frameworks/values-exercise.md) — 15-minute exercise to select and stack-rank core values
+- [Design Tenets](frameworks/design-tenets.md) — Bob Baxley's tenets vs. principles distinction
+- [Distribution Platform Cycle](frameworks/distribution-platform-cycle.md) — Balfour's four-step platform cycle with ChatGPT application
+- [OKRs Radical Focus](frameworks/okrs-radical-focus.md) — Christina Wodtke's OKR system
+- [Operator's Strategy Process](frameworks/operators-strategy-process.md) — Chandra Janakiraman's five-phase strategy playbook
+- [Category Design](frameworks/category-design.md) — Lochhead's frame/name/claim framework for creating new market categories
+- [Bottom-Up GTM](frameworks/bottom-up-gtm.md) — Butler's IC-first GTM: earn IC love → map spread → enterprise ratification
+- [Growth Model Framework](frameworks/growth-model-framework.md) — Hockenmaier's Growth = Acquisition × Retention × Monetization diagnostic
+- [Personal Operating Principles](frameworks/personal-operating-principles.md) — Hughes Johnson's 4-question leader self-knowledge tool
+- [Backcasting](frameworks/backcasting.md) — Lochhead's technique of designing backward from desired future state
+- [Friction Logging](frameworks/friction-logging.md) — Systematic practice for capturing product friction, Stripe's quality mechanism
+- [Identify-Invent-Implement](frameworks/identify-invent-implement.md) — Placek's three-phase naming framework using sound symbolism
+- [Product Vision Framework](frameworks/product-vision-framework.md) — Atawodi's Empathize-Create-Evangelize, 4 vision properties
+- [Minimum Viable Process](frameworks/minimum-viable-process.md) — De Milliano's MVP process, Crazy Ideas doc, variance reduction
+- [Magic Loop](frameworks/magic-loop.md) — Ethan Evans' 5-step career acceleration framework
+- [Fuel vs. Engine](frameworks/fuel-vs-engine.md) — Kramer's marketing strategy framework
+- [Lean Startup Principles](frameworks/lean-startup-principles.md) — Ries' MVP, sticky vs. viral engines, validated learning
+
+## Concepts
+
+- [AI Non-determinism](concepts/ai-non-determinism.md) — Unbounded inputs + probabilistic outputs
+- [B2B Buyer Indecision](concepts/b2b-buyer-indecision.md) — 40-60% of B2B purchases end in no decision
+- [Diversity as Product Velocity](concepts/diversity-product-velocity.md) — Diverse teams ship global products faster
+- [Experimentation Culture](concepts/experimentation-culture.md) — Building organizational experimentation habits
+- [Observable Facts Feedback](concepts/observable-facts-feedback.md) — Behavior-anchored performance feedback
+- [Product-Market Fit](concepts/product-market-fit.md) — Dynamic alignment of product and market
+- [Reverse Free Trial](concepts/reverse-free-trial.md) — In-workflow premium feature previews
+- [AI Computer Interfaces](concepts/ai-computer-interfaces.md) — Purpose-built interfaces for AI agents
+- [Boring Business Thesis](concepts/boring-business-thesis.md) — Unglamorous businesses win because low competition beats high excitement
+- [Burnout](concepts/burnout.md) — Chronic workplace stress masked by professional success
+- [Curiosity as a Disagreement Tool](concepts/curiosity-as-disagreement-tool.md) — Genuine curiosity tears down walls in disagreements
+- [Energy Management](concepts/energy-management.md) — Schedule tasks to match personal energy patterns
+- [Jevons' Paradox Applied to Software](concepts/jevons-paradox-software.md) — Cheaper software creation means more total software
+- [Lazy Leadership](concepts/lazy-leadership.md) — Delegate ruthlessly, be Teflon for tasks
+- [Minimum Lovable Product](concepts/minimum-lovable-product.md) — MLP over MVP: build the minimum version users love
+- [Movement Over Product](concepts/movement-over-product.md) — Pitch a movement, not a feature set
+- [NLX: Natural Language Experience](concepts/nlx-natural-language-experience.md) — Conversational interface design as a discipline
+- [Taste as Competitive Advantage](concepts/taste-as-competitive-advantage.md) — Distinctive perspective in the AI era
+- [Viral Growth Loop](concepts/viral-growth-loop.md) — Product-embedded distribution through usage
+- [Product as Organism](concepts/product-as-organism.md) — Continuously learning products vs. static artifacts
+- [Wartime Product Management](concepts/wartime-product-management.md) — Crisis-mode product leadership
+- [AI Success Triangle](concepts/ai-success-triangle.md) — Three organizational conditions for successful AI adoption
+- [Adjacent User Theory](concepts/adjacent-user-theory.md) — Finding growth by targeting users just outside current product experience
+- [Freemium Subscription](concepts/freemium-subscription.md) — Freemium model mechanics and conversion patterns
+- [Inner Scorecard vs. Outer Scorecard](concepts/inner-scorecard-outer-scorecard.md) — Internal vs. external success metrics (Buffett)
+- [PMF Framework for Candidates](concepts/pmf-framework-candidates.md) — People, Mission, Financials job evaluation heuristic
+- [Three Inflection Points](concepts/three-inflection-points.md) — Technology, behavior, and business model inflections must align
+- [Category Creation](concepts/category-creation.md) — Three prerequisites and mechanics for creating a new category
+- [Jobs to Be Done](concepts/jobs-to-be-done.md) — Four forces model, context+outcome framing, career application
+- [AI Evals](concepts/ai-evals.md) — Evals as the PRD for models, expert labor market shift
+- [Community-Led Growth](concepts/community-led-growth.md) — Notion's three-layer community model, atomic unit of sharing
+- [Outcomes-Based Pricing](concepts/outcomes-based-pricing.md) — Agent pricing model, pay-for-outcomes
+- [Founder Mode](concepts/founder-mode.md) — CEO-as-CPO, deep founder involvement in product
+- [Network Effects](concepts/network-effects.md) — Three-type taxonomy: direct, cross-side, data
+- [Reference Customers](concepts/reference-customers.md) — Holy grail of product discovery
+- [ZIRP PM](concepts/zirp-pm.md) — ZIRP-era PM dysfunction diagnosis
+- [Product Ops](concepts/product-ops.md) — Product operations function: VOC synthesis, operating rhythms, internal transparency
+- [Tar Pit Ideas](concepts/tar-pit-ideas.md) — Startup ideas that look promising but have structural failure reasons
+- [AI Operations Role](concepts/ai-operations-role.md) — New role: maps workflows, identifies AI applicability, redesigns human work
+- [Startup Resilience](concepts/startup-resilience.md) — "Just don't die": runway management, pivot toward warmth, customer contact
+- [Context Engineering](concepts/context-engineering.md) — Constructing AI context windows for quality outputs
+- [World Models](concepts/world-models.md) — Spatial intelligence AI, 3D world generation beyond language models
+- [Local CEO Model](concepts/local-ceo-model.md) — Revolut's product owner as full cross-functional owner with P&L accountability
+- [Product-Led Growth](concepts/product-led-growth.md) — PLG definition, prerequisites, PLG vs. SLG
+- [Product-Led Sales](concepts/product-led-sales.md) — PLS framework, PQA/PQL/MQL distinctions
+- [Product-Led SEO](concepts/product-led-seo.md) — SEO as product problem, AI Overviews impact
+- [RL Environments](concepts/rl-environments.md) — Reinforcement learning environments as AI post-training stage
+- [Answer Engine Optimization](concepts/answer-engine-optimization.md) — AEO: optimizing for LLM citations
+- [Talent Density](concepts/talent-density.md) — Netflix's talent density and Keeper Test
+
+## Topics
+
+- [AI Products](topics/ai-products.md) — Building with non-deterministic systems
+- [Career Strategy](topics/career-strategy.md) — Treating career decisions with product rigor
+- [Executive Coaching](topics/executive-coaching.md) — Scaling leaders through coaching
+- [Feedback](topics/feedback.md) — Giving and receiving performance feedback
+- [Growth](topics/growth.md) — Connecting users to product value
+- [Leadership](topics/leadership.md) — Enabling teams and driving results
+- [Onboarding](topics/onboarding.md) — The most powerful product lever
+- [Retention](topics/retention.md) — Keeping users engaged long-term
+- [Storytelling & Pitching](topics/storytelling-and-pitching.md) — Movement-based narrative for sales and marketing
+- [Mental Health](topics/mental-health.md) — Mental health challenges in the tech industry
+- [Positioning](topics/positioning.md) — How products are placed in the minds of buyers
+- [Strategy](topics/strategy.md) — Strategic thinking for product leaders

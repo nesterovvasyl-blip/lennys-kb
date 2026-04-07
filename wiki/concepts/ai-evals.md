@@ -1,0 +1,58 @@
+---
+aliases: [evals, evaluations, ai-evaluations, rlhf]
+guests: [brendan-foody]
+---
+
+# AI Evals
+
+> Evaluation datasets and rubrics that define what "success" looks like for a model capability — the prerequisite for all post-training improvement.
+
+## Content
+
+"Evals" (short for evaluations) are the systematic way to measure what good model output looks like for a specific capability domain. They sit at the center of modern AI development — used for post-training (reinforcement learning), benchmarking model progress, and as sales collateral for demonstrating model capabilities.
+
+### Why Evals Matter: The PRD Analogy
+
+Brendan Foody's core framing: "If the model is the product, then the eval is the PRD." Labs run dozens of experiments per day where they make small improvements toward an eval set. Reinforcement learning is so effective that once a high-quality eval exists, models can climb it rapidly — as demonstrated by how quickly models saturated Olympiad Math and SWE-bench benchmarks once those evals were focused on.
+
+The limiting factor for frontier model improvement is no longer compute or architecture — it is the ability to measure what "good" looks like across every new domain. "Evals are all you need" (Greg Brockman / OpenAI). "Models are only as good as their evals" (common Mercor customer quote).
+
+### What Writing an Eval Actually Looks Like
+
+A lawyer being asked to eval a contract red-lining model would:
+1. Create a rubric (like a professor creating criteria for a deliverable): what are the key things the model should identify and how should they be weighted?
+2. Score model outputs against this rubric (similar to a TA applying professor criteria to student work)
+3. Use this as both a benchmark (has the model improved?) and training signal (reward model trajectories that score higher)
+
+This is the "human defined success criteria" approach that powers modern RLHF and its successor, reinforcement learning from AI feedback (RLAIF), where models are increasingly used to score other models once the rubric is established.
+
+### The Shift from Crowdsourced to Expert Labor
+
+The AI data market has fundamentally shifted. Early RLHF relied on crowdsourced platforms (Scale AI, Surge) using high volumes of lower-skilled workers to provide relative preference judgments ("which response is better?"). The current paradigm requires domain experts who can:
+- Write rubrics from deep domain knowledge
+- Create hard problem sets that expose model gaps
+- Evaluate complex professional outputs (contract analysis, medical diagnosis, financial modeling)
+
+Mercor's business (Brendan Foody) is built on sourcing these experts — Goldman bankers, doctors, McKinsey analysts, Harvard Lampoon comedy writers, Emmy-winning screenwriters. The top 10% of contributors drive the majority of model improvement.
+
+### Evals as the New Marketing
+
+Sarah Guo (AI investor) coined "evals equal your new marketing." Because evals are the measure of model capabilities, releasing strong eval performance is how labs demonstrate competitiveness to customers, researchers, and developers. The move is from academic benchmarks (GPQA, Humanity's Last Exam) to domain-specific practical capabilities benchmarks (how well does the model do investment banking analysis?).
+
+### For Enterprises
+
+The practical advice for enterprises: build a systematic way to measure how well AI automates your core value chain. "Each company has its own value chain or maybe a handful of them if it's a multi-product company. Just thinking about how they measure that is the prerequisite to really effectively applying AI throughout their entire business." (Foody)
+
+An architecture firm needs to eval how well AI produces architecture diagrams. A bank needs to eval investment analysis quality. Without this measurement infrastructure, any AI deployment is flying blind.
+
+### Durability
+
+Foody's view on timeline: evals are evergreen. "So long as we want to improve models, we'll need experts to create evals for them and to create the post-training data for them to learn those capabilities." Even if we reach a point where many workflows are automated, the frontier of what models can't yet do will continue to expand, and those new domains will require new evals.
+
+## Sources
+- [[brendan-foody]] — "If the model is the product, then the eval is the PRD." (Why experts writing AI evals is creating the fastest-growing companies in history)
+
+## See Also
+- [[brendan-foody]]
+- [[ai-products]]
+- [[outcomes-based-pricing]]
