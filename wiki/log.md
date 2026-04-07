@@ -2,6 +2,38 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 7 — Episodes jason-m-lemkin through josh-miller
+
+### Processed Episodes (20 total)
+1. **Jason M. Lemkin** — "We replaced our sales team with 20 AI agents—here's what happened next"
+2. **Jason Shah** — "How to build a meaningful career"
+3. **Jeanne Grosser** — "How to build a world-class go-to-market"
+4. **Jeff Weinstein** — "An inside look at Stripe's product culture"
+5. **Jeffrey Pfeffer** — "The 7 rules of power"
+6. **Jen Abel** — "Founder-led sales: how to sell your first $1M" + "$1M to $10M: The enterprise sales playbook" (merged)
+7. **Jeremy Henrickson** — "Moving fast and navigating uncertainty"
+8. **Jerry Colonna** — "How have I been complicit in creating the conditions I say I don't want?"
+9. **Jessica Lachs** — "Building a world-class data org"
+10. **Jessica Hische** — "Branding secrets from Lenny's new logo designer"
+11. **Jessica Livingston** — "How Y Combinator evaluates founders"
+12. **Jiaona Zhang (JZ)** — "How to build products people love"
+13. **Joe Hudson** — "How to feel good at work (and why it makes you better)"
+14. **John Cutler** — "What separates the best product teams from the rest"
+15. **John Mark Nickels** — "How emotions make you a better leader and decision-maker"
+16. **Jonathan Becker** — "How to master paid marketing and performance advertising"
+17. **Jonathan Lowenhar** — "How a great founder becomes a great CEO"
+18. **Jonny Miller** — "Managing nerves, anxiety, and burnout"
+19. **Josh Miller** — "Competing with giants: An inside look at how The Browser Company builds product"
+
+### Created
+- **Guests (19):** jason-m-lemkin, jason-shah, jeanne-grosser, jeff-weinstein, jeffrey-pfeffer, jen-abel, jeremy-henrickson, jerry-colonna, jess-lachs, jessica-hische, jessica-livingston, jiaona-zhang, joe-hudson, john-cutler, john-mark-nickels, jonathan-becker, jonathan-lowenhar, jonny-miller, josh-miller
+- **Frameworks (4):** feather-brick-dump-truck, magic-box-paradigm, radical-self-inquiry, seven-rules-of-power
+- **Concepts (4):** compound-startup, conscious-leadership, enterprise-sales-stages, social-radar
+
+### Updated
+- wiki/concepts/burnout.md — added Jonny Miller's feather-brick-dump-truck framing
+- wiki/concepts/minimum-lovable-product.md — added Jiaona Zhang's perspective
+
 ## [2026-04-06] ingest | Batch 1 — Episodes ada-chen-rekhi through alisa-cohn
 
 ### Processed Episodes

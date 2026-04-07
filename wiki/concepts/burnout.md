@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [andy-johns, andrew-wilkinson]
+guests: [andy-johns, andrew-wilkinson, jonny-miller]
 ---
 
 # Burnout
@@ -28,9 +28,24 @@ Andrew Wilkinson describes a parallel pattern: no amount of money or success add
 
 Both perspectives converge: external achievement cannot solve internal suffering. The path forward requires either medical intervention, deep self-work, or both.
 
+### Jonny Miller: The Feather-Brick-Dump Truck Framework
+Miller adds a physiological dimension to burnout detection — the body signals before the mind registers:
+- **Feather**: mild fatigue, slightly less restful sleep, minor irritability
+- **Brick**: losing your cool, relationship strain, disproportionate reactions
+- **Dump truck**: health crisis, breakdown, being fired or quitting
+
+Most people wait for the dump truck. The goal is noticing the feather.
+
+**Emotional Debt**: Miller introduces the concept of allostatic load — stress that doesn't complete its mobilization cycle gets stored in the body. He calls this "emotional debt." It accumulates invisibly and manifests as: inability to downshift without substances (wine, CBD), emotional reactivity, relationship strain. It requires somatic (body-based) approaches to release — not just talk therapy.
+
+**Key metric**: if you cannot naturally downshift your nervous system at the end of the day without an external substance, you have reached a significant threshold of emotional debt.
+
+**Organizational dimension**: "The nervous system of an organization is a reflection of the nervous system of the CEO." Burnout is contagious through emotional contagion — a leader in chronic stress creates chronic stress in their team.
+
 ## Sources
 - [[andy-johns]] — "When your core behaviors get disrupted, it's undeniable that something detrimental to your wellbeing is going on" (When enough is enough)
 - [[andrew-wilkinson]] — "No amount of money or success had done what this little tiny yellow pill could do for my mental state" (I've run 75+ businesses)
+- [[jonny-miller]] — "The feather might be waking up feeling a little tired. The dump truck is a full-blown health crisis a year later. Notice the feather." (Managing nerves, anxiety, and burnout)
 
 ## See Also
 - [[four-steps-personal-transformation]]

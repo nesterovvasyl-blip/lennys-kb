@@ -132,6 +132,25 @@
 - [Jason Droege](guests/jason-droege.md) — CEO Scale AI, Uber Eats founder; AI training data, enterprise AI realism
 - [Jason Feifer](guests/jason-feifer.md) — EIC Entrepreneur Magazine; media as audience service, press frameworks
 - [Jason Fried](guests/jason-fried.md) — Co-founder/CEO 37signals (Basecamp, HEY); bootstrapping, Shape Up, calm company
+- [Jason M. Lemkin](guests/jason-m-lemkin.md) — Founder of SaaStr; replaced sales team with 20 AI agents, B2B SaaS playbook
+- [Jason Shah](guests/jason-shah.md) — PM at Airbnb/Amazon/Microsoft/Alchemy; meaningful careers, working backwards
+- [Jeanne Grosser](guests/jeanne-grosser.md) — COO Vercel, ex-Stripe/Google; world-class GTM, enterprise sales at scale
+- [Jeff Weinstein](guests/jeff-weinstein.md) — Product lead at Stripe; craft culture, friction logging, Stripe Atlas
+- [Jeffrey Pfeffer](guests/jeffrey-pfeffer.md) — Stanford GSB professor; Seven Rules of Power, organizational politics
+- [Jen Abel](guests/jen-abel.md) — Co-founder JJELLYFISH; founder-led sales $0→$1M, enterprise playbook $1M→$10M
+- [Jeremy Henrickson](guests/jeremy-henrickson.md) — SVP Product Rippling, ex-CPO Coinbase; velocity, compound startup, anti-MVP
+- [Jerry Colonna](guests/jerry-colonna.md) — CEO Reboot; radical self-inquiry, "how have I been complicit in what I don't want?"
+- [Jessica Lachs](guests/jess-lachs.md) — VP Analytics DoorDash; building world-class data orgs, centralized analytics model
+- [Jessica Hische](guests/jessica-hische.md) — Brand designer; branding secrets, typography, pricing creative work
+- [Jessica Livingston](guests/jessica-livingston.md) — Co-founder YC; how YC evaluates founders, earnestness, social radar
+- [Jiaona Zhang (JZ)](guests/jiaona-zhang.md) — Product leader; minimum lovable product, roadmap clarity, OKRs
+- [Joe Hudson](guests/joe-hudson.md) — Executive coach; feel good at work, emotional intelligence, joy as performance driver
+- [John Cutler](guests/john-cutler.md) — Product consultant; what separates best product teams, systems thinking
+- [John Mark Nickels](guests/john-mark-nickels.md) — Author/leader; conscious leadership, emotions at work, stoicism
+- [Jonathan Becker](guests/jonathan-becker.md) — Performance marketing expert; paid ads, creative testing, attribution
+- [Jonathan Lowenhar](guests/jonathan-lowenhar.md) — Executive coach; founder-to-CEO transition, Magic Box Paradigm
+- [Jonny Miller](guests/jonny-miller.md) — Wellbeing coach; nervous system, burnout, Feather-Brick-Dump Truck framework
+- [Josh Miller](guests/josh-miller.md) — CEO The Browser Company; Arc browser, competing with giants, building in public
 
 ## Frameworks
 
@@ -200,6 +219,12 @@
 - [Make Time Framework](frameworks/make-time-framework.md) — Knapp/Zeratsky's Highlight/Laser/Energize/Reflect
 - [Now/Next/Later](frameworks/now-next-later.md) — Bastow's roadmap format replacing Gantt timelines
 - [Shape Up](frameworks/shape-up.md) — 37signals' fixed-appetite, two-person team product development methodology
+- [Feather-Brick-Dump Truck](frameworks/feather-brick-dump-truck.md) — Jonny Miller's burnout early-warning system: feather → brick → dump truck escalation
+- [Magic Box Paradigm](frameworks/magic-box-paradigm.md) — Lowenhar's framework for founder-to-CEO transition: defining what only you can do
+- [Radical Self-Inquiry](frameworks/radical-self-inquiry.md) — Jerry Colonna's 4-question coaching practice for confronting complicity in unwanted situations
+- [Seven Rules of Power](frameworks/seven-rules-of-power.md) — Pfeffer's playbook for acquiring and wielding power in organizations
+- [CEO Failure Modes](frameworks/ceo-failure-modes.md) — Lowenhar's taxonomy of dysfunctional CEO archetypes for founder-to-CEO transition
+- [Nervous System Toolkit](frameworks/nervous-system-toolkit.md) — Jonny Miller's body-based practices for managing anxiety, energy, and burnout
 
 ## Concepts
 
@@ -258,6 +283,11 @@
 - [Customer-Led Growth](concepts/customer-led-growth.md) — Laudi's methodology replacing guesswork with best-customer research
 - [Fault-Tolerant UI](concepts/fault-tolerant-ui.md) — Söderström's principle: UI must match actual model accuracy
 - [Curation → Recommendation → Generation](concepts/curation-recommendation-generation.md) — Söderström's three eras of internet products
+- [Compound Startup](concepts/compound-startup.md) — Rippling's single-system-of-record model: build many products on one data platform
+- [Conscious Leadership](concepts/conscious-leadership.md) — Leading from self-awareness and emotional honesty rather than fear or ego
+- [Enterprise Sales Stages](concepts/enterprise-sales-stages.md) — Jen Abel's 6-stage enterprise deal framework: Intro→Demo→Proposal→Co-author→Procurement→Signature
+- [Social Radar](concepts/social-radar.md) — YC's term for a founder's ability to read people accurately and quickly
+- [Feelings Over Metrics](concepts/feelings-over-metrics.md) — Josh Miller's design philosophy: lead with emotional intent, use metrics as validation
 
 ## Topics
 
