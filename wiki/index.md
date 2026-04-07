@@ -114,6 +114,23 @@
 - [Gustav Söderström](guests/gustav-söderström.md) — Co-President/CPTO Spotify; three eras of internet products, fault-tolerant UI, squad model
 - [Hamel Husain](guests/hamel-husain.md) — AI consultant; manual trace review, open coding methodology, LLM-as-judge
 - [Shreya Shankar](guests/shreya-shankar.md) — PhD researcher; criteria drift, axial coding, evals as continuous monitoring
+- [Hamilton Helmer](guests/hamilton-helmer.md) — Author of 7 Powers; power dynamics, strategy foundations
+- [Hari Srinivasan](guests/hari-srinivasan.md) — Product leader; episode details TBD
+- [Heidi Helfand](guests/heidi-helfand.md) — Author of Dynamic Reteaming; team change patterns
+- [Hila Qu](guests/hila-qu.md) — Growth advisor; growth frameworks and experimentation
+- [Hilary Gridley](guests/hilary-gridley.md) — Product leader; product management practices
+- [Howie Liu](guests/howie-liu.md) — CEO Airtable; product vision and platform building
+- [Ian McAllister](guests/ian-mcallister.md) — Product leader; Amazon-era PM practices
+- [Inbal Shani](guests/inbal-s.md) — Product leader; product management insights
+- [Itamar Gilad](guests/itamar-gilad.md) — Product coach; GIST model, confidence meter, evidence-guided development
+- [Ivan Zhao](guests/ivan-zhao.md) — CEO Notion; four years of PMF search, staying small, talent density
+- [Jackie Bavaro](guests/jackie-bavaro.md) — Former Head of PM Asana; three-part strategy framework, PM career
+- [Jackson Shuttleworth](guests/jackson-shuttleworth.md) — Group PM Duolingo; streaks as growth lever, 600+ experiments
+- [Jag Duggal](guests/jag-duggal.md) — CPO Nubank; fanatical customer love, Sean Ellis score as launch gate
+- [Jake Knapp & John Zeratsky](guests/jake-knapp-john-zeratsky.md) — Authors of Sprint and Make Time; Highlight/Laser/Energize/Reflect
+- [Janna Bastow](guests/janna-bastow.md) — CEO ProdPad; inventor of Now/Next/Later roadmap
+- [Jason Droege](guests/jason-droege.md) — CEO Scale AI, Uber Eats founder; AI training data, enterprise AI realism
+- [Jason Feifer](guests/jason-feifer.md) — EIC Entrepreneur Magazine; media as audience service, press frameworks
 
 ## Frameworks
 
@@ -175,6 +192,12 @@
 - [Genie Framework](frameworks/genie-framework.md) — Weaver's thought experiment for career fear
 - [Nine Lives Exercise](frameworks/nine-lives-exercise.md) — Weaver's 9 different 5-year life scenarios
 - [Open Coding Error Analysis](frameworks/open-coding-error-analysis.md) — Hamel/Shreya's AI error analysis methodology
+- [7 Powers](frameworks/7-powers.md) — Helmer's strategy framework for durable competitive advantage
+- [Dynamic Reteaming](frameworks/dynamic-reteaming.md) — Helfand's patterns for team change
+- [GIST Model](frameworks/gist-model.md) — Gilad's Goals/Ideas/Steps/Tasks meta-framework
+- [Confidence Meter](frameworks/confidence-meter.md) — Gilad's evidence calibration for ICE scoring
+- [Make Time Framework](frameworks/make-time-framework.md) — Knapp/Zeratsky's Highlight/Laser/Energize/Reflect
+- [Now/Next/Later](frameworks/now-next-later.md) — Bastow's roadmap format replacing Gantt timelines
 
 ## Concepts
 

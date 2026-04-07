@@ -185,6 +185,8 @@
   },
   "active": "a25b126cd8bbc468",
   "lastOpenFiles": [
+    "concepts/behavioral-activation.md",
+    "frameworks/dynamic-reteaming.md",
     "frameworks/7-powers.md",
     "frameworks/confidence-meter.md",
     "guests/inbal-s.md",
@@ -208,8 +210,6 @@
     "guests/hamilton-helmer.md",
     "guests/itamar-gilad.md",
     "concepts/curation-recommendation-generation.md",
-    "concepts/fault-tolerant-ui.md",
-    "frameworks/open-coding-error-analysis.md",
-    "frameworks/nine-lives-exercise.md"
+    "concepts/fault-tolerant-ui.md"
   ]
 }

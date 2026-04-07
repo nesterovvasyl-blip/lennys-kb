@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (113 unique / 303 total)
+## Episodes (131 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -117,6 +117,25 @@
 111. gustaf-alstromer
 112. gustav-söderström
 113. hamel-husain-shreya-shankar
+114. hamelshreya
+115. hamilton-helmer
+116. hari-srinivasan
+117. heidi-helfand
+118. hila-qu
+119. hilary-gridley
+120. howie-liu
+121. ian-mcallister
+122. inbal-s
+123. itamar-gilad
+124. ivan-zhao
+125. jackie-bavaro
+126. jackson-shuttleworth
+127. jag-duggal
+128. jake-knapp-john-zeratsky
+129. jake-knapp-john-zeratsky-20
+130. janna-bastow
+131. jason-droege
+132. jason-feifer
 
 ## Skipped
 
@@ -135,3 +154,5 @@
 - elena-verna-30 (exact duplicate of elena-verna-20, same YouTube video ID)
 - ethan-evans-20 (duplicate of ethan-evans, same YouTube URL and publish date)
 - fei-fei (duplicate of dr-fei-fei-li, same episode)
+- hamelshreya (duplicate of hamel-husain-shreya-shankar)
+- jake-knapp-john-zeratsky-20 (duplicate of jake-knapp-john-zeratsky, same video ID)

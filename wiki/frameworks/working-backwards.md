@@ -1,6 +1,6 @@
 ---
-author: Amazon (popularized); documented by Bill Carr; adapted by Anuj Rathi
-guests: [anuj-rathi, bill-carr]
+author: Amazon (popularized); documented by Bill Carr; adapted by Anuj Rathi and Ian McAllister
+guests: [anuj-rathi, bill-carr, ian-mcallister]
 ---
 
 # Working Backwards
@@ -20,9 +20,12 @@ The standard process:
 
 **[[bill-carr]]'s account** from building this process at Amazon adds important context: the PR/FAQ was developed in the 2003–2007 window when Amazon transitioned from startup to scaled enterprise. The PR/FAQ replaced lengthy planning documents and roadmap debates that were based on deeply flawed assumptions. Carr emphasizes that the artifact is deliberately written in *customer language*, not technical language — if you can't explain what you're building in a press release a customer would understand, you don't yet know what you're building. The companion FAQ forces you to anticipate both customer and internal objections before any engineering begins.
 
+**[[ian-mcallister]]'s key distinction** from his time at Amazon: working backwards is a **mindset**, not just a **mechanism**. The mechanism is the PR/FAQ artifact. The mindset is: start from the customer's desired outcome and work backwards to what to build — rather than starting from available technology and looking for a use case. He calls the reverse approach "technology in the pantry" thinking — you have a capability, you look for a problem it could solve. This is backwards. The PR/FAQ enforces the mindset for people who don't have it yet. For PMs who already think customer-first, the artifact is optional; the mindset is not.
+
 ## Sources
 - [[anuj-rathi]] — "Work backwards from an amazing future. Be paranoid about everything that could go wrong." (The full-stack PM)
 - [[bill-carr]] — "Start with what's best for the customer and come backward from there — that informs what work you have to do to create the solution." (Unpacking Amazon's unique ways of working)
+- [[ian-mcallister]] — "What separates good product managers from great ones" (working backwards as mindset vs. mechanism)
 
 ## See Also
 - [[anuj-rathi]]

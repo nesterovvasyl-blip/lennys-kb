@@ -246,3 +246,11 @@
 - Created: 19 guest pages (incl. separate hamel-husain + shreya-shankar), frameworks/crossing-the-chasm, frameworks/four-types-of-product-work, frameworks/core-brain-systems, frameworks/customer-journey-milestone-framework, frameworks/dhm-model, frameworks/genie-framework, frameworks/nine-lives-exercise, frameworks/open-coding-error-analysis, concepts/velocity, concepts/ai-training-data, concepts/creator-economy, concepts/customer-led-growth, concepts/fault-tolerant-ui, concepts/curation-recommendation-generation
 - Updated: concepts/jobs-to-be-done (Laudi), concepts/inner-scorecard-outer-scorecard (Weaver), concepts/ai-evals (Hamel/Shreya)
 - Topic tags deferred to synthesis pass
+
+## [2026-04-07] ingest | Batch 11 — hamelshreya through jason-feifer (2 parallel agents)
+
+- Processed: hamilton-helmer, hari-srinivasan, heidi-helfand, hila-qu, hilary-gridley, howie-liu, ian-mcallister, inbal-s, itamar-gilad, ivan-zhao, jackie-bavaro, jackson-shuttleworth, jag-duggal, jake-knapp-john-zeratsky, janna-bastow, jason-droege, jason-feifer (17 episodes)
+- Skipped: hamelshreya (duplicate of hamel-husain-shreya-shankar), interview-q-compilation (non-guest), jake-knapp-john-zeratsky-20 (duplicate)
+- Created: 17 guest pages, frameworks/7-powers, frameworks/dynamic-reteaming, frameworks/gist-model, frameworks/confidence-meter, frameworks/make-time-framework, frameworks/now-next-later
+- Updated: concepts/product-market-fit (Duggal, Zhao), concepts/experimentation-culture (Shuttleworth, Gilad)
+- Topic tags deferred to synthesis pass

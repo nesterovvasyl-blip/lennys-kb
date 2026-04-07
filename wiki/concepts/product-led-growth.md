@@ -1,6 +1,6 @@
 ---
 aliases: [PLG, product-led, self-serve growth]
-guests: [elena-verna, eeke-de-milliano, dylan-field]
+guests: [elena-verna, eeke-de-milliano, dylan-field, hila-qu]
 ---
 # Product-Led Growth
 
@@ -31,12 +31,38 @@ Sales-led growth (SLG) companies can add PLG elements, but they need to change h
 
 The transition from SLG to PLG is fundamentally a product accountability problem: product management in B2B has been "absolved" of revenue ownership for decades. Fixing this requires product teams to own self-serve conversion, not just feature delivery.
 
+### Hila Qu's PLG Operating System
+
+**[[hila-qu]]** (Head of Growth at GitLab and Acorns, Reforge EIR) offers the most operationally complete framework for companies adding PLG to an existing sales-led business.
+
+Her framing: **PLG is fundamentally DLG — data-led growth.** Giving away a free product without the infrastructure to understand usage is "giving away your product for nothing."
+
+**Five PLG prerequisites** before investing in PLG:
+1. A free vehicle (free plan, trial, open source, or realistic interactive demo)
+2. Short time to value — users reach the aha moment quickly
+3. Self-serve checkout flow
+4. Data foundation to understand usage
+5. Simple, comprehensible pricing
+
+**The PLG funnel** has four buckets — and the biggest opportunity is almost always activation:
+- **Acquisition** (PLG top of funnel)
+- **Activation** (helping users reach aha moments) ← start here
+- **Conversion** (self-serve checkout)
+- **Retention/Expansion** (upgrade tier, more seats, more consumption)
+
+**Finding the aha moment at GitLab**: Rather than guessing, Hila ran correlation analysis across ~10 high-value actions, checking which actions predicted higher 90-day conversion and 30-day retention. The winner: *two users using two or more features within 14 days.* Why two users? Captures both individual value and collaborative nature. Why 14 days? Long enough for a complex tool, short enough to be meaningful.
+
+**Two conversion paths**: (1) Self-serve checkout — user hits a paywall, pays by credit card. Works below ~$10K ACV. (2) PQL/PQA sales-assist — usage data signals high-intent accounts that fit ICP; sales reaches out with context. The enterprise customer who would've taken 6 months now shows up already warm.
+
+**Data infrastructure stack**: Segment (data hub) → Amplitude/Mixpanel/PostHog (product analytics) → Optimizely/Eppo (experimentation) → behavior-triggered lifecycle marketing → Clearbit/ZoomInfo (B2B enrichment) → Pocus/Endgame/Pace (PQL sales-assist layer). Before picking tools: do a data dictionary audit to ensure key actions are instrumented and consistently named.
+
 ## Sources
 
 - [[elena-verna]] — "The ultimate guide to product-led sales" (full PLG framework)
 - [[elena-verna]] — "10 growth tactics that never work" (when not to use PLG or growth teams)
 - [[eeke-de-milliano]] — "How to foster innovation and big thinking" (Stripe and Retool delayed PMs)
 - [[dylan-field]] — "Figma's CEO" (Twitter graph hack for early designer acquisition)
+- [[hila-qu]] — "The ultimate guide to adding a PLG motion" (PLG as DLG, five prerequisites, funnel audit, aha moment analysis)
 
 ## See Also
 
