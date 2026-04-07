@@ -142,11 +142,12 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**152 / 303 episodes ingested** (last updated: 2026-04-07)
+**170 / 303 episodes ingested** (last updated: 2026-04-07)
 
 Full list: `wiki/ingested.md`
 
-Next batch starts at: **judd-antin** (alphabetically after josh-miller)
+Next batch starts at: **madhavan-ramanujam** (alphabetically after lulu-cheng-meservey)
+Note: **julie-zhuo-20** (2024 Summit episode) still needs merge into wiki/guests/julie-zhuo.md
 
 ## Commands
 

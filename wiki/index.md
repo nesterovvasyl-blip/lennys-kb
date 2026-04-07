@@ -151,6 +151,24 @@
 - [Jonathan Lowenhar](guests/jonathan-lowenhar.md) — Executive coach; founder-to-CEO transition, Magic Box Paradigm
 - [Jonny Miller](guests/jonny-miller.md) — Wellbeing coach; nervous system, burnout, Feather-Brick-Dump Truck framework
 - [Josh Miller](guests/josh-miller.md) — CEO The Browser Company; Arc browser, competing with giants, building in public
+- [Judd Antin](guests/judd-antin.md) — Former Head of Research Airbnb/Meta; UX research reckoning, what research is actually for
+- [Jules Walter](guests/jules-walter.md) — Product Lead YouTube, ex-first-Growth-PM Slack; leveraging mentors, career growth systems
+- [Julia Schottenstein](guests/julia-schottenstein.md) — Product Lead dbt Labs, angel investor; M&A, competition, pricing, investing
+- [Julie Zhuo](guests/julie-zhuo.md) — Co-founder Sundial, ex-VP Design Facebook; managing AI like managing people, The Making of a Manager
+- [Karina Nguyen](guests/karina-nguyen.md) — AI Researcher at OpenAI; soft skills as future of work, human-AI collaboration
+- [Karri Saarinen](guests/karri-saarinen.md) — Co-founder/CEO Linear; building with taste and craft, Linear Method, profitable from day one
+- [Katie Dill](guests/katie-dill.md) — Head of Design Stripe, ex-Airbnb/Lyft; building beautiful products, design as craft
+- [Kayvon Beykpour](guests/kayvon-beykpour.md) — Former Head of Product Twitter; consumer product culture, what went wrong with Elon
+- [Keith Coleman & Jay Baxter](guests/keith-coleman-jay-baxter.md) — Community Notes team; bridging-based algorithm, crowdsourced fact-checking
+- [Keith Yandell](guests/keith-yandell.md) — Product leader; being a great PM outside your area of expertise
+- [Ken Norton](guests/ken-norton.md) — Executive coach, ex-Google PM; creative vs. reactive leadership
+- [Kenneth Berger](guests/kenneth-berger.md) — Executive coach, ex-Slack; asking for what you want, 3-step self-advocacy
+- [Kevin Aluwi](guests/kevin-aluwi.md) — Co-founder Gojek; building $10B super app, brand as trust, emerging markets
+- [Kevin Weil](guests/kevin-weil.md) — CPO OpenAI; model maximalism, AI product opportunities, what makes a great AI PM
+- [Kevin Yien](guests/kevin-yien.md) — PM at Stripe; exceptional PM skills, decision log, unsell email
+- [Kim Scott](guests/kim-scott.md) — Author Radical Candor; ruinous empathy, obnoxious aggression, giving feedback that helps
+- [Kunal Shah](guests/kunal-shah.md) — CEO CRED; delta-4 framework, second-order thinking, winning in India
+- [Lulu Cheng Meservey](guests/lulu-cheng-meservey.md) — Comms expert, ex-Substack; communicate like a founder, concentric circles framework
 
 ## Frameworks
 
@@ -224,6 +242,16 @@
 - [Radical Self-Inquiry](frameworks/radical-self-inquiry.md) — Jerry Colonna's 4-question coaching practice for confronting complicity in unwanted situations
 - [Seven Rules of Power](frameworks/seven-rules-of-power.md) — Pfeffer's playbook for acquiring and wielding power in organizations
 - [CEO Failure Modes](frameworks/ceo-failure-modes.md) — Lowenhar's taxonomy of dysfunctional CEO archetypes for founder-to-CEO transition
+- [Ask for What You Want](frameworks/ask-for-what-you-want.md) — Kenneth Berger's 3-step framework for self-advocacy at work
+- [Concentric Circles Comms](frameworks/concentric-circles-comms.md) — Lulu's sequencing framework: innermost stakeholders hear news first
+- [Creative vs. Reactive Leadership](frameworks/creative-vs-reactive-leadership.md) — Ken Norton's three reactive postures (victim, villain, helpless) vs. creative response
+- [Decision Log](frameworks/decision-log.md) — Kevin Yien's PM practice of writing down every decision and its reasoning for calibration
+- [Delta-4 Framework](frameworks/delta-4-framework.md) — Kunal Shah's model: value is created when efficiency delta exceeds switching cost
+- [Linear Method](frameworks/linear-method.md) — Karri Saarinen's opinionated software development methodology focused on craft and speed
+- [Macro-Middle-Micro Research](frameworks/macro-middle-micro-research.md) — Judd Antin's three research layers for product decisions
+- [Radical Candor](frameworks/radical-candor.md) — Kim Scott's 2×2 framework: care personally, challenge directly; ruinous empathy vs. obnoxious aggression
+- [Unsell Email](frameworks/unsell-email.md) — Kevin Yien's candidate filtering technique to test genuine motivation
+- [Walk the Store](frameworks/walk-the-store.md) — Katie Dill's practice of regularly using your product as a customer would
 - [Nervous System Toolkit](frameworks/nervous-system-toolkit.md) — Jonny Miller's body-based practices for managing anxiety, energy, and burnout
 
 ## Concepts
@@ -288,6 +316,10 @@
 - [Enterprise Sales Stages](concepts/enterprise-sales-stages.md) — Jen Abel's 6-stage enterprise deal framework: Intro→Demo→Proposal→Co-author→Procurement→Signature
 - [Social Radar](concepts/social-radar.md) — YC's term for a founder's ability to read people accurately and quickly
 - [Feelings Over Metrics](concepts/feelings-over-metrics.md) — Josh Miller's design philosophy: lead with emotional intent, use metrics as validation
+- [Community Notes](concepts/community-notes.md) — X/Twitter's bridging-based algorithm for crowdsourced fact-checking
+- [Model Maximalism](concepts/model-maximalism.md) — Kevin Weil's AI product strategy: default to most powerful model, then optimize
+- [Personal Operating Manual](concepts/personal-operating-manual.md) — "How to Work with Me" document that surfaces working preferences to teammates
+- [User-Centered Performance](concepts/user-centered-performance.md) — Judd Antin's framework for research that drives product outcomes
 
 ## Topics
 

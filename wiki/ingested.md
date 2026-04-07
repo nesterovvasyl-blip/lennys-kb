@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (152 unique / 303 total)
+## Episodes (170 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -157,6 +157,24 @@
 151. jonathan-lowenhar
 152. jonny-miller
 153. josh-miller
+154. judd-antin
+155. jules-walter
+156. julia-schottenstein
+157. julie-zhuo
+158. karina-nguyen
+159. karri-saarinen
+160. katie-dill
+161. kayvon-beykpour
+162. keith-coleman-jay-baxter
+163. keith-yandell
+164. ken-norton
+165. kenneth-berger
+166. kevin-aluwi
+167. kevin-weil
+168. kevin-yien
+169. kim-scott
+170. kunal-shah
+171. lulu-cheng-meservey
 
 ## Skipped
 
@@ -177,3 +195,5 @@
 - fei-fei (duplicate of dr-fei-fei-li, same episode)
 - hamelshreya (duplicate of hamel-husain-shreya-shankar)
 - jake-knapp-john-zeratsky-20 (duplicate of jake-knapp-john-zeratsky, same video ID)
+- julian-shapiro (mislabeled directory — transcript is Julie Zhuo's 2025 episode, same video_id c_w0LaFahxk)
+- julie-zhuo-20 (second Julie Zhuo episode — 2024 Summit; needs merge into julie-zhuo.md — TODO)

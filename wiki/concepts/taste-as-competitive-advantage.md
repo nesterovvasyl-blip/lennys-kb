@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [alex-komoroske, anton-osika]
+guests: [alex-komoroske, anton-osika, karri-saarinen, katie-dill]
 ---
 
 # Taste as Competitive Advantage
@@ -23,10 +23,18 @@ Anton Osika (Lovable) reinforces this from the builder's perspective: when AI ca
 
 **Broader context**: This connects to debates about whether AI will homogenize culture and products, or whether it will amplify human differentiation. The optimistic view (Komoroske's) is that taste becomes more, not less, important.
 
+**Taste as organizational design at Linear**
+Karri Saarinen (co-founder and CEO of Linear) operationalized taste at the hiring and product levels. Linear explicitly hires engineers who have product opinions and care about quality — not just technical execution — because he believes taste cannot be taught quickly and is the primary determinant of whether a team produces excellent or merely competent output. The Linear product has no A/B tests, no per-feature metrics goals — just judgment applied at every step. Karri's framing: "Any domain or industry, the more it matters, the more the design matters." As more alternatives compete in any category, taste becomes the tiebreaker. When there are ten issue trackers with similar features, the quality of the experience signals competence and care — and wins.
+
+**Taste as measurable business ROI at Stripe**
+Katie Dill (Head of Design at Stripe) provides the clearest quantitative case: quality improvements in checkout flows produced a 10.5% increase in business revenue for Stripe's customers. This reframes taste not as aesthetic indulgence but as a growth lever. Her companion finding: 99% of top e-commerce sites have errors in their checkout flows — suggesting that most companies haven't even achieved level-2 quality (error-free), let alone the higher levels where taste and beauty differentiate. Katie also argues that beauty enhances functionality — citing research that the built environment affects behavior (tweets from Grand Central are measurably more positive than tweets from Penn Station). The implication: taste-driven design isn't decorative; it shapes how users feel about and behave within products.
+
 ## Sources
 
 - [[alex-komoroske]] — "Taste is the most important thing" (product strategy / AI era episode)
 - [[anton-osika]] — "Being a generalist is much more important than it used to be... good taste, good intuition about your users" (Building Lovable)
+- [[karri-saarinen]] — "Any domain or industry, the more it matters, the more the design matters." (Inside Linear: Building with taste, craft, and focus, 2023-10-08)
+- [[katie-dill]] — "Quality is growth. If you think about how you can make your product easier to use and more understandable, that will of course drive people to use it, and use more of it." (Building beautiful products with Stripe's Head of Design, 2023-10-15)
 
 ## See Also
 

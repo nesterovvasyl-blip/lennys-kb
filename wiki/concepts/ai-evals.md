@@ -1,6 +1,6 @@
 ---
 aliases: [evals, evaluations, ai-evaluations, rlhf]
-guests: [brendan-foody, hamel-husain, shreya-shankar]
+guests: [brendan-foody, hamel-husain, shreya-shankar, karina-nguyen]
 ---
 
 # AI Evals
@@ -67,10 +67,27 @@ Foody's view on timeline: evals are evergreen. "So long as we want to improve mo
 
 Their course on Maven is the highest-grossing course on the platform. They also maintain a 160-page reference book and a trained AI bot that answers questions about evals methodology. See [[open-coding-error-analysis]] for the full step-by-step framework.
 
+### Evals as the New PRD: The Product Builder Perspective
+
+[[karina-nguyen]] (AI researcher at OpenAI, formerly Anthropic) provides a complementary inside-the-lab view of how evals function in product development — not just foundation model training, but building AI-native product features.
+
+At OpenAI, product development for AI features like Canvas and Tasks begins by defining what "correct behavior" looks like in concrete pass/fail terms. Product managers and model designers write spreadsheets with three columns: current behavior, ideal behavior, and why. This document serves simultaneously as an eval dataset and potential training data. The intuition: "If you can't define correct, you can't build or improve the feature."
+
+This is Karina's restatement of the PRD analogy from the product side: traditional product specs describe what to build; eval specs describe what good looks like. For AI features, the latter is more powerful — because once you can reliably measure "good," reinforcement learning can generate the behaviors without exhaustive human-written rules.
+
+Her process for new AI features:
+1. Identify 2-3 core behaviors you want the model to exhibit
+2. Use a capable model (like o1) to generate diverse synthetic conversations representing those behaviors
+3. Build deterministic evals to measure pass/fail on each behavior
+4. Launch, collect user feedback, iterate on both synthetic data and evals
+
+This process enabled Canvas to go from zero to shipped in 4-5 months. The feedback loop speed comes from synthetic data being cheap to generate and easy to adjust post-launch based on real user behavior.
+
 ## Sources
 - [[brendan-foody]] — "If the model is the product, then the eval is the PRD." (Why experts writing AI evals is creating the fastest-growing companies in history)
 - [[hamel-husain]] — "The first thing I do with every client is look at their traces. It always teaches us everything." (How to evaluate AI products, 2025)
 - [[shreya-shankar]] — "You can't dream up your failure modes before you see your data." (How to evaluate AI products, 2025)
+- [[karina-nguyen]] — "The cost of reasoning and intelligence is drastically going down." (OpenAI researcher on why soft skills are the future of work, 2025-02-09)
 
 ## See Also
 - [[brendan-foody]]

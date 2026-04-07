@@ -2,6 +2,41 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 8 — Episodes judd-antin through lulu-cheng-meservey
+
+### Processed Episodes (18 unique, 20 attempted)
+1. **Judd Antin** — "The UX Research reckoning is here"
+2. **Jules Walter** — "Leveraging mentors to uplevel your career"
+3. **Julia Schottenstein** — "M&A, competition, pricing, and investing"
+4. **Julie Zhuo** — "From managing people to managing AI: The leadership skills everyone needs now"
+5. **Karina Nguyen** — "OpenAI researcher on why soft skills are the future of work"
+6. **Karri Saarinen** — "Inside Linear: Building with taste, craft, and focus"
+7. **Katie Dill** — "Building beautiful products with Stripe's Head of Design"
+8. **Kayvon Beykpour** — "Twitter's former Head of Product on building consumer products, culture change, and what really happened with Elon"
+9. **Keith Coleman & Jay Baxter** — "How Community Notes works — and why it's the most important product in tech"
+10. **Keith Yandell** — "How to be a great PM — and lead teams outside your area of expertise"
+11. **Ken Norton** — "How to become a more creative leader (and less reactive)"
+12. **Kenneth Berger** — "How to ask for what you want (and get it)"
+13. **Kevin Aluwi** — "Lessons from building Gojek into a $10B super app"
+14. **Kevin Weil** — "OpenAI's CPO on the biggest AI product opportunities, model maximalism, and what makes a great AI PM"
+15. **Kevin Yien** — "How to become an exceptional PM — skills, habits, and systems"
+16. **Kim Scott** — "Radical Candor — How to be a kickass boss without losing your humanity"
+17. **Kunal Shah** — "Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more"
+18. **Lulu Cheng Meservey** — "Lulu Cheng Meservey — How to communicate like a founder"
+
+### Skipped
+- **julian-shapiro**: Mislabeled directory — transcript is Julie Zhuo's 2025 episode (video_id c_w0LaFahxk)
+- **julie-zhuo-20**: Second Julie Zhuo episode (2024 Summit); needs merge into julie-zhuo.md — deferred
+
+### Created
+- **Guests (18):** judd-antin, jules-walter, julia-schottenstein, julie-zhuo, karina-nguyen, karri-saarinen, katie-dill, kayvon-beykpour, keith-coleman-jay-baxter, keith-yandell, ken-norton, kenneth-berger, kevin-aluwi, kevin-weil, kevin-yien, kim-scott, kunal-shah, lulu-cheng-meservey
+- **Frameworks (11):** ask-for-what-you-want, concentric-circles-comms, creative-vs-reactive-leadership, decision-log, delta-4-framework, linear-method, macro-middle-micro-research, radical-candor, unsell-email, walk-the-store
+- **Concepts (5):** community-notes, friction-logging, model-maximalism, personal-operating-manual, user-centered-performance, opinionated-defaults
+
+### Updated
+- wiki/concepts/ai-evals.md — added Kevin Weil's CPO perspective
+- wiki/concepts/taste-as-competitive-advantage.md — added Karri Saarinen's perspective
+
 ## [2026-04-07] ingest | Batch 7 — Episodes jason-m-lemkin through josh-miller
 
 ### Processed Episodes (20 total)
