@@ -71,7 +71,7 @@ Process a batch of episodes. For each episode:
 - `wiki/log.md` — append ingest log entry
 - `wiki/ingested.md` — add episode to the list
 - `CLAUDE.md` — update the episode count and next-batch pointer
-- **Git commit and push** after each batch completes and shared files are updated
+- **Git commit, push, create PR, and merge** after each batch completes and shared files are updated
 
 **Multi-guest episodes**: Create one guest page per person. Shared ideas go on concept/framework pages with both guests cited.
 
