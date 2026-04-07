@@ -1,6 +1,6 @@
 ---
 aliases: [outcome-based-pricing, resolution-based-pricing, beautifully-simple-pricing]
-guests: [bret-taylor, brian-balfour, eoghan-mccabe]
+guests: [bret-taylor, brian-balfour, eoghan-mccabe, madhavan-ramanujam]
 ---
 
 # Outcomes-Based Pricing
@@ -50,10 +50,24 @@ McCabe is the most concrete implementation example in the canon. Intercom priced
 
 The implementation required courage because it meant cannibalizing their existing seat revenue. Intercom was betting that the volume of AI-resolved tickets at $0.99 would exceed the revenue from seats they'd replace. McCabe describes this as a "first-principles" decision — ignoring what the business currently earned and asking what was true about what customers actually wanted to pay for.
 
+### Madhavan Ramanujam: The AI Monetization Two-by-Two
+
+Madhavan frames outcome-based pricing using two axes — **Attribution** (can the AI prove it created value?) and **Autonomy** (does the AI act without human intervention?). The four quadrants:
+
+| | Low Autonomy (copilot) | High Autonomy (agentic) |
+|---|---|---|
+| **Low Attribution** | Seat/subscription | Usage-based |
+| **High Attribution** | Hybrid (seat + consumption) | **Outcome-based** ← the golden quadrant |
+
+The golden quadrant is where pricing power is highest — 25–50% of value created vs. 10–20% in classic SaaS. As of 2025, only ~5% of AI companies are in outcome-based pricing. Madhavan predicts this will grow to 25% within 3 years as more products achieve both high attribution and high autonomy. Companies like Sierra (Bret Taylor) and Intercom Fin are early leaders in this quadrant.
+
+His framing of why: "In the classic SaaS situation, if you can charge 10 to 20% of the value, that's great. But in AI, you can charge 25 to 50% because it is autonomous, you're doing it with the AI. There's no humans in the loop."
+
 ## Sources
 - [[bret-taylor]] — "The whole market is going to go towards outcomes-based pricing. It's just so obviously the correct way to build and sell software." (He saved OpenAI, invented the 'Like' button, and built Google Maps)
 - [[brian-balfour]] — "Competition erodes that away... unless there's something else that creates durable pricing power." (Why ChatGPT will be the next big growth channel)
 - [[eoghan-mccabe]] — "Fin at 99 cents per resolved ticket. That is the most honest pricing I've ever seen in software. You pay when it works." (The art of the AI pivot: Intercom's journey to becoming an AI-first company)
+- [[madhavan-ramanujam]] — "If you want to win in AI, figure out a way to get to that quadrant." (Pricing your AI product: Lessons from 400+ companies and 50 unicorns)
 
 ## See Also
 - [[bret-taylor]]

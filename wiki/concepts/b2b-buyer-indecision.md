@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [april-dunford]
+guests: [april-dunford, matt-dixon]
 ---
 
 # B2B Buyer Indecision
@@ -36,14 +36,36 @@ The key distinction: the champion can't make the deal happen alone, but everyone
 
 The champion's secondary job is: "how do I make a decision without getting fired?" Help them do that job.
 
+### Matt Dixon's Research Layer (The JOLT Effect)
+
+Dixon's data from 2.5 million recorded sales calls quantifies the indecision problem more precisely:
+
+- 40–60% of qualified pipeline ends in no decision
+- Of those no-decision losses, **44% are status quo preference** (customer genuinely prefers doing nothing) and **56% are fear of failure** (customer wants to buy but is paralyzed)
+- Dialing up FOMO on an already-indecisive buyer backfires **87% of the time** — it increases paralysis rather than urgency
+
+Dixon names the dominant fear: **FOMU** (Fear of Messing Up). Buyers aren't afraid of missing out on benefits — they're afraid of being personally blamed if the purchase fails. This is distinct from status quo bias and requires a different response.
+
+The three specific fears buyers experience:
+1. "Did I configure the solution correctly?"
+2. "Will I learn something damaging after signing?"
+3. "Will I actually deliver the ROI I promised my boss?"
+
+His [[jolt-method]] framework directly addresses these fears through: judging indecision level, offering a recommendation (reducing decision burden), limiting exploration (stopping endless research), and taking risk off the table.
+
 ## Sources
 
 - [[april-dunford]] — "40 to 60% of B2B purchase processes end in no decision. The majority couldn't figure out how to make a choice confidently." (Sales Pitch)
 - [[april-dunford]] — "If a customer is indecisive, throwing FOMO into the mix makes it worse. They're already stressed out and you're just adding more stress." (Sales Pitch)
 - [[april-dunford]] — "Customers will come to us having Googled around, but they don't have a clear picture of the market. What are the different approaches? What should my purchase criteria be?" (Sales Pitch)
+- [[matt-dixon]] — "40–60% of qualified pipeline ends in no decision. Of those losses, 56% are buyers who want to buy but are paralyzed by fear of making the wrong choice." (2.5M sales conversations research)
+- [[matt-dixon]] — "Dialing up the FOMO backfires 87% of the time. They're not afraid of missing out — they're afraid of messing up." (The JOLT Effect)
 
 ## See Also
 
 - [[april-dunford]]
+- [[matt-dixon]]
+- [[jolt-method]]
+- [[challenger-sale-framework]]
 - [[sales-pitch-framework]]
 - [[storytelling-and-pitching]]
