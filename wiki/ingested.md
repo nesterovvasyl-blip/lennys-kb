@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (131 unique / 303 total)
+## Episodes (132 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -136,6 +136,7 @@
 130. janna-bastow
 131. jason-droege
 132. jason-feifer
+133. jason-fried
 
 ## Skipped
 
