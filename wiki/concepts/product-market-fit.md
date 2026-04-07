@@ -1,6 +1,6 @@
 ---
 aliases: [PMF]
-guests: [adam-grenier, adriel-frederick]
+guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao]
 ---
 
 # Product-Market Fit
@@ -17,15 +17,29 @@ Product-market fit (PMF) is the foundational condition for sustainable growth: y
 
 - **Adriel Frederick** highlights the "crossing the chasm" dynamic: early adopters differ drastically from mainstream users in motivation, tolerance for rough edges, and how they discover products. PMF with early adopters does not automatically transfer to the mainstream. Teams must re-validate fit as they expand to new segments.
 
+**Measuring PMF — the Sean Ellis score:**
+
+**Jag Duggal** describes Nubank's operationalization of the Sean Ellis methodology as the most rigorous PMF measurement system he's encountered. The question: "How disappointed would you be if this product went away?" (very disappointed / somewhat disappointed / not disappointed). The threshold Sean Ellis established: 40% "very disappointed" = PMF. Nubank raises this to 50% for their Brazilian market, adjusted for cultural optimism. Crucially, Nubank uses this score as a *gate before scaling*, not just a post-launch measurement — products that don't hit the threshold are iterated, not scaled regardless of internal pressure.
+
+Duggal's additional technique: when aggregate Sean Ellis scores are mediocre (e.g., 40%), find the *bullseye cohort* — the small segment scoring 60–70%+ — and understand what defines them. The product roadmap then systematically makes the full customer base look more like that cohort.
+
+**PMF as a gradual ramp, not a milestone:**
+
+**Ivan Zhao** (Notion) describes PMF as something that "never hit us as a binary state." After three to four "lost years," the signs that things were working were gradual: revenue starting, investors knocking, cold outreach from investors. The more distinctive signal: when an investor told him he was taking meetings purely for external validation, not because he needed money. Going back to full building mode after that realization marked the real transition. Zhao's lesson: the absence of clear PMF signals doesn't mean the product is worthless — it may mean the form factor is wrong while the underlying vision is right.
+
 **Practical implications:**
 - Continuously resurvey customers after major market events
 - Treat each new user segment as a separate PMF question
 - Watch retention and activation metrics for early signs of fit erosion
+- Use the Sean Ellis score as a launch gate, not just measurement; define your threshold based on your specific customer base
+- Find the bullseye cohort (highest PMF segment) and design toward them
 
 ## Sources
 
 - [[adam-grenier]] — "Assume you've lost PMF when economic conditions shift — the customer base has changed fundamentally"
 - [[adriel-frederick]] — "Early adopters differ drastically from mainstream users" (crossing the chasm framing)
+- [[jag-duggal]] — "Sean Ellis score as a launch gate; bullseye cohort methodology at Nubank"
+- [[ivan-zhao]] — "PMF as a gradual ramp; hiding vision behind accessible form factor"
 
 ## See Also
 

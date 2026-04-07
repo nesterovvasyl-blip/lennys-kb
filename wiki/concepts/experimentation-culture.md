@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [albert-cheng, adam-fishman]
+guests: [albert-cheng, adam-fishman, jackson-shuttleworth, itamar-gilad]
 ---
 
 # Experimentation Culture

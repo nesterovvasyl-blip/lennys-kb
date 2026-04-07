@@ -71,6 +71,7 @@ Process a batch of episodes. For each episode:
 - `wiki/log.md` — append ingest log entry
 - `wiki/ingested.md` — add episode to the list
 - `CLAUDE.md` — update the episode count and next-batch pointer
+- **Git commit and push** after each batch completes and shared files are updated
 
 **Multi-guest episodes**: Create one guest page per person. Shared ideas go on concept/framework pages with both guests cited.
 
@@ -141,11 +142,11 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**95 / 303 episodes ingested** (last updated: 2026-04-07)
+**113 / 303 episodes ingested** (last updated: 2026-04-07)
 
 Full list: `wiki/ingested.md`
 
-Next batch starts at: **evan-lapointe** (alphabetically after ethan-smith)
+Next batch starts at: **hamelshreya** (alphabetically after hamel-husain-shreya-shankar)
 
 ## Commands
 

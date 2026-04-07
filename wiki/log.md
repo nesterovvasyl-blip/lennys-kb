@@ -237,3 +237,12 @@
 - Created: 14 guest pages, concepts/product-led-growth, concepts/product-led-sales, concepts/product-led-seo, concepts/rl-environments, concepts/answer-engine-optimization, concepts/talent-density, frameworks/product-vision-framework, frameworks/minimum-viable-process, frameworks/magic-loop, frameworks/fuel-vs-engine, frameworks/lean-startup-principles
 - Updated: concepts/founder-mode (McCabe), concepts/outcomes-based-pricing (McCabe)
 - Topic tags deferred to synthesis pass (new process)
+
+## [2026-04-07] ingest | Batch 10 — evan-lapointe through hamel-husain-shreya-shankar (2 parallel agents)
+
+- Processed: evan-lapointe, fareed-mosavat, farhan-thawar, garrett-lord, gaurav-misra, geoff-charles, geoffrey-moore, gergely, gia-laudi, gibson-biddle, gina-gotthilf, gokul-rajaram, graham-weaver, grant-lee, guillermo-rauch, gustaf-alstromer, gustav-söderström, hamel-husain-shreya-shankar (18 episodes)
+- Skipped: failure (compilation), fei-fei (duplicate of dr-fei-fei-li)
+- Note: gaurav-misra raw frontmatter references wrong guest (Lauryn Isford); gibson-biddle raw frontmatter references Bob Baxley — both processed correctly from transcript content
+- Created: 19 guest pages (incl. separate hamel-husain + shreya-shankar), frameworks/crossing-the-chasm, frameworks/four-types-of-product-work, frameworks/core-brain-systems, frameworks/customer-journey-milestone-framework, frameworks/dhm-model, frameworks/genie-framework, frameworks/nine-lives-exercise, frameworks/open-coding-error-analysis, concepts/velocity, concepts/ai-training-data, concepts/creator-economy, concepts/customer-led-growth, concepts/fault-tolerant-ui, concepts/curation-recommendation-generation
+- Updated: concepts/jobs-to-be-done (Laudi), concepts/inner-scorecard-outer-scorecard (Weaver), concepts/ai-evals (Hamel/Shreya)
+- Topic tags deferred to synthesis pass

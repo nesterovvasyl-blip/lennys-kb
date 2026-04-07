@@ -1,6 +1,6 @@
 ---
 aliases: [evals, evaluations, ai-evaluations, rlhf]
-guests: [brendan-foody]
+guests: [brendan-foody, hamel-husain, shreya-shankar]
 ---
 
 # AI Evals
@@ -49,10 +49,33 @@ An architecture firm needs to eval how well AI produces architecture diagrams. A
 
 Foody's view on timeline: evals are evergreen. "So long as we want to improve models, we'll need experts to create evals for them and to create the post-training data for them to learn those capabilities." Even if we reach a point where many workflows are automated, the frontier of what models can't yet do will continue to expand, and those new domains will require new evals.
 
+### The Practitioner Methodology: Open Coding → Axial Coding → LLM Judges
+
+[[hamel-husain]] and [[shreya-shankar]] bring a complementary perspective focused on product-level evals for LLM applications — not foundation model training, but the ongoing measurement and improvement of deployed AI products. Their methodology is grounded in social science qualitative research:
+
+**Error analysis first**: Before writing any automated evaluator, manually review 50-100 real production traces. Write a plain-language "open code" note for each (e.g., "Did not confirm call transfer before executing it"). This step — which most teams skip — reveals what's actually failing, which is often different from what you imagined would fail. This is what Shreya calls "criteria drift": your definition of good output changes as you see real failure modes you never anticipated.
+
+**Axial coding**: After collecting open codes, use an LLM to cluster them into categories (axial codes). Iterate until the categories are specific and actionable. Use a "none of the above" option to detect gaps in your taxonomy.
+
+**Theoretical saturation**: Stop reviewing traces when you're no longer discovering new types of failures. This is the principled stopping rule from qualitative social science. Most products saturate between 40-150 traces.
+
+**Binary LLM-as-judge**: For failure modes that can't be caught by code checks, build a binary (pass/fail) LLM evaluator. Validate it against your human annotations using a confusion matrix. Reject evaluators that only report aggregate agreement; check false positive and false negative rates separately.
+
+**Continuous monitoring**: Run LLM-as-judge evaluators continuously on sampled production traces (e.g., 1000 per day). This gives you a real-time quality dashboard, not just a pre-release gate.
+
+**The meta-point**: Hamel and Shreya argue that evals are fundamentally just data science applied to AI products — not a new discipline. Error analysis, A/B tests, user feedback, LLM judges, dogfooding — all are tools in the same analytical toolkit. The "evals vs. vibes" debate reflects vocabulary confusion, not a real disagreement about the underlying practice of rigorous measurement.
+
+Their course on Maven is the highest-grossing course on the platform. They also maintain a 160-page reference book and a trained AI bot that answers questions about evals methodology. See [[open-coding-error-analysis]] for the full step-by-step framework.
+
 ## Sources
 - [[brendan-foody]] — "If the model is the product, then the eval is the PRD." (Why experts writing AI evals is creating the fastest-growing companies in history)
+- [[hamel-husain]] — "The first thing I do with every client is look at their traces. It always teaches us everything." (How to evaluate AI products, 2025)
+- [[shreya-shankar]] — "You can't dream up your failure modes before you see your data." (How to evaluate AI products, 2025)
 
 ## See Also
 - [[brendan-foody]]
+- [[hamel-husain]]
+- [[shreya-shankar]]
+- [[open-coding-error-analysis]]
 - [[ai-products]]
 - [[outcomes-based-pricing]]

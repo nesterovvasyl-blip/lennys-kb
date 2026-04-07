@@ -95,6 +95,25 @@
 - [Eric Simons](guests/eric-simons.md) — StackBlitz/Bolt CEO; WebContainer, 67% non-developer users, Sonnet as inflection
 - [Ethan Evans](guests/ethan-evans.md) — Former Amazon VP; The Magic Loop, senior manager plateau, ownership principle
 - [Ethan Smith](guests/ethan-smith.md) — Graphite CEO; AEO guide, Webflow 6X conversion from LLMs, citation optimization
+- [Evan LaPointe](guests/evan-lapointe.md) — CORE Sciences founder; neuroscience-based frameworks for team collaboration and decision-making
+- [Fareed Mosavat](guests/fareed-mosavat.md) — CDO Reforge; learning loop, product leader canyon, four types of product work
+- [Farhan Thawar](guests/farhan-thawar.md) — VP Engineering Shopify; intensity over hours, pair programming, Meetingageddon
+- [Garrett Lord](guests/garrett-lord.md) — CEO Handshake; AI training data business $0→$50M ARR in 4 months
+- [Gaurav Misra](guests/gaurav-misra.md) — Co-founder/CEO Captions; one marketable feature per engineer per week, dual roadmap
+- [Geoff Charles](guests/geoff-charles.md) — VP Product Ramp; velocity culture, single-threaded teams, context-over-control
+- [Geoffrey Moore](guests/geoffrey-moore.md) — Author of Crossing the Chasm; technology adoption lifecycle, four GTM playbooks
+- [Gergely Orosz](guests/gergely.md) — The Pragmatic Engineer; creator economy path, paid newsletter mechanics
+- [Gia Laudi](guests/gia-laudi.md) — Co-founder Forget The Funnel; customer-led growth, JTBD for growth, 6-milestone journey
+- [Gibson Biddle](guests/gibson-biddle.md) — Former Netflix VP Product; DHM model, JAM framework, A/B testing at scale
+- [Gina Gotthilf](guests/gina-gotthilf.md) — Former VP Growth Duolingo; organic-first growth, brand as growth lever, meme strategy
+- [Gokul Rajaram](guests/gokul-rajaram.md) — Product veteran Google/Facebook/Square/DoorDash; PM hiring, hiring lieutenants not generals
+- [Graham Weaver](guests/graham-weaver.md) — Alpine Investors founder; Genie Framework, Nine Lives Exercise, "worse first" principle
+- [Grant Lee](guests/grant-lee.md) — Co-founder Gamma ($100M ARR); word-of-mouth as PMF signal, first-30-seconds magic moment
+- [Guillermo Rauch](guests/guillermo-rauch.md) — Founder/CEO Vercel; AI as software, TAM expansion, skills for AI era
+- [Gustaf Alstromer](guests/gustaf-alstromer.md) — YC Group Partner, ex-Airbnb Growth; talk to customers, technical co-founders
+- [Gustav Söderström](guests/gustav-söderström.md) — Co-President/CPTO Spotify; three eras of internet products, fault-tolerant UI, squad model
+- [Hamel Husain](guests/hamel-husain.md) — AI consultant; manual trace review, open coding methodology, LLM-as-judge
+- [Shreya Shankar](guests/shreya-shankar.md) — PhD researcher; criteria drift, axial coding, evals as continuous monitoring
 
 ## Frameworks
 
@@ -148,6 +167,14 @@
 - [Magic Loop](frameworks/magic-loop.md) — Ethan Evans' 5-step career acceleration framework
 - [Fuel vs. Engine](frameworks/fuel-vs-engine.md) — Kramer's marketing strategy framework
 - [Lean Startup Principles](frameworks/lean-startup-principles.md) — Ries' MVP, sticky vs. viral engines, validated learning
+- [Crossing the Chasm](frameworks/crossing-the-chasm.md) — Moore's 4 GTM phases, beachhead formula, bowling pin expansion
+- [Four Types of Product Work](frameworks/four-types-of-product-work.md) — Mosavat/Winters: feature, growth, PMF expansion, scaling
+- [CORE Brain Systems](frameworks/core-brain-systems.md) — LaPointe's safety/reward/purpose systems, Big-5 overlay
+- [Customer Journey Milestone](frameworks/customer-journey-milestone-framework.md) — Laudi's 6-stage JTBD journey map
+- [DHM Model](frameworks/dhm-model.md) — Biddle's Delight/Hard-to-copy/Margin-enhancing strategy filter
+- [Genie Framework](frameworks/genie-framework.md) — Weaver's thought experiment for career fear
+- [Nine Lives Exercise](frameworks/nine-lives-exercise.md) — Weaver's 9 different 5-year life scenarios
+- [Open Coding Error Analysis](frameworks/open-coding-error-analysis.md) — Hamel/Shreya's AI error analysis methodology
 
 ## Concepts
 
@@ -200,6 +227,12 @@
 - [RL Environments](concepts/rl-environments.md) — Reinforcement learning environments as AI post-training stage
 - [Answer Engine Optimization](concepts/answer-engine-optimization.md) — AEO: optimizing for LLM citations
 - [Talent Density](concepts/talent-density.md) — Netflix's talent density and Keeper Test
+- [Velocity](concepts/velocity.md) — Cross-guest synthesis on shipping speed (Charles, Thawar, Misra)
+- [AI Training Data](concepts/ai-training-data.md) — Post-training, RLHF, SFT, expert supply (Lord)
+- [Creator Economy](concepts/creator-economy.md) — Newsletters, advisory path, trade-offs (Gergely, Mosavat)
+- [Customer-Led Growth](concepts/customer-led-growth.md) — Laudi's methodology replacing guesswork with best-customer research
+- [Fault-Tolerant UI](concepts/fault-tolerant-ui.md) — Söderström's principle: UI must match actual model accuracy
+- [Curation → Recommendation → Generation](concepts/curation-recommendation-generation.md) — Söderström's three eras of internet products
 
 ## Topics
 

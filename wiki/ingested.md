@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (95 unique / 303 total)
+## Episodes (113 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -99,6 +99,24 @@
 93. ethan-evans
 94. ethan-evans-20
 95. ethan-smith
+96. evan-lapointe
+97. fareed-mosavat
+98. farhan-thawar
+99. garrett-lord
+100. gaurav-misra
+101. geoff-charles
+102. geoffrey-moore
+103. gergely
+104. gia-laudi
+105. gibson-biddle
+106. gina-gotthilf
+107. gokul-rajaram
+108. graham-weaver
+109. grant-lee
+110. guillermo-rauch
+111. gustaf-alstromer
+112. gustav-söderström
+113. hamel-husain-shreya-shankar
 
 ## Skipped
 
@@ -111,7 +129,9 @@
 - interview-q-compilation (compilation, not a guest interview)
 - eoy-review (end-of-year review, not a guest interview)
 - casey-winters (99-second promo clip, not a full episode)
+- failure (compilation episode, not a guest interview)
 
 ### Duplicate transcripts
 - elena-verna-30 (exact duplicate of elena-verna-20, same YouTube video ID)
 - ethan-evans-20 (duplicate of ethan-evans, same YouTube URL and publish date)
+- fei-fei (duplicate of dr-fei-fei-li, same episode)

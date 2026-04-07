@@ -1,6 +1,6 @@
 ---
 aliases: [JTBD, jobs-to-be-done-framework]
-guests: [bob-moesta, bob-moesta-20]
+guests: [bob-moesta, bob-moesta-20, gia-laudi]
 ---
 
 # Jobs-to-be-Done
@@ -38,13 +38,18 @@ Movement happens only when F1 + F2 > F3 + F4. Adding features typically addresse
 
 **When JTBD doesn't apply**: When customers have no real choice (health insurance through an employer), when the behavior is so habitual it doesn't register (chewing gum), or when you need a company to tell you what jobs they want you to solve (supply-side driven markets). In these cases, ethnography or small-sample prototype testing works better.
 
+**JTBD applied to growth strategy ([[gia-laudi]])**: Gia Laudi and Forget The Funnel apply JTBD as the foundational layer of [[customer-led-growth]]. Before running any growth experiments, her process starts with interviewing best customers to discover the "struggling moment" — the specific context that made them seek a solution. The SparkToro case study illustrates this: the core job wasn't "audience research tool" (generic) but "understand where my audience actually spends time so I can allocate marketing budget with confidence" (specific). Once you have the specific job, messaging, onboarding, and prioritization all become clearer. Gia's framing: JTBD answers the "why did they hire us?" question that unlocks everything downstream.
+
 ## Sources
 - [[bob-moesta]] — "People hire products. They don't buy them. They hire them to make progress in their life." (How to find work you love, 2025)
 - [[bob-moesta-20]] — "The causation is what's critical — not anyone push, but the set of pushes that come together and give you enough energy to say, today's the day." (The ultimate guide to JTBD, 2023)
+- [[gia-laudi]] — "You need to understand the struggling moment that caused your best customer to look for a solution." (Stop guessing, start growing, 2022)
 
 ## See Also
 - [[bob-moesta]]
 - [[bob-moesta-20]]
+- [[gia-laudi]]
+- [[customer-led-growth]]
 - [[b2b-buyer-indecision]]
 - [[product-market-fit]]
 - [[career-strategy]]
