@@ -1,6 +1,6 @@
 ---
 aliases: [network-effect, direct-network-effects, cross-side-network-effects, data-network-effects]
-guests: [casey-winters_]
+guests: [casey-winters_, oji-udezue]
 ---
 
 # Network Effects
@@ -21,8 +21,15 @@ Network effects are the most powerful form of competitive moat in consumer tech.
 
 **Marketplace evolution**: Casey's insight for marketplace founders: you not only *can* evolve your network effect strategy as you scale — you *must*. Every marketplace that reaches scale needs to layer on cross-side mechanisms (advertiser models, subscription tiers) and data NEs (better matching, personalization).
 
+### Oji Udezue ([[oji-udezue]]): Network Effects as the Ultimate Moat
+
+Oji uses Twitter as the definitive case study in network effects durability. Despite Elon Musk's layoffs, brand damage, and management chaos, Twitter survived because network effects — not brand, staff, or management quality — are the real product. "It's really hard to kill a network effects business." The last telegram was sent in 2016, over 100 years after invention; it had to be manually shut down. Friendster still technically exists.
+
+His definition: network effects occur when passive members gain value from other people joining, without any effort on their own part. Critical mass is the threshold concept — once hit, the network becomes self-reinforcing. The distinction: you can kill the *business* of a network effects company (by attacking its revenue side, as advertisers leaving Twitter illustrates) while the *product* (the user network) survives.
+
 ## Sources
 - [[casey-winters_]] — "How to sell your ideas and rise within your company | Casey Winters, Eventbrite"
+- [[oji-udezue]] — "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
 
 ## See Also
 - [[growth]]

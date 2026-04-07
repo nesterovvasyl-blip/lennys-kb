@@ -2,6 +2,33 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 11 — Episodes nikita-bier through paul-adams
+
+### Processed Episodes (9 unique, 10 attempted)
+1. **Nikita Miller** — "Driving alignment within teams, work-life balance, and the changing PM landscape"
+2. **Nilan Peiris** — "How to drive word of mouth"
+3. **Nir Eyal** — "Strategies for becoming less distractible and improving focus"
+4. **Noah Weiss** — "The 10 traits of great PMs, AI, and Slack's approach to product"
+5. **Noam Lovinsky** — "The happiness and pain of product management"
+6. **Oji Udezue** — "Picking sharp problems, increasing virality, and unique product frameworks"
+7. **Paige Costello** — "How to ask the right questions, project confidence, and win over skeptics"
+8. **Patrick Campbell** — "10 lessons on bootstrapping a $200m business"
+9. **Paul Adams** — "What AI means for your product strategy"
+
+### Skipped
+- **nikita-bier**: Mislabeled duplicate — same video_id (4PhfAbRQpbI) as nikita-miller
+
+### Created
+- **Guests (9):** nikita-miller, nilan-peiris, nir-eyal, noah-weiss, noam-lovinsky, oji-udezue, paige-costello, patrick-campbell, paul-adams
+- **Frameworks (5):** complaint-storms, differentiation-vs-table-stakes, hooked-model, indistractable-framework, tempo-framework, workflow-quadrant, zone-of-benefit
+- **Concepts (4):** forest-time, nps-as-growth-lever, tactical-vs-strategic-retention, word-of-mouth-growth
+
+### Updated
+- wiki/concepts/velocity.md — Nikita Miller's velocity/output perspective
+- wiki/concepts/product-market-fit.md — Noah Weiss's S-curve PMF framing
+- wiki/concepts/word-of-mouth-growth.md — Noah Weiss's Slack perspective merged in
+- wiki/concepts/conscious-leadership.md, freemium-subscription.md, jobs-to-be-done.md, network-effects.md — additional perspectives added
+
 ## [2026-04-07] ingest | Batch 10 — Episodes nabeel-s-qureshi through nikhyl-singhal
 
 ### Processed Episodes (9 unique, 10 attempted)

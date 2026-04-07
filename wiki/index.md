@@ -195,6 +195,15 @@
 - [Nickey Skarstad](guests/nickey-skarstad.md) — Director of Product Duolingo (ex-Airbnb, Etsy, Shopify); second-order thinking, product quality operationalization
 - [Nicole Forsgren](guests/nicole-forsgren.md) — Sr. Director Google, ex-GitHub VP Research; creator of DORA and SPACE frameworks, AI developer productivity measurement
 - [Nikhyl Singhal](guests/nikhyl-singhal.md) — VP Product Meta, founder The Skip CPO Community; shadows of superpowers, job-after-next career framework
+- [Nikita Miller](guests/nikita-miller.md) — SVP Product at The Knot Worldwide; cross-functional R&R contracts, outcomes vs. output, work-life balance frameworks
+- [Nilan Peiris](guests/nilan-peiris.md) — CPO of Wise; 70% word-of-mouth acquisition via NPS-as-growth-lever and 10x product improvements
+- [Nir Eyal](guests/nir-eyal.md) — Author of Hooked and Indistractable; Hooked Model for habit formation, Indistractable Framework for focus
+- [Noah Weiss](guests/noah-weiss.md) — CPO of Slack; 10 traits of great PMs, Complaint-Storms ritual, Successful Teams metric
+- [Noam Lovinsky](guests/noam-lovinsky.md) — CPO of Grammarly; 0-to-1 incubation, consumer subscription turnaround, product strategy
+- [Oji Udezue](guests/oji-udezue.md) — CPO of Typeform; Workflow Quadrant for B2B unicorns, Zone of Benefit (3x threshold), Forest Time
+- [Paige Costello](guests/paige-costello.md) — Head of Core Product at Asana; coaching, career development, winning over skeptics
+- [Patrick Campbell](guests/patrick-campbell.md) — Founder ProfitWell; tactical vs. strategic retention, Tempo Framework, bootstrapping to $200M
+- [Paul Adams](guests/paul-adams.md) — CPO of Intercom; differentiation vs. table stakes, AI product strategy, Jobs to Be Done
 
 ## Frameworks
 
@@ -293,6 +302,13 @@
 - [Forward Deployed Engineer (FDE)](frameworks/forward-deployed-engineer.md) — Palantir's model of embedding engineers at customer sites to solve real problems in real time
 - [Maximally Accelerated](frameworks/maximally-accelerated.md) — Nick Turley's forcing function: if this were the most important thing, what would you do to truly maximize speed?
 - [What Is / What Could Be](frameworks/what-is-what-could-be.md) — Nancy Duarte's alternating presentation structure between current reality and possible future
+- [Complaint-Storms](frameworks/complaint-storms.md) — Noah Weiss / Slack's ritual of cataloging competitor flaws to regain critical eyes, feeding Customer Love Sprints
+- [Differentiation vs. Table Stakes](frameworks/differentiation-vs-table-stakes.md) — Paul Adams' framework: every roadmap feature either attracts customers or removes blockers; knowing which determines whether your product can win
+- [Hooked Model](frameworks/hooked-model.md) — Nir Eyal's Trigger→Action→Variable Reward→Investment loop for building habit-forming products
+- [Indistractable Framework](frameworks/indistractable-framework.md) — Nir Eyal's four-step system: master internal triggers, time-box calendar, hack external triggers, make pacts
+- [Tempo Framework](frameworks/tempo-framework.md) — Patrick Campbell's principle: define what "good" shipping frequency looks like before setting org design
+- [Workflow Quadrant](frameworks/workflow-quadrant.md) — Oji Udezue's 2×2 mapping B2B SaaS opportunities by workflow breadth and frequency to predict unicorn potential
+- [Zone of Benefit](frameworks/zone-of-benefit.md) — Oji Udezue's 3x threshold: people only switch products when the new solution is at least 3x better at what they care most about
 
 ## Concepts
 
@@ -367,6 +383,11 @@
 - [Ex-Growth Companies](concepts/ex-growth-companies.md) — ZIRP-era startups with high valuations but no true PMF; career trap warning from Nikhyl Singhal
 - [Second-Order Thinking](concepts/second-order-thinking.md) — Mapping how today's product decisions cascade into future system states; from Nickey Skarstad
 - [Shadows of Superpowers](concepts/shadows-of-superpowers.md) — Every professional strength casts a shadow; early-career drivers become development areas at the next level
+- [Forest Time](concepts/forest-time.md) — Oji Udezue's practice: scheduled time to zoom out from execution for strategic perspective before costly decisions
+- [NPS as Growth Lever](concepts/nps-as-growth-lever.md) — Wise's discovery that each NPS band doubles referral rate; NPS improvement compounds as viral growth investment
+- [Tactical vs. Strategic Retention](concepts/tactical-vs-strategic-retention.md) — Patrick Campbell: churn has two root causes (product/fit vs. payment failures); most teams only fix one
+- [Word-of-Mouth Growth](concepts/word-of-mouth-growth.md) — How Wise and Slack built products that spread through referral and authentic advocacy
+- [Product-Market-Story Fit](concepts/product-market-story-fit.md) — Paul Adams: great products in great markets still fail without the right story explaining why they're different and better
 
 ## Topics
 

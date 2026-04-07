@@ -1,7 +1,6 @@
 ---
 aliases: [freemium, freemium-model, free-tier]
-guests: [albert-cheng]
-stub: true
+guests: [albert-cheng, patrick-campbell, oji-udezue]
 ---
 
 # Freemium / Subscription
@@ -21,11 +20,16 @@ The core design tension in freemium: the free tier must be valuable enough to at
 
 Freemium works best when the product delivers immediate, perceptible value and the premium layer's benefit is qualitative and obvious at the moment of cap.
 
-*This is a stub page — will grow as more episodes are ingested.*
+**Patrick Campbell's data on freemium vs. other acquisition methods** ([[patrick-campbell]]): Customers who convert from freemium have 10–20% higher retention than those converted from free trial or traditional sales. NPS for freemium-converted customers is roughly double. The explanation: freemium customers convert on their own timeline, not an artificial one created by a trial expiration or a salesperson. They've already internalized the product's value before paying. CAC has risen across SaaS channels, but freemium CAC has risen less than direct sales or paid channels — making it a relative bargain for middle-of-funnel conversion.
+
+**Oji Udezue on freemium design** ([[oji-udezue]]): The critical design question is mandatory vs. optional onboarding. At Calendly, the mandatory onboarding (connect your calendar, set availability defaults) was short (two steps) and non-optional because those two actions set up all future success. Everything else — advanced configuration, templates, integrations — was optional and available for self-serve discovery. Splitting onboarding this way dramatically improves activation without overwhelming new users.
 
 ## Sources
 - [[albert-cheng]] — referenced in context of Grammarly's upgrade rate improvements (Chess.com / Grammarly growth episode)
+- [[patrick-campbell]] — "10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell)"
+- [[oji-udezue]] — "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
 
 ## See Also
 - [[reverse-free-trial]]
 - [[albert-cheng]]
+- [[product-led-growth]]

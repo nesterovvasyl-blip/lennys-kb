@@ -1,6 +1,6 @@
 ---
 aliases: [PMF]
-guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao]
+guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss]
 ---
 
 # Product-Market Fit
@@ -27,6 +27,12 @@ Duggal's additional technique: when aggregate Sean Ellis scores are mediocre (e.
 
 **Ivan Zhao** (Notion) describes PMF as something that "never hit us as a binary state." After three to four "lost years," the signs that things were working were gradual: revenue starting, investors knocking, cold outreach from investors. The more distinctive signal: when an investor told him he was taking meetings purely for external validation, not because he needed money. Going back to full building mode after that realization marked the real transition. Zhao's lesson: the absence of clear PMF signals doesn't mean the product is worthless — it may mean the form factor is wrong while the underlying vision is right.
 
+**PMF as stacked S-curves:**
+
+**Noah Weiss** (Slack) describes PMF not as a single achievement but as a series of S-curves. You achieve PMF with a small, specific cohort (e.g., tech-savvy small dev teams), hit exponential growth, then plateau as you saturate that cohort. The next phase requires re-achieving PMF with a new segment (e.g., non-technical knowledge workers at large enterprises). Each segment has different needs, different onboarding friction, and different comprehension barriers.
+
+Slack's self-service plateau in 2019 was precisely this: PMF with early adopters did not extend to the mainstream. The fix required abandoning the existing roadmap entirely for six months to re-learn what the next audience needed — discovering that comprehension ("what is this for?"), desirability ("why should I care?"), and free trial of paid features were the new levers. The resulting north star metric — "Successful Teams" (5+ people using Slack the majority of the work week) — predicted 400% higher upgrade likelihood over 6 months and unified the whole product org.
+
 **Practical implications:**
 - Continuously resurvey customers after major market events
 - Treat each new user segment as a separate PMF question
@@ -40,6 +46,7 @@ Duggal's additional technique: when aggregate Sean Ellis scores are mediocre (e.
 - [[adriel-frederick]] — "Early adopters differ drastically from mainstream users" (crossing the chasm framing)
 - [[jag-duggal]] — "Sean Ellis score as a launch gate; bullseye cohort methodology at Nubank"
 - [[ivan-zhao]] — "PMF as a gradual ramp; hiding vision behind accessible form factor"
+- [[noah-weiss]] — "PMF as stacked S-curves; Slack's self-service plateau and Successful Teams metric"
 
 ## See Also
 

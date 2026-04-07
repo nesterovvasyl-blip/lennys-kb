@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (196 unique / 303 total)
+## Episodes (205 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -201,6 +201,15 @@
 195. nickey-skarstad
 196. nicole-forsgren
 197. nikhyl-singhal
+198. nikita-miller
+199. nilan-peiris
+200. nir-eyal
+201. noah-weiss
+202. noam-lovinsky
+203. oji-udezue
+204. paige-costello
+205. patrick-campbell
+206. paul-adams
 
 ## Skipped
 
@@ -227,3 +236,4 @@
 - marty-cagan-20 (duplicate transcript of marty-cagan, anomalous 2:03 duration, identical content)
 - matt-mullenweg (duplicate of matt-lemay — identical video_id ts9ZvlkeWGs, mislabeled directory)
 - nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ)
+- nikita-bier (mislabeled — transcript is Nikita Miller's episode, same video_id 4PhfAbRQpbI)
