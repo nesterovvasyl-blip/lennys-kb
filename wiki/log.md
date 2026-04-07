@@ -254,3 +254,9 @@
 - Created: 17 guest pages, frameworks/7-powers, frameworks/dynamic-reteaming, frameworks/gist-model, frameworks/confidence-meter, frameworks/make-time-framework, frameworks/now-next-later
 - Updated: concepts/product-market-fit (Duggal, Zhao), concepts/experimentation-culture (Shuttleworth, Gilad)
 - Topic tags deferred to synthesis pass
+
+## [2026-04-07] ingest | Test batch — jason-fried
+
+- Processed: jason-fried (1 episode)
+- Created: 1 guest page (jason-fried), 1 framework (shape-up)
+- Topic tags: bootstrapping, product-development, company-building, profitability, team-structure, calm-company

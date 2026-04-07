@@ -131,6 +131,7 @@
 - [Janna Bastow](guests/janna-bastow.md) — CEO ProdPad; inventor of Now/Next/Later roadmap
 - [Jason Droege](guests/jason-droege.md) — CEO Scale AI, Uber Eats founder; AI training data, enterprise AI realism
 - [Jason Feifer](guests/jason-feifer.md) — EIC Entrepreneur Magazine; media as audience service, press frameworks
+- [Jason Fried](guests/jason-fried.md) — Co-founder/CEO 37signals (Basecamp, HEY); bootstrapping, Shape Up, calm company
 
 ## Frameworks
 
@@ -198,6 +199,7 @@
 - [Confidence Meter](frameworks/confidence-meter.md) — Gilad's evidence calibration for ICE scoring
 - [Make Time Framework](frameworks/make-time-framework.md) — Knapp/Zeratsky's Highlight/Laser/Energize/Reflect
 - [Now/Next/Later](frameworks/now-next-later.md) — Bastow's roadmap format replacing Gantt timelines
+- [Shape Up](frameworks/shape-up.md) — 37signals' fixed-appetite, two-person team product development methodology
 
 ## Concepts
 
