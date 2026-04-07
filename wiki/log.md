@@ -2,6 +2,30 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 10 — Episodes nabeel-s-qureshi through nikhyl-singhal
+
+### Processed Episodes (9 unique, 10 attempted)
+1. **Nabeel S. Qureshi** — "How Palantir built the ultimate founder factory"
+2. **Nan Yu** — "Linear's secret to building beloved B2B products"
+3. **Nancy Duarte** — "Storytelling: How to craft compelling presentations and tell a story that sticks"
+4. **Naomi Gleit** — "Meta's head of product on working with Mark Zuckerberg, early growth tactics, and more"
+5. **Naomi Ionita** — "How to price your product"
+6. **Nick Turley** — "Inside ChatGPT: The fastest growing product in history"
+7. **Nickey Skarstad** — "Translating vision into goals, operationalizing product quality, second-order decisions"
+8. **Nicole Forsgren** — "How to measure AI developer productivity in 2025"
+9. **Nikhyl Singhal** — "Building a long and meaningful career"
+
+### Skipped
+- **nicole-forsgren-20**: Duplicate — same video_id (SWcDfPVTizQ) as nicole-forsgren
+
+### Created
+- **Guests (9):** nabeel-s-qureshi, nan-yu, nancy-duarte, naomi-gleit, naomi-ionita, nick-turley, nickey-skarstad, nicole-forsgren, nikhyl-singhal
+- **Frameworks (6):** day-one-vs-day-100-pricing, dora-space-frameworks, extreme-clarity, forward-deployed-engineer, maximally-accelerated, what-is-what-could-be
+- **Concepts (4):** developer-experience, ex-growth-companies, second-order-thinking, shadows-of-superpowers
+
+### Updated
+- wiki/frameworks/understand-identify-execute.md — added Naomi Gleit's perspective
+
 ## [2026-04-07] ingest | Batch 9 — Episodes madhavan-ramanujam through molly-graham
 
 ### Processed Episodes (17 unique, 20 attempted)

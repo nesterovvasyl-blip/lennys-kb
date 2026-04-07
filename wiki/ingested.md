@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (187 unique / 303 total)
+## Episodes (196 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -192,6 +192,15 @@
 186. megan-cook
 187. melanie-perkins
 188. molly-graham
+189. nabeel-s-qureshi
+190. nan-yu
+191. nancy-duarte
+192. naomi-gleit
+193. naomi-ionita
+194. nick-turley
+195. nickey-skarstad
+196. nicole-forsgren
+197. nikhyl-singhal
 
 ## Skipped
 
@@ -217,3 +226,4 @@
 - madhavan-ramanujam-20 (duplicate transcript of madhavan-ramanujam, identical content)
 - marty-cagan-20 (duplicate transcript of marty-cagan, anomalous 2:03 duration, identical content)
 - matt-mullenweg (duplicate of matt-lemay — identical video_id ts9ZvlkeWGs, mislabeled directory)
+- nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ)

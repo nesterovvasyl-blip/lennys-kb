@@ -186,6 +186,15 @@
 - [Megan Cook](guests/megan-cook.md) — Head of Product Atlassian; influence without authority, psychological safety
 - [Melanie Perkins](guests/melanie-perkins.md) — Co-founder/CEO Canva; 100+ rejections to $40B, Column B thinking
 - [Molly Graham](guests/molly-graham.md) — ex-Facebook/Google/Quip; Give Away Your Legos, waterline model, scaling yourself
+- [Nabeel S. Qureshi](guests/nabeel-s-qureshi.md) — ex-Palantir VP Biz Dev, writer; forward deployed engineer model, founder factory culture
+- [Nan Yu](guests/nan-yu.md) — Head of Product at Linear; opinionated B2B product philosophy, quality over growth
+- [Nancy Duarte](guests/nancy-duarte.md) — CEO Duarte Inc.; What Is/What Could Be presentation structure, communication and influence
+- [Naomi Gleit](guests/naomi-gleit.md) — Head of Product at Meta; longest-tenured Facebook PM; Extreme Clarity operating principle
+- [Naomi Ionita](guests/naomi-ionita.md) — Partner Menlo Ventures, ex-VP Growth Invoice2go; pricing strategy, Day One vs. Day 100 framework
+- [Nick Turley](guests/nick-turley.md) — Head of ChatGPT at OpenAI; built fastest-growing consumer product in history; Maximally Accelerated philosophy
+- [Nickey Skarstad](guests/nickey-skarstad.md) — Director of Product Duolingo (ex-Airbnb, Etsy, Shopify); second-order thinking, product quality operationalization
+- [Nicole Forsgren](guests/nicole-forsgren.md) — Sr. Director Google, ex-GitHub VP Research; creator of DORA and SPACE frameworks, AI developer productivity measurement
+- [Nikhyl Singhal](guests/nikhyl-singhal.md) — VP Product Meta, founder The Skip CPO Community; shadows of superpowers, job-after-next career framework
 
 ## Frameworks
 
@@ -278,6 +287,12 @@
 - [JOLT Method](frameworks/jolt-method.md) — Matt Dixon's four steps for overcoming buyer indecision: Judge, Offer, Limit, Take-risk-off
 - [Low-Impact PM Death Spiral](frameworks/low-impact-pm-death-spiral.md) — Matt LeMay's pattern: busy work crowds out customer contact, leading to irrelevance
 - [Waterline Model](frameworks/waterline-model.md) — Molly Graham's framework for when to make decisions autonomously vs. surface upward
+- [Day One vs. Day 100 Pricing](frameworks/day-one-vs-day-100-pricing.md) — Naomi Ionita's framework for deciding which features belong in free vs. premium tiers based on user lifecycle
+- [DORA and SPACE Frameworks](frameworks/dora-space-frameworks.md) — Nicole Forsgren's complementary frameworks for measuring developer productivity and experience
+- [Extreme Clarity](frameworks/extreme-clarity.md) — Naomi Gleit's Meta operating principle: ensure all stakeholders share the same factual understanding before acting
+- [Forward Deployed Engineer (FDE)](frameworks/forward-deployed-engineer.md) — Palantir's model of embedding engineers at customer sites to solve real problems in real time
+- [Maximally Accelerated](frameworks/maximally-accelerated.md) — Nick Turley's forcing function: if this were the most important thing, what would you do to truly maximize speed?
+- [What Is / What Could Be](frameworks/what-is-what-could-be.md) — Nancy Duarte's alternating presentation structure between current reality and possible future
 
 ## Concepts
 
@@ -348,6 +363,10 @@
 - [Model Maximalism](concepts/model-maximalism.md) — Kevin Weil's AI product strategy: default to most powerful model, then optimize
 - [Personal Operating Manual](concepts/personal-operating-manual.md) — "How to Work with Me" document that surfaces working preferences to teammates
 - [User-Centered Performance](concepts/user-centered-performance.md) — Judd Antin's framework for research that drives product outcomes
+- [Developer Experience (DevEx)](concepts/developer-experience.md) — The full environment shaping day-to-day software development: flow state, cognitive load, feedback loops
+- [Ex-Growth Companies](concepts/ex-growth-companies.md) — ZIRP-era startups with high valuations but no true PMF; career trap warning from Nikhyl Singhal
+- [Second-Order Thinking](concepts/second-order-thinking.md) — Mapping how today's product decisions cascade into future system states; from Nickey Skarstad
+- [Shadows of Superpowers](concepts/shadows-of-superpowers.md) — Every professional strength casts a shadow; early-career drivers become development areas at the next level
 
 ## Topics
 

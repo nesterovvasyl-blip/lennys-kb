@@ -142,11 +142,11 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**187 / 303 episodes ingested** (last updated: 2026-04-07)
+**196 / 303 episodes ingested** (last updated: 2026-04-07)
 
 Full list: `wiki/ingested.md`
 
-Next batch starts at: **nabeel-s-qureshi** (alphabetically after molly-graham)
+Next batch starts at: **nikita-bier** (alphabetically after nikhyl-singhal)
 
 ## Commands
 
