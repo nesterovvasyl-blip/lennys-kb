@@ -307,6 +307,7 @@
 - [Hooked Model](frameworks/hooked-model.md) — Nir Eyal's four-step habit loop: Trigger → Action → Variable Reward → Investment
 - [Indistractable Framework](frameworks/indistractable-framework.md) — Nir Eyal's system for managing distraction: traction vs. distraction, timeboxing, identity
 - [Workflow Quadrant](frameworks/workflow-quadrant.md) — Oji Udezue's framework: map problems by workflow compression and zone of benefit to find unicorn opportunities
+- [Pendulum Swinging](frameworks/pendulum-swinging.md) — Paul Adams: product strategy oscillates between extremes; recognize the cycle to avoid overcorrection
 
 ## Concepts
 

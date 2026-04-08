@@ -21,15 +21,15 @@ Network effects are the most powerful form of competitive moat in consumer tech.
 
 **Marketplace evolution**: Casey's insight for marketplace founders: you not only *can* evolve your network effect strategy as you scale — you *must*. Every marketplace that reaches scale needs to layer on cross-side mechanisms (advertiser models, subscription tiers) and data NEs (better matching, personalization).
 
-### Oji Udezue ([[oji-udezue]]): Network Effects as the Ultimate Moat
+**Network effects and resilience ([[oji-udezue]])**: Oji provides the most vivid illustration of network effects' durability: Twitter/X survived Elon Musk removing its brand, 80% of its employees, and its revenue-driving advertisers — because network effects protect the user base. "The last telegram was sent in 2016, over 100 years after it was invented because of network effects. It had to be manually closed down." Friendster is still alive. It is very hard to kill a network effects business.
 
-Oji uses Twitter as the definitive case study in network effects durability. Despite Elon Musk's layoffs, brand damage, and management chaos, Twitter survived because network effects — not brand, staff, or management quality — are the real product. "It's really hard to kill a network effects business." The last telegram was sent in 2016, over 100 years after invention; it had to be manually shut down. Friendster still technically exists.
+The nuance Oji adds: you can kill the *business* of a network effect company (by destroying revenue) while leaving the user base intact. Twitter's advertisers stopped buying because brand safety concerns made the platform risky — but users stayed because where else would their communities be? This creates a "negative spiral": the user base persists but the company can't invest in the product, which eventually degrades the value proposition. Killing the network itself requires an alternative that offers the same connections and more — extremely hard.
 
-His definition: network effects occur when passive members gain value from other people joining, without any effort on their own part. Critical mass is the threshold concept — once hit, the network becomes self-reinforcing. The distinction: you can kill the *business* of a network effects company (by attacking its revenue side, as advertisers leaving Twitter illustrates) while the *product* (the user network) survives.
+**Network effects and virality**: Oji distinguishes network effects from virality. Both contribute to organic growth, but they're different mechanisms. Network effects create value for passive members when others join (I don't have to do anything; your joining improves my experience). Virality is when existing users actively refer others. Calendly benefited from both: network effects (the shared availability graph improved as more connections were in the system) and genuine virality (excellent product quality led to enthusiastic word of mouth and deliberate sharing).
 
 ## Sources
 - [[casey-winters_]] — "How to sell your ideas and rise within your company | Casey Winters, Eventbrite"
-- [[oji-udezue]] — "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
+- [[guests/oji-udezue]] — Picking sharp problems, increasing virality, and unique product frameworks
 
 ## See Also
 - [[growth]]
