@@ -1,76 +1,104 @@
 ---
 guest: Nan Yu
-role: Head of Product, Linear
+role: Head of Product at Linear
 episode: "Linear's secret to building beloved B2B products | Nan Yu (Head of Product)"
 date: 2025-01-30
-topics: [b2b-product, product-management, growth, design, building-great-products]
+topics: [product-management, b2b-saas, product-development, customer-research, hiring, speed-and-quality, go-to-market, linear-method]
 ---
 
 # Nan Yu
 
-> Head of Product at Linear, one of the most beloved B2B SaaS products in tech, responsible for the company's product direction, go-to-market integration, and Linear Method philosophy.
+> Head of Product at Linear who reveals the operating philosophy behind one of the most beloved B2B SaaS products ever built: speed and quality are not a trade-off, and the best solutions always feel obvious in hindsight.
 
 ## Bio
 
-Nan Yu is the Head of Product at Linear, the issue-tracking and project management tool that has become the gold standard for high-performing engineering teams. Before Linear, Nan worked at Everlane (fashion) and Mode (data analytics), giving her a rare cross-industry lens on product craft. She has been at the center of Linear's growth from a small tool into a widely-loved platform used by thousands of software teams worldwide.
+Nan Yu is Head of Product at Linear, the project management tool that has become the gold standard for high-performing engineering teams. Before Linear, Nan worked in product at Mode Analytics (a BI tool) and Everlane (direct-to-consumer fashion). His background spans highly competitive tool categories — places where distinguishing yourself requires seeing from angles others miss. Linear is the #1 tool people wish they could switch to when surveyed about their B2B SaaS stack; the number-one dream switch is from Jira to Linear.
 
-### Linear's Product Philosophy
+## Key Ideas
 
-Linear was built with an opinionated point of view: software for builders should feel fast, focused, and beautiful — with no tolerance for bureaucratic bloat. This manifests in several concrete ways:
+### Speed and Quality Are Not a Trade-Off
 
-**Ship fast, then learn.** The core principle is to have something in front of users within the first 10% of available time. You do not know if your bet is right until someone is using it. Getting to a functional prototype fast gives you maximum time to iterate and decide whether to polish, pivot, or abandon. Linear builds internally first, then expands to beta users, before broad release.
+The dominant narrative is that teams choose between moving fast and building well. Nan's view: this is a false trade-off believed by slow people. When you watch experts — Magnus Carlsen at speed chess, a master chef, a top programmer — you can predict the quality of their output by how fast they move. Speed is a signal of competence, not sloppiness.
 
-**Build a user mental model, not just a feature list.** Rather than collecting feature requests and counting votes, Linear maintains an evolving understanding of each user's life, workflow, and pain. Research informs the model of the person — and the model informs what gets built. The backlog at any time contains 20-30 opportunity areas with accumulated understanding, not just tickets.
+What speed actually means at Linear: by the time 10% of the allotted project time has elapsed, you have something workable that tests the core hypothesis internally. Not a polished prototype — a working thing. This surfaces incorrect assumptions before you've sunk 80% of your resources. The first version is never expected to be great; the expectation is that it validates or invalidates the major assumptions quickly.
 
-**Focus on the person using the tool, not the buyer.** Linear makes deliberate tradeoffs against middle-manager reporting and customization requests in favor of the individual contributor (IC) who uses the tool daily. The tension is real: a manager wants detailed reporting; the IC wants to move fast without overhead. Linear bets on the IC's love compounding into enterprise adoption — the same logic Figma used.
+Patrick Collison captured it: "Good, cheap, fast — choose two" is misinformation spread by the slow. Slow and expensive usually go together.
 
-### The "Extreme Version" Creative Process
+### The Circle of Release
 
-Nan has a systematic approach to generating genuinely creative product solutions. The problem: people default to a small search space of obvious options and never discover better answers that existed outside their assumed constraints.
+Linear uses a gradually expanding circle of users for every feature. First circle: internal users (everyone at Linear uses Linear every day — a key advantage). Once it survives internal use without corrupting data or looking broken, release to a beta customer group as early as possible. If no one engages with an early beta, that's a strong signal you missed the mark — before you've invested in polish. Then grow the beta audience, then GA.
 
-Her process: when faced with a design problem, ask "what is the most extreme version of this along a given attribute?" Deliberately break past all constraints — cost, practicality, engineering feasibility — to truly explore the possibility space. Then build the extreme version as fast as possible. You will almost certainly feel that it is wrong, but you will feel exactly how wrong it is and what specific properties made it wrong. Then build the opposite extreme. The right answer typically lives in a narrow zone between those two extremes, and you can now see that zone clearly.
+### Never Compromise the IC Experience for Middle Management
 
-**Example: Draft saving in Linear.** The two extremes were: (1) Never auto-save, always discard — fastest possible UX, but felt dangerously unsafe. (2) Auto-save immediately on first keystroke — safest possible, but left a trail of hundreds of untitled drafts polluting users' spaces. The final solution emerged from understanding the exact failure modes of both: interrupt the user once (on first close of a new issue), then never interrupt again for an existing draft in progress.
+The most important decision Linear has made: categorically refuse to build customization features that make IC workflows worse in order to make reporting easier for middle managers. Every time a product goes down this path, ICs disengage — they don't fill in fields they don't understand, the data becomes meaningless, and the tool fails everyone.
 
-### B2B Software Teaches Ways of Working
+When buyers ask for these features, Linear's job is to convince them it's a false trade-off. Buyers buy Linear because they want their teams to work more effectively. Features that make ICs disengage undermine the entire value proposition.
 
-A distinctive insight: when you adopt a B2B tool, you don't just adopt software — you adopt a practice. The best B2B software encodes battle-tested processes (like how to manage a triage queue, how to run a sprint, how to structure marketing campaigns) and makes them easy to activate. Linear's "opinionated defaults" strategy is a direct expression of this: rather than arbitrary opinions, Linear identifies practices that high-performing teams actually use, automates them, and makes them available as a single button for teams that don't yet know they need them.
+The nuance: Linear does build enterprise infrastructure (SAML, SCIM, security controls). What it won't build is anything that makes the day-to-day IC experience worse for reporting purposes.
 
-### The Double Triangle Framework
+### Get to the Emotion, Not Just the Goal
 
-Nan articulates the PM role as occupying the center of two triangles:
-- **Building triangle:** PM ↔ Engineering ↔ Design
-- **Selling triangle:** PM ↔ Sales ↔ Marketing
+Nan's approach to customer research: standard "5 whys" and jobs-to-be-done frameworks are good but can miss the emotional hook. His goal is "to feel bad in the same way that customers feel bad." When he's on sales calls, he keeps asking until he finds the moment the customer actually felt bad — the December 30th ship date that caused a crisis with the marketing team, the tickets thrown over the wall that disappear.
 
-Most PMs do well at the building triangle but underinvest in the selling triangle. At Linear, PMs are deeply involved in product marketing — they know the native language of their customers (engineers and PMs) better than anyone at the company, and they own originating the words, positioning, and message that flow through to all marketing assets and sales conversations. The PM's discovery work directly informs what language appears on the website, in changelogs, and in sales pitches.
+Once you know the emotion someone is trying to avoid, you can build something that eliminates that emotional state. Linear's date flexibility feature (specify Q4, not December 30th) came from someone feeling bad about false precision causing miscommunication.
 
-### On Deadlines
+This is connected to what Paul Graham calls "schlep blindness" — people are so used to the friction in their lives they don't notice it. As an outsider, you can see the spots where improvement is possible.
 
-A strong and counterintuitive perspective: don't have many deadlines, but when you commit to one, it is a P0 — nothing else competes. The PM's job on a deadline is to cut scope to the bone so that, at the go/no-go decision point, you actually have a shippable product. The worst outcome is arriving at a deadline with something half-broken. Linear's approach: no estimation culture — instead, ship a first working version in 10% of the timeline, and use the remaining time to decide how to improve it.
+### Extreme Version Testing for Creative Problem-Solving
 
-### Actionable Advice
-- Get something in front of users within the first 10% of build time — this maximizes the time you have to learn and iterate
-- When stuck on a design decision, deliberately build the most extreme version in one direction first, then the extreme in the other
-- Ask yourself: "What is the promise my product makes to customers? What are the extreme points along the attributes I care most about?"
-- If you're a B2B PM, lean into the go-to-market side — originate the message and language your marketing team will use
-- In job interviews, figure out the hiring manager's actual job to be done; become the solution to their specific problem, not just a strong general candidate
-- When evaluating a tool to adopt, ask "what way of working am I adopting?" not just "does this solve my immediate problem?"
+When generating options, Linear asks: what's the most extreme version of this along some key attribute? Not as a thought experiment — they actually build and test the extreme versions. Draft saving example: they built the most unsafe version (no auto-save, instant delete), confirmed it felt unsafe, then built the most safe version (auto-save everything on first keystroke), confirmed it left a mess of untitled drafts. The right answer emerged from having genuinely felt both extremes.
 
-### Notable Quotes
-> "The biggest risk is you didn't see the right choice to begin with. You have these three choices and none of them were right. It's this fourth one that was over in this corner, but you didn't look in that corner, so you never found it."
+This process expands the search space. Most teams only see three options, none of which are right. The fourth option — the correct one — is often in a corner they never looked in.
 
-> "The correct amount is too much minus one."
+### The Double Triangle: PM as Bridge Between Building and Selling
 
-> "If you're leaving something on the table in terms of the kind of impact you are having at your job, it's probably the sell side that has an opportunity for you."
+The typical PM collaboration model is a triad: PM + engineering + design. Nan argues the second, equally important triad is PM + sales + marketing. PMs understand the customer's native language at a depth no one else in the company does. That understanding should inform the exact words on the website, in release notes, in email campaigns.
 
-> "A year is 365 days. There are 12 months. If you miss one of those communication opportunities, you don't get it back."
+At Linear, the PM team includes a full-time product marketer. Her job: make sure all release notes and campaign language are native to the language engineers and PMs actually speak — avoiding the "stink eye" from expert practitioners who immediately detect inauthenticity. Sales validates this language in the field.
 
-## Sources
-- [[nan-yu]] — "Linear's secret to building beloved B2B products"
+This is the opportunity most PMs leave on the table: they're already doing great work with engineering and design, but not yet maximizing impact through go-to-market.
 
-## See Also
-- [[linear-method]]
-- [[opinionated-defaults]]
-- [[nabeel-s-qureshi]]
-- [[b2b-product]]
-- [[product-led-growth]]
+### Deadlines: Use Them Rarely, But Mean Them
+
+Having too many deadlines devalues all of them. When Linear commits to a deadline — usually tied to a marketing launch — it becomes a P0. No one gets pulled off it. As PM, the job is to cut scope until something real and shippable exists at the deadline. The goal: reach a state where you have an actual choice to say yes or no to shipping, rather than "it's not even close to done."
+
+Marketing launch opportunities are scarce — 12 months, 4 quarters, 52 weeks. Missing a window isn't free; you don't get it back.
+
+## Frameworks
+
+### Kneeling (Feature-Reality Fit)
+
+When a feature goes out and feedback comes back, the question isn't "how many people complained?" It's "did we think about this correctly?" If a piece of feedback reveals a conceptual mismatch with reality, a small number of data points is sufficient to act. Volume matters for general popularity signals; quality of insight matters for design correctness.
+
+### Accumulating Opportunity Understanding
+
+Linear maintains a backlog of ~20–30 product opportunities that aren't ready to build yet. For each one, they accumulate understanding over time — new customer conversations, usage patterns, design hypotheses. The question isn't just "do we have a solution?" it's "how much of the problem should we actually take on?" Taking on too much overpromises; taking on too little leaves the real problem unsolved.
+
+## Key Quotes
+
+> "My goal is to feel bad in the same way that customers feel bad." — Nan Yu
+
+> "If you look at people who are at the pinnacle of their craft, you can basically tell how good the output is going to be of their work product by how fast they're going." — Nan Yu
+
+> "The stuff that we absolutely have to say no to is the exact kind of thing that leads to this bloatedness that makes ICs hate their lives." — Nan Yu
+
+> "The best solutions are always obvious in hindsight, and it's just like you have to develop a process internally to eventually find your way there." — Nan Yu
+
+> "When you adopt a tool, you're not just adopting the actual software — you're adopting the idea that this is a practice you ought to be doing in the first place." — Nan Yu
+
+## Actionable Advice
+
+- When starting a project, have a working testable version by the time 10% of your time budget has elapsed.
+- Map your customer's emotional journey, not just their goals. Ask questions until you find the moment they actually felt bad — that's what to solve.
+- When debating a product decision, ask: what's the most extreme version we could build along each key dimension? Then build both extremes fast and learn.
+- Get deeply involved in the words your marketing team uses. As a PM, you know the customer's language better than anyone. Don't outsource that.
+- To land a PM job: figure out what burning problem the hiring manager needs solved, position yourself as the solution to that specific problem. Act like you already work there.
+- When you have a true deadline, treat it as P0. Cut scope ruthlessly until you have something real you can choose to ship or not.
+
+## Related Pages
+
+- [[frameworks/linear-method]]
+- [[concepts/product-led-growth]]
+- [[concepts/opinionated-defaults]]
+- [[concepts/feelings-over-metrics]]
+- [[concepts/velocity]]

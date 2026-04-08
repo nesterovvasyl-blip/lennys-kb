@@ -1,80 +1,96 @@
 ---
 guest: Nancy Duarte
-role: CEO, Duarte Inc.
+role: CEO of Duarte Inc.
 episode: "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks"
 date: 2023-06-01
-topics: [storytelling, communication, presentations, leadership, influence]
+topics: [storytelling, presentations, communication, leadership, persuasion, empathy, public-speaking]
 ---
 
 # Nancy Duarte
 
-> CEO of Duarte Inc., the world's pre-eminent presentation design firm, responsible for over 250,000 presentations including Al Gore's An Inconvenient Truth and keynotes for Apple, TED, Google, and the World Bank.
+> The world's foremost presentation design expert who helped craft Al Gore's An Inconvenient Truth and has worked with Apple since day one, distilling 35 years of pattern-finding into a science of persuasion through story.
 
 ## Bio
 
-Nancy Duarte co-founded Duarte Inc. in 1988 with her husband in Silicon Valley, initially as "Duarte Desktop Publishing and Graphic Design." They entered the market in an 18-month window when graphic designers refused to use Macintosh (calling it a toy), and won contracts with NASA, HP, and Apple almost simultaneously. Apple has been a client ever since — across every major product launch including the Steve Jobs era. Nancy has written multiple bestselling books on communication including *Resonate*, *Slide:ology*, and *Illuminate*, and gave a widely-watched TEDx talk in 2011 on the structure of great presentations.
+Nancy Duarte is CEO of Duarte Inc., which she co-founded with her husband in 1988 after cold-calling NASA, Tandem (now HP), and Apple and winning contracts at all three simultaneously. In 35 years, the firm has helped create over 250,000 presentations for companies including Apple (a client since founding), TED, Google, the World Bank, and Al Gore's An Inconvenient Truth. Duarte is a bestselling author (Resonate, Slide:ology, DataStory, Illuminate) and TED speaker whose 2011 talk on presentation structure remains one of the most-watched.
 
-### The Three-Bullet Framework for Every Presentation
+## Key Ideas
 
-Nancy distills every presentation down to three foundation principles:
+### The Audience Is the Hero, Not the Presenter
 
-1. **Your audience is the hero.** The presenter is the mentor (like Obi-Wan to Luke, Gandalf to Frodo). The audience holds the power in the room — they decide whether to accept or reject your idea. Your job is to come alongside them, understand their internal conflict, and give them tools for both their outer journey (the specific call to action) and their inner journey (the resolve they need to change).
+The most important mindset shift in communication: the presenter is not the hero — the audience is. The presenter plays the role of the mentor (Obi-Wan Kenobi, not Luke Skywalker). Like a good mentor, the presenter comes alongside the audience to help them get unstuck. They carry two things: an outer tool (a light saber — the concrete action or capability you're offering) and an inner tool (resolve — the emotional resource to overcome internal resistance to change).
 
-2. **Infuse your talk with story structure.** The most powerful presentation structure alternates between *what is* (current reality) and *what could be* (the possible future), ending with a final *new bliss* — a poetic picture of the world with your idea adopted. This pattern is encoded in the brain: fMRI studies show that when a story is being told, the brains of speaker and listener fire in the same order, in the same places. It works in a keynote, a meeting, a phone call, or a marriage (Nancy admits she uses it to get her husband to do chores).
-
-3. **Can they see what you're saying?** Visuals create alignment and memory. The best presentations give the audience a "star moment" — a piece of dramatic data, an evocative story, a diagram, a prop — something they will always remember. When people can both hear and see what you mean, comprehension and retention increase dramatically.
+The balance of power in any presentation sits with the audience. They get to accept or reject your idea. Everything a presenter does must be in service of helping the audience make the journey from where they are to where you're asking them to go.
 
 ### The What Is / What Could Be Structure
 
-Nancy spent three years mapping the greatest speeches of all time on quarter-inch graph paper, listening to speeches by Dr. King, Steve Jobs (iPhone launch), Abraham Lincoln (Gettysburg Address), and presidents. She found a universal pattern: a horizontal line at the bottom is *what is*. The line moves up to *what could be*, comes back down, goes up again — a serrated wave pattern she calls the "pumpkin teeth."
+Through three years of hand-mapping great speeches on quarter-inch graph paper, Nancy discovered that the world's most influential communications — Dr. King's "I Have a Dream," Steve Jobs' iPhone launch, Lincoln's Gettysburg Address — all share a distinctive waveform: they oscillate between what is (current reality) and what could be (a better future), ending in a new bliss.
 
-This rise-and-fall creates longing. It builds tension and releases it. People escape to the future world you paint by seeing the contrast between their current reality and the possible future. The final ascent ends not at "what is" but at the "new bliss" — a horizon that reframes what normal looks like if they adopt your idea.
+Picture a horizontal baseline: "what is." The presentation rises to "what could be," drops back to "what is," rises again to "what could be." Each oscillation builds longing for the future state. The final "what could be" becomes the new bliss — an imaginative painting of a world after the idea has been adopted.
 
-This structure works at any scale: a two-hour keynote, a two-minute meeting, the Gettysburg Address (a few hundred words). Nancy says she uses it casually — a quick verbal "what is, what could be, new bliss" to persuade her husband to take the dog to daycare.
+This works because contrast creates longing. People don't long for futures they can't see — story paints the picture. The same structure that works in a keynote works in a meeting, an email, even getting your spouse to take the dog to daycare.
 
-### Empathy First
+Practical formula:
+1. **What is**: Set the current state clearly (this needs more unpacking than you think for some audiences)
+2. **What could be**: Paint the desirable alternative
+3. **Alternate** between these to build tension
+4. End with **new bliss**: describe the world after your idea is adopted
 
-Everything at Duarte is empathy-first. Nancy traces this to her childhood: raised by a clinically narcissistic mother, she grew up in the absence of empathy, which is why she keeps "clawing at empathy" as foundational to all communication. Practically: before every major internal presentation, she does a listening tour (surveys + interviews), compares what she hears with what she intends to ask of people, and runs rough-cut presentations by the next layer of leaders before the full company sees them.
+### Three Tips for Better Presentations
 
-Audience empathy means asking: Who am I speaking to? What do they already believe? What will they have to give up or change if they adopt my idea? How hard is what I'm asking of them? Only once you've genuinely answered these questions can you craft a message that will move people.
+Nancy's three-bullet synthesis for better presentations:
 
-### The Torch Bearer and the Five-Act Movement
+1. **Make the audience the hero** — approach everything from their perspective; audience as hero = empathy in action
+2. **Infuse your talk with story structures** — use the what is / what could be oscillation, not just anecdotes
+3. **Ask yourself: can they see what I'm saying?** — visuals, diagrams, napkin sketches, and "star moments" (a single dramatic data point, an evocative image, a live demo) anchor the verbal stream
 
-In her book *Illuminate* (co-authored with Pattie Sanchez), Nancy extends single presentations into multi-presentation movement-building. The five acts are: Dream → Leap → Fight → Climb → Arrive. At each phase, leaders must supply the right emotional fuel — speeches, stories, ceremonies, and symbols — to keep followers energized through the inevitable messy middle. A torch bearer doesn't see the whole cave clearly; they only see five to eight feet around them, but that's enough to lead others through.
+### Empathy as the Foundation of Everything
 
-### Practical Slide Advice
-- Every slide should make exactly one point in support of the big idea
-- The "big idea" of your whole talk has two components: your point of view + what is at stake if the audience does or does not adopt it
-- In high-stakes meetings, slide docs (presentation software with full sentences and prose) work better than emails and better than traditional sparse slides
-- For small internal meetings, density is fine — the audience shares context and shorthand that outsiders don't have
-- Rough, informal video often outperforms polished productions: Nancy's highest-viewed video was uncorrected, slightly orange, and crammed with useful information
+Every model, every book, every framework Duarte creates starts with empathy. Empathy means genuinely thinking about who you're speaking to before building a single slide. Nancy traces this back to being raised by a clinically narcissistic parent — the void left by an absent empathy model drove her to make it the center of her practice.
 
-### On Stage Fright
+Practical empathy work for high-stakes internal presentations: run a listening tour first (surveys + interviews with your audience), compare it to what you're about to ask them to do, do a gap analysis, then create a rough draft for a small feedback group before producing the final version.
 
-Nervous presenters usually have the best content — they care deeply and think carefully. To manage fear: sit in the audience seats before presenting so you can imagine yourself in their position; remember that the people in front of you are delighted to be there; find your pre-talk ritual (Nancy finds a dark corner backstage and breathes slowly). To create a chemical shift from nervous to laughter: keep a playlist of funny videos to watch just before walking out.
+### Slide Docs and the Spectrum of Presentation Formats
 
-### Actionable Advice
-- Before any important presentation, do a listening tour — surveys and interviews with the audience first, then compare what you learn to what you plan to ask of them
-- Use numbered lists instead of bullets in meetings so participants can reference specific items precisely
-- Practice the "what is / what could be" structure in everyday conversations — it builds the reflex so it becomes available in any moment of influence
-- To become a great presenter, start with a topic you are genuinely passionate about; the feeling of presenting from your soul teaches you to summon that quality in any future presentation
-- Cinematic slides are for big stages; dense, information-rich slides are fine for internal teams who share context
+Not every communication needs cinematic, full-screen visuals. Nancy describes a spectrum:
+- **Stage keynote**: Cinematic, visual, designed to communicate through a live presenter
+- **Meeting presentation**: Denser, can include more text, aligned to the room's shared shorthand
+- **Slide doc**: Designed to circulate without a presenter — full sentences, strong structure, dense appendix. Nancy calls these "the six-page memo with F-words and pictures."
 
-### Notable Quotes
-> "The balance of power is with the audience, not you — they get to make a choice if they accept or reject your idea."
+The rule for any format: one idea per slide. Every slide should exist only if it supports the one big idea of the entire talk.
 
-> "Story creates longing. It helps people long for something they'd never wanted before."
+### Reducing Presentation Nerves
 
-> "I'll tell you a dirty little secret. I can get my husband to do chores for me on the weekends with a real quick 'what is, what could be, new bliss.' Literally it works. It works in any format."
+The most thoughtful, contemplative presenters often have the best content — their nerves come from caring deeply. Strategies that work:
+- **Visualization**: Sit in a seat in the audience area before your talk. Visualize the friendly faces, the person happy to see you, and anchor to that image.
+- **Chemistry reset**: Nancy keeps a playlist of funny videos. Watching them right before going on stage chemically shifts her state from nervous to laughter.
+- **Breathing**: A deep breath followed by a "top off" breath, then slow exhale. Not headbanging (she tried it; the audience thought she needed medical attention).
 
-> "Putting the tool in the hands of the masses kind of destroyed the medium itself."
+### The Torch Bearer Framework for Organizational Movements
 
-## Sources
-- [[nancy-duarte]] — "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks"
+In her book Illuminate, Nancy defines the five-act arc of a movement: **Dream, Leap, Fight, Climb, Arrive**. Leaders are torch bearers — they see approximately 5–8 feet ahead (enough to dispel immediate fear) but not the full cave. At each phase, the leader needs to provide emotional fuel through speeches, stories, ceremonies, and symbols to keep people moving. A single great presentation is not a movement; movements are sustained campaigns of communication across all five phases.
 
-## See Also
-- [[what-is-what-could-be]]
-- [[storytelling]]
-- [[influence-and-persuasion]]
-- [[matt-abrahams]]
-- [[andy-raskin]]
+## Key Quotes
+
+> "A lot of people think that the only time you really need to present well is when you have a big stage talk. I'll tell you a dirty little secret. I can get my husband to do chores for me on the weekends with a real quick 'what is, what could be, new bliss.'" — Nancy Duarte
+
+> "The balance of power is with the audience, not you. The audience gets to make a choice if they accept or reject your idea." — Nancy Duarte
+
+> "To become a better presenter, pick a topic you are passionate about. The great presenters tap into that passion point and pull from that, and that's what makes them a great presenter on other topics." — Nancy Duarte
+
+> "Story creates longing. It helps people long for something they'd never wanted before." — Nancy Duarte
+
+## Actionable Advice
+
+- Before building any deck, ask: who am I talking to, what are they trying to accomplish, what will it cost them to adopt my idea?
+- Structure every significant communication around the what is / what could be oscillation — works in a keynote, a meeting, an email, a personal conversation.
+- Start a presentation-building session by sketching a storyboard (boxes for each point) before opening the software. Get the narrative right first.
+- For internal high-stakes talks: do a listening tour, create a rough cut, get feedback from the next level of leaders, then refine.
+- To reduce nerves before a talk: sit in the audience area and visualize friendly faces; build a playlist of funny clips to shift your chemistry right before going on.
+- When circulating presentations by email (slide docs): write full sentences, include a strong appendix, treat it like a memo that can stand alone.
+
+## Related Pages
+
+- [[frameworks/strategic-narrative-framework]]
+- [[concepts/movement-over-product]]
+- [[frameworks/working-backwards]]

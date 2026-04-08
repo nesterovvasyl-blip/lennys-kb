@@ -1,62 +1,59 @@
 ---
 concept: Ex-Growth Companies
+aliases: [ex-growth, zombie-startups, stranded-unicorns]
 guests: [nikhyl-singhal]
-topics: [pm-career, product-market-fit, career-development, startups]
+date_added: 2026-04-08
 ---
 
 # Ex-Growth Companies
 
-> An ex-growth company is a startup that raised significant capital at a high valuation during the zero-interest-rate era but has not yet found true product-market fit — creating a dangerous career trap for employees.
+> Companies that raised large amounts of capital during the ZIRP era, appear stable, but have no durable product-market fit — creating a career trap for employees who don't realize their equity may be worthless.
 
 ## Overview
 
-Nikhyl Singhal coined this term to describe a specific and common career hazard that emerged from the 2020-2022 tech funding boom. These companies raised enormous amounts of capital at inflated valuations when growth-at-all-costs was rewarded. When interest rates rose and the growth era ended, many of these companies found themselves in an awkward middle state:
+Nikhyl Singhal coined "ex-growth companies" to describe a dangerous but non-obvious category of employer. These companies raised substantial venture dollars during the hyper-growth era (pre-2022), have long runways (they're not going to run out of cash soon), and are not visibly distressed (no layoffs, still hiring). But their underlying business reality is grim: they have a valuation of hundreds of millions or more and have not achieved the product-market fit required to justify it.
 
-- Large enough (hundreds of employees, high valuations) to feel established
-- But still trying to find product-market fit rather than scaling proven demand
-- Unable or unwilling to raise new rounds at current market rates
-- Not obviously failing (no layoffs, still hiring) — making the trap harder to see
+The danger for employees: they're working for companies where the equity represents a hope, not a real asset. With most compensation packages weighted toward equity (especially at growth-stage companies), staying at an ex-growth company can mean taking a 50%+ pay cut relative to market without realizing it.
 
-The financial math for employees is brutal: half or more of total compensation may be equity that is effectively worthless when measured against realistic exit valuations. The valuation set in 2021 may not be achieved for a decade, if ever.
-
-## How to Identify an Ex-Growth Company
-
-The core test: "Are we scaling a product that users love, or are we still trying to find that love?"
-
-- **PMF signal**: how hard are you working to bring people in the door? True PMF has a pull — users come with relatively little effort. Ex-growth companies have to push constantly.
-- **Valuation vs. traction**: if your company is valued at hundreds of millions but acquisition is still effortful, something doesn't add up
-- **Product reframing**: is leadership reframing what the core product is? This is a sign they're still searching, not scaling
-- **Long runway, stagnant growth**: well-capitalized but not growing — the board hasn't forced the reckoning yet
-
-## What to Do
-
-**As an employee**: the primary question is whether the remaining opportunity (learning, loyalty, upside) justifies staying. Valid reasons to stay:
-- This is a career-defining role you couldn't get elsewhere (learning that compounds)
-- Genuine loyalty to a team or founding story (with clear time boundaries)
-
-Invalid reason: fear of finding something new.
-
-**As a founder**: you have more levers — you can recap, reset the stock price, return capital to the board, or radically restructure. The employee is essentially locked in unless they leave.
+The reason this is non-obvious: these companies look fine from the outside. The music stopped on the ZIRP era (zero interest rate policy), but these companies are "sleeping in the shadows" — not dead, but not growing toward their valuation.
 
 ## Guest Perspectives
 
-### Nikhyl Singhal ([[nikhyl-singhal]])
-Nikhyl wrote about this in 2023 when many tech companies were quietly stagnating after the ZIRP era ended. His concern: tech professionals were staying at ex-growth companies with unrealistic expectations of equity returns, neither getting career-advancing experiences nor financial returns. He advises people to think of this as a simple math problem: if half your comp is worthless equity, are you okay taking a 50% pay cut?
+### Nikhyl Singhal (Meta)
 
-He noted that many of these companies were invisible on the outside — not failing publicly, not laying off — which made the career trap harder to recognize and leave.
+Singhal described this pattern in mid-2023 and predicted that even in the second half of that year, boards would start pulling back capital and forcing hard decisions at companies in this position.
 
-## Actionable Takeaways
-- Ask yourself: does this company have pull-based growth, or are we having to push constantly?
-- Separate the valuation number from the PMF signal — these are often disconnected
-- If you stay for learning, set a time boundary and make it explicit
-- Don't stay because of fear of change; that's a poor reason in any scenario
-- For founders: consider recapping early rather than letting the problem compound
+**The diagnostic test (two questions to ask yourself):**
+1. "Are we scaling a product — with customers who love us and a tremendous sucking sound (organic pull)? Or are we still trying to find that customer pull?"
+2. "Is our valuation hundreds of millions or more?"
 
-## Sources
-- [[nikhyl-singhal]] — "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)"
+If you're still searching for product-market fit AND your valuation is hundreds of millions or more, you're at an ex-growth company.
+
+**The sucking sound:** Singhal uses "sucking sound" to describe true product-market fit pull — the organic, low-friction demand that requires little marketing to generate. "When companies are putting very little in marketing and there're people coming into the door or there's such an easy sale, you've got it." The absence of this pull is the core signal.
+
+**What to do:**
+- **For employees:** Leave. The opportunity cost is too high. Your equity is likely worth very little. Treat the decision as if you're taking a large pay cut to stay.
+- **For founders:** You have more options — recap the company, reset stock prices, return capital to investors. But it requires hard decisions.
+
+**Legitimate reasons to stay:**
+- This is the biggest role you could possibly have, and the experience is genuinely career-additive regardless of outcome
+- Deep loyalty to your team (though Singhal says put bounds on loyalty)
+- Learning an experience at the executive level you couldn't get elsewhere
+
+**Do not stay for:** Fear of finding another job. That's a common reason but a bad one.
+
+## Why This Pattern Persists
+
+The ZIRP era (2010-2021) created a cohort of growth companies that grew on cheap capital and distribution platform economics (Facebook ads, Google ads, App Store). When interest rates rose in 2022, the fundamentals changed, but the privately-held companies didn't have to mark their valuations to market the way public companies did. They were "capitalized ocean liners" — still afloat, but heading nowhere.
+
+By the time Singhal's podcast aired (2023), many contemporaneous public companies were worth 10% or less of their peak valuations. The private equivalents were still at paper valuations from earlier rounds.
 
 ## See Also
-- [[product-market-fit]]
-- [[zirp-pm]]
-- [[startup-resilience]]
-- [[three-inflection-points]]
+
+- [[concepts/product-market-fit]]
+- [[concepts/zirp-pm]]
+- [[guests/nikhyl-singhal]]
+
+## Sources
+
+- [[guests/nikhyl-singhal]] — "Building a long and meaningful career" (Lenny's Podcast, 2023-06-11)

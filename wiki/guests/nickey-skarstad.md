@@ -1,98 +1,120 @@
 ---
 guest: Nickey Skarstad
-role: Director of Product Management, Duolingo (formerly Airbnb, Etsy, Shopify, The Wing)
+role: Director of Product Management, Duolingo
 episode: "Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more"
 date: 2022-07-18
-topics: [product-strategy, okrs, product-quality, vision, brainstorming, remote-work, org-design]
+topics: [product-management, strategy, okrs, quality-metrics, org-design, remote-work, decision-making, brainstorming]
 ---
 
 # Nickey Skarstad
 
-> Seasoned PM leader who built product at Etsy, Airbnb Experiences, Shopify, and Duolingo, known for deeply operational product thinking and translating vision into executable strategy.
+> A PM with deep experience at Etsy, Airbnb, Shopify, and Duolingo who specializes in translating vision into executable strategy — and in the systems thinking that keeps products high-quality at scale.
 
-## Content
+## Bio
 
-Nickey Skarstad has 12+ years in product roles across consumer marketplaces and platforms. She started as a forum moderator at Etsy in 2010 and eventually became Director of Product there, working primarily on seller tooling. She joined Airbnb's Experiences team when the product had just launched, serving as first boots-on-the-ground PM and helping it find product-market fit. After a stint at The Wing (a startup that collapsed during COVID), she spent a brief time at Shopify before joining Duolingo to lead a stealth 0→1 product.
+Nickey Skarstad spent 7 years at Etsy, rising from forum moderator to Director of Product Management (working primarily on the seller side). She was then Product Lead at Airbnb (leading the Experiences product team), VP Product at The Wing, and a Product Lead at Shopify before joining Duolingo as Director of PM leading a stealth 0-to-1 product. She is known for her obsession with product quality, second-order thinking, and making strategy actionable for teams.
 
-### Operationalizing Product Quality
+## Key Ideas
 
-Airbnb's Experiences team used review rate as the ultimate balancing metric — not just bookings or revenue, but whether every booker had a genuinely great experience. This approach forced the whole team (ops and product) to stay aligned around quality, not just growth.
+### Product Quality: The Airbnb Standard
 
-Similarly at Etsy, Nickey found that optimizing purely for new seller signups tanked downstream metrics: sellers weren't getting to a first sale in a reasonable time. The fix was counterintuitive — adding friction to the onboarding flow, slowing users down to help them list better, which actually accelerated time to first sale. "First sale in 7 days" became a quality predictor that also correlated with long-term retention. The lesson: quality metrics and growth metrics should be in balance, like a seesaw — and finding the right quality metric often reveals a very different truth than pure growth metrics.
+Airbnb's defining characteristic is a non-negotiable obsession with end consumer experience. "Airbnb does not ship product if it is not good." This means thinking through all edge cases before launch and optimizing for quality over speed. Nickey internalizes this and applies it everywhere: if it shipped from Airbnb, it was really high quality.
 
-Practical tools for operationalizing quality:
-- Dogfooding constantly (especially for experiential products)
-- Using a "balancing metric" alongside growth metrics that represents end-user success
-- Making the quality goal visible across all teams (ops, product, leadership)
+Operationalizing quality at Airbnb Experiences meant using the review rate as the top-line goal, not just bookings or revenue. Making sure every person who booked had a great experience when they arrived. The way to make that real was: (1) coaching and educating hosts to meet standards, (2) dogfooding constantly ("we were taking experiences all over the world all the time"), and (3) having it discussed in every team meeting across ops and product.
 
-### Vision, Mission, Strategy, OKRs: The Pyramid
+At Etsy, the quality metric was "first sale in 7 days." They found that adding friction to the seller onboarding flow (slowing you down, making you more thoughtful about listings) actually increased first sales — and seller retention. Counterintuitively, less friction in onboarding led to worse downstream quality metrics.
 
-Nickey uses a top-down pyramid: Vision → Mission → Strategy → Objectives (OKRs). Vision is 10-year aspiration; mission is how you bring the vision to life; strategy articulates what needs to happen; objectives bring it to the next 3-6 months.
+### The Vision-Mission-Strategy-OKRs Pyramid
 
-Key process principles:
-- Never develop strategy in a vacuum — bring in the team and leadership from the start. People who don't participate won't buy in.
-- Vision work should be cross-functional and cross-level. Use remote brainstorming tools (Miro, FigJam) with structured prompts and timers.
-- Don't try to arrive at a final vision in one session — gather inputs, synthesize later, then get feedback.
-- OKRs translate strategy into what you're actually doing this quarter. They make the abstract actionable.
-- Communicate strategy via async tools (Loom video updates, Slack posts) so people stay bought in without waiting for the next meeting.
+Nickey's favorite framework for linking high-level vision to near-term execution. She describes it as a pyramid:
+- **Vision (top)**: Where do you need to go in 10 years? Zooming out and thinking existentially.
+- **Mission**: Another layer of abstraction — how do you make vision come to life?
+- **Strategy**: What do we think needs to happen for us to actually execute on that vision?
+- **OKRs (bottom)**: In the next 3-6 months, what are the notes we need to hit?
 
-### Second-Order Thinking
+The key is running this top-down so each level stays grounded in the higher-level direction. Good OKRs are "clear articulations of your strategy that boil it down into the now."
 
-One of Nickey's strongest frameworks: before making a decision, map how it cascades through your system. Every decision you make today shapes what decisions are possible tomorrow. This is especially critical in marketplaces and platforms with UGC, where a change to one element ripples across the ecosystem.
+Her process: use FigJam or Miro for cross-functional brainstorming sessions. Pre-fill the board with prompts. Set timers. Synthesize as a group during the meeting, then spend more time thinking individually after.
 
-Practical tools:
-- Write "second-order effects" as a section in your product requirements doc
-- Use first principles to articulate what you care about before getting into design — then you can check design decisions against them
-- Brainstorm with the team: "We're making these changes today — how do they cascade? What are the gotchas?"
+### First Principles + Second-Order Thinking
 
-Early-stage founders often skip this because they're rightly focused on product-market fit. But technical debt and scalability problems often trace back to not thinking second-order early enough.
+Second-order thinking means thinking about the downstream effects of your decisions — not just the immediate outcome, but what it makes possible or forecloses. "The decisions you make today will affect tomorrow's decisions and your ability to build on them."
+
+Practical ways to operationalize it:
+- Add a "second-order effects" section to your spec or PRD template
+- Write first principles for what you care about before you start designing
+- Run a brainstorm specifically on "if we do X, what does that cascade through the rest of our ecosystem?"
+- Use Shopify's first principles approach: align on foundational assumptions early, before design begins
+
+Nickey recommends Donella Meadows' *Thinking in Systems* as the foundational text for this type of thinking.
 
 ### One-Way vs. Two-Way Door Decisions
 
-Nickey applies Jeff Bezos's one-way/two-way door framework actively:
-- **One-way door**: Hard to reverse. Spend real time on it. Get buy-in from leadership and broader stakeholders. E.g., defining standards for what constitutes a good Airbnb Experience — built policies, host education, and product around it.
-- **Two-way door**: Reversible. Let the team ship with autonomy. Don't slow them down.
+Borrowed from Amazon/Jeff Bezos: one-way doors are hard or impossible to reverse; two-way doors you can back out of. The skill is correctly identifying which is which (she says she's right about 80% of the time now — it's a muscle you build).
 
-Building the muscle for distinguishing these takes experience — you get better at spotting "linchpin" decisions by understanding your own ecosystem.
+Two-way doors: give your team autonomy, let them move fast, you don't need to be in the room.
+One-way doors: slow down, get buy-in up the chain, get cross-functional input, debate and discuss.
 
-### Product Reviews: Three Gating Moments
+Example of a one-way door at Airbnb: defining what made a good experience (the quality standards that hosts had to meet). That definition became the foundation of the product, policy, and host education — nearly impossible to change once it scaled.
 
-Nickey's structure for product reviews in larger orgs:
-1. **First principles gate**: What are we building, what are we solving for, what are the foundations? Getting alignment here prevents wasted work.
-2. **Approach gate**: How are we solving the problem? Includes an architecture/infrastructure review.
-3. **Ship gate**: Is it ready? Cross-functional final check.
+### Bringing People Along on Strategy
 
-Key rule: bring reviews cross-functionally. If design feedback and engineering feedback happen in separate silos and never converge, you end up with contradictions and rework. The more you can create shared gating moments, the better.
+Strategies created in a vacuum fail even when they're correct, because people don't feel ownership. Key principles:
+1. Pull in your team in the drafting process (not voting on strategy — good product work is not democratic — but getting input)
+2. Talk to leadership and CEO early to get organizational context and avoid strategy conflicts
+3. Use async video (Loom) to cascade strategy decisions quickly rather than waiting for the next meeting
+4. Maintain a weekly meeting where you constantly check in: "What are we trying to do? How does this ladder up? Are we on track?"
+5. Teams who are bought into vision and strategy are less distractable by shiny objects
 
-### Energy Audit for Career Decisions
+### Red/Yellow/Green Energy Audit
 
-Nickey's tactical tool for understanding if a role is right for you: color-code your calendar after meetings (red = drained/bored, yellow = neutral, green = energized). Then look back at the past few weeks. She used this at Shopify and found almost all red/yellow — a clear signal the platform work wasn't a fit for her, even though the company was excellent.
+Nickey's tactic for figuring out if a role is right for you: go back through your recent calendar and color-code every meeting red (draining), yellow (neutral), or green (energizing). If the calendar is mostly red and yellow, that's a signal the role isn't a fit — regardless of title or comp. This is how she realized Shopify's platform PM role wasn't right for her.
 
-More broadly: get clear on what type of PM work gives you energy, then optimize your next role for that. Zero-to-one, consumer, marketplace, platform, and growth work are all very different day-to-days.
+"Get really good at figuring out what gives you Nickey Skarstad energy."
 
-### Actionable Advice
-- Use a quality/growth balancing metric — not just top-line growth — to stay honest about end-user success
-- Never develop strategy alone; bring your team along so they feel ownership
-- Use Loom for async strategy cascade after planning sessions
-- Color-code your calendar to audit energy by meeting type — it surfaces what you actually love
-- Think second-order before shipping marketplace/platform changes
-- Follow people who aren't tech people (journalists, cultural writers) to develop cultural intuition that sharpens product instincts
+### Designing a Product Review Process
 
-### Notable Quotes
-> "If it shipped [at Airbnb], it was really high quality. All the edge cases had been thought through. That obsession with the end consumer experience really influences the quality of their product suite."
+Product reviews fail when they happen in functional silos (design review separate from technical review, separate from leadership review) and the feedback from each doesn't reach the whole team.
 
-> "We actually slowed you down. We made you more thoughtful about what you were listing. And by doing that, we actually helped you get to a first sale faster."
+Her recommended structure — three gate points:
+1. **First principles gate**: Before design, align on what you're solving for and why. Getting approval on this is the most important — it saves the most time.
+2. **Approach gate**: What are we actually going to build? Get architecture/technical review here too.
+3. **Ship gate**: Is this ready to go out? Cross-functional review.
 
-> "Strategy is not democratic. You need a clear leader. But you should have one person who is responsible for it — with input from the team."
+For two-way door decisions: let teams ship without going through the gate structure.
 
-> "Teams who are very bought in to your vision and strategy are less distractable."
+## Frameworks
 
-## Sources
-- [[nickey-skarstad]] — "Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more"
+### The Vision-Mission-Strategy-OKR Pyramid
 
-## See Also
-- [[product-quality]]
-- [[okrs-radical-focus]]
-- [[product-vision-framework]]
-- [[friction-logging]]
-- [[energy-management]]
+See Key Ideas above. A top-down framework ensuring strategy connects from long-range vision to near-term execution. Visioning is collaborative (FigJam/Miro sessions with cross-functional teams). OKRs translate strategy into quarterly action.
+
+## Key Quotes
+
+> "Airbnb does not ship product if it is not good. And even if they're trying new things, they are obsessed with the end consumer experience." — Nickey Skarstad
+
+> "Good product work is often not democratic. You need a clear leader who understands a lot of the signals and can make decisions." — Nickey Skarstad
+
+> "The decisions you make today will affect tomorrow's decisions and your ability to build on your decisions that you made today." — Nickey Skarstad
+
+> "Get really good at figuring out what are the things that you love most about being a product person, and how can you optimize your next role for those things." — Nickey Skarstad
+
+> "Teams who are very bought into your vision and strategy are less distractable." — Nickey Skarstad
+
+## Actionable Advice
+
+- Use the review rate (or first-success metric) as your north star quality metric, not just top-line growth
+- Add friction to onboarding if it improves downstream quality and retention — counterintuitive but often right
+- Run cross-functional vision brainstorms in FigJam/Miro with pre-loaded prompts and timers; synthesize together but don't force the final vision in the meeting
+- Write first principles before designing anything — align on what matters and what doesn't
+- Color-code your calendar red/yellow/green after meetings for 2-3 weeks to understand what type of work gives you energy
+- Cascade strategy decisions via Loom to keep feedback loops fast and teams aligned
+- Identify one-way vs. two-way door decisions explicitly — and only slow down for one-way doors
+- Ask "what's the second-order effect?" as a standard question in any product review or planning doc
+- Include cross-functional people in strategy brainstorms (marketing, policy) — not just the product team
+
+## Related Pages
+
+- [[frameworks/okrs-radical-focus]]
+- [[concepts/product-market-fit]]
+- [[concepts/velocity]]

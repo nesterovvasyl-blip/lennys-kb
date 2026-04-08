@@ -1,6 +1,6 @@
 ---
 aliases: [evals, evaluations, ai-evaluations, rlhf]
-guests: [brendan-foody, hamel-husain, shreya-shankar, karina-nguyen]
+guests: [brendan-foody, hamel-husain, shreya-shankar, karina-nguyen, nick-turley]
 ---
 
 # AI Evals
@@ -83,11 +83,20 @@ Her process for new AI features:
 
 This process enabled Canvas to go from zero to shipped in 4-5 months. The feedback loop speed comes from synthetic data being cheap to generate and easy to adjust post-launch based on real user behavior.
 
+### Nick Turley (OpenAI / ChatGPT)
+
+Turley offers a product leader's perspective on evals from inside OpenAI. He started writing evals before he knew what an eval was — he was simply outlining "very clearly specified ideal behavior for various use cases" in documents. When a researcher told him "you should make an eval," he realized there was an entire research discipline that mapped to what product people call success criteria.
+
+His reframe: evals are not some technical magic requiring ML expertise. "It's really just about articulating success in a way that is maximally useful for training models. It's not that different from the wisdom of, 'You ought to articulate success before you do anything else.' It's just a new mechanism for doing that." You can write evals in a spreadsheet.
+
+His core advice for PMs: writing evals is the new lingua franca for communicating what a product should do to ML teams. PMs who understand this — that defining success and communicating it as testable behavior — become far more effective at product development in AI environments. "I hope to demystify it for people who hear that term."
+
 ## Sources
 - [[brendan-foody]] — "If the model is the product, then the eval is the PRD." (Why experts writing AI evals is creating the fastest-growing companies in history)
 - [[hamel-husain]] — "The first thing I do with every client is look at their traces. It always teaches us everything." (How to evaluate AI products, 2025)
 - [[shreya-shankar]] — "You can't dream up your failure modes before you see your data." (How to evaluate AI products, 2025)
 - [[karina-nguyen]] — "The cost of reasoning and intelligence is drastically going down." (OpenAI researcher on why soft skills are the future of work, 2025-02-09)
+- [[nick-turley]] — "It's really just about articulating success in a way that is maximally useful for training models." (Inside ChatGPT: The fastest growing product in history, 2025-08-09)
 
 ## See Also
 - [[brendan-foody]]

@@ -55,22 +55,15 @@ Every sprint should have a mix:
 
 The result: a "velocity multiplier" where each successive sprint is better informed, has a higher win rate, and moves faster — the opposite of what it feels like when you slow down.
 
-## Naomi Gleit's Origin Story ([[naomi-gleit]])
-
-Naomi Gleit was a founding member of Facebook's growth team and describes the origin of understand–identify–execute from the inside. In January 2009, the growth team stopped doing everything on the roadmap and spent the entire month on data instrumentation — logging every step of the registration flow, every step of the new user onboarding experience. Before this, the team was operating without sufficient data to make informed decisions. After this, they could see exactly where users dropped off (e.g., 20% weren't confirming their email), identify the highest-leverage interventions, and then execute with precision.
-
-Gleit extends the principle beyond product growth: she applied the same data-driven product-driven approach to Facebook's social impact work (building peer-to-peer fundraising products) and to crowdsourced translation (community-translated the site into 100+ languages rather than hiring professional translators). In each case, the pattern was: instrument first, understand what's happening, identify the right intervention, then build.
-
 ## Sources
 
 - [[bangaly-kaba]] — "Slow down and speed up. It's counterintuitive but if you're shipping 20 things and 15 aren't working, you'd be better shipping 10 things and having 9 of them work." (Unorthodox frameworks for growing your product, career, and impact)
 - [[bangaly-kaba]] — "Understand work is an intentional affordance — you put it down as an actual item, not assume it will happen in the background." (Unorthodox frameworks)
-- [[naomi-gleit]] — "Do you have the data that you need to know what you need to do on growth? If not, take the time to instrument that data." (Meta's head of product on working with Mark Zuckerberg)
+- [[naomi-gleit]] — Facebook's growth team independently arrived at the same framework. In January 2009, Naomi's team paused their entire roadmap for one month to do nothing but instrument data — tagging every step of the registration flow and onboarding experience. Alex Schultz's motto: "I guess when you can know." Only after that month did the team shift to Identify and Execute. Naomi calls this the foundation of the growth team's success: proving that product (not marketing) drives growth, and grounding every decision in instrumented data. (Meta's head of product on working with Mark Zuckerberg, early growth tactics, and more)
 
 ## See Also
 
 - [[bangaly-kaba]]
-- [[naomi-gleit]]
 - [[growth]]
 - [[experimentation-culture]]
 - [[marginal-user-framework]]

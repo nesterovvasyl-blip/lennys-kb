@@ -1,92 +1,111 @@
 ---
 guest: Naomi Ionita
-role: Partner, Menlo Ventures; ex-VP Growth, Invoice2go; ex-Evernote
+role: Partner at Menlo Ventures; formerly VP of Growth at Invoice2go, early growth leader at Evernote
 episode: "How to price your product | Naomi Ionita (Menlo Ventures)"
 date: 2023-01-12
-topics: [pricing, monetization, growth, product-led-growth, b2b-saas, venture]
+topics: [pricing, monetization, product-led-growth, growth, saas, freemium, modern-growth-stack]
 ---
 
 # Naomi Ionita
 
-> Partner at Menlo Ventures and one of the earliest practitioners of product-led growth and monetization, with deep operating experience at Evernote and Invoice2go.
+> One of the earliest product growth and monetization leaders in tech, now a VC at Menlo Ventures, who delivers the most actionable pricing framework for B2B founders available anywhere.
 
 ## Bio
 
-Naomi Ionita is a partner at Menlo Ventures, focused on early-stage SaaS from seed to Series B. She started her career in engineering and consulting before transitioning to product in 2006, then spent time at the Stanford Design Institute (studying under the founder of IDEO) before joining Evernote in 2011. At Evernote (10M to 100M users), she shifted from core product to building the company's growth product function — one of the earliest growth teams in the industry, before PLG was even a coined acronym. She subsequently joined Invoice2go as VP of Growth, building teams across product, data, growth engineering, and design, focused on product-led growth and monetization. Her work as an advisor to Reforge and then as an investor gave her a portfolio view across hundreds of companies, which she now applies as a VC.
+Naomi Ionita started her career in engineering and consulting before moving into product in 2006. She was at Evernote from 2011, building growth product infrastructure at 10–100 million users, then at Invoice2go (top-grossing business app) as VP of Growth, leading product, data, growth engineering, design, and research teams. A Reforge early contributor and speaker, she transitioned to venture capital at Menlo Ventures where she focuses on early-stage SaaS (seed to Series B). As an investor, she sees what works and doesn't across a large portfolio of companies — particularly in monetization, pricing, and what she calls the Modern Growth Stack.
 
-### The Three Biggest Pricing Mistakes
+## Key Ideas
 
-Naomi identifies three failure modes she sees repeatedly in early-stage startups:
+### The Three Pricing Mistakes Founders Make
 
-**1. Waiting too long to monetize.** Charging people is the true signal of product-market fit — people opening their wallets proves you've built something of real value. When you delay, you inadvertently cheapen your product (a $0 price signals $0 value), miss critical feedback loops about what people are willing to pay for, and create a worse future when you do eventually try to charge. The early "free beta" phase is an R&D cost, not a permanent state. Her advice: start charging early; freemium is fine, but be strategic about where you put the paywall.
+**1. Waiting too long to monetize.** Early free usage is an R&D cost — legitimate. But companies mistake "people love our product" for product-market fit. The true signal of PMF is people opening their wallets and paying. Waiting too long cheapens your product (users attribute $0 value to what you built), starves you of feedback on what people will actually pay for, and creates a backlash problem when you eventually charge. Better to have pricing from early on than to shock users later.
 
-**2. Underpricing.** The most common mistake. Larry at Envoy famously 10X'd his price in an enterprise meeting because the prospect was enthusiastic, and the exec said "okay, sure" without a moment of hesitation — revealing that the original price had left enormous money on the table. Naomi's advice: lose 20-30% of deals on price to understand where your ceiling is. Most founders are wildly underpriced. Evernote at $45/year for avid users who said they were getting "hundreds of dollars of value" is the cautionary tale.
+**2. Underpricing (including leaving tiers on the table).** The Evernote story: when Naomi surveyed why users upgraded to premium at $45/year, one of the top answers was guilt — "I use it so much I feel obligated to pay." If guilt is a primary conversion driver, your free tier is too good. Separately: avid Evernote users were getting hundreds of dollars of value but only paying $45/year, while new users couldn't justify $45 at all. One price for everyone left money on the table from both ends.
 
-**3. Setting and forgetting.** Pricing should be iterated like the product roadmap — every 6-12 months when meaningful new features ship is a natural time to revisit whether the price still reflects the value you're delivering. Evernote went many years before overhauling its pricing and missed significant revenue.
+The fix: bifurcate. Run surveys to understand perceived value by segment, then create differentiated plans. The Envoy story: CEO Larry 10x'd the price in a live enterprise conversation on a hunch — the customer said "okay, sure" without hesitation. He could have pushed it further. Most companies are dramatically undercharging.
 
-### Matching Price to Value: The Day One vs. Day 100 Framework
+**3. Setting pricing and forgetting it.** Treat pricing like your roadmap — revisit every 6–12 months when you ship meaningful new value. Evernote let the same pricing sit for years. ProfitWell data: a 1% improvement in monetization has 4x the impact on bottom-line revenue as a 1% improvement in acquisition. Pricing changes that survey data and evidence support can deliver 25%+ ARR improvements (per OpenView research).
 
-The most actionable pricing insight from Naomi: segment features by when users get value from them.
+### Match Price to Value: The Value Metric
 
-- **Day One features:** Premium capabilities that deliver immediate value to a new user in their first session — these are the features that justify paying from the start
-- **Day 100 features:** Advanced functionality whose value requires scale or time — more data in the platform, team-wide workflows, enterprise integrations
+The unit of pricing should map directly to the unit of value the customer gets. Historical SaaS used seat-based pricing; the rise of PLG introduced usage-based models (API calls, messages sent, words written, invoices created). Usage-based pricing creates a natural escalator: as customers use your product more and get more value, you automatically capture more revenue.
 
-Don't make a new user pay for things they won't understand or use for months. Put Day 100 features in a higher-tier plan and let users graduate to it when they're ready. At Invoice2go, applying this framework doubled the upgrade rate from starter to pro while simultaneously increasing the pro plan price — a compound win that is rare in pricing optimization.
+The practical answer: a hybrid approach. Under 5% of SaaS companies use purely usage-based models; the vast majority use "good/better/best" subscription tiers with a consumption component (quota limits) at each tier. Usage-based alone creates CFO anxiety — buyers need predictability. Combining a fixed base with variable consumption layers addresses both sides.
 
-### How to Set Your Initial Price: The Pricing Process
+### Day One vs. Day 100 Features
 
-Naomi recommends a cross-functional pricing committee (PM, data, sales, finance/RevOps depending on GTM model) that owns pricing iteration continuously. The process:
+A powerful packaging framework for freemium decisions: separate features by when in the user lifecycle they become valuable.
 
-1. **Understand demand:** Survey users to rank features as must-have / nice-to-have / not necessary, or use a 100-point allocation exercise where users spend points across features. This reveals the one or two features that actually drive conversion — it's rarely the full laundry list on the pricing page.
+- **Day one features**: Features that deliver immediate value on first use. These should be accessible in the free tier — they're how you collapse time-to-value and drive habit formation. If you paywall day-one features, you break the funnel before it starts.
+- **Day 100 features**: Advanced features whose value only emerges with scale, history, or team collaboration. These belong in paid tiers. Users can't even appreciate them on day one, so paywalling them there doesn't feel punitive — it feels logical.
 
-2. **Understand willingness to pay:** Use the Van Westendorp method — four questions: (a) At what price is it so cheap you question quality? (b) At what price is it a good deal? (c) At what price is it expensive but you'd still pay? (d) At what price is it prohibitively expensive? Plotting the four curves reveals the pricing corridor.
+At Invoice2go, applying this framework allowed them to double the upgrade rate from starter to pro plan while simultaneously raising the pro plan price 30%. Both better conversion AND higher ARPU.
 
-3. **Map to the user journey:** Think longitudinally — from individual user to pair to team to enterprise. The goal is a pricing ladder where each rung is justified by genuine incremental value.
+### The Pricing Process: Van Westendorp + Prioritization Surveys
 
-### Freemium Done Right
+Setting an initial price requires a structured process, not a gut call. Naomi's recommended approach:
 
-Freemium is not the enemy of monetization — it's a CAC reduction strategy. Free users drive organic growth, referrals, and shared workflows that reduce the cost of acquiring the next paid user. The key question is where to put the paywall. Naomi's rule: the path to the aha moment must be free. Users need to experience the core delight and say "I'll never go back to the old way" before being asked to pay. Everything beyond that core utility can be a paid feature.
+1. **Form a pricing committee** — cross-functional (product, growth/data, sales, finance, rev ops). Don't let pricing live in one department.
+2. **Survey for feature prioritization** — give users a list of features, ask them to classify as must-have, nice-to-have, or not necessary. Or use a 100-point question (distribute points across features proportional to value). Identifies which 1–2 features actually drive conversion vs. the laundry list.
+3. **Survey for willingness to pay using Van Westendorp's method** — four questions on the features your users ranked highest:
+   - What price seems so cheap you'd question quality?
+   - What price seems like a good deal?
+   - What price seems expensive but you'd still pay?
+   - What price is prohibitively expensive?
+   Plotting these four curves reveals your optimal pricing zone.
+4. **Experiment in production** — geo-segment tests (Canada or Australia before rolling out to the US) to isolate pricing variables. Track not just immediate conversion but long-term churn impact (a year-one discount may look great until year-two retention is revealed).
 
-The Evernote failure: the free tier was too good. When growth surveys revealed that "guilt" was one of the primary conversion reasons ("I use it so much, I feel obligated to pay"), that was evidence of severe value misalignment — giving away too much and under-monetizing avid users.
+### Evernote's Single-Player Trap
+
+Evernote's fundamental strategic mistake: it was philosophically antisocial. Designed as your "second brain" — a personal tool. You can't retrofit collaboration. You have to be collaboration-first. When Notion built team workflows from the start, they captured the enterprise chasm Evernote could never cross.
+
+The collaboration bridge unlocks every metric simultaneously: acquisition (organic referrals, shared workflows), retention (shared workflows are stickier — employees become accountable to each other), and monetization (revenue scales with usage; team adoption trips enterprise contract wires). Evernote never crossed that bridge.
 
 ### The Modern Growth Stack
 
-Naomi's thesis as a VC: the "modern growth stack" is to growth teams what the "modern data stack" is to data engineering. It's a collection of purpose-built cloud-native tools for the workflows that drive product growth and revenue — tools for product-led sales, A/B testing and experimentation, billing and monetization management, and personalization. These tools allow growth teams to do work they previously had to build in-house (Naomi spent significant engineering time at Invoice2go building proprietary metering, billing, and experimentation infrastructure that would now be available off-the-shelf).
+The modern data stack (ELT pipelines, cloud data warehouse, dbt, visualization) enables a new layer: the **Modern Growth Stack** — workflows that use that data to drive product, growth, and revenue outcomes. Key layers:
 
-Key categories:
-- **Product-led sales:** Converting product usage data into sales intelligence (e.g., Endgame, Pocus) to identify and close expansion opportunities
-- **Experimentation:** Modern tools like Eppo that tie experiment results directly to warehouse metrics (subscriptions, revenue, board-level KPIs) rather than just click-through rates
-- **Billing/monetization:** Usage-based billing infrastructure (Metronome, Orb) that supports metering and enables pricing experimentation
+- **Product-led sales tools** (Endgame, Pocus): surface usage signals to inside sales for account expansion
+- **Experimentation platforms** (Eppo, Amplitude): run A/B tests against board-level KPIs, not just click-through rates
+- **Billing and monetization infrastructure** (Metronome, Orb): usage-based billing with built-in data analysis and revenue forecasting
+- **Reverse ETL** (Hightouch, Census): break down data silos so business teams can self-serve
 
-### Pricing Model Guidance
+The theme: automation enables teams to do more with less. In a tighter macroeconomic environment, this ROI story — both cost savings and revenue generation — is the most compelling path through.
 
-On usage-based vs. seat-based vs. hybrid: Naomi doesn't see them as mutually exclusive. Fewer than 10% of SaaS companies use a purely usage-based model. The majority use a hybrid: good/better/best tiers with a consumption component (quota limits tied to a value metric) within each tier. Purely usage-based models create unpredictable costs for buyers — CFOs want to budget, and bill shock is real. The goal is a fixed + variable model where the variable component creates a natural escalator as usage grows.
+## Frameworks
 
-### Actionable Advice
-- Don't set pricing and forget it — revisit every 6-12 months when meaningful features ship
-- Run a pricing committee cross-functionally rather than making pricing a single-threaded exercise
-- Use Van Westendorp's four-question method to understand willingness-to-pay ranges
-- Segment features by "day one" vs. "day 100" value to determine what goes in free vs. paid tiers
-- Test pricing by geo before rolling out changes in primary markets (Canada, Australia as pilots)
-- Track long-term metrics when testing pricing changes — year-two churn matters as much as initial conversion
-- If you have a PLG product with organic top-of-funnel, think of free users as CAC reduction, not revenue leakage
+### Freemium Paywall Positioning
 
-### Notable Quotes
-> "Do not set it and forget it. Think about your pricing just like you do your roadmap. Every 6 to 12 months, there's probably something meaningful that you're launching for users."
+Put the path to the "aha moment" in the free tier. That's the core utility — the thing that makes users say "I'm never going back to the old way." Everything past the aha moment and habit formation is a candidate for a paid tier. The question: "Where do you put the paywall?" not "Do you do freemium?"
 
-> "If guilt is one of the main reasons why people are paying you, then your free version is too good, and you are leaving money on the table."
+Free users who don't pay still have value: they drive organic acquisition (word-of-mouth, shared workflows) and reduce CAC. The math justifies giving up some revenue in exchange.
 
-> "Monetization improvement has 4X the impact on the bottom line compared to the same percentage improvement in acquisition."
+## Key Quotes
 
-> "You can't retrofit collaboration. You have to be collaboration-first."
+> "Do not set it and forget it. Think about your pricing just like you do your roadmap. Every 6 to 12 months, there's probably something meaningful that you're launching for users. Treat that as an opportunity to revisit your monetization strategy." — Naomi Ionita
 
-## Sources
-- [[naomi-ionita]] — "How to price your product | Naomi Ionita (Menlo Ventures)"
+> "If guilt is one of the main reasons why people are paying you, then your free version is too good, and you are leaving money on the table." — Naomi Ionita
 
-## See Also
-- [[outcomes-based-pricing]]
-- [[product-led-growth]]
-- [[product-led-sales]]
-- [[freemium-subscription]]
-- [[product-market-fit]]
-- [[madhavan-ramanujam]]
+> "You can't retrofit collaboration. You have to be collaboration-first." — Naomi Ionita
+
+> "A 1% improvement on monetization has 4x the impact of a 1% improvement on acquisition." — Naomi Ionita (citing ProfitWell data)
+
+> "Think about your pricing just like you do your roadmap." — Naomi Ionita
+
+## Actionable Advice
+
+- Start charging earlier than you think you should. The signal of PMF is people paying, not people loving your product.
+- Run Van Westendorp willingness-to-pay surveys before setting any initial price. It takes a day and saves years of underpricing.
+- Separate day-one features (free tier) from day-100 features (paid tier). This is the lever that can both double upgrade rates AND raise prices simultaneously.
+- Form a cross-functional pricing committee. Pricing isn't owned by sales or product alone.
+- Lose 20–30% of deals on price intentionally. That's how you find your ceiling. Most companies never push hard enough to find it.
+- Revisit pricing every 6–12 months, tied to significant product launches. Every new feature is an opportunity to recapture value.
+- If you have a PLG product, invest in a product-led sales layer to capture enterprise expansion from power users without requiring full outbound motion.
+
+## Related Pages
+
+- [[concepts/freemium-subscription]]
+- [[concepts/product-led-growth]]
+- [[concepts/product-led-sales]]
+- [[concepts/outcomes-based-pricing]]
+- [[frameworks/bottom-up-gtm]]

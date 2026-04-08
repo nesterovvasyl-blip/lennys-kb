@@ -1,112 +1,149 @@
 ---
 guest: Nikhyl Singhal
-role: VP of Product, Meta (Facebook app); founder of The Skip CPO Community
+role: VP of Product, Meta (Facebook app)
 episode: "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)"
 date: 2023-06-11
-topics: [pm-career, leadership, management, mentorship, promotions, career-development]
+topics: [career-development, product-management, leadership, management, coaching, mentorship, pm-career]
 ---
 
 # Nikhyl Singhal
 
-> VP of Product at Meta overseeing the Facebook app (messaging, groups, stories, feed), serial founder, and prolific career coach who has mentored hundreds of product leaders.
+> A VP of Product at Meta who has spent a career coaching hundreds of PMs through career transitions — with a framework that shifts focus from the next promotion to the job after next.
 
-## Content
+## Bio
 
-Nikhyl Singhal is VP of Product at Meta, where he leads product for the Facebook app including messaging, groups, stories, and feed. Before that he was Chief Product Officer at Credit Karma and held senior product and leadership roles at Google (overseeing Hangouts and Photos). He has co-founded three startups. He runs a CPO-focused community and newsletter/podcast called The Skip, which focuses on career transitions and the "job after next" thinking.
+Nikhyl Singhal is VP of Product at Meta, overseeing the Facebook app teams building messaging, groups, stories, and the main feed. Prior to Meta, he was Chief Product Officer at Credit Karma and held various product leadership roles at Google (including Google Hangouts and Google Photos). He has co-founded three startups. He is deeply committed to PM coaching and mentorship, running a community called The Skip for senior CPOs, a newsletter and podcast of the same name, and taking "911 calls" from PMs in career dilemmas weekly.
 
-He is one of Lenny's podcast's most cited mentors — multiple previous guests have credited him privately; Annie Pearl from Calendly is one who acknowledged it publicly.
+## Key Ideas
 
-### Career as a Product: Think Long-Term
+### Think Career, Not Promotion — "Think Skip Job"
 
-Nikhyl's central thesis: most PMs think too short-term about their careers. Common short-term framing: "my manager sucks," "things move too slowly," "I want a promotion." His reframe: think about the job after next, not the next job.
+The most common PM career mistake: being promotion-focused rather than career-focused. Promotion is the company's system for recognizing progress, but treating promotion as a career goal leads to lateral moves that aren't forward moves.
 
-**Career as a product**: work backwards from your end state. What does the great version of your career look like? Then break it into act one (learning, building), act two (managing the factory), and act three (what comes after success). Most people build a detailed act one and two but never design act three — and then feel lost when they arrive.
+Nikhyl's reframe: think about the job after next (the "skip job"), not the next job. Work backwards from where you want to end up — like a product roadmap. What skill set do you need to hold your skip job? What experiences do you need? Let those answers dictate where you go next, even if that means staying put and learning to navigate ambiguity.
 
-**The greyhound story**: Dogs at a greyhound track were motivated by fake rabbits just out of reach. The moment a dog accidentally touched the rabbit, it never ran again — because the goal was achieved and there was nothing after it. Many executives experience this when they "catch the rabbit" (reach VP, CPO, get the exit) and suddenly feel purposeless.
+"Almost think of career as a product. If you're building a good product, you think about what a great product would look like, and then you break it into version one, version two, version three."
 
-### Ex-Growth Companies: The Career Danger Zone
+### Avoiding Ex-Growth Companies
 
-Nikhyl coined the term "ex-growth company" for a specific dangerous career context: a startup that raised a lot of money at a high valuation during the zero-interest-rate era, is not yet at product-market fit, and is now trying to find it with a team sized and valued for a scaling company.
+Nikhyl coined "ex-growth companies" to describe a dangerous category: companies that have raised large amounts of capital, have long runways, but have not achieved durable product-market fit. They're not laying off and not visibly struggling, but their valuation (hundreds of millions or more) is totally disconnected from their actual market pull.
 
-Signals you're at one:
-- The company is reframing its core product (still searching for the sucking pull of true PMF)
+Signs you're at an ex-growth company:
+- The core product is still being redefined (searching for product-market fit)
 - Valuation is hundreds of millions or more
-- But user acquisition is hard and requires a lot of effort
+- The "sucking sound" — organic pull that requires little marketing to drive growth — is absent
 
-Why it matters: half or more of your comp may be equity that is effectively worthless. Unless you're learning something unmatchable (a career-defining role you couldn't get elsewhere) or have strong loyalty reasons, the opportunity cost is too high.
+For employees: most of your comp is equity, and that equity may be worth nothing. The opportunity cost is severe. Reason to stay: only if it's the biggest leadership role you'll get, or deep loyalty to the team.
 
-PMF signal Nikhyl uses: "How hard are you working to bring people in the door?" Real PMF has a pull — users come despite friction. Ex-growth companies are pushing.
+### Four Reasons You're Not Getting Promoted
 
-### Why You're Not Getting Promoted
+Nikhyl's taxonomy of promotion blockers:
+1. **No advocate**: Someone needs to see the magic in you. If you have the skills but your manager or committee doesn't see it, you're in the wrong setting — not a deficiency, just a mismatch. Change managers or companies.
+2. **The role doesn't exist**: In a contracting market, companies eliminate manager layers and growth roles. You may be fully qualified but there's simply no position to promote you into.
+3. **Impatience**: High performers set aggressive timelines and get frustrated when the system takes its normal pace. Leadership development is lagging and subtle — it takes more time than output-based advancement.
+4. **Real development area**: 50% of promotion blocks are genuine gaps the person refuses to hear or doesn't know about. The gap is usually visible to promotion committees, invisible to the individual and sometimes their manager.
 
-Four real reasons people don't get promoted:
-1. **No advocate** — someone in the process doesn't see your magic. You're in the wrong setting; change teams, managers, or companies.
-2. **The role doesn't exist** — especially common in today's constrained hiring environment. The position you'd be promoted into hasn't been created. Not your fault, but you may need to move.
-3. **Impatience** — high performers who succeeded by setting aggressive timelines sometimes don't realize leadership promotions legitimately take longer; impact is lagging and soft skills are harder to assess quickly.
-4. **Real development area being ignored** — the most common case. The individual has genuine feedback they've been dismissing. Often the formal feedback system obscures it; informal peer feedback surfaces it.
+### Getting Real Feedback (Not Just Formal Feedback)
 
-Tactical fix: seek informal, ground-truth feedback rather than relying on formal performance reviews. When you get hard feedback, **repeat it back better than the person gave it** — this signals you heard it, builds psychological safety, and creates a feedback flywheel.
+Formal feedback systems are optimized for HR, not truth. Real feedback comes from informal conversations where people feel safe. Nikhyl's tactics:
+- Ask for informal 1:1 feedback, not "formal feedback"
+- When you receive feedback, repeat it back better than the person said it: "So what you're saying is I interrupt far too often and it's gotten to a point that's annoying — is that a fair summary?" This demonstrates internalization and makes the giver feel safe to share more.
+- Share received feedback publicly (in team meetings) to signal that giving you feedback leads to recognition, not retaliation
+- Triangulate from multiple sources: peers, direct reports, those who observe you occasionally and constantly
 
-### Shadows of Superpowers
+"The ground truth of what people are thinking" is almost always different from formal review feedback.
 
-One of Nikhyl's most distinctive frameworks: superpowers cast shadows. The exact skill that made you successful becomes your biggest development area at the next level.
+### The Shadows of Superpowers
 
-Examples:
-- Great collaborators become conflict-avoidant leaders who can't hold firm opinions
-- Amazing storytellers can't get into the details
-- Growth experts can't innovate outside proven playbooks
-- Structured thinkers can't do blue-sky ideation
-- Strong listeners become indecisive when decisions are needed
+One of Nikhyl's most powerful coaching frameworks: every superpower creates a shadow. At senior levels, the traits that made you successful become the development areas that hold you back.
 
-The dangerous part: the person can't see it, because their identity is wrapped up in the strength. When they get contradictory feedback ("you struggle with collaboration"), they dismiss it because five previous reviews called them a great collaborator. The fix is to **look for the discarded feedback** — the anomalies. Those are the artifacts of your shadow.
+Examples of superpower/shadow pairings:
+- Great collaborator → struggles to be opinionated; recoils peers with high-velocity opinions
+- Growth expert → struggles to innovate; optimizes existing curves rather than finding new ones
+- World-class storyteller → struggles to get into details; charm obscures substance
+- Decisiveness/strong opinions → poor collaborator; doesn't incorporate others' views
+- Great listener → indecisive; can't commit when it matters
+- Politically strong → unprincipled in decisions; operates on alliances rather than values
+- Structured thinker → blue-sky thinking is hard; can't ideate outside frameworks
 
-### Advice for New Managers
+The superpower/shadow is hard to see from the inside because it's identity-level. It's in the discard pile of feedback: the things your manager explains away as "that was a weird situation." Those are often the signal.
 
-Two core things new managers get wrong:
-1. **The steering wheel**: New managers think management is either "divide and conquer" (you take this, I take that) or "bike-riding" (I hold the handlebars, then I let go). Nikhyl's model is the sidecar: you're attached to the driver, you have a specific role (counsel), but the driver drives. You share the steering wheel rather than handing it off or keeping it.
-2. **Earning the right to manage**: Organizational power doesn't create genuine authority. You have to be invited in. Start by asking "What can I help you with?" and let the report invite you into specific areas. If they don't need you, that's useful information. Push too hard and everything backfires.
+To work through it: look for contradictory feedback — places where a strength you're proud of is cited as a weakness. Don't dismiss it. "What gets you there isn't what got you here."
 
-### The IC Track as a Fix for a Broken Industry
+### New Manager Survival Guide
 
-Nikhyl sees the rise of the senior IC path in product as correcting a long-standing bug: PMs were pushed into management too early, creating a generation of "average managers and below-average ICs." The IC track creates space for people who love building to keep building without becoming organizational overhead.
+Two critical reframes for new managers:
+1. **The sidecar, not the bicycle**: Management isn't "I'll hold your hand, then let go." It's the sidecar on the motorcycle — you're attached, you have a specific role, and you give counsel from the sidecar while they drive. Sharing the steering wheel, not handing it over.
+2. **You have to be invited in**: Organizational power doesn't grant you the right to manage someone. You have to earn it. Start by asking, "What can I help you with?" If the answer is "nothing," wait. When they finally invite you in, pick one or two specific areas to partner on, and make progress there. Don't try to manage everything.
 
-He sees parallels to engineering and design, where the IC track has long coexisted with management. For PMs, the IC-or-manager fork was assumed to only go one way.
+### The IC Track Is Real Now (and Important)
 
-### Meeting Operating System
+For a long time, PM careers had only one path to seniority: management. Nikhyl argues the IC track is now genuinely valuable for builders — those who want to stay deep in product problems rather than people management.
 
-Counterintuitive advice for new leaders in new roles: before touching the product or strategy, redesign the meeting cadence. Meetings are the most expensive time in a company, and they encode hidden assumptions about delegation, decision-making, and communication.
+The layoffs and pull-back from hyper-growth have accelerated this: management was created to scale expansion, and now expansion is contracting. The most compelling IC PMs are specialists: crafter, market expert, organizational ambiguity expert, domain expert, or growth expert. Pick a lane early.
 
-Nikhyl treats his team's meeting structure as a versioned product ("we're on version 7"). Every 90 days, he collects feedback, reviews the meeting cadence, and ships a new version. This is especially valuable when you first join a team — you have fresh eyes to see inefficiencies that insiders are blind to.
+The IC path is currently "tender" — the career structure isn't fully cemented yet — but it's becoming the norm in engineering and design, and product is following.
 
-Process → people → product → strategy: that's Nikhyl's ordering when you're new.
+### Career Acts: The Dog Track Problem
 
-### Actionable Advice
-- Think about the job after next, not the next job — career is a product, work backwards from the end state
-- If you're at a company trying to find PMF with a growth-era valuation, the equity math probably doesn't work — take stock
-- Get informal ground-truth feedback, not just formal reviews
-- When you receive hard feedback, repeat it back clearly — this unlocks more honest input
-- Share feedback publicly with your team to show it's welcome and valued
-- Look at your discarded/dismissed feedback — that's where your shadow superpower hides
-- For new managers: ask to be invited in before you try to manage; use the sidecar model
-- Start a new role by redesigning the meeting operating system — it's the highest-leverage action with low context
+Nikhyl's "dog track" metaphor: when a greyhound actually catches the fake rabbit, it stops running because there's no more motivation. Many senior tech professionals who achieve their "one day I will be X" goal face a similar crisis — the North Star disappears and they drift, create unnecessary conflict, or fall into bad habits.
 
-### Notable Quotes
-> "The moment the dogs accidentally touched the rabbit, they would never run again. What's next? I've achieved what I was looking for."
+Solution: start planning your act three while you're in act two. Two act-three paths:
+1. **Scaled economics**: Move up the financial stack (founder → investor → PE)
+2. **Giving**: Teaching, mentoring, community building, mission-driven work
 
-> "Promotion is our system at this company to see you moving forward. It's pretty clear in terms of levels. But career is about the long-term arc — maybe the job after next."
+Eastern philosophy and research on happiness both point to giving as the more sustainable source of fulfillment. For tech professionals who can "take economics off the table," act three as a giving phase is both fulfilling and high impact.
 
-> "Every single career decision I ever made was just figuring out who are the smartest people I know that I want to hang out with and learn from."
+### Meetings as a Product
 
-> "Perception's reality. Talk to me about that one. That might be it." [on discarded feedback]
+Nikhyl's unusual leadership practice: versioning his team's operating system quarterly. Every quarter, he documents the meetings (purpose, attendees, decision-making cadence) and treats them as v7, v8, v9 of a product. Takes feedback two months in, iterates quarterly.
 
-> "The meeting operating system is as important as the products we're building because it speaks to how we scale, how we delegate, and how we accelerate the right decisions."
+The rationale: meetings are the most expensive resource in a scaled organization. Getting the operating system right — who's in the room, how decisions get made, what's async vs. synchronous — compounds across the whole team. When starting in a new role, this is the highest-leverage thing to fix because you have fresh eyes.
 
-## Sources
-- [[nikhyl-singhal]] — "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)"
+His formula: **Process first, then people, then product, then strategy.**
 
-## See Also
-- [[giving-away-your-legos]]
-- [[j-curve-career-growth]]
-- [[product-market-fit]]
-- [[lazy-leadership]]
-- [[radical-candor]]
+## Frameworks
+
+### The Skip Framework
+
+Don't just think about the next job — think about the job after that. Choose current roles in service of the skip job. Nikhyl runs The Skip community (CPO-level peer learning group) and podcast/newsletter applying this principle.
+
+### Superpower/Shadow Taxonomy
+
+See Key Ideas above. Used in coaching to unlock development areas by identifying what talent the individual is proudest of, then mapping what shadow that creates at the next level.
+
+## Key Quotes
+
+> "Almost think of career as a product. If you're building a good product, you think about what a great product would look like, and then you break it into version one, version two, version three." — Nikhyl Singhal
+
+> "You have to be the vampire knocking on the door. You have to be invited in." — Nikhyl Singhal
+
+> "The moment that dogs actually touched the rabbit, they would never run again. What's next? I've achieved what I was looking for." — Nikhyl Singhal
+
+> "Everyone focuses on your superpowers, but no one ever thinks about what shadows they create." — Nikhyl Singhal
+
+> "Lateral moves are by definition not forward moves." — Nikhyl Singhal
+
+> "Learning is happening in your community. That's where real learning happens." — Nikhyl Singhal
+
+> "Process first, then people, then product, then strategy." — Nikhyl Singhal
+
+## Actionable Advice
+
+- Write down the paragraph you'll use to describe your current role in an interview in 2 years — use "I," not "we." If it's not compelling, change what you're doing
+- Get off ex-growth companies fast — recognize the pattern (high valuation, low product-market pull) and treat your equity as worthless
+- Look at your "discard pile" of feedback — the anomalies your manager explained away — for your real development area
+- When you receive feedback, repeat it back more clearly than the giver said it, to demonstrate and invite more
+- Share feedback you received publicly in team settings to signal safety
+- When you start as a new manager, ask "what can I help you with?" and wait to be invited in
+- Version your meeting system quarterly as if it's a product
+- Diversify your PM specialty early (crafter, market expert, domain expert, org expert, growth expert) — build a skill that differentiates you
+- Plan act three now: what would 30 years of giving look like for you?
+
+## Related Pages
+
+- [[concepts/product-market-fit]]
+- [[frameworks/j-curve-career-growth]]
+- [[frameworks/crossing-the-chasm]]
+- [[concepts/giving-away-your-legos]]
+- [[concepts/burnout]]

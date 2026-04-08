@@ -1,86 +1,89 @@
 ---
 guest: Nabeel S. Qureshi
-role: Founder, writer, researcher, ex-Palantir VP Business Development
+role: Founder, writer, researcher; ex-VP Business Development at Palantir
 episode: "How Palantir built the ultimate founder factory | Nabeel S. Qureshi (founder, writer, ex-Palantir)"
 date: 2025-05-11
-topics: [company-culture, talent, product-management, founder-training, ai, startups]
+topics: [palantir, forward-deployed-engineers, enterprise-software, data-platforms, hiring, company-culture, founder-training, product-management]
 ---
 
 # Nabeel S. Qureshi
 
-> Founder and writer who spent nearly eight years at Palantir as a forward deployed engineer, and has studied why Palantir produces more founders and top PMs than almost any other company in the world.
+> Palantir alum who illuminates how the company built the world's best founder factory by turning engineers into empathetic problem-solvers embedded inside their customers.
 
 ## Bio
 
-Nabeel Qureshi is a founder, writer, researcher, and engineer. He was a visiting scholar researching AI policy at the Mercatus Center alongside Tyler Cowen. He worked with the National Institute of Health on the largest medical data set in the world, spent time at the Bank of England, and was a founding member and VP of Business Development at GoCardless, one of Europe's largest fintech unicorns. His defining career chapter was nearly eight years at Palantir as a forward deployed engineer, working on public health projects with US federal agencies including the COVID-19 response and applied AI in drug discovery.
+Nabeel S. Qureshi spent nearly eight years at Palantir as a forward deployed engineer, working on public health projects with US federal agencies during COVID-19, cancer research at the NIH, and production-scaling at Airbus. He previously was a founding member and VP of Business Development at GoCardless (one of Europe's largest fintech unicorns) and has also been a visiting scholar researching AI policy at the Mercatus Center alongside Tyler Cowen. At the time of recording, he was building a new company in the healthcare/health-data space.
 
-### Palantir's Founder Factory: The Data
+## Key Ideas
 
-Lenny's research found Palantir is, by a wide margin, the best company in the world for producing product leaders: 30% of PMs who leave Palantir start a company (vs. 18% at #2 Intercom). Palantir PMs are most likely to be immediately promoted after leaving, most likely to become the first PM at their next startup, and among the most likely to become heads of product later in their careers. Nabeel explains both the selection and training effects behind this.
+### The Palantir Founder Factory Effect
 
-### The Forward Deployed Engineer (FDE) Model
+Palantir is the #1 company in the world for producing founders from its PM alumni: 30% of PMs who leave Palantir go on to start companies (second place is Intercom at 18%). Palantir PMs are also #1 for immediate promotion rates in their next role and #3 for eventually becoming heads of product. This is not accidental — it results from a specific combination of hiring philosophy, no-title culture, and the forward deployed engineer (FDE) model.
 
-Palantir's most radical innovation is the forward deployed engineer role. Rather than working from HQ, FDEs spend Monday through Thursday physically embedded at the customer's site — they get a desk, badge access, and work side-by-side with the customer's own employees. This model was created because Palantir's average deal size was in the many millions, which meant the value of solving a customer's problem in situ justified the cost.
+Palantir screened hard for three traits: (1) independent-minded people unafraid to push back, (2) broad intellectual interests, and (3) fierce competitiveness. They also deliberately cultivated a "bad signal" — a distinctive mission around defense, intelligence, and saving Western civilization — that attracted specific talent while repelling others. Thiel's insight: a good bad signal turns some people off. OpenAI's messianic AGI framing is the modern equivalent.
 
-The FDE's job is not just deploying software or selling software — it is to solve the problem. This requires:
-- Learning the customer's domain deeply (oil wells, aircraft diagnostics, drug discovery pipelines)
-- Gaining trust of key stakeholders and becoming "one of them"
-- Creating new software on the fly to solve novel problems
-- Running four to five iteration cycles per week: build Monday night, show Tuesday, get feedback, iterate Tuesday night, show Wednesday, iterate, and so on
+### Forward Deployed Engineers: The Core Innovation
 
-The product insight that emerged: internal tools built for FDEs — initially just Jupyter notebooks and data integration utilities — eventually became Foundry (and earlier, Gotham), Palantir's commercial platform. The mandate that every customer deployment must have a customer using internal tools within three months was painful at first but forced the product rigor that turned internal tools into a product.
+A forward deployed engineer (FDE) is a real software engineer who goes to the customer's site — literally gets a desk, badge, and login access at Airbus or the NIH — and works alongside customers Monday through Thursday. They don't just listen to requirements; they build new software to solve problems they discover on-site.
 
-### Why FDE Is a Founder Factory
+The FDE loop is relentlessly tight: Monday — go in, run meetings. Monday night — build something. Tuesday — show it to someone. Tuesday night — iterate. Wednesday — show it again. You get 4–5 feedback cycles per week. Over 6 weeks, you can take something from zero to something a customer is paying $20M for.
 
-Each FDE engagement is essentially a mini-startup arc: go into a new domain, identify the problem, build something from scratch, get it to work, get someone to pay for it, move on to the next. Nabeel got five or more of these "reps" in five different contexts (Airbus, NIH, etc.) in eight years. This is why 30% of Palantir PMs start companies — they have done the full cycle many times over before they leave.
+Nabeel's Airbus engagement illustrates the model. The mandate: help ramp A350 production 4x. He discovered that data about work orders, parts, and station dependencies was buried in inscrutable SAP table names. He built what amounted to a human-readable Asana-for-aircraft-factories — translating alien data structures into concepts humans could work with. That insight became Foundry's "Ontology" feature, now one of Palantir's key differentiators.
 
-### Talent Selection: The "Bad Signal" Strategy
+The FDE model also explains Palantir's product: forward engineers were their own first customers. Internal tooling built to survive messy enterprise data became Foundry and Gotham. Shyam Sankar mandated that every deployment must have customers using internal tools within 3 months — painful at first, but it created product rigor.
 
-Palantir explicitly filtered for three traits: (1) independent-minded people who push back and question the frame of everything, (2) people with broad intellectual interests, (3) intensely competitive people with a win-at-all-costs mentality. The company also selectively drew from military and intelligence agency veterans — people who had accomplished difficult goals in hostile environments, a skill set highly applicable to chaotic early-stage companies.
+### No Titles, Meritocracy, and Goodhart's Law
 
-Palantir's "bad signal" was its unapologetic focus on defense, intelligence, and national security at a time when the Valley was focused on social/mobile/local apps. This turned some people off while magnetizing exactly the people they wanted. Nabeel draws the parallel to OpenAI and Anthropic using belief in transformative AI as their own "bad signal" today.
+Palantir ran nearly title-free for most of its history: everyone in BD was a "forward deployed engineer." Thiel's reasoning (from Zero to One): titles become the thing people compete for, triggering Goodhart's Law — the metric becomes the goal. Google's promotion incentive to launch new products rather than improve existing ones is the failure mode. Without titles, influence had to be earned daily by doing great work on important projects. If you stopped performing, your informal authority simply drifted elsewhere.
 
-### No Titles and Meritocracy
+The downside: competition didn't disappear — it just shifted to inner-circle politics. And leaving employees had to retroactively make experience legible on LinkedIn, often inflating their apparent seniority.
 
-Palantir famously avoided titles for years — everyone in the field was a "forward deployed engineer." The philosophy (attributed to Thiel via Zero to One): titles create unproductive competition and Goodhart's Law dynamics where people optimize for the metric rather than the outcome. Without titles, leadership was fluid and meritocratic — you led because you were earning the right to do so, not because of a static designation.
+### How Palantir Trains Founders
 
-### Palantir PMs Are Different
+The FDE role is a forcing function for founder skills: go into a building, gain trust, identify the real problem, build something, get fast feedback, iterate, and charge accordingly based on value delivered rather than features shipped. Palantir pricing was outcome-anchored: if fixing the production ramp-up issue is worth $100M to Airbus, that's how it gets priced. Several repetitions of this cycle and you have the full founder loop in your muscle memory — multiple times before starting a company.
 
-PMs at Palantir almost always came from the BD/FDE track — you could not become a PM without first having proven yourself in the field. This ensured PM candidates had real customer empathy and a bias toward execution over documentation. The failure mode Palantir was "very, very averse to" was what Nabeel calls "Google Docs syndrome" — writing exhaustive PRDs in a rational, bureaucratic way without deep customer contact. The best Palantir PMs were best friends with their engineering team and earned engineers' trust fast.
+Nabeel notes that one thesis many Palantir alumni pursued: doing "Palantir for the mid-market" — customers too small for Palantir's minimum deal sizes but still in need of the data-integration and outcomes model. Rather than charging $5M, charge $250K and have one FDE covering five accounts.
 
-### Lessons for Founders
+### The Iceberg of Data Work
 
-From Palantir, Nabeel takes three core principles into his new startup:
-1. **Iterate very fast.** Test early, make many bets, cycle through them quickly. When pitching to enterprise, ask for lots of money immediately — if they don't hesitate, you've learned you're underpriced.
-2. **Build a distinctive internal culture.** Know what a high bar looks like from a great company so you have calibration benchmarks.
-3. **Work on messy real-world problems.** Nabeel's comparative advantage is the networks and domain expertise built at Palantir. LLMs now lower the cost of forward-deployed-style work by 5-10x, and large organizations are more open to small startups post-ChatGPT than ever before.
+The actual analysis is the tip of the iceberg; 90–95% of enterprise data work is access, cleaning, joining, and normalization. Palantir discovered this by living inside customer organizations for years. This insight drove Foundry's design: universal data adapters, human-readable ontologies, point-and-click pipeline building for non-technical users. Palantir's biggest competitor isn't other vendors — it's companies deciding to build their own data infrastructure.
 
-### On AI and Staying Current
+### Hiring Advice for Founders
 
-Nabeel uses Wispr Flow (voice-to-text for LLM prompting), Claude Code (AI agent for engineering), and tests frontier models regularly. His advice for keeping up: follow technical newsletters (he recommends Latent Space / Swyx), try to become a "cyborg" by integrating AI into daily workflows — drawing the parallel to top chess players who most rapidly absorbed neural network engines like Leela in the 2010s.
+Nabeel's hiring insight from starting his own company: skills are table stakes. The differentiating factor is that extra 20% — the person who works evenings when needed not because they're told to, but because the mission matters to them personally. Mission alignment is the lever: find people who have private reasons to care more than the average person. He filters for it with questions like "What's the hardest you've ever worked to get something done, and why?" — many candidates have no good answer.
 
-### Actionable Advice
-- When you define company values, be explicit about who this is NOT for — that's the mechanism that attracts the right talent
-- Use "murder boards" when starting new projects: invite smart people who know nothing about it to tear your plan apart
-- When pitching enterprise, ask for significantly more than you expect — you learn your pricing ceiling by finding where hesitation appears
-- Work at a great company first to build internal calibration benchmarks before founding your own
-- Aim for "Chartres" (Christopher Alexander's advice to architecture students): set a standard of the very best that has ever existed, not just what seems good enough
+## Frameworks
 
-### Notable Quotes
-> "You basically could not become a PM any other way — you had to prove yourself as a forward deployed engineer first."
+### The Murder Board
 
-> "You get four or five of these cycles every single week. Six weeks in, you've suddenly gotten to 'wow, this is really valuable' and somebody's willing to pay you $20 million for it."
+When starting a new project, write a two-page plan: vision, goals, 90-day tactics, and the principles guiding the project. Invite 3–4 smart people who know nothing about the project and task them to tear it apart. Principles are only useful if someone can reasonably disagree with them. "Move fast" is a bad principle — no one disagrees with it. A good principle requires you to be prepared to defend it.
 
-> "It's rare that disengagement is the correct answer. Engagement and making things better from the inside is almost always superior."
+### Iterate Fast, Ask for Money Early
 
-> "Going to college is great — it's one of the few times when you can make really, really deep friendships and spend all your time thinking and reading books."
+One of Nabeel's core startup operating principles: don't wait weeks to validate demand. Take something to a customer immediately and ask for a lot of money. Either they pay (validation) or they don't (move on). The classic "why build, why see" pattern applied at maximum speed.
 
-## Sources
-- [[nabeel-s-qureshi]] — "How Palantir built the ultimate founder factory"
+## Key Quotes
 
-## See Also
-- [[forward-deployed-engineer]]
-- [[nan-yu]] (also on B2B product craft)
-- [[understand-identify-execute]]
-- [[talent-density]]
-- [[product-market-fit]]
+> "The most forward deployed engineer who succeeds the most are just best friends with their engineering team." — Nabeel S. Qureshi
+
+> "I think there was a very concrete set of ways where that place was a training ground for founders. It turned a lot of people who might not have become founders into good founders because of the way it works." — Nabeel S. Qureshi
+
+> "You need to be willing to just jump on a plane that night if that's the best thing to do for this customer. Getting on a plane was a really cool part of our job." — Nabeel S. Qureshi
+
+> "Aim for Chartres. You have to make something that is better than the very, very best that ever did it." — Nabeel S. Qureshi (quoting architect Christopher Alexander)
+
+## Actionable Advice
+
+- If you want to start a company, spend time first at a company with genuinely A+ talent so you know what high performance looks like — then recruit from that network.
+- Try running a "murder board" on your next project plan: invite smart people with no context and ask them to tear it apart.
+- When hiring for early-stage startups, weight mission fit and demonstrated drive over credentials. Ask candidates: "What's the hardest you've ever worked on something, and why?"
+- With enterprise customers, price to the value of the outcome you help them achieve, not the cost of the software.
+- For forward-deployed-style work: be in person, be a real engineer who can build, form genuine personal relationships with key stakeholders, and deeply understand the customer's business model.
+- Revisit your personal workflows with AI tools every couple of months — the leverage available is at a historical high.
+
+## Related Pages
+
+- [[frameworks/understand-identify-execute]]
+- [[concepts/talent-density]]
+- [[concepts/enterprise-sales-stages]]
+- [[concepts/founder-mode]]

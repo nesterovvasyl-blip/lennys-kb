@@ -1,55 +1,77 @@
 ---
 concept: Shadows of Superpowers
+aliases: [superpower-shadow, what-got-you-here, leadership-blind-spots]
 guests: [nikhyl-singhal]
-topics: [leadership, career-development, self-awareness, pm-career]
+date_added: 2026-04-08
 ---
 
 # Shadows of Superpowers
 
-> Every professional strength casts a shadow — the exact superpower that drives early success often becomes the primary development area at the next career level.
+> The development gaps that senior leaders can't see because they live in the blind spot created by their greatest strengths — the flip side of what made them successful.
 
 ## Overview
 
-Nikhyl Singhal introduced this concept from a conversation with a therapist. The core insight: strengths are rarely pure upsides. The same trait that makes you exceptionally effective in one context creates blindspots and failure modes in another. As you advance, what got you here won't necessarily get you there — and the reason is usually your own greatest strength.
+Every strength creates a corresponding weakness at the next level of leadership. The traits that make someone highly effective as an IC or mid-level leader often become obstacles when they become executives. This is especially hard to see because the trait is part of the person's identity — it's what they're proudest of, what got them here — so feedback pointing to it gets dismissed as wrong or context-specific.
 
-The reason this is so hard to diagnose: people's identities are wrapped up in their strengths. When they receive feedback that contradicts a self-perceived strength, they dismiss it as noise. "I've been told I'm a great collaborator in every review for five years — there's no way that's my development area." But the feedback may be correct at the new level: what looks like collaboration in one context looks like lack of spine in another.
+Nikhyl Singhal, who has coached hundreds of product leaders, describes this as "the shadows of superpowers." The phrase comes from therapy: while everyone focuses on what superpowers you have, no one thinks about the shadows they create.
 
-The critical diagnosis tool: **look at your discarded feedback**. The things you've dismissed as anomalies, attributed to a difficult person, or explained away as context-specific — those are the artifacts of your shadow. Your manager may have helped you dismiss them. The promotion committee may still see them.
+The related adage: "What got you here won't get you there." The tools that made you successful today are the tools you need to rebuild to get to the next phase.
 
-## Examples of Superpower → Shadow
+## Overview
 
-| Superpower | Shadow at the Next Level |
-|------------|--------------------------|
-| Exceptional collaborator | Avoids conflict; can't hold firm opinions against pushback |
-| World-class storyteller | Struggles to get into the details that matter |
-| Growth expert | Can't innovate outside proven playbooks |
-| Decisive entrepreneur | As executive, doesn't incorporate enough input; peers feel steamrolled |
-| Structured thinker | Blue-sky innovation is nearly impossible |
-| Great listener | Weak decision-making; over-absorbs, under-directs |
-| Strong political operator | Decisions appear unprincipled to stakeholders |
-| Highly opinionated | Perceived as not listening; collaboration suffers |
+The pattern plays out in a consistent way:
+1. Person gets promoted repeatedly because of a distinctive strength
+2. Strength becomes their identity
+3. At the next level, the same behavior creates problems
+4. Peers and reports notice, but the person dismisses the feedback
+5. Promotion stalls — person is confused because "this is my superpower"
 
-The last one is Nikhyl's own example: as an entrepreneur, being right through small amounts of information and acting decisively was a superpower. As an executive, this looked like not valuing others' input.
+The signal to look for: feedback you've been dismissing as "weird" or your manager explained away. These anomalies are often the real signal about your development area.
 
 ## Guest Perspectives
 
-### Nikhyl Singhal ([[nikhyl-singhal]])
-Nikhyl applies this as a coaching heuristic: when he meets someone, he quickly identifies their primary strength and immediately predicts two or three shadow development areas they probably don't see. He is usually right. The unlock is naming the shadow — once someone has the name and face for it, they can almost always solve it, but "facing the name is hard when it's sitting in the shadows of superpowers."
+### Nikhyl Singhal (Meta)
 
-His own unlock came from peer feedback from someone he trusted. Multiple rounds of formal feedback dismissed the issue; a trusted peer delivered it clearly and it landed. This pattern is common: informal feedback from trusted peers, not formal systems, is what actually pierces the blind spot.
+Singhal uses this concept as his primary coaching diagnostic. He says that in a 30-minute conversation, knowing what he knows about a person, he can often predict their development area because it follows from their strength.
 
-## Actionable Takeaways
-- Audit your feedback history: pull out what you've dismissed, explained away, or attributed to bad actors
-- When performance reviews call something a weakness that contradicts your self-image — that's the shadow, not an error
-- Seek informal peer feedback specifically on your known strengths ("How does my collaboration come across at this level?")
-- When someone's feedback doesn't compute, repeat it back clearly: "So you're saying X. Is that accurate?" — this creates safety for them to confirm it
-- Share difficult feedback you've received publicly with your team — it models that feedback is welcome and creates a flywheel
+**Common pairings Singhal has observed:**
+
+| Superpower | Shadow at senior levels |
+|-----------|------------------------|
+| Great collaborator | Struggles to be opinionated; speed of opinions alienates senior peers |
+| Growth expert | Struggles to innovate; optimizes existing curves instead of finding new ones |
+| World-class storyteller | Struggles to get into details; charm obscures gaps in substance |
+| Decisive / strong opinions | Poor collaborator; doesn't genuinely incorporate others' views |
+| Amazing listener | Indecisive; struggles to commit when it matters |
+| Politically savvy | Unprincipled in decisions; operates on alliances rather than values |
+| Structured thinker | Struggles with blue-sky innovation; can't ideate outside frameworks |
+| Entrepreneurial grit | Struggles to collaborate at scale; speed and conviction crowd out others |
+
+**Singhal's own example:** He was a decisive, opinion-driven entrepreneur who was often right. This was his superpower. As a senior executive, the same behavior was read as "poor collaboration" and "low respect for peers." He kept dismissing the feedback ("I am one of the best collaborators I know") until someone he trusted reframed it: "You collaborate when people agree with you. At your level, you need to collaborate when they don't."
+
+**The unlock:** Once someone has the name and face of their shadow, they can usually fix it. The hard part is accepting that what you're proudest of is in your way. "Almost everyone, once they have the name and the face, they're able to solve. But facing the name is hard when it's sitting in the shadows of superpowers."
+
+**The discard pile method:** Look through all the feedback you've ever received and find the things your manager explained away as anomalies. The anomalies in your feedback history are often where the shadow lives.
+
+## Application
+
+For self-diagnosis:
+1. Identify your top 1-2 acknowledged superpowers (the things everyone praises you for)
+2. Map possible shadows from the table above or generate your own
+3. Go back through all feedback you've received — especially the feedback you dismissed as "weird" or "unfair"
+4. Look for any feedback that maps to your shadow domain
+5. Treat those as the most important development signals, not the least
+
+For coaches and managers:
+- When someone is stuck on a promotion, ask: what is their strongest acknowledged trait? Work backwards to what shadow that creates.
+- Help them see the feedback in the "discard pile" — don't let them dismiss the anomalies
 
 ## Sources
-- [[nikhyl-singhal]] — "Building a long and meaningful career | Nikhyl Singhal (Meta, Google)"
+
+- [[guests/nikhyl-singhal]] — "Building a long and meaningful career" (Lenny's Podcast, 2023-06-11)
 
 ## See Also
-- [[radical-candor]]
-- [[observable-facts-feedback]]
-- [[conscious-leadership]]
-- [[fear-gives-bad-advice]]
+
+- [[guests/nikhyl-singhal]]
+- [[concepts/burnout]]
+- [[concepts/giving-away-your-legos]]

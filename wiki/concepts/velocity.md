@@ -1,6 +1,6 @@
 ---
 aliases: [product velocity, engineering velocity, shipping speed]
-guests: [geoff-charles, farhan-thawar, gaurav-misra, nikita-miller]
+guests: [geoff-charles, farhan-thawar, gaurav-misra, nicole-forsgren, nick-turley]
 ---
 
 # Velocity
@@ -57,16 +57,6 @@ Multiple guests make the same counter-intuitive point (also validated by Nicole 
 3. High-velocity culture = A+ engineers are attracted = higher baseline quality of decisions
 4. Lower cost-per-decision = teams willing to revert and try again rather than defending sunk costs
 
-### Nikita Miller (The Knot Worldwide / Trello) — Velocity as PM Accountability
-
-Nikita frames velocity primarily as a decision-making and output accountability problem — the PM's responsibility to drive urgency:
-
-- **Velocity of decision-making** is the most common bottleneck: how long from "we need to do a thing" to defining it, deciding whether to do it, and doing it. This falls mainly on PMs.
-- **Execution velocity** (actually shipping to production) falls jointly on PM and engineering. Nikita looks at cycle time for individual tickets and watches the ratio of optimizations vs. bigger bets.
-- Her diagnostic question: "What did you deliver this sprint? What did you deliver to production? How long have you been working on that? What was the cycle time?" — asked without accusation, just to surface patterns.
-- **Outcomes vs. output**: Nikita observed widespread overcorrection toward outcome-only thinking. Teams focused on OKRs but not on whether they were actually shipping. Her prescription: monitor both. Output (things shipped) is a leading indicator of outcomes. "If you're not shipping a lot of things to market quickly enough, it just doesn't matter that much."
-- **Competition as urgency**: keeping a pulse on competitive activity is one of the simplest ways to maintain team urgency without being heavy-handed.
-
 ### Common Velocity Killers
 
 Across all three guests:
@@ -77,11 +67,26 @@ Across all three guests:
 - Large batch sizes (Shopify deletes code and rewrites; Ramp ships and iterates)
 - Leaders staying in the weeds (blocks the team)
 
+### Nicole Forsgren (Google / DORA) — Velocity in the AI Era
+
+Forsgren warns that measuring velocity as pure speed is insufficient. "We can ship trash faster every single day. We need strategy and really smart decisions to know what to ship." Her reframe: velocity without strategy is not valuable. The bottleneck is usually not engineering speed — it's knowing what to build.
+
+AI accelerates code writing, but not the full development value chain. The strategy work, experimentation design, cross-functional alignment, and quality review are all still rate-limiting. Teams experiencing compounding gains from AI are those who use it to accelerate the full cycle (idea → prototype → A/B test → learning) not just the code-writing step.
+
+Her recommended velocity metric in the AI era: time from idea (or feature concept) to production or customer experiment. This captures the full loop. She also notes that DORA's deployment frequency and lead time are still valid for pipeline health, but must be paired with quality metrics to avoid optimizing for volume.
+
+### Nick Turley (OpenAI / ChatGPT) — Is It Maximally Accelerated?
+
+Turley's culture of urgency at OpenAI is captured in his team's Slack emoji: "Is this maximally accelerated?" It's a forcing function, not a mandate: when someone is working on something, the question asks "if this were the highest priority and we wanted to truly maximize speed, what would we do?" This exposes the critical path versus secondary tasks.
+
+Turley distinguishes velocity in product development (should be very high) from velocity in safety processes (where more process is required). His broader philosophy: learning fast is the core competitive advantage in AI, not just building fast. The only way to know what to polish, what people want, and what the model's real failure modes are is to ship and observe. "You're going to be polishing the wrong things in this space. You won't know what to polish until after you ship."
+
 ## Sources
 - [[geoff-charles]] — "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever" (Lenny's Podcast, 2023-08-06)
 - [[farhan-thawar]] — "How Shopify builds a high-intensity culture" (Lenny's Podcast, 2024-12-19)
 - [[gaurav-misra]] — "Inside the expert network training every frontier AI model" (Lenny's Podcast, 2023-02-12)
-- [[nikita-miller]] — "Driving alignment within teams, work-life balance, and the changing PM landscape" (Lenny's Podcast, 2023-04-06)
+- [[nicole-forsgren]] — "How to measure AI developer productivity in 2025" (Lenny's Podcast, 2025-10-19)
+- [[nick-turley]] — "Inside ChatGPT: The fastest growing product in history" (Lenny's Podcast, 2025-08-09)
 
 ## See Also
 - [[product-management]]

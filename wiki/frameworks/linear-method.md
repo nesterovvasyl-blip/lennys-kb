@@ -1,6 +1,6 @@
 ---
 author: karri-saarinen
-guests: [karri-saarinen]
+guests: [karri-saarinen, nan-yu]
 ---
 
 # Linear Method
@@ -39,9 +39,22 @@ Karri uses an RPG metaphor for focus: the company has main quest lines (build gr
 
 Linear has been profitable for two years running with a "net negative lifetime burn rate" — more cash than they've ever raised. Used by Block, Vercel, Ramp, Retool, Mercury, and thousands of startups.
 
+### Nan Yu's Additions
+
+Head of Product Nan Yu adds several operational details to the Linear Method:
+
+**The 10% rule for speed**: By the time 10% of a feature's time budget has elapsed, there should be something workable that tests the core hypothesis. Not polished, not complete — but real enough to validate direction. This surfaces wrong assumptions before 80% of resources are committed.
+
+**Extreme version testing for creativity**: When facing a design decision, build the most extreme version along each key attribute (most safe, most fast, most flexible, etc.). Actually ship those extremes to small internal/beta audiences. Learn what the extremes feel like before converging on the balanced answer. The draft-saving feature is the case study: Linear built the most unsafe version (instant delete, no autosave) and the most safe version (autosave every keystroke), learned from both, then found the nuanced middle.
+
+**The double triangle for PM role**: PM sits between two triangles — (1) PM + engineering + design (building), and (2) PM + sales + marketing (selling). PMs know the customer's native language better than anyone; this knowledge should actively inform marketing language and sales strategy, not just product decisions. Linear embeds a product marketer within the PM team.
+
+**IC-first product decisions**: When evaluating feature requests from enterprise buyers, the hard rule is: if it makes ICs' daily workflows worse to provide reporting for middle managers, the answer is no. Customization features that serve managerial reporting at the cost of IC experience are categorically rejected — this is the most important line Linear holds.
+
 ## Sources
 
 - [[karri-saarinen]] — "Inside Linear: Building with taste, craft, and focus" (2023-10-08)
+- [[nan-yu]] — "Linear's secret to building beloved B2B products" (2025-01-30)
 
 ## See Also
 

@@ -1,6 +1,6 @@
 ---
 aliases: [PLS, product-qualified accounts, PQA, PQL]
-guests: [elena-verna]
+guests: [elena-verna, naomi-ionita]
 ---
 # Product-Led Sales
 
@@ -53,9 +53,18 @@ PLS assumes there's an escalator from individual use case → team level → ent
 
 The product team owns the PQA threshold (the signal that an account is ready for sales). This is a handshake between product and sales. Product should not own quota but should own pipeline created by product.
 
+## Guest Perspectives
+
+### Naomi Ionita
+
+As an investor at Menlo Ventures observing across a portfolio, Naomi identifies product-led sales (which she calls it in the context of the Modern Growth Stack) as one of the highest-ROI levers available. Her specific framing: PLS is "free money" — shining a light on accounts that were already using the product and that no sales team was actively working. Tools like Endgame and Pocus surface usage signals to inside sales, enabling large account expansion with relatively little marginal effort.
+
+The ROI story: you already have the customer using the product. The product-qualified signal tells you when and whom to reach out to. The cost per closed deal is dramatically lower than pure outbound, and the customer already has context on value. In a tighter macroeconomic environment, this "do more with less" story makes PLS one of the most compelling investments a growth-stage company can make.
+
 ## Sources
 
 - [[elena-verna]] — "The ultimate guide to product-led sales" (full framework with examples from Amplitude, Miro, Figma)
+- [[naomi-ionita]] — Modern Growth Stack perspective on PLS as a portfolio lever (How to price your product)
 
 ## See Also
 

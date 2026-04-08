@@ -2,46 +2,51 @@
 framework: What Is / What Could Be
 created_by: Nancy Duarte
 guests: [nancy-duarte]
-topics: [storytelling, communication, presentations, leadership, influence]
+date_added: 2026-04-08
 ---
 
 # What Is / What Could Be
 
-> Nancy Duarte's presentation structure — alternating between current reality and possible future — that creates the longing necessary to move audiences to action.
+> Nancy Duarte's pattern for all influential communication: alternate between the current reality (what is) and a desirable future (what could be), building longing through contrast and ending in a "new bliss."
 
 ## Overview
 
-After three years of manually mapping the greatest speeches of all time on quarter-inch graph paper (Steve Jobs's iPhone launch, Dr. King's "I Have a Dream," Lincoln's Gettysburg Address, presidential State of the Union addresses), Nancy Duarte found a universal pattern. Every great persuasive speech alternates between the present state of the world (*what is*) and a vivid picture of a possible future (*what could be*). This alternation creates tension and longing — the emotional engine of influence.
+After three years of hand-mapping great speeches on quarter-inch graph paper, Nancy Duarte discovered that the world's most influential communications — Dr. King's "I Have a Dream," Steve Jobs' iPhone launch, Lincoln's Gettysburg Address, FDR's speeches — all share a common waveform. They oscillate between what is (current reality, often painful or suboptimal) and what could be (a better future if the idea is adopted), ending with a final what could be that is the "new bliss."
 
-The pattern: a horizontal baseline represents *what is* (current reality). The line rises to *what could be* (the possible future), returns to baseline, rises again, returns again — a serrated "pumpkin teeth" wave. The final ascent ends not at "what is" but at a new plateau Nancy calls the "new bliss": the world as it will be if the audience adopts the idea.
+The insight is grounded in neuroscience: contrast creates longing. People don't long for futures they can't see. Story paints the picture of an alternative world — and once they can see it, they want it. This is why powerful presentations don't just inform; they move people.
+
+The framework works at any scale, from a keynote for 10,000 people to a meeting with five colleagues, from a fundraising deck to getting your spouse to take the dog to daycare.
 
 ## Components / Steps
 
-1. **What Is (the beginning).** Establish the current situation honestly. Don't skip this — audiences need to feel seen in their current reality before they'll follow you anywhere. This section needs to be proportionally longer for audiences that require more context (Nancy gives the example of her more detail-oriented husband needing more setup before she can ask him to take the dog to daycare).
+1. **Open with what is** — clearly establish the current state. Don't rush past this; some audiences need more context about where things stand before they can appreciate the contrast. What is the status quo, the current problem, the existing situation?
 
-2. **What Could Be (the contrast).** Paint a vivid, specific picture of the possible future. This is not abstract aspiration — it is a concrete, sensory description of what the world looks like with the idea adopted. The rise from "what is" to "what could be" creates the emotional tension that makes audiences lean forward.
+2. **Rise to what could be** — describe the better alternative. Make it vivid, specific, aspirational. What does the world look like after your idea is adopted?
 
-3. **Cycle the contrast.** The most powerful presentations repeat this alternation multiple times. Steve Jobs at the iPhone launch: "Here's how sucky Blackberry keyboards are right now" (what is) → "Here's the future of touch input" (what could be), over and over. This cycling builds cumulative longing.
+3. **Drop back to what is** — acknowledge reality again, perhaps from a different angle or with more specificity. This reinforces the gap and the difficulty of the current state.
 
-4. **New Bliss (the ending).** The final "what could be" doesn't return to baseline — it ends on the new bliss. This is a poetic, forward-looking description of the world after the idea is adopted. It is the emotional destination of the whole presentation. Western audiences expect a happy ending; the new bliss is the resolution.
+4. **Rise again to what could be** — offer another dimension of the future state, another benefit or possibility.
 
-5. **The Big Idea.** The entire presentation is organized around a single "big idea" with two components: your point of view + what is at stake if the audience does or does not adopt it. Every slide supports the big idea; every section is one step in the rise-and-fall story.
+5. **Alternate this way** as many times as the length of the talk requires. Each oscillation builds longing and tension. The audience begins to lean forward.
 
-## How to Apply
+6. **End with the new bliss** — the final what could be is the closing vision: a poetic, powerful description of the world after your idea is realized. Don't end in what is; end in possibility.
 
-**For formal keynotes and major presentations:** Invest in scripting the full arc. Map out on paper where each "what is" and "what could be" beat falls. Identify your star moment — the single most memorable element (a piece of dramatic data, a demo, a prop, a story) that anchors the whole presentation in memory.
+### Visual Representation
 
-**For everyday meetings and conversations:** The structure scales all the way down to a two-minute conversation. A quick verbal "what is / what could be / new bliss" is enough structure to influence in any format — a one-on-one, a phone call, even a domestic negotiation. The Gettysburg Address was a few hundred words and still followed the pattern.
+Picture a horizontal baseline (what is). The talk rises from the baseline (what could be), drops back, rises again — creating a zigzag or "pumpkin teeth" shape when mapped over time. The final rise doesn't drop back down; instead it reaches a higher horizontal line: the new bliss.
 
-**For fundraising:** Start with the new bliss (Minto pyramid logic applied to this structure): "I'm going to show you something that increases human flourishing in this way." Then walk through the alternation of current problems and your solution's potential.
+## Application
 
-**For PMs sharing roadmap or strategy:** Use "what is" to validate that you understand the current pain. Use "what could be" to paint the specific future state the roadmap enables. Avoid opening with a feature list — nobody longs for features, they long for a better version of their work or life.
+**For product presentations and roadmap pitches**: Frame the current state of your users' lives (what is — the pain), then paint the future state your product creates (what could be). Steve Jobs' iPhone launch is the canonical example: "Here's how much phones suck today... here's what you could have instead." Rapid oscillation between existing pain and new possibility.
+
+**For fundraising decks**: Start with the new bliss (the world your solution creates for humankind) rather than the problem. Then oscillate to show the current gap.
+
+**For internal all-hands and vision talks**: Nancy's own practice — run a listening tour, create a gap analysis between where people are and where you need them to go, then build the what is / what could be structure around that specific gap.
+
+**For everyday influence**: Nancy uses the framework to get her husband to help with household tasks. She opens with a longer what is (context for why this matters right now), proposes what could be (the help she needs), and closes with new bliss (the benefit to both of them). The principle works in any format.
+
+**The minimum viable version** (from Abraham Lincoln's Gettysburg Address at ~271 words): A what is, a single what could be, and a new bliss. Even a two-minute pitch has room for this structure.
 
 ## Sources
-- [[nancy-duarte]] — "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks"
 
-## See Also
-- [[nancy-duarte]]
-- [[strategic-narrative-framework]]
-- [[andy-raskin]]
-- [[matt-abrahams]]
+- [[guests/nancy-duarte]] — "Storytelling with Nancy Duarte: How to craft compelling presentations and tell a story that sticks"

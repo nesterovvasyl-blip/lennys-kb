@@ -1,80 +1,119 @@
 ---
 guest: Naomi Gleit
-role: Head of Product, Meta
+role: Head of Product at Meta
 episode: "Meta's head of product on working with Mark Zuckerberg, early growth tactics, and more | Naomi Gleit"
 date: 2024-10-27
-topics: [product-management, growth, meta-facebook, leadership, simplification, clarity]
+topics: [product-management, growth, meta-facebook, leadership, onboarding, activation, retention, extreme-clarity, organizational-management, meetings]
 ---
 
 # Naomi Gleit
 
-> Head of Product at Meta, employee #29 at Facebook, the longest-serving executive at Meta other than Mark Zuckerberg, and the originator of "Naomi-isms" — a practical operating system for product management.
+> Meta's longest-serving executive other than Mark Zuckerberg — employee #29 at Facebook — who helped build the legendary early growth team and now runs product for one of the world's largest companies.
 
 ## Bio
 
-Naomi Gleit joined what was then called Facebook as employee #29 in 2005, after writing her Stanford senior thesis on why Facebook would win. She cold-walked into the office five to ten times asking for any job, eventually landing a marketing role. She then spent months volunteering on the second floor with PMs and engineers until she was formally offered a PM role — greeted by a standing ovation from the entire second floor (including Boz) on her first official day as PM. She has been at Meta for nearly 20 years and is the longest-serving executive other than Zuckerberg himself. Today she leads a portion of Meta's several-thousand-person PM organization while overseeing PM culture, performance, and training company-wide.
+Naomi Gleit joined what was then called Facebook as employee #29 in 2005, after writing her Stanford thesis on why Facebook would win and cold-visiting the office 5–10 times until a role opened up. She later moved from marketing to product management by volunteering on engineering projects after hours until she'd effectively been doing the PM job for months. She has been at Meta for nearly 20 years — the longest-serving executive other than Mark Zuckerberg — and has been at the center of Facebook's early growth team, social impact products, international expansion (100+ language support), teen safety initiatives, and more. She currently serves as Head of Product.
 
-### Facebook's Legendary Growth Team: What Actually Happened
+## Key Ideas
 
-Naomi was a founding member of Facebook's growth team. The growth team's actual origin story is more humble than the mythology suggests: it started with a data insight. The team was tracking growth accounting — net new users = new registrations minus users who went stale (no login in 30 days) plus resurrected users. They discovered that the churn and resurrection lines were much larger than the new registration line, which meant retention was the biggest lever, not acquisition.
+### The Facebook Early Growth Team: What They Actually Built
 
-This led to identifying the activation metric: **seven friends in ten days** (or equivalently, ten friends in fourteen days). Both are points on the same retention curve; the specific number matters less than having extreme clarity around a shared goal. The magic number worked because Facebook is much more compelling with 14 friends than with 2, and reaching that threshold quickly prevented early churn.
+The Facebook growth team (circa 2009–2012) is often mythologized. Naomi's grounding insight: most of their impact came from two things that are still underappreciated.
 
-The growth team's real "special sauce" was applying a data-driven, product-driven approach to what had historically been a marketing/business function. Rather than having marketers drive user growth, they had PMs and engineers instrument every step of the registration and onboarding flow (2009 was the year they stopped all other work and did only data instrumentation), identified where drop-off happened (20% of users weren't confirming their email), and built product solutions (allow any notification click to count as account confirmation). This approach extended beyond growth to social impact (building peer-to-peer fundraising products rather than a traditional CSR foundation) and crowdsourced translation (users translated the site, enabling 100+ languages).
+First, they proved that **product, not marketing, drives growth**. Before the growth team, growth in users was expected to come from marketing and comms. The key insight was that the product itself — the registration flow, invite mechanisms, onboarding — was the biggest lever. This led to a product and engineering team focused entirely on growth.
 
-### Naomi-isms: The Operating System
+Second, they built on a foundation of **instrumentation first**. In January 2009, the team paused the roadmap for an entire month to do nothing but instrument data. They tagged every step of the registration flow, every step of the new-user onboarding experience. Only after that did they know where users were dropping and what to fix. Alex Schultz's shirt slogan: "I guess when you can know." The team's motto: **Understand, Identify, Execute**.
 
-Naomi's accumulated principles for product management are called Naomi-isms, shared first internally and then publicly. The most essential:
+### The Seven Friends in 10 Days Activation Metric
 
-**PM as Conductor.** A product team is an orchestra — engineering, design, data, legal, policy, comms are all instruments. The PM is the conductor: not playing an instrument, not the star of the show (conductors don't speak during performances), but ensuring each section plays its part correctly and in harmony at the right tempo. The conductor analogy breaks the myth that PM is about being in charge; it is about enabling others to do their best work together.
+The famous activation metric (7 friends in 10 days, or equivalently 10 friends in 14 days) emerged from realizing that **retention, not acquisition, was the real growth lever**. The growth accounting equation: net growth = new registrations − users going stale + users resurrecting. The churn and resurrection lines were both much larger than the new user line — meaning retention impact dwarfed acquisition impact.
 
-**Extreme Clarity.** Everyone on a project is on the same page about the facts — they may disagree, but they share the same understanding of what the options are, what the trade-offs are, and what has been decided. Conflicts that stem from misunderstanding are the most wasteful; extreme clarity eliminates them. Tactics: always use numbered lists (not bullets, because you can never precisely reference "the third bullet two up from the second"); real-time edit slides during meetings so the visual reflects decisions as they are made; always have three options and a recommendation rather than a flat pros/cons list; use traffic light tables (options as rows, evaluation criteria as columns, red/yellow/green cells) rather than prose.
+The team found that friending correlated strongly with long-term retention. Getting to 7 or 10 friends quickly after registration was the "magic moment" that predicted whether a user would stick. But Naomi's honest reflection: the precise number mattered less than having a shared goal. Having one clear activation target aligned the entire team. "We could have picked any point on that curve."
 
-**Canonical Everything.** Every project must have a canonical doc — the single source of truth that everyone knows to go to. The canonical doc contains: work streams with single-threaded owners, the process by which the team works together, canonical meetings, canonical email lists, canonical chat channels, canonical nomenclature (words and definitions to prevent talking past each other), and canonical visuals. Projects fail when people have to ask five different people and get five different answers. The canonical doc means there is always one answer.
+The insight that forced them to build onboarding: in 2006, when Facebook opened to anyone with any email (not just college students), they realized their dad and grandmother couldn't figure out how to use it. Onboarding was invented to answer the question: "Do we need to explain how to use this?"
 
-**Understand-Identify-Execute.** (Aligned with the [[understand-identify-execute]] framework from Facebook's growth team.) Don't skip the understand phase. The 2009 decision to stop everything and instrument all data was the foundation for every successful growth project afterward.
+### Macro and Micro Barriers to Growth
 
-### Working with Zuckerberg
+Growth at scale is about removing barriers — both macro and micro.
 
-Naomi has known Zuck for 20 years. Her core observation: Mark is a "learn it all, not a know-it-all" — the fastest person she has ever seen at upskilling. He has deliberately gotten better at public speaking, negotiation, and how he shows up as a leader. The gap between who Mark is and how the world perceived him has closed as he became more comfortable in public.
+**Macro barriers**: Who can use the product at all? Facebook went from .edu emails, to high school, to work networks, to open registration. Then: not everyone has a smartphone, not everyone has internet access (Internet.org). Then: language (built crowdsourced translation to support 100+ languages — a product-driven solution to what was traditionally a business function problem).
 
-Zuckerberg's **small group** (his leadership team) is characterized by tenure, mission-driven motivation, and what Naomi learned from Adam Grant: **disagreeable givers** — people who are motivated by what's best for the company rather than self-interest, who will push back, fight for things, and give honest feedback even when it's not what you want to hear. The most dangerous person in an organization is the "agreeable taker" — seemingly nice, easy to get along with, but actually self-interested.
+**Micro barriers**: Friction in existing flows. The email confirmation example: 20% of registrations never confirmed email. Tried SMS — discovered most people *were* clicking on notifications, just not the specific confirmation email. Solution: let any notification-click count as account confirmation. Elegant, and it removed a micro barrier without changing the user experience at all.
 
-Small group has two weekly cadences: one longer, more open-ended strategic meeting, and one highly structured operational meeting where every priority project has an update from its owner.
+### The PM as Conductor
 
-### On Being a Simplifier
+A PM is a conductor, not a performer. The team is the orchestra: engineering, design, data analytics, legal, policy, comms — each a different instrument section. The conductor's job is to ensure every section plays their part correctly AND that they're playing together in harmony, in sync, at the right tempo.
 
-Naomi's superpower, according to Meta colleagues, is taking the gnarliest cross-functional projects and simplifying them into clarity. Her approach: come into a project at "kindergarten level" even if everyone else is at PhD level, and build the curriculum from the ground up — kindergarten → elementary → high school → college → PhD. Establishing shared foundational vocabulary and structure is not "dumbing down" — it is how you enable a PhD-level conversation to happen without people talking past each other.
+The conductor is not the star. During the performance, conductors don't speak. PMs elevate others. The growth feedback for Naomi: learning when to step forward and lead from the front rather than enabling others from behind.
 
-Most project failures are 80% people and process issues, not strategy issues. Naomi addresses people and process first, then ensures the team is executing well — only then can you evaluate whether the strategy is actually right or wrong. Imperfect execution makes strategy evaluation impossible.
+### Naomi-isms: Extreme Clarity and Canonical Everything
 
-### Actionable Advice
-- Before joining a company, find evidence of product-market fit (not just traction, but genuine pull from users and growing waiting lists)
-- Volunteer for the role you want before it's officially open — do the work, prove you can do it, then ask
-- Use a canonical doc for every project: one source of truth with work streams, owners, process, and nomenclature
-- Use traffic light tables (not pros/cons lists) to evaluate options: rows are options, columns are criteria, cells are colored red/yellow/green
-- Send a pre-read 24 hours before every meeting; reply-all to the calendar invite with meeting notes within 24 hours after
-- Schedule 2-3 hour blocks for thinking — but don't assume thinking must be solo; a sparring partner can help develop your perspective just as well
-- "Pressure is privilege" — nerves about high-stakes moments mean something important is happening; be grateful
+Naomi developed a set of operating principles ("Naomi-isms") from 20 years of product experience:
 
-### Notable Quotes
-> "I really believe in frameworks for things that help drive extreme clarity. Everyone should know exactly where the canonical doc is."
+**Extreme clarity**: Everyone on a project shares the same factual understanding — not necessarily the same opinions, but the same facts. "We can disagree, but we all believe A, B, C; our options are X, Y, Z; here are the trade-offs 1, 2, 3." Extreme clarity eliminates wasted debate that's really just misunderstanding.
 
-> "The most dangerous kind of person to have in an organization is an agreeable taker — super nice, easy to get along with, but their motivation is more self-interested rather than what's best for the company."
+**Canonical everything**:
+- One **canonical doc** for every project — a single page everyone knows about, that links to everything else
+- **Canonical nomenclature** — a shared vocabulary. Example: Naomi once found a team using "consistency" and "accuracy" interchangeably in a review metrics discussion. They're completely different concepts (consistency = reviewers agree; accuracy = the decision is correct). One word used wrong derails a whole conversation.
+- **Canonical meetings**, **canonical email lists**, **canonical chats** — don't reinvent the audience for each interaction
+- **Numbered lists**, not bullet points — because you can't reference "the third bullet, two up from the second"
+- **Traffic light evaluation tables** — when comparing options, use a rows × columns table (options × criteria) with red/yellow/green color-coding, not flat pros/cons lists
 
-> "80% of the time I think it's a people or process issue — not having the right people on the project, or having the right people but not the right process by which they work together."
+**The School Pyramid of Simplification**: When joining a complex project, Naomi's method is to understand it at the kindergarten level first. Build from basic building blocks up through elementary, high school, college, to PhD. Most teams are operating at PhD level without having established the kindergarten foundation. Building that foundation reveals what the most important problems actually are.
 
-> "A PM is a conductor. The team that you are a PM on is an orchestra. Your job is to make sure everyone's playing their part correctly — and that they're playing together."
+**Three options + recommendation**: For any decision, present exactly three options and a clear recommendation. The traffic light table makes the recommendation obvious — the option with the least red.
 
-> "Stand up into your fear. That is the safest thing you can do."
+### Running Meetings at High Leverage
 
-## Sources
-- [[naomi-gleit]] — "Meta's head of product on working with Mark Zuckerberg, early growth tactics, and more"
+A meeting is expensive. Naomi's standard:
+- Send agenda + pre-read 24 hours in advance — if it doesn't arrive in time, some leaders will cancel
+- During meeting: have a visual being projected; anyone joining late should immediately know where you are from the visual
+- Real-time edit the projected document as decisions are made — create extreme clarity in the room before anyone leaves
+- After meeting: within 24 hours, reply-all to the calendar invite with notes, decisions, and next steps
 
-## See Also
-- [[understand-identify-execute]]
-- [[extreme-clarity]]
-- [[canonical-doc]]
-- [[adjacent-user-theory]]
-- [[product-market-fit]]
-- [[growth]]
+Key: the calendar invite is the canonical unit for meeting communication. Use reply-all on the invite to create a consistent thread that captures both the pre-read and the notes.
+
+### Working with Mark Zuckerberg
+
+Naomi's most striking observation: Zuck is a "learn-it-all, not a know-it-all." He's the fastest person at upskilling she's ever met — in one year, he achieved roughly eighth-grade Chinese fluency. The public persona gap she describes (what the world thought of Mark vs. who Mark really is) has been closing as he's become more comfortable in public settings.
+
+Zuck's "Small Group" is the leadership team for the most important projects at the company. What makes it work: disproportionate tenure (many have been there 10–15+ years), motivation by mission not promotion-seeking, and a culture of disagreeable givers (from Adam Grant's framework) — people who are motivated by what's best for the company and willing to say so even when it's uncomfortable.
+
+## Frameworks
+
+### Disagreeable Givers (from Adam Grant)
+
+A two-by-two: agreeable/disagreeable × givers/takers. The most dangerous person in an org: the agreeable taker (everyone likes them, but they optimize for themselves). The most valuable: the disagreeable giver (mission-driven, willing to push back, says what needs to be said). Zuck's Small Group is full of disagreeable givers. This is also Radical Candor by another name.
+
+### Strategy vs. Execution vs. People/Process
+
+When joining a complex project, 80% of the time the root issue is people or process, not strategy. Before changing strategy, achieve perfect execution — only then can you tell whether a strategy is right or wrong. "The next best case is: the strategy was wrong, but you perfectly executed on it — because then you learned."
+
+## Key Quotes
+
+> "I really believe in frameworks for things that helps drive extreme clarity. There needs to be one canonical doc. Everyone should know exactly where the canonical doc is." — Naomi Gleit
+
+> "The majority of the value of the activation metric is in just having extreme clarity around the goal — that allowed everybody to work towards optimizing the same thing." — Naomi Gleit
+
+> "I think 80% of the time it's a people or process issue. And that refers to not having the right people on the project, or having the right people but not having the right process." — Naomi Gleit
+
+> "A PM is a conductor. There are many different instruments in an orchestra, and as a PM, your job is to make sure everyone's playing their part correctly but also playing together at the right tempo." — Naomi Gleit
+
+> "Pressure is privilege." — Naomi Gleit (quoting Billie Jean King)
+
+## Actionable Advice
+
+- Before starting any project or joining one mid-stream, create a canonical doc: work streams, owners, process, meetings, terminology, visuals.
+- Always use numbered lists in docs and meetings, never bullets — so people can reference specific items precisely.
+- When presenting options, use a traffic light table (options × criteria, red/yellow/green) instead of pros/cons. It creates instant visual clarity.
+- For activation metrics, the specific number matters less than alignment — pick something that correlates with retention and get everyone rowing in the same direction.
+- Send pre-reads 24 hours before meetings; send post-meeting notes within 24 hours after; use the calendar invite as the canonical thread for both.
+- Block time to develop first-party opinions. You cannot outsource strategic thinking to people and process. Even 2–3 hours with one trusted sparring partner works better than never having protected thinking time.
+
+## Related Pages
+
+- [[frameworks/understand-identify-execute]]
+- [[concepts/product-market-fit]]
+- [[concepts/network-effects]]
+- [[concepts/viral-growth-loop]]
+- [[concepts/experimentation-culture]]

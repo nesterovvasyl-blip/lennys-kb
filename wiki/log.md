@@ -520,3 +520,11 @@
 - Processed: jason-fried (1 episode)
 - Created: 1 guest page (jason-fried), 1 framework (shape-up)
 - Topic tags: bootstrapping, product-development, company-building, profitability, team-structure, calm-company
+
+## [2026-04-08] ingest | Batch 10 (continuous) — nabeel-s-qureshi through nikhyl-singhal (2 parallel agents)
+
+- Processed: nabeel-s-qureshi, nan-yu, nancy-duarte, naomi-gleit, naomi-ionita, nick-turley, nickey-skarstad, nicole-forsgren, nikhyl-singhal (9 episodes)
+- Skipped: nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ)
+- Created: 9 guest pages, concepts/developer-experience, concepts/disagreeable-givers, concepts/ex-growth-companies, concepts/pricing-strategy, concepts/shadows-of-superpowers, frameworks/dora-metrics, frameworks/forward-deployed-engineer, frameworks/space-framework, frameworks/vision-mission-strategy-pyramid, frameworks/what-is-what-could-be
+- Updated: concepts/ai-evals (nick-turley), concepts/velocity (nick-turley, nicole-forsgren), concepts/freemium-subscription (naomi-ionita), concepts/product-led-sales (naomi-ionita), frameworks/linear-method (nan-yu), frameworks/understand-identify-execute (naomi-gleit)
+- Topic tags: palantir/enterprise (nabeel), b2b-product/speed (nan-yu), storytelling/presentations (nancy-duarte), growth/meta/clarity (naomi-gleit), pricing/monetization (naomi-ionita), ai-products/chatgpt (nick-turley), strategy/okrs (nickey-skarstad), developer-experience/metrics (nicole-forsgren), career-development/leadership (nikhyl-singhal)

@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (244 unique / 303 total)
+## Episodes (196 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -201,60 +201,13 @@
 195. nickey-skarstad
 196. nicole-forsgren
 197. nikhyl-singhal
-198. nikita-miller
-199. nilan-peiris
-200. nir-eyal
-201. noah-weiss
-202. noam-lovinsky
-203. oji-udezue
-204. paige-costello
-205. patrick-campbell
-206. paul-adams
-207. paul-millerd
-208. pete-kazanjy
-209. peter-deng
-210. petra-wille
-211. phyl-terry
-212. raaz-herzberg
-213. rachel-lockett
-214. rahul-vohra
-215. ramesh-johari
-216. ravi-mehta
-217. ray-cao
-218. richard-rumelt
-219. robby-stein
-220. roger-martin
-221. ronny-kohavi
-222. ryan-j-salva
-223. ryan-singer
-224. sachin-monga
-225. sahil-mansuri
-226. sam-schillace
-227. sanchan-saxena
-228. sander-schulhoff
-229. sander-schulhoff-20
-230. sarah-tavel
-231. scott-belsky
-232. scott-wu
-233. sean-ellis
-234. seth-godin
-235. shaun-clowes
-236. shishir-mehrotra
-237. shreyas-doshi
-238. shweta-shriva
-239. sri-batchu
-240. sriram-and-aarthi
-241. stewart-butterfield
-242. tamar-yehoshua
-243. tanguy-crusson
-244. teresa-torres
-245. tim-holley
 
 ## Skipped
 
 ### Duplicates
 - andy-raskin_ (duplicate of andy-raskin)
 - april-dunford-20 (duplicate of april-dunford)
+- nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ, same publish date)
 
 ### Non-guest episodes
 - teaser_2021 (promo/teaser)
@@ -274,7 +227,3 @@
 - madhavan-ramanujam-20 (duplicate transcript of madhavan-ramanujam, identical content)
 - marty-cagan-20 (duplicate transcript of marty-cagan, anomalous 2:03 duration, identical content)
 - matt-mullenweg (duplicate of matt-lemay — identical video_id ts9ZvlkeWGs, mislabeled directory)
-- nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ)
-- nikita-bier (mislabeled — transcript is Nikita Miller's episode, same video_id 4PhfAbRQpbI)
-- ryan-hoover (mislabeled — transcript is Ryan Singer's episode, same video_id GF-yUANql0c)
-- shreyas-doshi-live (duplicate of shreyas-doshi — same video_id YP_QghPLG-8)
