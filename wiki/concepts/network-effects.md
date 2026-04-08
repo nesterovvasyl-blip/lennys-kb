@@ -1,6 +1,6 @@
 ---
 aliases: [network-effect, direct-network-effects, cross-side-network-effects, data-network-effects]
-guests: [casey-winters_, oji-udezue]
+guests: [casey-winters_, oji-udezue, yuriy-timen]
 ---
 
 # Network Effects
@@ -27,9 +27,21 @@ Oji uses Twitter as the definitive case study in network effects durability. Des
 
 His definition: network effects occur when passive members gain value from other people joining, without any effort on their own part. Critical mass is the threshold concept — once hit, the network becomes self-reinforcing. The distinction: you can kill the *business* of a network effects company (by attacking its revenue side, as advertisers leaving Twitter illustrates) while the *product* (the user network) survives.
 
+### Yuriy Timen ([[yuriy-timen]]): Network Effects as a Prerequisite for Virality
+
+Yuriy Timen (growth advisor, formerly Grammarly) draws a practical distinction between product network effects and manufactured virality. His definition: "for every individual user, the utility they derive from the product increases the more users there are on the platform." In a collaboration tool, this is scoped — it's not more users in abstract terms but more users within your team or company that drives the utility curve up.
+
+His key practical insight: **product network effects are either present from inception or very difficult to manufacture.** You can't engineer network effects into a fundamentally single-player product (like Grammarly — individual writing assistance — which saw no inherent multiplayer benefits). Contrast with collaboration tools (Airtable, Whimsical, monday.com) where the product becomes more valuable as more teammates join.
+
+**The virality decision tree:**
+1. Does the product have inherent network effects? → strong candidate for viral/referral loops (e.g., Dropbox file sharing)
+2. Does it have a deeply beloved brand even without NE? → still possible to run referral loops (e.g., Laika, a premium dog food subscription, running effective give-one-get-one referrals)
+3. Neither? → virality is an uphill battle; look to SEO or paid instead
+
 ## Sources
 - [[casey-winters_]] — "How to sell your ideas and rise within your company | Casey Winters, Eventbrite"
 - [[oji-udezue]] — "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
+- [[yuriy-timen]] — "How to grow a subscription business" (network effects as virality prerequisite)
 
 ## See Also
 - [[growth]]

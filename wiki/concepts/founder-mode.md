@@ -1,6 +1,6 @@
 ---
 aliases: [founder-led-product, ceo-as-cpo]
-guests: [brian-chesky, brandon-chu, bret-taylor, drew-houston, eoghan-mccabe]
+guests: [brian-chesky, brandon-chu, bret-taylor, drew-houston, eoghan-mccabe, tobi-lutke]
 ---
 
 # Founder Mode
@@ -58,6 +58,14 @@ Houston identified his Enneagram type (7: the enthusiast) as revealing why he ha
 
 McCabe returned to Intercom as CEO to lead its AI pivot and describes founder mode not as a philosophy but as a survival mechanism. He eliminated management layers, established direct access to every team, and maintained daily involvement in product decisions during the six-week sprint that produced Fin (Intercom's AI customer service agent). His frame: "In wartime, founder mode is not a style, it's a survival mechanism." The AI moment required founder-speed, which is incompatible with enterprise approval processes. McCabe also initiated a culture reset that resulted in ~40% workforce turnover — a direct consequence of founder-mode standards applied to an organization that had drifted from its original culture during a period of conventional delegation.
 
+### Tobi Lütke: Founder Mode as "Heat Injection"
+
+Tobi Lütke ([[tobi-lutke]]) frames founder mode not as a philosophy or a style but as a thermodynamic property. Companies exist at "room temperature" by default. Founders and exceptional leaders inject heat — exothermic energy — that enables outperformance. Without this injection, no company can be hotter than average. Shopify works because founders and leaders who genuinely care (exothermic people) are protected and given authority, while conventional management layers are kept thin.
+
+His specific framing on product quality: "The quality at the end of the day is simply a reflection of how much the people who created it gave a shit about the product. And it is not possible to make great products if the people working on it do not give a shit." The product leader's role includes making the team give a shit — through empathy for users, infectious caring, and seeing around corners they can't see themselves.
+
+His view on OKRs/KPIs: Shopify deliberately avoids them to protect the unquantifiable — fun, delight, quality — from being crowded out by quantifiable proxies (Goodhart's Law). The founder's presence creates accountability to the unquantifiable that metrics cannot.
+
 ## Sources
 - [[brian-chesky]] — "If the CEO is not the chief product officer, I don't know if they're a product or tech led company." (Brian Chesky's new playbook)
 - [[brandon-chu]] — "Those founder skills became the actual limiters and propellers of careers." (Shopify and platform PM)
@@ -65,9 +73,12 @@ McCabe returned to Intercom as CEO to lead its AI pivot and describes founder mo
 - [[drew-houston]] — "Founder mode is not a style. It's an earned destination after you've learned enough about yourself and the business." (Behind the founder | Drew Houston, Lenny's Podcast, 2025-01-09)
 - [[eoghan-mccabe]] — "In wartime, founder mode is not a style, it's a survival mechanism." (The art of the AI pivot: Intercom's journey to becoming an AI-first company)
 
+- [[tobi-lutke]] — "The quality at the end of the day is simply a reflection of how much the people who created it gave a shit about the product." Founder mode as heat injection into organizational thermodynamics.
+
 ## See Also
 - [[leadership]]
 - [[wartime-product-management]]
 - [[strategy]]
 - [[brian-chesky]]
 - [[brandon-chu]]
+- [[tobi-lutke]]

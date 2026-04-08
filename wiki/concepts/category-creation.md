@@ -1,6 +1,6 @@
 ---
 aliases: [creating-a-category, category-building]
-guests: [barbra-gago, christopher-lochhead]
+guests: [barbra-gago, christopher-lochhead, zoelle-egner]
 ---
 
 # Category Creation
@@ -41,9 +41,25 @@ His core additions:
 
 Lochhead's critique of category creation as typically practiced: most companies treat it as a marketing exercise (getting the right vocabulary into analyst reports) rather than a strategic exercise (designing the problem space from the ground up). The companies that win categories design them intentionally, not tactically.
 
+### Zoelle Egner's Counter-View: Elevate a Profession, Not a Category ([[zoelle-egner]])
+
+Zoelle (formerly Airtable) offers a sharp dissent from the category-creation playbook for most startups: **it's usually a waste of time.** Getting a Gartner Square is an enormous lift, and the outcome — a niche category where you appear to have "no competitors" — is often counterproductive because buyers don't allocate budgets by your invented category name.
+
+Her alternative: **elevate a profession instead of a category.** A job title is an identity; people fight for identities. Nobody fights for a budget line item. Examples:
+- Gainsight didn't just create "Customer Success Software" — it created **Customer Success** as a recognized, prestigious profession with community, conferences, and job descriptions
+- DevOps pioneers (Datadog, etc.) didn't just create "DevOps tooling" — they elevated DevOps into a career identity that people chose
+
+**The mechanism:** When you elevate a profession, you:
+1. Build community *around the job*, not around your product
+2. Create economic incentives for people in that job to succeed (which means your tool succeeds)
+3. Become part of the identity of that career, so the tool travels with the professional
+
+This approach is more defensible than category creation because professional identities are stickier than software categories, and it's less resource-intensive because you're investing in a community the profession already wants, not educating analysts about a category they don't recognize yet.
+
 ## Sources
 - [[barbra-gago]] — "One of the things that was really important in category creation as well is actually PR... those directory sites, the analysts like Gartner and Forrester, they really shape for customers what the categories are." (Category creation and brand building)
 - [[christopher-lochhead]] — "The biggest companies in history didn't win markets — they created them. They didn't position — they designed categories." (Why category design is the most powerful thing in business)
+- [[zoelle-egner]] — "Elevate a profession instead of a category. A category of software is a line item on your budget. No one is excited about that." (Airtable's unconventional growth strategy)
 
 ## See Also
 - [[barbra-gago]]

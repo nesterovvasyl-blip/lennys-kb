@@ -1,6 +1,6 @@
 ---
 aliases: [PLG, product-led, self-serve growth]
-guests: [elena-verna, eeke-de-milliano, dylan-field, hila-qu]
+guests: [elena-verna, eeke-de-milliano, dylan-field, hila-qu, yuhki-yamashata]
 ---
 # Product-Led Growth
 
@@ -56,6 +56,14 @@ Her framing: **PLG is fundamentally DLG — data-led growth.** Giving away a fre
 
 **Data infrastructure stack**: Segment (data hub) → Amplitude/Mixpanel/PostHog (product analytics) → Optimizely/Eppo (experimentation) → behavior-triggered lifecycle marketing → Clearbit/ZoomInfo (B2B enrichment) → Pocus/Endgame/Pace (PQL sales-assist layer). Before picking tools: do a data dictionary audit to ensure key actions are instrumented and consistently named.
 
+### Yuhki Yamashita ([[yuhki-yamashata]]): Community-Led as the Better Frame for Figma
+
+Yuhki Yamashita (CPO at Figma) reframes what observers call Figma's PLG success: "I like to think about it more as community-led growth." The actual mechanism is passionate internal champions — designers who love Figma — advocating organically within companies. Sales then empowers these champions rather than replacing them: giving them data, stories, and connections to help them make a stronger case internally.
+
+This reframing matters practically: it shifts the question from "how do we optimize the product funnel?" to "how do we equip our most passionate users to succeed as internal advocates?" Figma's "Friends of Figma" program — a Discord-organized global community of enthusiasts who meet regularly — is a structural investment in this model.
+
+Yuhki's condition for this to work: **there must be almost irrational emotional attachment to the product**, cultivated first internally (team must genuinely love it) and then externally. The product should also equip users with a philosophical stance — not just a tool but a different way of working — so that users are championing a movement, not just an app.
+
 ## Sources
 
 - [[elena-verna]] — "The ultimate guide to product-led sales" (full PLG framework)
@@ -63,6 +71,7 @@ Her framing: **PLG is fundamentally DLG — data-led growth.** Giving away a fre
 - [[eeke-de-milliano]] — "How to foster innovation and big thinking" (Stripe and Retool delayed PMs)
 - [[dylan-field]] — "Figma's CEO" (Twitter graph hack for early designer acquisition)
 - [[hila-qu]] — "The ultimate guide to adding a PLG motion" (PLG as DLG, five prerequisites, funnel audit, aha moment analysis)
+- [[yuhki-yamashata]] — "An inside look at how Figma builds product" (community-led reframe of PLG, Friends of Figma program)
 
 ## See Also
 

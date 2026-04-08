@@ -243,6 +243,23 @@
 - [Tanguy Crusson](guests/tanguy-crusson.md) — Head of Jira Product Discovery Atlassian; 10-year 0-to-1 practitioner, Lighthouse Users Program, Wonder→Explore→Make→Impact
 - [Teresa Torres](guests/teresa-torres.md) — Author of Continuous Discovery Habits, creator of Opportunity Solution Tree; trained 12,000+ PMs
 - [Tim Holley](guests/tim-holley.md) — VP Product Etsy; marketplace dynamics, cultural transformation, experimentation culture
+- [Timothy Davis](guests/timothy-davis.md) — Head of Paid Growth at Shopify; paid acquisition strategy, performance marketing, creative testing at scale
+- [Tobi Lütke](guests/tobi-lutke.md) — Co-founder/CEO Shopify; first-principles thinking, infinite games, maximizing human potential, founder leadership
+- [Todd Jackson](guests/todd-jackson.md) — Partner at First Round Capital; four-level PMF model, Four Ps pivot system, dollar-driven customer discovery
+- [Tom Conrad](guests/tom-conrad.md) — Former CTO Pandora, ex-Quibi/Pets.com; business model equation, billion-dollar failure analysis, career resilience
+- [Tomer Cohen](guests/tomer-cohen.md) — CPO of LinkedIn; AI-first product development, product-leader-as-algorithm-owner, organizational AI transformation
+- [Tristan de Montebello](guests/tristan-de-montebello.md) — Public speaking coach; Accordion Method, Bow and Arrow Method, overcoming performance anxiety
+- [Upasna Gautam](guests/upasna-gautam.md) — VP Product at CNN, ex-YouTube; media product, newsroom dynamics, equanimity as PM skill, stakeholder management
+- [Uri Levine](guests/uri-levine.md) — Co-founder of Waze; fall in love with the problem, PMF timing data, crisis management, serial entrepreneurship
+- [Varun Mohan](guests/varun-mohan.md) — Co-founder/CEO Windsurf (Codeium); AI code editor, 1M+ developers in 4 months, pivoting to AI, high agency
+- [Varun Parmar](guests/varun-parmar.md) — CPO of Miro; AMPED org structure, PLG+enterprise, product culture, competitive strategy in collaboration tools
+- [Vijay Iyengar](guests/vijay.md) — Head of Product at Mixpanel; invest profits not people, core focus recovery, NPS from 16→50 through ruthless churn prioritization
+- [Vikrama Dhiman](guests/vikrama-dhiman.md) — Head of Product at Gojek; Three W's PM career framework, outputs→outcomes→direction progression, top PM leader in Asia
+- [Wes Kao](guests/wes-kao.md) — Co-creator altMBA, co-founder Maven; CEDAF delegation, MOO framework, executive communication and managing up
+- [Will Larson](guests/will-larson.md) — CTO at Carta, author of An Elegant Puzzle and Staff Engineer; engineering strategy, treat engineers like adults, writing as leadership
+- [Yuhki Yamashita](guests/yuhki-yamashata.md) — CPO of Figma; community-led growth, storytelling as PM skill, OKR criteria (legibility/actionability/authenticity)
+- [Yuriy Timen](guests/yuriy-timen.md) — Head of Growth at Grammarly/Canva/Airtable; subscription growth, three-box SEO framework, virality prerequisites
+- [Zoelle Egner](guests/zoelle-egner.md) — Early growth at Airtable; elevate a profession vs. create a category, CS-before-sales motion, champion-driven PLG
 
 ## Frameworks
 
@@ -376,6 +393,15 @@
 - [PSHE Talent Framework](frameworks/pshe-talent-framework.md) — Shishir Mehrotra: evaluate hires on Problem, Solution, How, Execution fit across growth stages
 - [Three Levels of Product Work](frameworks/three-levels-product-work.md) — Shreyas Doshi: Impact (what matters), Execution (getting it done), Optics (how it appears)
 - [Wonder → Explore → Make → Impact](frameworks/wonder-explore-make-impact.md) — Atlassian's Tanguy Crusson: four-stage incubation framework with shared vocabulary for corporate innovation
+- [PMF Levels Framework](frameworks/pmf-levels-framework.md) — Todd Jackson's four-level B2B PMF model (Nascent/Developing/Strong/Extreme) with Four Ps pivot navigation and dollar-driven discovery
+- [First Principles Thinking](frameworks/first-principles-thinking.md) — Tobi Lütke's approach to deriving decisions from building blocks rather than adapting existing patterns
+- [Accordion Method](frameworks/accordion-method.md) — Tristan de Montebello's talk preparation technique using time compression/expansion to internalize rather than memorize
+- [Bow and Arrow Method](frameworks/bow-and-arrow-method.md) — Tristan de Montebello's framework for designing any talk around one memorable takeaway (arrow) supported by weight (bow)
+- [AMPED Structure](frameworks/amped-structure.md) — Miro's cross-functional product org: Analytics, Marketing, Product, Engineering, Design embedded in each product stream
+- [CEDAF Delegation Framework](frameworks/cedaf-framework.md) — Wes Kao's structured delegation method ensuring clarity on Context, Expectations, Deliverables, Authority, and Feedback
+- [MOO — Most Obvious Objection](frameworks/moo-framework.md) — Wes Kao's technique: proactively address the most predictable pushback before your audience voices it
+- [Three W's PM Career Framework](frameworks/three-ws-pm-career.md) — Vikrama Dhiman's growth model: What you produce, What you bring to the table, What your operating model is
+- [SEO Three-Box Framework](frameworks/seo-three-box-framework.md) — Yuriy Timen's checklist for evaluating any SEO investment: editorial, programmatic, and data angles
 
 ## Concepts
 
@@ -476,6 +502,14 @@
 - [Hyperrealistic Work-Like Activities](concepts/hyperrealistic-work-like-activities.md) — Stewart Butterfield: activities that look like work but generate no value; emerge when headcount outpaces known-valuable work
 - [Owner's Delusion](concepts/owners-delusion.md) — Stewart Butterfield: product creators design for themselves (engaged, attentive) rather than distracted, low-intent users
 - [Utility Curves](concepts/utility-curves.md) — Stewart Butterfield's S-curve model for deciding where you are on a feature's investment-to-value curve
+- [Business Model Equation](concepts/business-model-equation.md) — Tom Conrad: every company has an underlying math formula; broken equations can't be fixed by product quality alone
+- [AI-First Product Development](concepts/ai-first-product-development.md) — Tomer Cohen: AI as strategic operating model; product leaders as algorithm owners; LinkedIn's diverge-then-converge AI transformation
+- [Fall in Love with the Problem](concepts/fall-in-love-with-the-problem.md) — Uri Levine: the problem is the North Star, the solution is a hypothesis; pivot solutions freely while keeping the problem constant
+- [Equanimity](concepts/equanimity.md) — Upasna Gautam: mental calmness under pressure as a core PM skill; the pause before reacting; developed through mindfulness practice
+- [Engineering Strategy](concepts/engineering-strategy.md) — Will Larson: written strategy as a debuggable, improvable artifact; every company has a strategy, most just haven't written it down
+- [Managing Up](concepts/managing-up.md) — Wes Kao: proactive communication with leadership to create alignment, build trust, and reduce surprises; a skill that compounds
+- [Storytelling for PMs](concepts/storytelling-pm.md) — Yuhki Yamashita: PMs as synthesizers and meme-makers; escaping the curse of knowledge; the "one thing" test for clarity
+- [Invest Profits, Not People](concepts/invest-profits-not-people.md) — Vijay Iyengar: when expanding product lines, use profit or capital — never divert engineers from the core, or you invite disruption
 
 ## Topics
 

@@ -1,6 +1,6 @@
 ---
 aliases: [PLS, product-qualified accounts, PQA, PQL]
-guests: [elena-verna]
+guests: [elena-verna, zoelle-egner]
 ---
 # Product-Led Sales
 
@@ -53,9 +53,24 @@ PLS assumes there's an escalator from individual use case → team level → ent
 
 The product team owns the PQA threshold (the signal that an account is ready for sales). This is a handshake between product and sales. Product should not own quota but should own pipeline created by product.
 
+### Zoelle Egner's Airtable Model: CS Before Sales ([[zoelle-egner]])
+
+Zoelle (employee #11 at Airtable) describes an even earlier-stage version of PLS: **customer success before sales, and champions before buyers.** At Airtable, buyers (IT budget holders) and champions (tinkerers who built bases on Friday evenings) were entirely different people. The product-led motion was driven by champions who had no purchasing authority.
+
+The practical mechanics:
+1. Build a signup feed with title/company data (a Slack integration), then manually reach out to promising signups within hours for feedback conversations
+2. Over-invest in helping champions build their *first* successful base — ensure it's durable and spreads within their org
+3. Once the champion's team is using Airtable at scale (10 → 1,000 users), the CS team could approach IT with "you have 500 people using this product" — making the enterprise sales conversation nearly automatic
+4. Champions then became internal salespeople, able to explain Airtable in the context of their colleague's specific use case in a way that Airtable's generic messaging never could
+
+Zoelle describes this as "product-led sales before the term existed" — product usage driving enterprise contracts, but with a human customer success layer that PLS frameworks often omit.
+
+**The buyers vs. champions distinction** is Airtable-specific but generalizable to any horizontal product where power users and budget holders are separated by organizational layers.
+
 ## Sources
 
 - [[elena-verna]] — "The ultimate guide to product-led sales" (full framework with examples from Amplitude, Miro, Figma)
+- [[zoelle-egner]] — "Lessons from Airtable's unconventional growth strategy" (CS before sales, champions vs. buyers, signup-feed manual outreach)
 
 ## See Also
 
