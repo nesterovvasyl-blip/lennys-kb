@@ -233,6 +233,16 @@
 - [Sean Ellis](guests/sean-ellis.md) — Coined "growth hacking"; invented ICE framework and Sean Ellis Test (40% "very disappointed" benchmark)
 - [Seth Godin](guests/seth-godin.md) — Author, marketer; brand as promise, Purple Cow, remarkable products, systems thinking
 - [Shaun Clowes](guests/shaun-clowes.md) — CPO Confluent, first Head of Growth Atlassian; AI products, data-driven PLG, B2B SaaS defensibility
+- [Shishir Mehrotra](guests/shishir-mehrotra.md) — Co-founder/CEO Coda, ex-VP Product/Engineering YouTube; team rituals, Eigenquestion framework, PSHE talent model
+- [Shreyas Doshi](guests/shreyas-doshi.md) — ex-Director PM Stripe; LNO framework, Three Levels of Product Work, Pre-Mortem, High Agency mindset
+- [Shweta Shrivastava](guests/shweta-shriva.md) — Sr. Director PM Waymo, ex-CPO Nauto, Head of PM AWS; autonomous vehicles product, hardware-software integration
+- [Sri Batchu](guests/sri-batchu.md) — Head of Growth Ramp, ex-Head of Growth Instacart; B2B growth scaling, payback period metrics, north star metrics
+- [Sriram Krishnan & Aarthi Ramamurthy](guests/sriram-and-aarthi.md) — a16z partner and angel investor co-hosts of The Good Time Show; techno-optimism, networking, personal brand
+- [Stewart Butterfield](guests/stewart-butterfield.md) — Co-founder of Slack and Flickr; utility curves, owner's delusion, "don't make me think" UX principle
+- [Tamar Yehoshua](guests/tamar-yehoshua.md) — President of Product & Technology Glean, ex-CPO Slack, Google Search lead; follow great people career philosophy
+- [Tanguy Crusson](guests/tanguy-crusson.md) — Head of Jira Product Discovery Atlassian; 10-year 0-to-1 practitioner, Lighthouse Users Program, Wonder→Explore→Make→Impact
+- [Teresa Torres](guests/teresa-torres.md) — Author of Continuous Discovery Habits, creator of Opportunity Solution Tree; trained 12,000+ PMs
+- [Tim Holley](guests/tim-holley.md) — VP Product Etsy; marketplace dynamics, cultural transformation, experimentation culture
 
 ## Frameworks
 
@@ -357,6 +367,15 @@
 - [Hierarchy of Marketplaces](frameworks/hierarchy-of-marketplaces.md) — Sarah Tavel's three levels: focused thimble → tip the market → dominate
 - [ICE Prioritization Framework](frameworks/ice-prioritization-framework.md) — Sean Ellis's Impact × Confidence × Ease scoring for growth experiment prioritization
 - [Sean Ellis Test](frameworks/sean-ellis-test.md) — The "very disappointed" PMF survey: 40%+ threshold signals product-market fit
+- [Dory/Pulse Ritual](frameworks/dory-pulse-ritual.md) — Shishir Mehrotra's meeting ritual: async question collection (Dory) + real-time sentiment pulse for high-trust team communication
+- [Eigenquestion Framework](frameworks/eigenquestion-framework.md) — Shishir Mehrotra: find the one question whose answer determines the answer to all others before building
+- [LNO Framework](frameworks/lno-framework.md) — Shreyas Doshi: categorize all PM work as Leverage, Neutral, or Overhead to maximize high-impact time
+- [Lighthouse Users Program](frameworks/lighthouse-users-program.md) — Tanguy Crusson's structured 10→100→1,000 early-customer development approach for new products
+- [Opportunity Solution Tree](frameworks/opportunity-solution-tree.md) — Teresa Torres's visual framework: outcomes → opportunities → solutions → assumption tests
+- [Pre-Mortem Framework](frameworks/pre-mortem-framework.md) — Shreyas Doshi's Tigers/Paper Tigers/Elephants analysis: identify blockers before they kill a project
+- [PSHE Talent Framework](frameworks/pshe-talent-framework.md) — Shishir Mehrotra: evaluate hires on Problem, Solution, How, Execution fit across growth stages
+- [Three Levels of Product Work](frameworks/three-levels-product-work.md) — Shreyas Doshi: Impact (what matters), Execution (getting it done), Optics (how it appears)
+- [Wonder → Explore → Make → Impact](frameworks/wonder-explore-make-impact.md) — Atlassian's Tanguy Crusson: four-stage incubation framework with shared vocabulary for corporate innovation
 
 ## Concepts
 
@@ -448,6 +467,15 @@
 - [First Mile Experience](concepts/first-mile-experience.md) — Scott Belsky: the first interactions a new user has; more important than features because it determines whether they return
 - [Prompt Engineering](concepts/prompt-engineering.md) — Sander Schulhoff: crafting LLM inputs for better outputs; 5 techniques that work, what no longer works
 - [Prompt Injection and AI Security](concepts/prompt-injection.md) — Sander Schulhoff: attack vectors against LLM systems; why guardrails fail; what actually works for agentic deployments
+- [Activation-First Growth](concepts/activation-first-growth.md) — Sean Ellis: nail activation before scaling acquisition; LogMeIn 5%→50% activation unlocked 100x channel scale
+- [Data Quality for AI Products](concepts/data-quality-for-ai.md) — Shaun Clowes/Scott Wu: AI product value is determined by data quality and freshness, not model capability
+- [Messy Middle](concepts/messy-middle.md) — Scott Belsky: the volatile years between founding and outcome; conviction, micro-milestones, and merchandised progress
+- [Continuous Discovery](concepts/continuous-discovery.md) — Teresa Torres: weekly customer feedback loops built into normal product cadence; habits over projects
+- [Don't Make Me Think](concepts/dont-make-me-think.md) — Stewart Butterfield: the real UX goal is reducing cognitive load (comprehension), not just reducing clicks
+- [High Agency](concepts/high-agency.md) — Shreyas Doshi: PMs who act like owners, find paths despite obstacles, take initiative without being asked
+- [Hyperrealistic Work-Like Activities](concepts/hyperrealistic-work-like-activities.md) — Stewart Butterfield: activities that look like work but generate no value; emerge when headcount outpaces known-valuable work
+- [Owner's Delusion](concepts/owners-delusion.md) — Stewart Butterfield: product creators design for themselves (engaged, attentive) rather than distracted, low-intent users
+- [Utility Curves](concepts/utility-curves.md) — Stewart Butterfield's S-curve model for deciding where you are on a feature's investment-to-value curve
 
 ## Topics
 

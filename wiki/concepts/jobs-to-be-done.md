@@ -44,16 +44,30 @@ Movement happens only when F1 + F2 > F3 + F4. Adding features typically addresse
 
 He finds the **four forces** (push, pull, anxiety, habit) most practically useful — and points out that Intercom's co-founders used the four forces to recruit him from Facebook, feeding his anxieties and attractions deliberately. His broader caution: don't get caught in the religious war between JTBD variants. The specific version matters far less than using it to ask "what is the person trying to do and do they have a lot of energy around it?"
 
+**Sriram Krishnan's contrarian critique ([[sriram-and-aarthi]])**: Sriram argues JTBD fundamentally fails in multi-agent product environments. Real products involve many interacting agents with conflicting incentives — not a single user with a single job. Examples:
+
+- Facebook's "People You May Know" deliberately made *your* experience slightly worse to help a *new user* get 10 friends in 14 days — a tradeoff JTBD cannot articulate
+- Twitter's algorithmic ranking saved the product for mass-market users while angering power users — whose job were you prioritizing?
+- Amazon stopped emailing order details (degrading user experience) to prevent Google from having that data in Gmail — valid competitive logic, no JTBD answer
+
+Sriram's alternative: **systems thinking** — map all agents in the system, their incentives, and how those incentives interact. Ask "what is each party's incentive and how do they interact?" rather than "what job is this user hiring this product to do?" Aarthi adds: **first principles thinking** — if you were starting over, would you build this the same way?
+
+Both acknowledge JTBD may have some utility for V1 hypothesis forming — asking "what is the core value we're trying to serve?" But at scale, multi-agent tradeoffs dominate and JTBD provides no language for resolving them.
+
+Balanced view: JTBD and systems thinking address different questions. JTBD excels at the demand side — understanding why individuals switch, buy, or stop using products. Systems thinking is better for multi-stakeholder optimization and competitive strategy. The frameworks are complementary, not mutually exclusive.
+
 ## Sources
 - [[bob-moesta]] — "People hire products. They don't buy them. They hire them to make progress in their life." (How to find work you love, 2025)
 - [[bob-moesta-20]] — "The causation is what's critical — not anyone push, but the set of pushes that come together and give you enough energy to say, today's the day." (The ultimate guide to JTBD, 2023)
 - [[gia-laudi]] — "You need to understand the struggling moment that caused your best customer to look for a solution." (Stop guessing, start growing, 2022)
 - [[paul-adams]] — "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
+- [[sriram-and-aarthi]] — "Hot takes and techno-optimism from tech's top power couple | Sriram and Aarthi" (critique and alternative framing)
 
 ## See Also
 - [[bob-moesta]]
 - [[bob-moesta-20]]
 - [[gia-laudi]]
+- [[sriram-and-aarthi]]
 - [[customer-led-growth]]
 - [[b2b-buyer-indecision]]
 - [[product-market-fit]]

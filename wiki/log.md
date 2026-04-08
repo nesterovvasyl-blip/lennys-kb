@@ -2,6 +2,33 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 15 — Episodes shishir-mehrotra through tim-holley
+
+### Processed Episodes (10 unique, 10 attempted)
+1. **Shishir Mehrotra** — "The rituals of great teams"
+2. **Shreyas Doshi** — "The art of product management"
+3. **Shweta Shrivastava** — "Product lessons from Waymo"
+4. **Sri Batchu** — "Lessons from scaling Ramp"
+5. **Sriram Krishnan & Aarthi Ramamurthy** — "Hot takes and techno-optimism from tech's top power couple"
+6. **Stewart Butterfield** — "Mental models for building products people love"
+7. **Tamar Yehoshua** — "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack"
+8. **Tanguy Crusson** — "Hard-won lessons building 0 to 1 inside Atlassian"
+9. **Teresa Torres** — "Build better products with continuous product discovery"
+10. **Tim Holley** — "Inside Etsy's product, growth, and marketplace evolution"
+
+### Skipped
+- **shreyas-doshi-live**: Duplicate of shreyas-doshi (same video_id YP_QghPLG-8)
+- **teaser_2021**: Promo/teaser, not a guest episode (already in skipped list)
+
+### Created
+- **Guests (10):** shishir-mehrotra, shreyas-doshi, shweta-shriva, sri-batchu, sriram-and-aarthi, stewart-butterfield, tamar-yehoshua, tanguy-crusson, teresa-torres, tim-holley
+- **Frameworks (9):** dory-pulse-ritual, eigenquestion-framework, lighthouse-users-program, lno-framework, opportunity-solution-tree, pre-mortem-framework, pshe-talent-framework, three-levels-product-work, wonder-explore-make-impact
+- **Concepts (6):** continuous-discovery, dont-make-me-think, high-agency, hyperrealistic-work-like-activities, owners-delusion, utility-curves
+
+### Updated
+- wiki/concepts/jobs-to-be-done.md — additional perspective
+- wiki/concepts/two-sided-marketplace-dynamics.md — Tim Holley's Etsy perspective
+
 ## [2026-04-07] ingest | Batch 14 — Episodes sam-schillace through shaun-clowes
 
 ### Processed Episodes (10 unique, 10 attempted)

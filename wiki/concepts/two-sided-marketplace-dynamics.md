@@ -1,6 +1,6 @@
 ---
 concept: Two-Sided Marketplace Dynamics
-guests: [ramesh-johari]
+guests: [ramesh-johari, tim-holley]
 topics: [marketplaces, growth, pricing, data-science, platform]
 ---
 
@@ -37,6 +37,18 @@ Each loop feeds the next — what you learn from completed matches improves find
 - Distributionally fair systems protect new entrants with priors (Bayesian smoothing)
 - Information is contained in non-reviews — "effective percent positive" (including abstentions in the denominator) is more predictive than simple rating averages
 
+### Tim Holley ([[tim-holley]])
+
+**Which side to prioritize:** Etsy started with deep seller focus (studio visits, craft fairs, hacker weeks with sellers building together). As the business matured, the priority shifted toward buyer experience — because GMS (gross merchandise sales) represents a buyer buying from a seller, so ultimately buyer conversion is the north star. The seller focus never disappeared; it evolved into equipping sellers with data and tools to optimize for buyer demand.
+
+**Information asymmetry as a marketplace advantage:** The marketplace sees aggregate patterns individual sellers can't. Etsy tells sellers "if you put this item on sale this period, you'll probably get an incremental sale." The platform acts as an information broker, helping sellers make better decisions with data only the marketplace holds.
+
+**Supply integrity as brand defense:** When supply quality erodes (cheap overseas items flooding the platform), policy enforcement is the counterweight. Etsy continuously invests in ensuring only qualifying items appear. "Production assistance" (helping makers scale) is allowed; "design-it-yourself and hand off to an anonymous manufacturer" is not.
+
+**Behavioral economics and conversion:** Small signals have outsized conversion impact for unique-inventory marketplaces. "Only 1 left," buyer review photos (what does this look like in a real person's home?), and seller response-time indicators all help buyers gain confidence purchasing from an unknown independent seller. A one-line cart copy change ("Etsy offsets carbon emissions from every delivery") drove significant conversion uplift.
+
+**The graduation problem:** Successful sellers eventually wonder why they pay marketplace fees and consider going direct. Etsy's answer: our traffic acquisition costs, community (seller Teams), and tools are cheaper than building your own distribution. The platform has to continuously demonstrate ongoing value creation — not just initial match facilitation.
+
 ## Actionable Takeaways
 
 - Always ask: "What is my value proposition in a world without scaled liquidity on both sides?"
@@ -49,6 +61,7 @@ Each loop feeds the next — what you learn from completed matches improves find
 ## Sources
 
 - [[ramesh-johari]] — "Marketplace lessons from Uber, Airbnb, Bumble, and more"
+- [[tim-holley]] — "Inside Etsy's product, growth, and marketplace evolution | Tim Holley (VP of Product)"
 
 ## See Also
 

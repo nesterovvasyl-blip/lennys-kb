@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (234 unique / 303 total)
+## Episodes (244 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -239,6 +239,16 @@
 233. sean-ellis
 234. seth-godin
 235. shaun-clowes
+236. shishir-mehrotra
+237. shreyas-doshi
+238. shweta-shriva
+239. sri-batchu
+240. sriram-and-aarthi
+241. stewart-butterfield
+242. tamar-yehoshua
+243. tanguy-crusson
+244. teresa-torres
+245. tim-holley
 
 ## Skipped
 
@@ -267,3 +277,4 @@
 - nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ)
 - nikita-bier (mislabeled — transcript is Nikita Miller's episode, same video_id 4PhfAbRQpbI)
 - ryan-hoover (mislabeled — transcript is Ryan Singer's episode, same video_id GF-yUANql0c)
+- shreyas-doshi-live (duplicate of shreyas-doshi — same video_id YP_QghPLG-8)
