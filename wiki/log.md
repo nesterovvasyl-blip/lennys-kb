@@ -2,6 +2,32 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 13 — Episodes ray-cao through sahil-mansuri
+
+### Processed Episodes (9 unique, 10 attempted)
+1. **Ray Cao** — "Product management theater" (TikTok monetization)
+2. **Richard Rumelt** — "Good Strategy, Bad Strategy"
+3. **Robby Stein** — "Inside Google's AI turnaround: AI Mode, AI Overviews"
+4. **Roger Martin** — "5 essential questions to craft a winning strategy"
+5. **Ronny Kohavi** — "The ultimate guide to A/B testing"
+6. **Ryan J. Salva** — "The role of AI in new product development"
+7. **Ryan Singer** — "A better way to plan, build, and ship products"
+8. **Sachin Monga** — "Building Substack"
+9. **Sahil Mansuri** — "How to hit revenue targets in a recession"
+
+### Skipped
+- **ryan-hoover**: Mislabeled duplicate of ryan-singer — same video_id (GF-yUANql0c)
+
+### Created
+- **Guests (9):** ray-cao, richard-rumelt, robby-stein, roger-martin, ronny-kohavi, ryan-j-salva, ryan-singer, sachin-monga, sahil-mansuri
+- **Frameworks (4):** downturn-sales-playbook, good-strategy-kernel, r-and-d-to-product-transition (shape-up updated)
+- **Concepts (3):** ai-pair-programmer, sales-comp-alignment, substack-recommendations
+
+### Updated
+- wiki/frameworks/shape-up.md — Ryan Singer's deep-dive shaping mechanics
+- wiki/frameworks/playing-to-win-strategy.md — Roger Martin's additional perspective
+- wiki/concepts/experimentation-culture.md — Ronny Kohavi's A/B testing depth
+
 ## [2026-04-07] ingest | Batch 12 — Episodes paul-millerd through ravi-mehta
 
 ### Processed Episodes (10 unique, 10 attempted)

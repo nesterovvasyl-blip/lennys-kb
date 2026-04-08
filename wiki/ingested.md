@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (215 unique / 303 total)
+## Episodes (224 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -220,6 +220,15 @@
 214. rahul-vohra
 215. ramesh-johari
 216. ravi-mehta
+217. ray-cao
+218. richard-rumelt
+219. robby-stein
+220. roger-martin
+221. ronny-kohavi
+222. ryan-j-salva
+223. ryan-singer
+224. sachin-monga
+225. sahil-mansuri
 
 ## Skipped
 
@@ -247,3 +256,4 @@
 - matt-mullenweg (duplicate of matt-lemay — identical video_id ts9ZvlkeWGs, mislabeled directory)
 - nicole-forsgren-20 (duplicate of nicole-forsgren — same video_id SWcDfPVTizQ)
 - nikita-bier (mislabeled — transcript is Nikita Miller's episode, same video_id 4PhfAbRQpbI)
+- ryan-hoover (mislabeled — transcript is Ryan Singer's episode, same video_id GF-yUANql0c)

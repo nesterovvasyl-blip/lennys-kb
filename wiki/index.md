@@ -214,6 +214,15 @@
 - [Rahul Vohra](guests/rahul-vohra.md) — Founder/CEO Superhuman; PMF Engine, game design in products, Single Decisive Reason, obsessive product craft
 - [Ramesh Johari](guests/ramesh-johari.md) — Stanford professor; two-sided marketplace dynamics, experimentation at Uber/Airbnb/Bumble
 - [Ravi Mehta](guests/ravi-mehta.md) — Co-founder Outpace, ex-CPO Tinder; Product Strategy Stack, 12 PM Competencies framework
+- [Ray Cao](guests/ray-cao.md) — Global Head of Monetization Product Strategy at TikTok; advertising, globalization, culture-driven product development
+- [Richard Rumelt](guests/richard-rumelt.md) — Professor Emeritus UCLA Anderson; author of Good Strategy Bad Strategy; Good Strategy Kernel framework
+- [Robby Stein](guests/robby-stein.md) — VP of Product at Google Search; AI Mode, AI Overviews, consumer product building at scale
+- [Roger Martin](guests/roger-martin.md) — Professor Emeritus Rotman School; 5 essential strategy questions, Playing to Win co-author
+- [Ronny Kohavi](guests/ronny-kohavi.md) — Former VP at Airbnb/Microsoft/Amazon; the definitive guide to A/B testing, OEC metrics, experimentation culture
+- [Ryan J. Salva](guests/ryan-j-salva.md) — VP Product at GitHub; incubated GitHub Copilot; AI pair programmer concept, R&D-to-product transition
+- [Ryan Singer](guests/ryan-singer.md) — Creator of Shape Up at 37signals; shaping session mechanics, appetites vs. estimates, predictable shipping
+- [Sachin Monga](guests/sachin-monga.md) — Head of Product at Substack; built Recommendations (1-in-3 new subs from network), creator economy growth
+- [Sahil Mansuri](guests/sahil-mansuri.md) — CEO of Bravado; B2B SaaS sales, downturn playbooks, fixing misaligned comp plans
 
 ## Frameworks
 
@@ -329,6 +338,9 @@
 - [Product Strategy Stack](frameworks/product-strategy-stack.md) — Ravi Mehta's layered model: vision → strategy → roadmap → OKRs, each informing the next
 - [Single Decisive Reason](frameworks/single-decisive-reason.md) — Reid Hoffman (via Rahul Vohra): when faced with a hard decision, find the one reason that makes everything else irrelevant
 - [Superhuman PMF Engine](frameworks/superhuman-pmf-engine.md) — Rahul Vohra's quantitative PMF survey method using "very disappointed" benchmark and segmentation
+- [Downturn Sales Playbook](frameworks/downturn-sales-playbook.md) — Sahil Mansuri's five-part GTM adjustment when new-business pipeline freezes: reforecast, comp redesign, retention focus, advisory value, warm intros
+- [Good Strategy Kernel](frameworks/good-strategy-kernel.md) — Richard Rumelt's three-part structure: diagnosis, guiding policy, coherent actions
+- [R&D to Product Transition](frameworks/r-and-d-to-product-transition.md) — Ryan J. Salva's six-step framework for graduating an experimental project from research to operational product inside a large company
 
 ## Concepts
 
@@ -411,6 +423,9 @@
 - [Candidate Market Fit](concepts/candidate-market-fit.md) — Phyl Terry: job search success depends on labor market conditions, not just inherent worth; apply product thinking to your search
 - [Game Design Principles in Product](concepts/game-design-principles.md) — Rahul Vohra: applying variable rewards, mastery, and feedback loops to drive product engagement and retention
 - [Two-Sided Marketplace Dynamics](concepts/two-sided-marketplace-dynamics.md) — Ramesh Johari: supply/demand interdependence, interference, experimentation challenges unique to marketplaces
+- [AI Pair Programmer](concepts/ai-pair-programmer.md) — Ryan J. Salva: framing AI coding assistance as collaborative partner; the model behind Copilot's design
+- [Sales Comp Alignment](concepts/sales-comp-alignment.md) — Sahil Mansuri: mismatch between new-ARR comp structures and retention-driven models; how to fix with renewal kickers
+- [Substack Recommendations](concepts/substack-recommendations.md) — Sachin Monga: writer-controlled cross-promotion driving 1-in-3 subscriptions; trust-based viral growth case study
 
 ## Topics
 
