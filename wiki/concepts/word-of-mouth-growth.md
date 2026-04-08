@@ -1,6 +1,6 @@
 ---
 concept: Word-of-Mouth Growth
-guests: [nilan-peiris, noah-weiss]
+guests: [nilan-peiris, noah-weiss, rahul-vohra]
 topics: [growth, product-strategy, virality]
 ---
 
@@ -44,6 +44,18 @@ Slack's WoM story is about consumer-grade delight in a B2B context:
 - WoM compounds in B2B: the enterprise sales motion was essentially "sort customer domains by active users and call them."
 - Noah echoes Seth Godin's "remarkable" framing: "Products that win are ones that you want to tell your friends about."
 
+### Rahul Vohra ([[rahul-vohra]])
+
+Rahul learned at LinkedIn under growth head Elliot Shmukler that viral mechanics are largely a myth. Even Facebook's viral factor never exceeded ~0.7 for more than a year. The "address book import" feature — LinkedIn's most infamous growth mechanic — had a lifetime viral factor of ~0.4. All viral mechanics have an asymptote; they don't compound indefinitely.
+
+**The actual secret:** Word of mouth — unmeasured, unmechanical, spontaneous. When one person tells another because they love the product. This shapes everything at Superhuman: rather than engineering viral mechanics, obsess over being remarkable enough that people can't help but share.
+
+Key insight: **whales exist in WoM too.** Some users will invite 25, 50, or 100 people. Understanding whale motivations (in Superhuman's case: the referral program gives a free month) is separate from understanding the broader WoM signal.
+
+Superhuman operationalizes remarkableness through company values: "Create delight," "Deliver remarkable quality," "Build the extraordinary" — literally encoding the raw ingredients of WoM into culture.
+
+The cocktail party test: if your best users pitch your product in one memorable sentence ("dude, you have to use it, it's really fucking fast"), you have a position worth owning.
+
 ## Actionable Takeaways
 - Measure WoM directly — ask users how they heard about you; integrate it into the product flow.
 - Track NPS as a leading growth indicator, not just a satisfaction score. Read every comment.
@@ -54,6 +66,7 @@ Slack's WoM story is about consumer-grade delight in a B2B context:
 ## Sources
 - [[nilan-peiris]] — "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
 - [[noah-weiss]] — "The 10 traits of great PMs, AI, and Slack's approach to product"
+- [[rahul-vohra]] — "Superhuman's secret to success"
 
 ## See Also
 - [[viral-growth-loop]]

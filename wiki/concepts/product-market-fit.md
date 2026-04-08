@@ -1,6 +1,6 @@
 ---
 aliases: [PMF]
-guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss]
+guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss, rahul-vohra]
 ---
 
 # Product-Market Fit
@@ -39,6 +39,19 @@ Slack's self-service plateau in 2019 was precisely this: PMF with early adopters
 - Watch retention and activation metrics for early signs of fit erosion
 - Use the Sean Ellis score as a launch gate, not just measurement; define your threshold based on your specific customer base
 - Find the bullseye cohort (highest PMF segment) and design toward them
+
+**Rahul Vohra's PMF Engine:**
+
+**Rahul Vohra** (Superhuman) built the most systematic operationalization of Sean Ellis's approach. The Superhuman PMF Engine has four counterintuitive steps:
+
+1. Survey: "How would you feel if you could no longer use this product?" — very / somewhat / not disappointed
+2. Target 40%+ "very disappointed" (the Sean Ellis benchmark)
+3. Ignore feedback from "very disappointed" — they already love it; don't distract your roadmap
+4. Focus entirely on "somewhat disappointed" users **whose main benefit resonates** — find the small thing holding them back
+
+Half the roadmap goes to doubling down on what "very disappointed" users love. Half goes to removing top objections from "somewhat disappointed" users who resonate with the core benefit. This creates a guaranteed mathematical path to increasing the score. Rahul still uses it on new product lines (e.g., Superhuman for Sales).
+
+Superhuman ran manual one-on-one onboarding for every user for years — up to 20 people doing it at peak. This created the early cohort of super-fans whose word-of-mouth bootstrapped Superhuman's brand before any marketing investment.
 
 ## Sources
 

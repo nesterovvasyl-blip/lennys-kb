@@ -204,6 +204,16 @@
 - [Paige Costello](guests/paige-costello.md) — Head of Core Product at Asana; coaching, career development, winning over skeptics
 - [Patrick Campbell](guests/patrick-campbell.md) — Founder ProfitWell; tactical vs. strategic retention, Tempo Framework, bootstrapping to $200M
 - [Paul Adams](guests/paul-adams.md) — CPO of Intercom; differentiation vs. table stakes, AI product strategy, Jobs to Be Done
+- [Paul Millerd](guests/paul-millerd.md) — Author of The Pathless Path; former strategy consultant who built a creative business around "coming alive over getting ahead"
+- [Pete Kazanjy](guests/pete-kazanjy.md) — Author of Founding Sales; codified the founder-led B2B sales playbook before hiring salespeople
+- [Peter Deng](guests/peter-deng.md) — 4th PM at Facebook, Head of Product Instagram, VP Product OpenAI, GP at Felicis; Five PM Archetypes framework
+- [Petra Wille](guests/petra-wille.md) — Independent product leadership coach, author of Strong Product People; PMwheel for comprehensive PM assessment
+- [Phyl Terry](guests/phyl-terry.md) — Author of Never Search Alone; Job Search Councils, Candidate Market Fit, Job Mission OKRs negotiation tactic
+- [Raaz Herzberg](guests/raaz-herzberg.md) — CMO and VP Product Strategy at Wiz; fastest-growing startup in history, brand-led enterprise GTM
+- [Rachel Lockett](guests/rachel-lockett.md) — Executive coach (ex-Stripe/Pinterest HR); difficult conversations, high-trust teams, GROW model, NVC
+- [Rahul Vohra](guests/rahul-vohra.md) — Founder/CEO Superhuman; PMF Engine, game design in products, Single Decisive Reason, obsessive product craft
+- [Ramesh Johari](guests/ramesh-johari.md) — Stanford professor; two-sided marketplace dynamics, experimentation at Uber/Airbnb/Bumble
+- [Ravi Mehta](guests/ravi-mehta.md) — Co-founder Outpace, ex-CPO Tinder; Product Strategy Stack, 12 PM Competencies framework
 
 ## Frameworks
 
@@ -309,6 +319,16 @@
 - [Tempo Framework](frameworks/tempo-framework.md) — Patrick Campbell's principle: define what "good" shipping frequency looks like before setting org design
 - [Workflow Quadrant](frameworks/workflow-quadrant.md) — Oji Udezue's 2×2 mapping B2B SaaS opportunities by workflow breadth and frequency to predict unicorn potential
 - [Zone of Benefit](frameworks/zone-of-benefit.md) — Oji Udezue's 3x threshold: people only switch products when the new solution is at least 3x better at what they care most about
+- [Five PM Archetypes](frameworks/five-pm-archetypes.md) — Peter Deng's Consumer/Growth/GM/Platform/Research-AI PM types for team composition and hiring
+- [Founder-Led Sales While Loop](frameworks/founder-led-sales-while-loop.md) — Pete Kazanjy's iterative framework for building a repeatable B2B sales motion before hiring salespeople
+- [GROW Model](frameworks/grow-model.md) — Coaching framework: Goal, Reality, Options, Will — used by Rachel Lockett for leadership development
+- [Job Mission OKRs](frameworks/job-mission-okrs.md) — Phyl Terry's tactic: draft your own OKRs for a role privately, then share with hiring managers to demonstrate initiative
+- [Nonviolent Communication (NVC)](frameworks/nonviolent-communication.md) — Marshall Rosenberg's framework for conflict resolution; observations, feelings, needs, requests
+- [PM Competency Framework](frameworks/pm-competency-framework.md) — Ravi Mehta's 12 competencies across four domains for PM assessment and development
+- [PMwheel](frameworks/pmwheel.md) — Petra Wille's eight-bucket framework for comprehensive PM assessment: Understand, Find Solutions, Plan, Get It Done, Listen and Learn, Team, Personal Growth, Agile
+- [Product Strategy Stack](frameworks/product-strategy-stack.md) — Ravi Mehta's layered model: vision → strategy → roadmap → OKRs, each informing the next
+- [Single Decisive Reason](frameworks/single-decisive-reason.md) — Reid Hoffman (via Rahul Vohra): when faced with a hard decision, find the one reason that makes everything else irrelevant
+- [Superhuman PMF Engine](frameworks/superhuman-pmf-engine.md) — Rahul Vohra's quantitative PMF survey method using "very disappointed" benchmark and segmentation
 
 ## Concepts
 
@@ -388,6 +408,9 @@
 - [Tactical vs. Strategic Retention](concepts/tactical-vs-strategic-retention.md) — Patrick Campbell: churn has two root causes (product/fit vs. payment failures); most teams only fix one
 - [Word-of-Mouth Growth](concepts/word-of-mouth-growth.md) — How Wise and Slack built products that spread through referral and authentic advocacy
 - [Product-Market-Story Fit](concepts/product-market-story-fit.md) — Paul Adams: great products in great markets still fail without the right story explaining why they're different and better
+- [Candidate Market Fit](concepts/candidate-market-fit.md) — Phyl Terry: job search success depends on labor market conditions, not just inherent worth; apply product thinking to your search
+- [Game Design Principles in Product](concepts/game-design-principles.md) — Rahul Vohra: applying variable rewards, mastery, and feedback loops to drive product engagement and retention
+- [Two-Sided Marketplace Dynamics](concepts/two-sided-marketplace-dynamics.md) — Ramesh Johari: supply/demand interdependence, interference, experimentation challenges unique to marketplaces
 
 ## Topics
 

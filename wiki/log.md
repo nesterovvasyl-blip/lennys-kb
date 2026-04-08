@@ -2,6 +2,34 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 12 — Episodes paul-millerd through ravi-mehta
+
+### Processed Episodes (10 unique, 10 attempted)
+1. **Paul Millerd** — "Redefining success, money, and belonging"
+2. **Pete Kazanjy** — "Founder-led sales"
+3. **Peter Deng** — "Peter Deng on product leadership"
+4. **Petra Wille** — "How to be the best coach to product people"
+5. **Phyl Terry** — "Land your dream job in today's market"
+6. **Raaz Herzberg** — "Building Wiz: the fastest-growing startup in history"
+7. **Rachel Lockett** — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
+8. **Rahul Vohra** — "Superhuman's secret to success"
+9. **Ramesh Johari** — "Marketplace lessons from Uber, Airbnb, Bumble, and more"
+10. **Ravi Mehta** — "How to build your product strategy stack"
+
+### Skipped
+- None
+
+### Created
+- **Guests (10):** paul-millerd, pete-kazanjy, peter-deng, petra-wille, phyl-terry, raaz-herzberg, rachel-lockett, rahul-vohra, ramesh-johari, ravi-mehta
+- **Frameworks (8):** five-pm-archetypes, founder-led-sales-while-loop, grow-model, job-mission-okrs, nonviolent-communication, pm-competency-framework, pmwheel, product-strategy-stack, single-decisive-reason, superhuman-pmf-engine
+- **Concepts (3):** candidate-market-fit, game-design-principles, two-sided-marketplace-dynamics
+
+### Updated
+- wiki/concepts/creator-economy.md — Paul Millerd's Pathless Path perspective
+- wiki/concepts/enterprise-sales-stages.md — Pete Kazanjy's founder-led pre-stage
+- wiki/concepts/product-market-fit.md — Rahul Vohra's Superhuman PMF Engine
+- wiki/concepts/word-of-mouth-growth.md — Rahul Vohra's Superhuman WoM perspective
+
 ## [2026-04-07] ingest | Batch 11 — Episodes nikita-bier through paul-adams
 
 ### Processed Episodes (9 unique, 10 attempted)
