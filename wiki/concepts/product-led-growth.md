@@ -1,6 +1,6 @@
 ---
 aliases: [PLG, product-led, self-serve growth]
-guests: [elena-verna, eeke-de-milliano, dylan-field, hila-qu]
+guests: [elena-verna, eeke-de-milliano, dylan-field, hila-qu, noah-weiss]
 ---
 # Product-Led Growth
 
@@ -56,6 +56,21 @@ Her framing: **PLG is fundamentally DLG — data-led growth.** Giving away a fre
 
 **Data infrastructure stack**: Segment (data hub) → Amplitude/Mixpanel/PostHog (product analytics) → Optimizely/Eppo (experimentation) → behavior-triggered lifecycle marketing → Clearbit/ZoomInfo (B2B enrichment) → Pocus/Endgame/Pace (PQL sales-assist layer). Before picking tools: do a data dictionary audit to ensure key actions are instrumented and consistently named.
 
+### Noah Weiss (Slack) — PLG Without Knowing It Was PLG
+
+Noah Weiss makes the important observation that when Slack started, the term "product-led growth" didn't exist. Slack wasn't "applying the PLG playbook" — it simply built a product that small teams (5-50 people) loved enough to pay for themselves and evangelize to coworkers.
+
+The Slack PLG pattern:
+1. Teams of 5-50 at large enterprises discovered Slack independently and paid with their own credit cards
+2. By the time Slack's enterprise sales team stood up, large companies already had thousands of unofficial Slack users
+3. The enterprise sales motion was: find companies with large numbers of active self-serve users → call them in order of usage and ask about broader deployment
+
+The activation metric that unlocked the self-service recovery in 2019: **"Successful Teams" — 5+ people communicating in Slack the majority of the work week**. Teams that hit this threshold were 400% more likely to upgrade in 6 months. This became the north star metric across all product teams.
+
+Separately, Slack never ran a true paid trial — users were either on the free tier or paid. Introducing a trial of premium features was one of the biggest levers in recovering the self-service business plateau.
+
+Weiss also echoes the S-curve reframing of PLG: product-market fit isn't permanent; you achieve it for one cohort, then have to rebuild it for the next. Slack had perfect PMF with tech-early-adopter teams, then had to rediscover it for non-technical, larger, and non-US customers.
+
 ## Sources
 
 - [[elena-verna]] — "The ultimate guide to product-led sales" (full PLG framework)
@@ -63,6 +78,7 @@ Her framing: **PLG is fundamentally DLG — data-led growth.** Giving away a fre
 - [[eeke-de-milliano]] — "How to foster innovation and big thinking" (Stripe and Retool delayed PMs)
 - [[dylan-field]] — "Figma's CEO" (Twitter graph hack for early designer acquisition)
 - [[hila-qu]] — "The ultimate guide to adding a PLG motion" (PLG as DLG, five prerequisites, funnel audit, aha moment analysis)
+- [[noah-weiss]] — Slack's PLG without the playbook; Successful Teams activation metric (The 10 traits of great PMs, AI, and Slack's approach to product)
 
 ## See Also
 

@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [annie-pearl, drew-houston]
+guests: [annie-pearl, drew-houston, nikita-bier]
 ---
 
 # Viral Growth Loop
@@ -25,9 +25,14 @@ The loop was supercharged by two factors:
 
 The result: a single Hacker News demo video grew the Dropbox waitlist from 5,000 to 85,000 overnight. Houston's key insight: viral loops are a system design problem, not a marketing problem. You define the trigger (incentive to share), the payload (what the recipient receives), and the conversion mechanism (how recipients become users) — then engineer each component deliberately.
 
+**Nikita Bier's sequential validation loop** for consumer social apps shows that the viral loop is not a single mechanism but a chain of conditional behaviors, each needing to be validated separately. For Gas (and tbh), the stages were: (1) will people use the core flow?, (2) will people spread it within their peer group (within a school)?, (3) will it hop peer groups (jump between schools)?, (4) will people pay? Each stage required different mechanisms. The critical lesson from rebuilding Gas five years after tbh: the regulatory environment completely changed the invite infrastructure (server-side SMS became illegal), requiring reinvention of all growth mechanics from scratch across ~9 launches. His principle: **execute at 100% for the one thing you're validating; half-ass everything else** to get clean signal on the current constraint.
+
+Bier also notes that iOS 18's new granular contact permissions may effectively kill contact-sync-based social graphs — eliminating a key mechanism many consumer apps rely on to bootstrap their viral loop.
+
 ## Sources
 - [[annie-pearl]] — "70% of our signups come through that viral loop" (Behind the scenes of Calendly's rapid growth)
 - [[drew-houston]] — "The waitlist went from 5K to 85K overnight — we built the referral loop by studying viral spread research" (Behind the founder | Drew Houston, Lenny's Podcast, 2025-01-09)
+- [[nikita-bier]] — tbh and Gas viral growth mechanics (How Nikita Bier built and sold two viral apps)
 
 ## See Also
 - [[growth]]

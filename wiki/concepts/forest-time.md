@@ -1,47 +1,59 @@
 ---
 concept: Forest Time
+aliases: [elevation time, bird's eye view time, strategic reflection]
 guests: [oji-udezue]
-topics: [product-management, leadership, strategy, focus, decision-making]
+date_added: 2026-04-08
 ---
 
 # Forest Time
 
-> Intentional, scheduled time to step out of day-to-day execution and gain a bird's-eye view of the landscape — improving strategic aim before making expensive investment decisions.
+> Intentionally scheduled time — typically one day per month — for product managers and leaders to step back from day-to-day execution and survey the landscape from a bird's-eye view, improving the accuracy of strategic aim.
 
 ## Overview
 
-Forest time is a concept coined by Oji Udezue to address a common failure mode in product organizations: operators become so immersed in tree-level execution that they lose the ability to see the forest — alternative paths, overlooked constraints, and larger patterns that aren't visible from the ground.
+Oji Udezue (CPO, Typeform) coined the term "forest time" to describe the practice of stepping back from operational work to see the forest for the trees. As an operator, you spend most of your time seeing individual trees — the problem immediately in front of you, the next sprint, the escalation waiting in Slack. Forest time is the discipline of creating space to see the whole landscape and identify alternative paths.
 
-The metaphor captures the tension between operating (walking through the forest solving immediate problems) and advising/strategizing (flying above the forest, seeing alternate routes). Advisors, investors, and board members naturally have a bird's-eye view because they're not in the trees. Full-time operators typically don't — unless they deliberately create it.
+The business case is quantitative: product development requires "aim" — selecting the right direction before investing engineering resources. If your aim is off by even a moderate amount, you can waste $1-2M of people's time building in the wrong direction. A small investment in elevation time pays compounding returns on execution.
 
-The ROI argument: if your product aims are off, you're spending $1–2M in engineering and design time building in the wrong direction. Forest time is an investment in improving aim — which is a precursor to enormous downstream investment.
+Oji contrasts this with the operator/advisor duality: when advising, you naturally have a bird's-eye view and can see options clearly. When operating, the tug-of-war of execution pulls you down into the trees. Forest time is the operator's deliberate attempt to recreate the advisor's perspective.
+
+## The Practice
+
+### Frequency and Format
+
+- **Cadence**: Once per month, for PMs, PM managers, design leads, and engineering leads
+- **Duration**: One full day (or two days if teams can arrange it)
+- **Output**: A completed worksheet that surveys the landscape systematically
+
+### The Worksheet
+
+Oji has published a structured document to guide forest time. It prompts reflection on:
+- What are the current open issues or blockers?
+- What alternative paths to current objectives exist that we haven't considered?
+- Are there directions we've been executing on that, if we elevated, we'd question?
+- What signals (customer, competitive, market) have we been too busy to integrate?
+
+The worksheet is designed to make elevation structured and repeatable, not just an unguided "day off to think."
+
+### Organizational Support
+
+Oji gives his executive team the same forest-time cadence. The challenge is that PMs and product leaders are often the "spokes of the wheel" in product development — everyone is pulling at them for decisions, reviews, and escalations. Without explicit protected time, forest time never happens. "If you don't do it, you'll become less effective over time. It's just attrition."
+
+## Relationship to Other Practices
+
+Forest time is distinct from:
+- **Discovery**: Focused customer conversations to answer specific questions
+- **Quarterly planning**: Time-bounded strategic review
+- **Offsites**: Team-level exercises
+
+It's closer to what an advisor or board member does naturally — periodic scanning of the whole picture — but formalized for operators who are embedded in day-to-day execution.
 
 ## Guest Perspectives
 
-### Oji Udezue ([[oji-udezue]])
+### Oji Udezue
 
-Oji institutionalizes forest time by giving product managers, product executives, design leads, and engineering managers one dedicated day per month — a full day away from meetings — with a structured worksheet. The worksheet guides them through:
-- What are the key current issues?
-- What are alternative ways to solve these issues that aren't currently on our roadmap?
-- What are we not seeing because we're too close to it?
-
-The worksheet is published in his Substack writing and is explicitly not just "take a day off." The goal is structured elevation: surveying the landscape with specific questions, not just recovery.
-
-He extends this practice to his executive team, not just individual contributors. The sine wave of product management — alternating between discovery/shaping and execution/captaining — creates constant busyness. Without forest time, this becomes attrition: you become less effective over time because you stop improving your aim.
-
-**Common objection**: "Giving people a day off when they should be working harder?"
-**Oji's response**: It's not about working harder, it's about working smarter. Better aim means the subsequent work — which is expensive — is better targeted. The ROI is positive even if it's hard to measure directly.
-
-## Actionable Takeaways
-- Schedule one day per month for each PM and design lead to do structured forest time
-- Don't just say "take a thinking day" — provide a worksheet with specific questions to guide the elevation
-- Include your executive team; the pressure on executives to stay in execution mode is even higher than on ICs
-- The output is not a document for others — it's improved strategic judgment for the practitioner
+Oji developed this practice after noticing how much more clearly he could see the path forward when he stepped back into an advisory role versus when he was operating. Product managers are on a "sine wave" — discovering problems, then executing on them — and without structured interruptions, the sine wave degrades in quality over time. Forest time is the mechanism to interrupt the pattern and recalibrate direction.
 
 ## Sources
-- [[oji-udezue]] — "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
 
-## See Also
-- [[workflow-quadrant]]
-- [[zone-of-benefit]]
-- [[energy-management]]
+- [[guests/oji-udezue]] — Picking sharp problems, increasing virality, and unique product frameworks

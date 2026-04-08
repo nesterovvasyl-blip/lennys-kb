@@ -1,6 +1,6 @@
 ---
 aliases: [freemium, freemium-model, free-tier]
-guests: [albert-cheng, naomi-ionita]
+guests: [albert-cheng, naomi-ionita, patrick-campbell]
 ---
 
 # Freemium / Subscription
@@ -36,9 +36,23 @@ Additional Evernote failure mode: Evernote was philosophically antisocial (desig
 
 On free tier math: free users who don't directly pay still have value — they drive organic acquisition (referrals, shared workflows) and reduce CAC. The free tier is a growth investment, not just a conversion funnel.
 
+### Patrick Campbell
+
+Campbell argues freemium is one of the most underutilized tools for building middle-of-funnel momentum. Most sales and marketing budgets go to top-of-funnel (awareness) and bottom-of-funnel (closing), with almost nothing in the middle. Freemium fills this gap: it creates a pool of users who are aware of your product, using it, and waiting for the right moment to convert — on their own timeline.
+
+Key data from ProfitWell's dataset of $30B+ in subscription ARR:
+- Customers who convert from freemium have 10-20% higher retention than those who convert from free trials or traditional sales
+- NPS/CSAT for freemium converts is approximately double vs. other acquisition paths (they convert voluntarily, not under artificial deadline pressure)
+- CAC for freemium acquisitions has grown much more slowly than overall CAC over the past decade
+
+His reframe: freemium is not just a conversion mechanism — it's a demand-generation channel. The free product is better content than any blog post or webinar, because customers are using the actual product and telling colleagues about it.
+
+Campbell is a convert; he previously wrote articles arguing freemium was bad. His current view: it's one of the most powerful tools available, especially in a world of rising CAC and increasing competition.
+
 ## Sources
 - [[albert-cheng]] — referenced in context of Grammarly's upgrade rate improvements (Chess.com / Grammarly growth episode)
 - [[naomi-ionita]] — Evernote pricing experience, day-one vs. day-100 feature framework, Invoice2go pricing restructure (How to price your product)
+- [[guests/patrick-campbell]] — 10 lessons on bootstrapping a $200m business
 
 ## See Also
 - [[reverse-free-trial]]

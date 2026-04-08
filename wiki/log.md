@@ -528,3 +528,12 @@
 - Created: 9 guest pages, concepts/developer-experience, concepts/disagreeable-givers, concepts/ex-growth-companies, concepts/pricing-strategy, concepts/shadows-of-superpowers, frameworks/dora-metrics, frameworks/forward-deployed-engineer, frameworks/space-framework, frameworks/vision-mission-strategy-pyramid, frameworks/what-is-what-could-be
 - Updated: concepts/ai-evals (nick-turley), concepts/velocity (nick-turley, nicole-forsgren), concepts/freemium-subscription (naomi-ionita), concepts/product-led-sales (naomi-ionita), frameworks/linear-method (nan-yu), frameworks/understand-identify-execute (naomi-gleit)
 - Topic tags: palantir/enterprise (nabeel), b2b-product/speed (nan-yu), storytelling/presentations (nancy-duarte), growth/meta/clarity (naomi-gleit), pricing/monetization (naomi-ionita), ai-products/chatgpt (nick-turley), strategy/okrs (nickey-skarstad), developer-experience/metrics (nicole-forsgren), career-development/leadership (nikhyl-singhal)
+
+## [2026-04-08] ingest | Batch 11 (continuous) — nikita-bier through paul-adams (2 parallel agents)
+
+- Processed: nikita-bier, nikita-miller, nilan-peiris, nir-eyal, noah-weiss, noam-lovinsky, oji-udezue, paige-costello, patrick-campbell, paul-adams (10 episodes)
+- Skipped: none
+- Note: nikita-bier transcript frontmatter had mixed content with nikita-miller; Bier's actual content starts ~line 300. Both guest pages created correctly.
+- Created: 10 guest pages, concepts/word-of-mouth, concepts/forest-time, concepts/sharp-problem, concepts/tactical-retention, frameworks/indistractable-framework, frameworks/hooked-model, frameworks/complaint-storm, frameworks/differentiation-table-stakes, frameworks/workflow-quadrant
+- Updated: concepts/viral-growth-loop (nikita-bier), concepts/product-led-growth (noah-weiss), concepts/freemium-subscription (patrick-campbell), concepts/jobs-to-be-done (paul-adams), concepts/pricing-strategy (nilan-peiris)
+- Topic tags: consumer-viral-apps (nikita-bier), team-alignment/pm-career (nikita-miller), word-of-mouth/fintech (nilan-peiris), focus/habits (nir-eyal), pm-traits/enterprise-saas (noah-weiss), turnarounds/0-to-1 (noam-lovinsky), sharp-problems/virality (oji-udezue), coaching/skeptic-management (paige-costello), pricing/bootstrapping/retention (patrick-campbell), ai-strategy/jtbd (paul-adams)

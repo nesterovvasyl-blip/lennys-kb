@@ -1,60 +1,60 @@
 ---
-framework: Workflow Quadrant (Where to Fish for Unicorns)
+framework: Workflow Quadrant (Where Do Unicorns Live?)
 created_by: Oji Udezue
 guests: [oji-udezue]
-topics: [b2b-saas, product-strategy, icp, startup-ideation]
+date_added: 2026-04-08
 ---
 
-# Workflow Quadrant (Where to Fish for Unicorns)
+# Workflow Quadrant (Where Do Unicorns Live?)
 
-> A 2x2 framework that maps B2B SaaS opportunities by workflow breadth and frequency to predict which problem spaces yield billion-dollar companies.
+> A 2x2 framework for predicting B2B SaaS success potential based on how broadly a workflow applies across an organization and how frequently it is executed.
 
 ## Overview
 
-Oji Udezue developed this framework to give investors and founders predictive power before spending years on an idea. Most startup thinking focuses on execution method (lean, fail fast) rather than problem selection. The framework assumes that if the problem is right, you can survive many mistakes; if the problem is wrong, perfect execution still fails.
+Oji Udezue (CPO, Typeform; formerly Calendly, Twitter, Atlassian) developed this framework from observing patterns across the largest public and private B2B SaaS companies. It provides founders and investors with predictive power *before* building, helping assess the likelihood that a given workflow problem will produce a billion-dollar outcome if solved well.
 
-The two dimensions:
-- **Breadth**: Does this workflow apply to every department in a company (everyone) or only to specific departments (niche)?
-- **Frequency**: Is this workflow executed daily or multiple times per week (high frequency) or less often (low frequency)?
+The premise: the problem space (not just the solution or methodology) is a primary driver of startup success. Two dimensions predict which problems will generate outsized outcomes.
 
 ## Components / Steps
 
+### Dimension 1: Breadth (Who Uses It?)
+
+- **Everyone workflows**: Used by virtually everyone in the organization, from the doorman to the CEO. Examples: email, calendar, collaboration, word processing, social knowledge management (Notion, Confluence, Slack).
+- **Niche workflows**: Used by a specific department or role. Examples: developer task tracking (Jira), sales CRM (Salesforce), recruiting tools, martech.
+
+### Dimension 2: Frequency (How Often?)
+
+- **High frequency**: Daily or multiple times per week.
+- **Low frequency**: Monthly, quarterly, or less. Examples include annual planning, expense reporting, some compliance workflows.
+
 ### The Four Quadrants
 
-**High-Frequency Everyone (Top-Left)**
-Examples: email, calendar, Slack, word processing, collaboration tools
-Companies: Google, Microsoft, Atlassian (Confluence)
-Characteristics: Highest total addressable value but hardest to enter — dominated by platform incumbents. Any new entrant needs exceptional differentiation or a paradigm shift to displace category leaders.
+| | **High Frequency** | **Low Frequency** |
+|---|---|---|
+| **Everyone** | Google, Microsoft, Slack, Atlassian | Expense tools, form tools (challenging) |
+| **Niche** | Jira, Salesforce, Calendly, martech — **where B2B SaaS thrives** | FP&A planning tools (hardest) |
 
-**High-Frequency Niche — "High Ni" (Top-Right)**
-Examples: Jira (engineering), Salesforce (sales), recruiting tools, martech
-Companies: Atlassian, Salesforce, HubSpot, Greenhouse
-Characteristics: The richest territory for B2B SaaS. A specific department or persona uses your tool intensively every day. The "niche" constraint makes entry manageable; the "high frequency" makes the relationship sticky and the business defensible.
+**High frequency / everyone** (top-left): Most profitable in theory; hardest to enter because dominated by Microsoft, Google, and other giants. Requires massive differentiation or a new paradigm.
 
-**Low-Frequency Everyone (Bottom-Left)**
-Examples: expense reporting, form tools, HR onboarding
-Companies: Concur, Typeform, SurveyMonkey
-Characteristics: Everyone must use it, but infrequently. Can become high-value if you find the department that treats it as mission-critical (e.g., finance for expense; marketers for forms) and focus your product depth there — effectively moving into high-frequency niche for a subset.
+**High frequency / niche (High-Ni)** (bottom-left): Where most successful B2B SaaS unicorns live. The target for any new B2B startup. Examples: Jira, Salesforce, HubSpot, Calendly.
 
-**Low-Frequency Niche (Bottom-Right)**
-Examples: financial planning (FP&A tools), territory mapping, M&A software
-Characteristics: Hardest quadrant — small audience, infrequent use. Requires high ACV or navigation strategy to adjacent quadrants to build a durable business.
+**Low frequency / everyone** (top-right): Viable but challenging. Strategy: find the specific department or role that considers this mission-critical and become high-ni for them. Expense tools (e.g., Concur) succeed by finding that the finance department uses them daily.
 
-## How to Apply
+**Low frequency / niche** (bottom-right): Hardest quadrant. Requires navigating toward higher frequency or broader applicability. Planning tools (used by FP&A quarterly) are an example.
 
-**For founders before starting:**
-Plot your problem against the two axes. If you land in High Ni or High Everyone, you're in productive territory. If you land in Low Ni or Low Everyone, you'll need a strategy for moving up in frequency or out in breadth — often by finding the "power user" department that considers your workflow mission-critical.
+## Application
 
-**For product strategy:**
-Companies aren't statically placed in quadrants. Typeform (Oji's company) is Low-Frequency Everyone as a general form tool. Oji's strategy is to make it High-Ni for marketers and salespeople by building around customer-facing interactions that directly drive revenue. The strategic question becomes: which of our customers treats this as daily-critical, and how do we serve them deeply enough to become that for them?
+**For founders**: Before starting, map your planned workflow on this 2x2. If you're in the bottom-right quadrant, your path to scale requires finding a strategy to move up (frequency) or right (breadth). If you're already in high-ni, you have a strong foundation — but execution still matters.
 
-**For investors:**
-Use the quadrant to evaluate problem selection before product evaluation. A mediocre product solving a High-Ni problem outperforms a brilliant product in Low-Frequency Niche.
+**For investors**: Use the quadrant to assess the structural ceiling of a market. High-ni companies that solve a real pain can become billion-dollar businesses. Low-frequency-niche companies require a strategic narrative for how they navigate to a better quadrant.
+
+**For CPOs**: At Typeform, Oji uses this framework explicitly to drive strategy — moving from "low frequency / everyone" (forms) toward "high frequency / niche" by making Typeform the default customer-facing interaction tool for marketers and salespeople who consider it mission-critical for revenue.
+
+**Company examples**:
+- Atlassian: High-ni (Jira for dev teams) moving toward high-everyone (Confluence for knowledge work)
+- Calendly: Niche-high-frequency — scheduling is daily for salespeople, marketers, recruiters
+- Typeform: Currently low-frequency / everyone; strategy is to become high-ni for marketers and salespeople
 
 ## Sources
-- [[oji-udezue]] — "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform)"
 
-## See Also
-- [[product-market-fit]]
-- [[product-led-growth]]
-- [[icp]]
+- [[guests/oji-udezue]] — Picking sharp problems, increasing virality, and unique product frameworks

@@ -1,99 +1,113 @@
 ---
 guest: Nir Eyal
-role: Author (Hooked, Indistractable); Consultant
+role: Author (Hooked, Indistractable); consultant and educator at intersection of psychology, technology, and business
 episode: "Strategies for becoming less distractible and improving focus | Nir Eyal"
 date: 2023-12-29
-topics: [focus, productivity, habits, distraction, behavior-design, psychology]
+topics: [focus, distraction, productivity, habits, psychology, behavior-change, work-life-balance, indistractable]
 ---
 
 # Nir Eyal
 
-> Nir Eyal is the author of two bestselling books — "Hooked: How to Build Habit-Forming Products" and "Indistractable: How to Control Your Attention and Choose Your Life" — and has sold over a million copies in 30+ languages.
+> The author of Hooked and Indistractable who argues that distraction is an emotion regulation problem — and that becoming indistractable is a learnable skill, not a character trait.
 
 ## Bio
 
-Nir Eyal teaches and consults at the intersection of psychology, technology, and business. He has started three companies, sold two, and holds an MBA from Stanford. His first book, *Hooked*, distilled the psychology behind habit-forming consumer products for product builders. His second book, *Indistractable*, emerged from his personal struggle with distraction and applies the same behavioral science to help individuals reclaim their focus. He also invested in Focusmate, a social accountability platform he describes in the episode.
+Nir Eyal is a best-selling author, consultant, and teacher whose two books — Hooked: How to Build Habit-Forming Products and Indistractable: How to Control Your Attention and Choose Your Life — have sold over 1 million copies in 30+ languages. He spent five years writing Indistractable because he was so distracted. A former clinically obese person now in the best shape of his life at 45, he uses himself as a test case for the techniques he describes. He previously co-founded and sold two companies. He teaches and consults at the intersection of psychology, technology, and business.
 
-### The Indistractable Framework
+## Key Ideas
 
-Nir's framework for becoming indistractable has four sequential steps:
+### Traction vs. Distraction: A Definitional Framework
 
-**Step 1 — Master Internal Triggers**
-90% of distraction originates internally — boredom, anxiety, uncertainty, loneliness — not from external pings. Distraction is fundamentally an emotion regulation problem, not a technology problem.
+The opposite of distraction is not focus — it's **traction**. Both words share the Latin root *trahare* (to pull) and both end in "-action," reminding us that distraction is an action, not something that happens to us.
 
-Key tools:
-- **10-Minute Rule**: When tempted to get distracted, set a 10-minute timer. Tell yourself "not yet, not no." Surf the urge — emotions are waves that crest and subside. Nine times out of ten, the urge passes before the timer goes off.
-- **Reimagine the task, trigger, or temperament**: Mantra: "This is what it feels like to get better."
-- **Reject ego-depletion thinking**: Carol Dweck's research shows willpower only runs out in people who believe it is a finite resource. Believing you are "indistractable" is itself a behavioral intervention.
+- **Traction**: Any action that pulls you toward what you said you were going to do; moves you closer to your values
+- **Distraction**: Any action that pulls you away from your plan; moves you further from who you want to become
 
-**Step 2 — Make Time for Traction**
-"You cannot call something a distraction unless you know what it distracted you from."
+The separator is **intent**. Watching Netflix by choice is traction. Watching Netflix when you planned to write is distraction. This reframe eliminates moralistic judgments about specific activities and focuses attention on the only thing that matters: did you do what you said you were going to do?
 
-- Turn values into time via a **time-box calendar** (not a to-do list).
-- Three domains: self (sleep, exercise, relationships), relationships (partner, kids, friends), work (reactive + reflective time).
-- Review weekly (Sunday, ~10 min): "Does this schedule reflect my values?"
-- **Why to-do lists fail**: They have no constraints, no feedback loop, and create a planning fallacy (tasks take 3x longer than estimated without tracking actual time-on-task).
-- The correct metric is not "Did I finish?" but "Did I do what I said I would for as long as I said I would, without distraction?"
+### The 4-Step Indistractable Framework
 
-**Step 3 — Hack Back External Triggers**
-Only 10% of distraction is external. Still worth addressing:
-- Set Do Not Disturb (Nir: midnight to 11:59, always on).
-- Use signals like a "Concentration Crown" (a lit wreath) to alert family or colleagues that you're in a focus block.
-- Use a physical "I'm Indistractable" card on your monitor so colleagues understand you're doing focused work, not slacking off.
+**Step 1: Master Internal Triggers**
 
-**Step 4 — Prevent Distraction with Pacts (Last Resort)**
-Three types:
-- **Price pact**: Financial disincentive to go off-track (e.g., pay a large sum if you miss a workout).
-- **Identity pact**: Adopt the identity "I am indistractable" — just as a vegan doesn't debate bacon, an indistractable person doesn't debate checking every notification.
-- **Effort pact**: Insert friction between you and the distraction. Examples: internet router on a $10 outlet timer that shuts off at 10 PM; Forest app (virtual tree dies if you pick up your phone); Focusmate (accountability partner pairing for focus sessions).
+90% of distraction is caused by internal triggers — boredom, loneliness, fatigue, uncertainty, anxiety — not by external pings and notifications. Technology isn't hijacking attention; it's providing an escape route from emotional discomfort. The procrastinator who postpones a difficult task for Twitter isn't addicted to Twitter; they're escaping the cold-start discomfort of hard cognitive work.
 
-### The Traction/Distraction Model
+Practical techniques:
+- **10-minute rule**: When tempted to distract, set a 10-minute timer. For those 10 minutes, either return to the task or "surf the urge" — observe the emotion without acting on it. Emotions are waves that crest and subside; the urge almost always passes in under 10 minutes.
+- **Re-imagining the task**: Acknowledge difficulty is the feeling of getting better ("This is what it feels like to get better")
+- **Re-imagining your temperament**: Don't accept ego-depletion beliefs. Carol Dweck's research shows willpower runs out only for people who believe willpower runs out
 
-The root insight: the opposite of distraction is not "focus" — it is **traction**. Both words share the Latin root *trahare* (to pull) and both end in "-action." Traction = any action that moves you toward your stated intentions. Distraction = any action that pulls you away. The separator is **intent**.
+**Step 2: Make Time for Traction (Timeboxing)**
 
-> "The time you plan to waste is not wasted time." — Dorothy Parker (as cited by Nir)
+You cannot call something a distraction unless you know what it distracted you from. The solution: replace to-do lists with a **time-boxed calendar**. Every block on the calendar becomes traction; anything not on the calendar is distraction by definition.
 
-This reframes "wasted" leisure as traction if it's intentionally scheduled, and reclassifies "productive-looking" busywork (checking email, Slack) as distraction if it wasn't planned.
+To build a timeboxed calendar:
+1. Sunday evening (takes ~10 minutes), fill the week's calendar asking: "Does this reflect my values?"
+2. Three domains to populate: **You** (sleep, exercise, reading, anything for self-care), **Relationships** (dedicated time for spouse, children, friends — don't let these starve), **Work** (both reactive work — email, Slack — and reflective work — planning, deep thinking)
+3. Measure not "did I finish the task?" but "did I do what I said I would for as long as I said I would, without distraction?" This creates a feedback loop on how long things actually take vs. how long you estimate
+
+Why to-do lists fail: they have no constraints. You can always add more. They reinforce the self-image of someone who never finishes, and they don't tell you how long things take (no feedback loop).
+
+**Step 3: Hack Back External Triggers**
+
+Strategies:
+- Do-not-disturb from midnight to 11:59 PM (always on) to block notifications during focus work
+- "Concentration crown" — visible signal to family that you're unavailable for 30 minutes
+- Physical "Indistractable" card for desk to signal coworkers
+- **Schedule syncing with manager**: Print your time-boxed calendar, show it to your boss, and present the list of tasks they've assigned that won't fit. Ask them to help you prioritize — don't say no, ask them to make the trade-off decision. This is "managing your manager."
+
+**Step 4: Prevent Distraction with Pacts**
+
+Three types of pacts as last-resort firewalls:
+- **Price pact**: Financial disincentive (bet money you lose if you don't do the behavior)
+- **Identity pact**: Adopt an identity label ("I'm indistractable" works like "I'm vegetarian" — the identity does the willpower work automatically)
+- **Effort pact**: Insert friction before distraction (internet router that shuts off at 10pm, Forest app that "kills a tree" if you use your phone during work time, Focusmate that pairs you with an accountability partner)
+
+### The Addiction Myth and Personal Responsibility
+
+Nir is explicitly contrarian on technology addiction. His argument: pathological addiction affects 3-5% of the population. For the other 95-97%, "addiction" language is both scientifically inaccurate and psychologically harmful — it offloads personal responsibility onto external forces. If you believe your brain is being hijacked and you're powerless, that belief itself becomes a self-fulfilling prophecy (per the ego-depletion research).
+
+The more empowering frame: distraction is an impulse control skill, like any other skill. We weren't born with it; we can learn it. High performers feel the same internal triggers (boredom, loneliness, anxiety) as everyone else — they just use those feelings as fuel rather than escape cues.
+
+The social antibody analogy: Nir's mother removing ashtrays from her home and declaring "we're nonsmokers" helped change smoking norms without any law mandating it. Same process is underway for digital distraction — early adopters of "indistractable" identity accelerate the norm shift.
 
 ### Building an Indistractable Workplace
 
 Three traits of indistractable companies:
-1. **Psychological safety** — employees can raise distraction as a problem without fear.
-2. **A forum to discuss the problem** — e.g., Slack's internal "Beef Tweets" channel with emoji-based acknowledgment.
-3. **Management exemplifies it** — culture flows downhill. Slack HQ's canteen wall read: "Work hard and go home."
+1. **Psychological safety** (Amy Edmondson): Employees must be able to surface distraction problems without fear of appearing lazy
+2. **Forum for discussion**: Slack's internal "Beef Tweets" channel where issues were acknowledged via emoji (green checkmark = fixed, eyes emoji = seen but can't change)
+3. **Management exemplification**: Culture flows downhill. Slack's company canteen said "Work hard and go home" — using Slack on nights and weekends was actually reprimanded
 
-### Hooked vs. Indistractable
+### Hooked vs. Indistractable: The Complementary Pair
 
-*Hooked* teaches how to build habit-forming products (Duolingo, Fitbit, enterprise SaaS). *Indistractable* teaches how to break bad habits. They are complementary, not contradictory.
+Hooked (2014) teaches how to build products that form habits. Indistractable (2019) teaches how to break bad habits. These are complements, not contradictions. Most products need help being adopted (people don't use them enough); Hooked is for building good habits around genuinely valuable products. Indistractable is for breaking bad habits around products that exploit rather than serve. The techniques are powerful for both — which is why Nir can credibly write both books.
 
-Nir's contrarian point on tech addiction: true addiction (compulsive dependency that harms the user) affects ~3–5% of the population. Labeling all technology overuse as "addiction" is harmful because it removes personal agency. For the other 95%, this is a distraction problem — and a solvable one.
+## Key Quotes
 
-> "A mistake repeated more than once is a decision." — Paulo Coelho (as cited by Nir)
+> "The problem is not our technology. The problem is our inability to deal with discomfort." — Nir Eyal
 
-> "The antidote for impulsiveness is forethought."
+> "You can't call something a distraction unless you know what it distracted you from." — Nir Eyal
 
-### Actionable Advice
-- Next time you're about to check Twitter instead of doing deep work: set a 10-minute timer and surf the urge.
-- Replace your to-do list with a time-box calendar. Schedule everything — including leisure and family time.
-- Add "schedule sync" with your boss: show your calendar, show the overflow list, ask them to help prioritize. Never say no; ask them to triage.
-- Set your phone to Do Not Disturb during focus blocks. For families: establish a physical signal.
-- Identify your internal trigger (the discomfort driving distraction) — boredom, anxiety, cold-start resistance — and name it.
-- Stop saying "I have no willpower" — it becomes self-fulfilling.
+> "A mistake repeated more than once is a decision." — Paulo Coelho, cited by Nir Eyal
 
-### Notable Quotes
-> "It's not the pings, dings, and rings. It's the feelings."
+> "The antidote for impulsiveness is forethought." — Nir Eyal
 
-> "Procrastination is an emotion regulation problem. It's not a character flaw."
+> "Distraction is a symptom of dysfunction." — Nir Eyal (on workplace distraction)
 
-> "Distraction is a symptom of dysfunction."
+> "Indistractable is meant to sound like indestructible. It is your identity, it is who you are." — Nir Eyal
 
-> "You can't call something a distraction unless you know what it distracted you from."
+## Actionable Advice
 
-## Sources
-- [[nir-eyal]] — "Strategies for becoming less distractible and improving focus"
+- When you feel the urge to distract, set a 10-minute timer and surf the urge instead of acting on it
+- Replace your to-do list with a time-boxed calendar; anything not on the calendar is distraction by definition
+- Schedule Sunday evening (10 minutes) to review next week's calendar against your values across You, Relationships, and Work domains
+- Set your phone to do-not-disturb all day; use a visual signal (concentration crown, physical card) to protect focus time from family and colleagues
+- Don't tell your boss no — show them your calendar and ask them to help you prioritize
+- Try Focusmate or Forest as effort-pact tools to make distraction require actual effort
+- Don't call your relationship with technology "addiction" — call it what it is: an emotion regulation skill you haven't fully learned yet
 
-## See Also
-- [[indistractable-framework]]
-- [[hooked-model]]
-- [[burnout]]
-- [[energy-management]]
+## Related Pages
+
+- [[frameworks/hooked-model]]
+- [[concepts/burnout]]
+- [[concepts/energy-management]]
+- [[frameworks/make-time-framework]]

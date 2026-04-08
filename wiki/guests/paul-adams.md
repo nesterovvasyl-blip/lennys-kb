@@ -3,97 +3,107 @@ guest: Paul Adams
 role: Chief Product Officer, Intercom
 episode: "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
 date: 2023-10-26
-topics: [ai, product-strategy, intercom, frameworks, pricing, failure, jobs-to-be-done]
+topics: [ai, product-strategy, product-management, frameworks, pricing, intercom, failure, jobs-to-be-done]
 ---
 
 # Paul Adams
 
-> Decade-long CPO of Intercom who led a full AI pivot after ChatGPT's launch, shaped by earlier experiences failing on Google's social products and succeeding by embracing learning from failure.
+> Intercom's decade-long CPO who went all-in on AI before most companies knew what to do — and developed a set of pragmatic frameworks for navigating radical product transitions.
 
 ## Bio
 
-Paul Adams has been CPO of Intercom for over 10 years, leading product management, design, data science, and research. Before Intercom, he was Global Head of Brand Design at Facebook, a user researcher at Google (working on Google Buzz, Google+, and mobile), and a product designer at Dyson. He is Irish and based in Dublin. His career is defined by both high-profile product failures (Google's social products, Intercom's pricing complexity) and the frameworks he extracted from them.
+Paul Adams has been Chief Product Officer at Intercom for over a decade, where he leads product management, product design, data science, and research. Before Intercom, he was Global Head of Brand Design at Facebook, a user researcher at Google (where he worked on Google Buzz, Google Plus, and mobile), a product designer at Dyson, and started his career as an automotive interior designer. He is Irish, based in Dublin, and joined Intercom when it was 10 people after co-founder Eoghan McCabe pitched him: "At Facebook you can design the product. At Intercom, you can design the company."
 
-### Failure as Career Foundation
+## Key Ideas
 
-Paul froze on stage at the Cannes advertising festival while giving a Facebook keynote — in front of a global audience, mid-talk. He walked off, still mic'd, cursed audibly, then walked back out and finished. His lesson: things can feel like the worst possible outcome and still be survivable. And usually, being "disarmed" in such moments actually allows you to be more present.
+### AI Is a Meteor — Map Your Product Against What It Can Do
 
-The deeper pattern from his Google years: Google Buzz, Google Wave, Google+ were built from a place of **competitive fear** rather than genuine user insight. ("Let's neutralize Facebook" is not "let's build something wonderful for people.") Despite doing extensive research that correctly identified the future of small-group messaging (in hindsight: WhatsApp), the projects failed because they came from the wrong motivation. The lesson: fear gives bad product advice.
+Paul's AI framing: this is not hype like Web3 or the metaverse. This is a before/after moment — November 29th (ChatGPT launch) is the dividing line. The right way to respond is not to bolt AI on, but to start from first principles:
 
-### AI as a Meteor: Thinking Through the "Before/After" Framework
+1. What does your product do? What problem does it solve?
+2. Can AI do that? (Answer honestly: fully, partially, or not yet)
+3. Map the result: some things AI will replace; others it will augment; some are untouched
 
-Paul's primary framework for thinking about inflection points is **before/after**: some events divide history into before and after, and everything changes. ChatGPT's launch (November 29, 2022) was that moment for him.
+Customer support — Intercom's market — was identified by Sam Altman as one of the first industries to be disrupted. Intercom ripped up its strategy nearly entirely and rebuilt around Fin, an AI-first chatbot that can resolve 50-70% of inbound support queries for the best-performing customers. The bet: "adapt or die."
 
-His advice for product teams thinking about AI:
-1. Go back to basics: what does your product do? What problem does it solve?
-2. Ask: can AI do that? For many products, yes — fully or partially.
-3. Map what your product does against what AI can do: some areas are replacement (AI just does it), others are augmentation (AI assists the human).
-4. Then ask: what are we going to do?
+For other product categories, Paul's examples: reporting tools (could become a natural language query box rather than a dashboard builder), project management tools (AI could infer and track work status), and any B2B SaaS with workflow automation built in.
 
-He applies this to Intercom directly: customer support is the first industry disrupted (per Sam Altman). Intercom built **Fin**, an AI-first chatbot that handles the first line of customer support. The biggest challenge isn't the tech — it's helping support teams rethink their organizational structure now that a bot can handle 50–70% of inbound questions.
+### Don't Bolt AI On — Integrate It
 
-He applies it to other categories too: reporting software like Tableau may be replaced by a natural language box that queries the database directly. Project management tools face the same threat. The companies in those spaces need to ask the same question: can AI do the core thing we do?
+Watching the mobile wave and the AI wave, Paul sees the same mistake: companies treat the new paradigm as an additive layer rather than a foundational redesign. At Google, the mobile team was 20 people in London while 200 in Mountain View said "nobody's going to write documents on a phone." The companies that went all-in on mobile survived; those that bolted it on didn't.
+
+At Intercom, the principle is: don't have "the AI team" that adds AI features to everyone else's products. Everyone should learn it. Generalists who can adapt to new paradigms are more valuable than specialists in a fluid startup environment with high ambiguity.
 
 ### Differentiation vs. Table Stakes
 
-A simple but powerful framework for roadmap construction: every feature either contributes to **differentiation** (why someone chooses you) or fulfills **table stakes** (the minimum required to play in the category at all).
+For any product, there are two forces driving adoption:
+- **Differentiation**: features/experiences that are different and better *in ways customers care about*. Attractive. Generates the "I want to check that out" reaction.
+- **Table stakes**: the baseline features required to play the game. Often boring. Easy to ignore. But if missing, no amount of differentiation can get customers to switch.
 
-Common failure mode: startups invest almost entirely in differentiation because it's more exciting. But sophisticated buyers won't switch to a product that lacks the basic permission model, reporting, or audit log they need. Intercom made this mistake and oscillated between over-investing in differentiation (everyone loves it but can't adopt it) and over-investing in table stakes (safe but not attractive).
+Early-stage startups should invest heavily in differentiation; as they mature and try to win enterprise, they must invest increasingly in table stakes to enable switching (not just adding-on). Intercom's ratio has swung between 70/30 in both directions; today sits near 50/50.
 
-Current calibration: roughly 50/50, but it has swung 70/30 in both directions. The framework's value: you can look at any roadmap and ask "which of these is differentiation and which is table stakes, and do I have the right balance for my stage?"
-
-For startups entering established categories: lean heavily on differentiation early, because you can't build the entire table stakes backlog before launch. Find a customer who is fine adopting alongside existing tools — this is how Intercom was bought alongside Zendesk for years before building enough table stakes to replace it.
+Google Wave and Google Plus had differentiation that people admired but not in ways they cared about deeply enough to switch. The failure mode: different and better in ways that don't match customer energy.
 
 ### Swinging the Pendulum
 
-When an undesirable state is recognized (too much differentiation, not enough table stakes; too many external hires, not enough home-grown talent; etc.), the natural response is to over-correct. Paul calls this **swinging the pendulum**.
+When something is in an undesirable state, you correct — but you almost always over-correct. Intercom has done this repeatedly:
+- Differentiation without table stakes → invest in table stakes → over-invest → under-invest in differentiation
+- Needed experienced hires for up-market motion → hired people from large companies → they brought old-company culture and it didn't work → reverted toward adaptable generalists
 
-Example: Intercom recognized they had no experienced operators who'd done scale before. They hired aggressively. Those hires imported the culture and processes of their prior big companies — which didn't fit Intercom's ambiguous, fast-moving environment. Result: over-correction, a lot of failed hires. The middle: hire people with a bit of specialism and a lot of adaptability.
+The lesson is not "don't swing the pendulum" but "recognize that you have to swing it, aim to know where the boundary is, and build in humility to recorrect." Sometimes you can only find the boundary by crossing it.
 
-The key insight: you often can't know where the boundary is without crossing it. Crossing is painful but necessary. The goal is to build the self-awareness to recognize over-correction quickly and course-correct again. Some pendulum swings (going all-in on AI) are worth it; others (privacy paralysis at Google, blocking all product decisions) are not.
+### Product-Market-Story Fit
 
-### Product Market Story Fit
+Beyond product-market fit (right product for right market), there is a third dimension: the story. A great product in a great market can fail if the story is wrong or convoluted. Paul's example: Rdio (Ordio) was arguably a better product than Spotify in their shared market, but Spotify got the story right. Google Wave was brilliant and got the story wrong.
 
-Paul extends the classic product-market fit concept to include a third dimension: **story**. Even great products in great markets fail when the story is wrong. Rdio vs. Spotify is his example: arguably better product, same market, better story on Spotify's side.
+Product people — PMs, designers, researchers, data scientists — need to think about story as carefully as they think about product. Work closely with product marketing; understand positioning. The story question: "Why are you better, and can you explain it?"
 
-For product people: learn about storytelling and positioning as seriously as you learn about product. Work closely with product marketing. The story of why you're different and better in ways customers care about is as load-bearing as the product itself.
+### Jobs to Be Done and the Four Forces
 
-### Jobs to Be Done: Keep It Simple
+Paul is a practitioner of Jobs to Be Done (worked with Bob Moesta). His simplified take: JTBD is a useful way to center on customer problems and stay grounded in research. What's most powerful is the **four forces** model for understanding adoption:
+1. **Push** from the problem (energy around the problem) 
+2. **Pull** of the new solution (differentiation)
+3. **Anxiety** about switching
+4. **Habits** that anchor existing behavior
 
-Paul is a practitioner of Jobs to Be Done (he worked with Bob Moesta) but is allergic to framework wars. His view: the specific variant of JTBD matters less than using it to ask "what is the thing the person is trying to do, and do they have high energy around solving it?" He invented "job stories" (the "When I... I want to... so I can..." format) by accident internally without naming it.
+Intercom's co-founders used the four forces to map out Paul's decision to join from Facebook — they identified his anxieties and fed him the right signals. It "works on humans," not just customer decisions.
 
-He finds the **four forces** (attraction of new solution, habits of present, anxieties about new, push of the problem) most practically useful. Intercom's own co-founders used the four forces to recruit Paul from Facebook — they identified his anxieties and fed them over a few beers. He noticed what they were doing and found it ingenious.
+## Frameworks
 
-### Pricing: Keep It Simple
+### Before/After Moments
 
-Intercom's biggest self-inflicted wound was pricing complexity. They started with a principle of "align price to value" — the right idea — but executed it by adding tier upon tier, add-on upon add-on. Eventually customers couldn't understand their bill. Paul's lesson: keep pricing simple. Fight hard against the temptation to add pricing complexity every time you add a new feature. It compounds into an unmanageable mess.
+A "before/after" moment is a clean inflection point — before which nothing is the same as after. ChatGPT launch was a before/after. A rebrand is a before/after. A major pricing change is a before/after. The value of identifying these moments: you must start learning again from scratch. What was true before may not be true after. Go talk to customers as if you're starting fresh.
 
-### Actionable Advice
-- Map what your product does against what AI can do: replacement vs. augmentation vs. unaffected
-- Use "before/after" thinking to recognize inflection points that require strategic rethinking, not just tactical adjustments
-- Don't bolt AI onto an existing team structure — integrate ML knowledge across all product teams
-- Balance your roadmap between differentiation and table stakes; for startups, weight differentiation heavily early
-- When you recognize an undesirable state, correct for it — but watch for over-correction (the pendulum swings too far)
-- Keep pricing simple: resist adding add-ons, tiers, and complexity at every product release
-- Read what critics say, not just what confirms your view — counter the tendency to over-index on your conviction
+### Ship Fast, Ship Early, Ship Often
 
-### Notable Quotes
-> "This is a meteor coming towards you. This is going to radically transform society. And I think if people don't explore AI properly, it will leave them behind."
+Intercom's production principle. The idea: with big bets, most things will go wrong. Shipping early, learning fast, and changing fast is better than trying to be right before shipping. There is real tension with high craft standards — Intercom has a design-founder background and high standards for quality. This tension is navigated constantly; it doesn't resolve, it's managed.
 
-> "I'd start with the thing your product does. 'What's the core premise behind it?' Then ask, 'Can AI do that?'"
+## Key Quotes
 
-> "Ship fast, ship early, ship often. In that idea is the idea of failure."
+> "This is a meteor coming towards you. This is going to radically transform society. And I think if people don't explore AI properly, it will leave them behind." — Paul Adams
 
-> "Being nice in life goes far further than most people give credit for, because it's too much of a fluffy truism."
+> "I'd start with the thing your product does. 'What's the core premise behind it? Why do people use it? What problem does it solve for them?' And then ask, 'Can AI do that?'" — Paul Adams
 
-> "Only work on what matters most. Stop worrying about things you can't control."
+> "Don't be afraid. For customer support, it's a high attrition job. The doomsday scenarios won't play out. But you have to lean into it." — Paul Adams
 
-## Sources
-- [[paul-adams]] — "What AI means for your product strategy | Paul Adams (CPO of Intercom)"
+> "Only work on what matters most." — Paul Adams (post-it on his monitor)
 
-## See Also
-- [[jobs-to-be-done]]
-- [[product-market-fit]]
-- [[fear-gives-bad-advice]]
-- [[network-effects]]
-- [[pricing]]
+> "People who are highly specialized can thrive in big companies. But in a fluid startup culture with a lot of ambiguity, they can really drown." — Paul Adams
+
+## Actionable Advice
+
+- Map your product's core functionality against what AI can do — identify what will be replaced, augmented, or unchanged
+- Don't bolt AI on to existing products; integrate it across teams as a foundational capability
+- Audit your roadmap: what's differentiation, what's table stakes — and are you in the right ratio for your stage?
+- Use the four forces model when analyzing why customers aren't adopting or are churning
+- Read AI skeptics as well as boosters — balance optimism with alternative perspectives
+- On reference calls, ask: "What feedback will I be giving this person in their first performance review?"
+- Post your priorities where you'll see them — Paul's two post-its: "Only work on what matters most" and "Stop worrying about things you can't control"
+
+## Related Pages
+
+- [[concepts/jobs-to-be-done]]
+- [[concepts/pricing-strategy]]
+- [[frameworks/jobs-to-be-done]]
+- [[topics/ai-product-strategy]]
+- [[topics/pricing]]

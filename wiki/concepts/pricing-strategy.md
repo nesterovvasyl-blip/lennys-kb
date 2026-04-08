@@ -1,7 +1,7 @@
 ---
 concept: Pricing Strategy
 aliases: [monetization strategy, pricing and packaging, value-based pricing]
-guests: [naomi-ionita]
+guests: [naomi-ionita, patrick-campbell, paul-adams]
 date_added: 2026-04-08
 ---
 
@@ -42,9 +42,35 @@ Naomi's framework, built from Evernote, Invoice2go, and hundreds of portfolio co
 
 **Freemium specific**: The free tier's job is to collapse time-to-value, build habit, and drive organic acquisition (not paying users still reduce CAC through referrals and shared workflows). Where to put the paywall is the key design decision. Free users who pay only out of guilt signal a mispriced free tier.
 
+### Patrick Campbell
+
+Campbell's perspective, built from ProfitWell's analysis of $30B+ in subscription ARR, is operationally focused: you just have to *do something* every quarter.
+
+**Revenue Per Customer as north star**: Track this single KPI. You want it going up and to the right. Everything else — the price, the packaging, the value metric, the discount policy — is a lever to move this number.
+
+**The value metric is the most important single decision**: The unit by which you charge (per user, per thousand visits, per video, per seat). Get this right and everything else is correctable. Effects of a correct value metric: (1) big customers pay big prices, small customers pay small prices; (2) churn drops 20-25% because customers downgrade rather than cancel; (3) expansion revenue roughly doubles because growth in usage triggers natural upgrades rather than requiring active resell.
+
+**Raise prices once per year**: Most SaaS companies haven't raised prices in 3+ years and are significantly undercharging. If NPS is above 20, raise prices annually. It forces the org to confront pricing politics, build enablement, and align on messaging — all valuable side effects.
+
+**The pricing committee**: As simple as 2 people at an early-stage company. Create a recurring calendar invite. Even if you snooze it twice, you'll end up doing at least one thing per quarter. Measurement and attention alone move the number.
+
+**Pricing politics**: Pricing touches product, sales, marketing, and finance simultaneously. Starting with a price increase is a good way to surface and resolve politics because it's concrete and non-nebulous — compared to debating the right value metric, which can spiral.
+
+### Paul Adams
+
+Adams' perspective from Intercom's decade-long pricing evolution:
+
+**Keep it simple**: The biggest mistake Intercom made was allowing pricing complexity to compound — tiers, add-ons, tiers within add-ons, leading to customers who couldn't understand their own bills. Every new capability creates temptation to add a new pricing dimension. Resist this ferociously. "Fight so hard to resist the temptation to add extra ways in which you price."
+
+**Align price to value (in principle)**: Intercom's stated principle was always to charge based on value received — but in practice, value is subjective, which makes this extremely hard to operationalize. The same 10 units of value is worth $5 to one customer and $5,000 to another.
+
+**Pricing is deceptively difficult design**: As hard as onboarding. Easy to think it's just setting a number; extremely hard to execute well. Treat it with the same rigor as core product design.
+
 ## Sources
 
 - [[guests/naomi-ionita]] — How to price your product | Naomi Ionita (Menlo Ventures)
+- [[guests/patrick-campbell]] — 10 lessons on bootstrapping a $200m business
+- [[guests/paul-adams]] — What AI means for your product strategy
 
 ## See Also
 

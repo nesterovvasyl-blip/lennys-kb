@@ -2,40 +2,71 @@
 framework: Hooked Model
 created_by: Nir Eyal
 guests: [nir-eyal]
-topics: [habits, product-design, behavior-design, engagement, retention]
+date_added: 2026-04-08
 ---
 
 # Hooked Model
 
-> A four-step framework (Trigger → Action → Variable Reward → Investment) for designing products that form habits in users — borrowed from consumer psychology and applied to healthy, value-creating products.
+> A four-phase cycle for building habit-forming products that drive repeat engagement through internal triggers rather than external reminders.
 
 ## Overview
 
-Nir Eyal described the Hooked Model in his first book *Hooked: How to Build Habit-Forming Products*. The book's premise is that most products fail not because they lack value, but because people don't use them enough to discover that value. The model distills the psychology behind products like Facebook, Instagram, and Duolingo to help product teams — especially in health, education, and enterprise software — build genuine habits.
+Nir Eyal's Hooked model, documented in *Hooked: How to Build Habit-Forming Products* (2014), reverse-engineers the psychological mechanisms behind the most-used consumer products to create a generalizable framework for building products people return to habitually. The goal is to help users form genuine habits around products that improve their lives — from language learning apps to enterprise SaaS — not to manipulate or exploit.
 
-Important context from the episode: Nir is explicit that Hooked and his second book *Indistractable* are complementary, not contradictory. Hooked is about forming *good* habits (Duolingo for language learning, fitness apps, enterprise SaaS). Indistractable is about *breaking* bad ones (excessive social media, procrastination). Both use the same underlying behavioral psychology.
+Eyal is explicit that the model applies equally to products with genuinely beneficial outcomes (Duolingo, fitness apps, personal finance tools) and cautions that products that create addictive harm represent ethical violations. The framework is about retention and habit formation, not addiction.
 
 ## Components / Steps
 
-1. **Trigger** — An internal or external cue that initiates the behavior. External triggers (notifications, emails, ads) are early-stage scaffolding. The goal is to transition to internal triggers — emotional states like boredom, loneliness, or FOMO that prompt users to reach for the product spontaneously.
+### 1. Trigger
 
-2. **Action** — The simplest behavior in anticipation of reward. Must be as friction-free as possible. Governed by motivation + ability (BJ Fogg's model). The easier the action, the more often users complete it and start the habit loop.
+Every habit starts with a trigger. Two types:
 
-3. **Variable Reward** — The payoff — but variable, not fixed. Variability (scrolling to find something interesting, never knowing exactly what you'll find) is what creates the compelling "itch." Three types: rewards of the tribe (social validation), rewards of the hunt (information, resources), rewards of the self (competence, achievement).
+**External triggers** (early stage): Notifications, emails, app icons, word-of-mouth recommendations, ads. These are what bring users to the product initially.
 
-4. **Investment** — The user puts something into the product (data, content, social connections, settings) that makes the product more valuable on the next pass through the loop. Investment increases switching costs and sets up the next trigger. This is the phase that separates fleeting engagement from durable habits.
+**Internal triggers** (goal state): Emotions — boredom, loneliness, anxiety, uncertainty — that cue the product without any external prompt. When a user reaches for Twitter when they feel bored, Twitter has become internally triggered. The product has been associated with an emotional state.
 
-## How to Apply
+Building habit-forming products means gradually transitioning users from external to internal triggers.
 
-- **For good-habit products** (health apps, education, SaaS): identify the internal trigger you're latching onto (e.g., "I want to feel productive," "I want to feel like I'm learning"). Design the action step to be trivially easy. Build variable rewards that feel relevant to the user's self-image. Create investment mechanisms (streak data, preferences, content they've created) that load the next trigger.
-- **For ethical use**: Nir distinguishes between habit-forming products that genuinely serve users' long-term interests ("vitamins that turn out to be painkillers") and manipulative ones. The test: would you be comfortable if your most loyal users knew exactly what you were doing and why?
-- **Relationship to distraction**: Hooked techniques are powerful — but not "mind control." Most products struggle to get users to come back at all. Only a tiny fraction (Nir estimates ~3–5%) are genuinely addicting in a harmful way.
+### 2. Action
+
+The simplest behavior in anticipation of reward. Designed to be as easy as possible (Fogg Behavior Model: behavior = motivation × ability × trigger).
+
+The action should have minimal friction — the fewer steps between trigger and action, the more likely habit formation is. Any friction at this stage bleeds users who were motivated enough to start but not enough to overcome obstacles.
+
+### 3. Variable Reward
+
+The payoff that satisfies the trigger while creating a craving for more. Three types:
+
+- **Rewards of the tribe**: Social validation, belonging, approval (social networks, comments, likes)
+- **Rewards of the hunt**: Search, information, resources (search engines, email, slot machines)
+- **Rewards of the self**: Mastery, completion, accomplishment (games, fitness apps, productivity tools)
+
+The "variable" element is crucial — unpredictable rewards are more compelling than fixed ones (B.F. Skinner's variable ratio reinforcement). The scroll of a feed, the opening of an email, the checking of comments — all derive their pull from variability.
+
+### 4. Investment
+
+An action users take that improves the product for their future use and increases their commitment to it. Examples:
+- Following people on Twitter (makes the feed more relevant)
+- Adding items to a wishlist (stores preferences)
+- Building a profile (increases switching cost)
+- Creating content (the more you put in, the more you get out)
+
+Investments load the next trigger — they make the user more likely to return. They also create switching costs: the more invested a user is, the more painful it is to leave.
+
+## Application
+
+**Ethical use**: Eyal argues the vast majority of products have the opposite of an addiction problem — nobody cares. The model is most valuable for building good habits (exercise, saving money, learning languages) not for building products that exploit users.
+
+**Diagnostic use**: Map your product's current hook cycle — where do users drop off? Is the action too friction-heavy? Is the variable reward not variable enough? Is there an investment mechanism to load the next trigger?
+
+**Complementary to Indistractable**: Hooked builds good habits; Indistractable breaks bad ones. The psychological mechanisms are the same — which is why Eyal can write both books. Understanding how hooks work makes you both a better product designer and a more self-aware user.
 
 ## Sources
-- [[nir-eyal]] — "Strategies for becoming less distractible and improving focus | Nir Eyal"
+
+- [[guests/nir-eyal]] — "Strategies for becoming less distractible and improving focus | Nir Eyal"
 
 ## See Also
-- [[indistractable-framework]]
-- [[curiosity-loop]]
-- [[gamification-three-pillars]]
-- [[behavioral-activation]]
+
+- [[frameworks/indistractable-framework]]
+- [[concepts/viral-growth-loop]]
+- [[concepts/product-market-fit]]

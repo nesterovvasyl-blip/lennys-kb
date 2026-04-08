@@ -2,78 +2,68 @@
 framework: Indistractable Framework
 created_by: Nir Eyal
 guests: [nir-eyal]
-topics: [focus, productivity, habits, psychology, behavior-design]
+date_added: 2026-04-08
 ---
 
 # Indistractable Framework
 
-> A four-step system for becoming "indistractable" by addressing distraction at its root — internal emotional discomfort — before tackling external triggers and behavioral guardrails.
+> A four-step system for becoming less distractable by addressing distraction at its root cause — emotional discomfort — rather than through technology restrictions.
 
 ## Overview
 
-Nir Eyal developed this framework in his book *Indistractable: How to Control Your Attention and Choose Your Life* after five years of research and personal struggle. The core insight reverses conventional wisdom: distraction is not caused by addictive technology. It is caused by **inability to deal with internal discomfort** — boredom, anxiety, uncertainty, loneliness, the cold-start resistance before difficult work. Technology merely provides a convenient escape hatch. Removing the technology does not remove the urge.
+Nir Eyal's Indistractable framework, developed over five years of research and documented in his book *Indistractable*, argues that the root cause of distraction is not technology but our inability to deal with internal discomfort. 90% of distraction begins with internal triggers (boredom, anxiety, loneliness, fatigue) rather than external ones (notifications, pings). The framework works through four steps in sequence: fix the internal problem first, then the external ones.
 
-The framework is sequential; skipping earlier steps causes later steps to fail.
+Key definitional reframe: the opposite of distraction is not focus — it's **traction**. Traction is any action that moves you toward what you said you were going to do (from the Latin *trahare*, to pull). Distraction is action that pulls you away from your plan. The only separator is **intent**: "The time you plan to waste is not wasted time" (Dorothy Parker).
 
 ## Components / Steps
 
 ### Step 1: Master Internal Triggers
 
-90% of distraction originates internally. Procrastination is an emotion regulation problem, not a character flaw.
+Identify the internal emotional trigger that precedes distraction — the "itch" you're trying to scratch. For most knowledge workers, it's the cold-start discomfort of beginning hard work.
 
-Key tools:
-- **10-Minute Rule**: When tempted to get distracted, set a 10-minute timer. Tell yourself "not yet" (not "no"). Surf the urge — emotions crest and subside within minutes. Return to the task or continue surfing. Over time, extend to 12, 15, 20 minutes.
-- **Mantra**: "This is what it feels like to get better." — acknowledges the discomfort without capitulating to it.
-- **Reimagine the trigger**: Notice the specific emotion (anxiety, boredom, cold-start resistance) and name it. Naming defuses it.
-- **Reject ego-depletion belief**: Willpower only depletes for people who believe it is finite (Carol Dweck research). Adopting an "indistractable" identity is itself a behavioral intervention.
+Techniques:
+- **10-minute rule**: When tempted to distract, set a 10-minute timer. Either get back to work or "surf the urge" — emotions are waves that crest and subside. Use: "This is what it feels like to get better."
+- **Re-imagine the task**: Reframe difficulty as evidence of important work
+- **Re-imagine your temperament**: Reject ego-depletion beliefs (willpower drains only for people who believe it drains, per Carol Dweck's research)
 
 ### Step 2: Make Time for Traction
 
-You cannot call something a distraction unless you know what it distracted you from. Solution: a **time-box calendar** that converts values into scheduled time.
+You cannot call something a distraction unless you know what it distracted you from. Replace to-do lists with a **time-boxed calendar** covering all three life domains:
 
-Three domains to fill in weekly (Sunday, ~10 min):
-1. **You** (self-care): sleep, exercise, whatever matters to your identity
-2. **Relationships**: partner, kids, friends — don't let these get whatever scraps are left
-3. **Work**: reactive work (email, Slack, meetings) + reflective work (planning, strategizing, deep work)
+- **You domain**: Sleep, exercise, self-care, leisure — put Netflix on the calendar; then watching it is traction
+- **Relationships domain**: Dedicated time for significant other, children, friendships — relationships starve if they get only leftover time
+- **Work domain**: Both reactive work (email, Slack) and reflective work (planning, deep thinking, writing)
 
-Rules:
-- Schedule everything, including leisure and social media use. Scheduled leisure is traction; unscheduled leisure is distraction.
-- Never modify the schedule during the day — only the day before or the week before.
-- Measure "Did I do what I said I would for as long as I said I would, without distraction?" — not whether you finished.
-- To-do lists fail because they have no constraints, no feedback loops, and no time estimates — replace them with time boxes.
+Measure not completion but: "Did I do what I said I would for as long as I said I would, without distraction?" This creates a feedback loop on how long things actually take.
+
+To-do lists fail because they have no constraints and no feedback loop. Calendar constraints force prioritization.
+
+**Schedule syncing** with managers: Show your calendar and ask for help prioritizing — don't say "no," let the manager make trade-offs. "Here's what I have time for. Here's your backlog for me. What matters most?"
 
 ### Step 3: Hack Back External Triggers
 
-External triggers (pings, notifications, colleagues) cause only ~10% of distraction, but still worth addressing:
-- Set Do Not Disturb during focus blocks (Nir: midnight to 11:59, always).
-- Signal to colleagues/family when you are in a focus block (physical sign: "I'm Indistractable at the moment").
-- Physical signals for household (e.g., "Concentration Crown" for children).
-- **Schedule sync with your boss**: Show your time-boxed calendar + a list of overflow items. Ask them to help prioritize. Never say "no" — ask them to triage.
+Strategies to prevent external triggers from getting unauthorized access to your attention:
+- Do-not-disturb settings (Nir uses midnight-to-11:59 PM = always on DND)
+- Visual signal to family/coworkers ("concentration crown," physical Indistractable card on monitor)
+- Work agreements: "We will be with you within 30 minutes unless you're bleeding" for children
+- Help coworkers understand that focused work is a shared goal, not personal laziness
 
-### Step 4: Prevent Distraction with Pacts (Last Resort)
+### Step 4: Prevent Distraction with Pacts
 
-This step only works if Steps 1–3 are in place. Three types:
-- **Price pact**: Financial consequence for going off-track (e.g., pay $10,000 if you miss the workout; bet with a friend on finishing a project).
-- **Identity pact**: Adopt the label "indistractable" as part of your identity. Just as a vegan doesn't debate bacon, an indistractable person doesn't debate whether to check every notification.
-- **Effort pact**: Insert friction between you and the distraction. Examples: internet router on an outlet timer (shuts off at 10 PM), Forest app (virtual tree dies if you pick up phone), Focusmate (accountability partner for focus sessions).
+Last-resort firewall after steps 1-3:
 
-## How to Apply
+- **Price pact**: Financial bet you lose if you don't follow through (Nir used this to finish Indistractable; used widely for fitness goals)
+- **Identity pact**: Adopt an identity ("I'm indistractable") — just as "I'm vegetarian" doesn't require willpower for each meal, "I'm indistractable" removes debate
+- **Effort pact**: Insert friction before distraction — internet router on a timer that shuts off at 10pm, Forest app that kills a virtual tree if you use your phone during focus time, Focusmate for accountability partnerships
 
-Start with one small change per step:
-1. Try the 10-minute rule once this week.
-2. Add one time block to your calendar for deep work (labeled specifically).
-3. Set Do Not Disturb during that block.
-4. Install one effort-pact tool (Forest, outlet timer, Focusmate).
+## Application
 
-For workplace leaders:
-1. Create psychological safety so employees can name distraction as a problem.
-2. Give teams a forum to discuss it (a Slack channel, a meeting segment).
-3. Model it yourself — culture flows downhill.
+**Individual use**: Start by time-boxing one week's calendar on Sunday evening (takes 10 minutes). Identify the internal trigger for your most common distraction and apply the 10-minute rule next time it arises.
+
+**Workplace application**: Indistractable companies have three traits: (1) psychological safety to discuss distraction as a problem, (2) forums (like Slack channels) where employees can surface distraction issues, (3) management that exemplifies indistractable behavior (Slack's "Work hard and go home" culture).
+
+**Social change**: Becoming indistractable is a social antibody analogous to non-smoking norms — early adopters who model the behavior accelerate norm change for everyone.
 
 ## Sources
-- [[nir-eyal]] — "Strategies for becoming less distractible and improving focus"
 
-## See Also
-- [[energy-management]]
-- [[burnout]]
-- [[hooked-model]]
+- [[guests/nir-eyal]] — "Strategies for becoming less distractible and improving focus | Nir Eyal"

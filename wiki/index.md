@@ -195,6 +195,16 @@
 - [Nickey Skarstad](guests/nickey-skarstad.md) — Director of PM Duolingo, ex-Airbnb/Etsy/Shopify; vision-to-OKR pyramid, product quality operationalization
 - [Nicole Forsgren](guests/nicole-forsgren.md) — Sr Director Google; DORA metrics, SPACE framework, measuring AI developer productivity
 - [Nikhyl Singhal](guests/nikhyl-singhal.md) — VP Product Meta; ex-growth companies, shadows of superpowers, PM career growth
+- [Nikita Bier](guests/nikita-bier.md) — Founder tbh & Gas (sold to Meta/Discord); viral app mechanics, sequential conditional validation
+- [Nikita Miller](guests/nikita-miller.md) — Head of PM at Calm; team alignment, work-life balance, PM roles and responsibilities
+- [Nilan Peiris](guests/nilan-peiris.md) — CPO at Wise; word-of-mouth growth, pricing strategy, customer-led teams
+- [Nir Eyal](guests/nir-eyal.md) — Author Hooked and Indistractable; habit-forming products, focus, traction vs. distraction
+- [Noah Weiss](guests/noah-weiss.md) — CPO at Slack; 10 traits of great PMs, AI products, PLG activation metrics
+- [Noam Lovinsky](guests/noam-lovinsky.md) — CPO Grammarly; happiness and pain of PM, 0-to-1 products, turnarounds
+- [Oji Udezue](guests/oji-udezue.md) — CPO Typeform; sharp problems, forest time, workflow quadrant, virality
+- [Paige Costello](guests/paige-costello.md) — Head of Core Product Asana; asking right questions, projecting confidence, winning skeptics
+- [Patrick Campbell](guests/patrick-campbell.md) — Founder ProfitWell ($200M exit); pricing, retention, bootstrapping, tactical churn reduction
+- [Paul Adams](guests/paul-adams.md) — CPO Intercom; AI product strategy, differentiation vs. table stakes, JTBD
 
 ## Frameworks
 
@@ -292,6 +302,11 @@
 - [SPACE Framework](frameworks/space-framework.md) — Nicole Forsgren's developer productivity framework: Satisfaction, Performance, Activity, Communication, Efficiency
 - [Vision-Mission-Strategy-OKR Pyramid](frameworks/vision-mission-strategy-pyramid.md) — Nickey Skarstad's hierarchy for translating product vision into measurable goals
 - [What Is / What Could Be](frameworks/what-is-what-could-be.md) — Nancy Duarte's presentation structure: contrast present reality with future possibility
+- [Complaint Storm](frameworks/complaint-storm.md) — Noah Weiss's exercise: teams list every complaint to surface hidden problems
+- [Differentiation vs. Table Stakes](frameworks/differentiation-table-stakes.md) — Paul Adams's framework: categorize features by competitive necessity vs. unique value
+- [Hooked Model](frameworks/hooked-model.md) — Nir Eyal's four-step habit loop: Trigger → Action → Variable Reward → Investment
+- [Indistractable Framework](frameworks/indistractable-framework.md) — Nir Eyal's system for managing distraction: traction vs. distraction, timeboxing, identity
+- [Workflow Quadrant](frameworks/workflow-quadrant.md) — Oji Udezue's framework: map problems by workflow compression and zone of benefit to find unicorn opportunities
 
 ## Concepts
 
@@ -367,6 +382,10 @@
 - [Ex-Growth Companies](concepts/ex-growth-companies.md) — Nikhyl Singhal's term for companies trapped after initial growth phase with stalled careers
 - [Pricing Strategy](concepts/pricing-strategy.md) — Naomi Ionita's value-based pricing model: segments, packages, freemium conversion
 - [Shadows of Superpowers](concepts/shadows-of-superpowers.md) — Nikhyl Singhal: every leadership strength has a shadow side that can undermine effectiveness
+- [Forest Time](concepts/forest-time.md) — Oji Udezue: protected strategic reflection time away from daily tactical work
+- [Sharp Problem](concepts/sharp-problem.md) — Oji Udezue: a product problem that's specific, measurable, and worth solving
+- [Tactical Retention](concepts/tactical-retention.md) — Patrick Campbell: cancellation flows, payment failure recovery, and other mechanical churn reducers
+- [Word of Mouth](concepts/word-of-mouth.md) — Nilan Peiris's WOM flywheel: product quality → NPS → referral loops
 
 ## Topics
 

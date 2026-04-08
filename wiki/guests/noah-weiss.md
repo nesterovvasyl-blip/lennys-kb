@@ -1,107 +1,140 @@
 ---
 guest: Noah Weiss
-role: Chief Product Officer, Slack
+role: Chief Product Officer, Slack (2016-present); former Head of Product, Foursquare; former PM, Google and Fog Creek Software
 episode: "The 10 traits of great PMs, AI, and Slack's approach to product | Noah Weiss (Slack, Google)"
 date: 2023-07-23
-topics: [product-management, product-led-growth, ai, word-of-mouth, b2b-saas, team-building, innovation]
+topics: [product-management, slack, ai, team-building, product-led-growth, pm-traits, consumer-to-b2b, product-principles]
 ---
 
 # Noah Weiss
 
-> Noah Weiss is Chief Product Officer at Slack (Salesforce), where he has spent seven years building a product that grew from startup to enterprise through word of mouth and product-led growth, and where he previously led head of product at Foursquare and was a PM at Google and Fog Creek Software.
+> The CPO of Slack who codified the 10 traits of great product managers and built the practices that make Slack one of the most beloved enterprise products.
 
 ## Bio
 
-Noah Weiss has spent 15 years working on AI and ML-infused products — starting with Google's Knowledge Graph (the precursor to what would later be called "AI search"), through Foursquare's local discovery and personalization engine, to Slack's search and ML infrastructure and AI initiatives. At Slack he joined as VP of Product around 2016 and became CPO, overseeing the self-service SMB business, the teams that launched Huddles and Clips, and all of Slack's product organization through the Salesforce acquisition.
+Noah Weiss is Chief Product Officer at Slack, where he has spent seven years leading all aspects of product including self-service, huddles, clips, and AI. Before Slack, he was Head of Product at Foursquare (2010-2015), where he has extensive scar tissue from the consumer social product's rise and fall. Prior to that, he was a PM at Google (working on what became the knowledge graph) and Fog Creek Software. A new father who did a full digital detox on paternity leave, he's deeply thoughtful about the craft of product management and its evolution.
 
-### Working With Strongly Opinionated Founders
+## Key Ideas
 
-Noah has worked with two celebrated product-founder CEOs: Dennis Crowley at Foursquare and Stewart Butterfield at Slack. His framework for working with product-minded founders:
+### The 10 Traits of Great Product Managers
 
-1. **Align on principles first.** Get to a set of written design and product principles that translate the founder's taste into a shared language. Without this, every product review feels like Goldilocks — "not quite right" — with no vocabulary for why.
+Noah wrote a widely-shared post on this topic as an alternative to the "PM as mini-CEO" framing, which he calls "the most dangerous piece of advice ever in the history of product management" because it produces dictatorial PMs who get rejected by their teams.
 
-2. **Involve the founder in a U-curve.** Heavy involvement at the start (agree on strategy, anti-goals, principles) → team autonomy in the middle → heavy involvement again at the end to do a collective "bug bash" where everyone (engineers, designers, PMs, founder) is in the same room fixing things together. This prevents the "we want to ship / founder says no" standoff.
+The 10 traits (not in strict priority order):
 
-3. **Get into code before the final review.** Static design mocks don't capture how software *feels*. The final refinement happens most efficiently when you're iterating on working software.
+1. **Live in the future and work backwards**: Carve out time for 6-month to 2-year horizon thinking; immerse in the problem space and bring inspiration back to the team
 
-Slack's product principles (stable for 4–5 years):
-- **Be a great host** — relentlessly save people steps; foresight like a good hotel host.
-- **Don't make me think** — borrowed from the usability book; use existing patterns; don't make users customize excessively.
-- **Take bigger boulder bets** — avoid constant incrementalism; look beyond the next hill to see the full mountain range.
+2. **Amplify your team**: Facilitate ideas, create energy and momentum; the PM is a multiplier of others' output, not a creator of their own
 
-### Complaint-Storms
+3. **Impeccable execution**: Be organized, follow through, set clear expectations. Creates the "I've got this" aura that earns trust and more responsibility. Ben Horowitz formulation: say what you're going to do, do what you said, and explain why if you can't
 
-Slack's process for regaining fresh eyes on their own product:
-1. Get a cross-functional team together (often including Stewart Butterfield and Noah).
-2. Start with a **competitor product** in an adjacent space — walk through its entire customer journey and catalog every confusion, pain point, and friction.
-3. This "calibration" exercise makes it psychologically easier to then apply the same critical lens to Slack.
-4. Use findings to populate a "lowest-effort, highest-impact" burndown list for a **Customer Love Sprint** — a two-week hackathon where the goal is to ship all the small, delightful improvements.
+4. **Focus on impact**: For customers first, then the business. "Impact solves all PM issues" — consistently shipping things people love overrides everything else
 
-Customer Love Sprints run at least quarterly for user-facing teams, and roughly twice a year for less user-facing teams.
+5. **Facilitate the pace and quality of decision-making**: Not making all the decisions, but creating the conditions for the team to make high-quality decisions quickly; this is the actual job, not being the tiebreaker
 
-> "A complaint-storm is like a friction log, but starting with a competitor's product to get calibrated before looking at your own."
+6. **Optimizing for learning**: Especially at senior levels, willingness to sacrifice near-term impact for the sake of discovering new levers; portfolio approach to product bets
 
-### Slack's Self-Service Plateau and Recovery (2019)
+7. **Write well**: The only scalable way to influence a large product org; recommended: *On Writing* by Stephen King, *Creative Selection* about Apple's iterative product development
 
-When Slack's self-service business plateaued in 2019, Noah led the diagnosis:
-- Quantitative cohort analysis showed declining health metrics for newer cohorts.
-- Root cause: the product was optimized for tech-savvy early adopters, not the "next generation" of less sophisticated users.
-- Response: **Abandon the roadmap entirely** for six months. Generate hypotheses about new levers. Optimize for learning, not impact, for two quarters. Accept zero near-term growth in exchange for discovering new leverage.
-- Outcome: Doubled the rate of new paid customer growth within two years.
+8. **Data fluency**: Not necessarily statistics, but enough fluency in quantitative data, surveys, and customer interviews to make higher-likelihood product bets
 
-Two key unlocks:
-1. **Free trial of paid features** — Slack had never let free users taste the premium product. A trial strategy solved comprehension ("what is Slack for?") and desirability ("why should I care?").
-2. **Successful Teams metric** — discovered that 5+ people using Slack the majority of the work week (a very low bar) predicted 400% higher upgrade likelihood over the next 6 months. This became a new north star that unified all product teams around a shared activation metric.
+9. **Product taste**: Intuition for what customers will love before you're able to test it; develops through immersion in customer problems and creative work
 
-### The 10 Traits of Great PMs
+10. **Living in the future and long-horizon thinking**: (see #1; revisited specifically for senior PMs as strategy ownership)
 
-Noah's well-known blog post, summarized:
-1. **Live in the future and work backwards** — carve time for 6-month, 1-year, 2-year thinking; bring inspiration back.
-2. **Amplify your team** — facilitator mindset, not mini-CEO. "PM as mini-CEO" is dangerous advice that creates dictators.
-3. **Execute impeccably** — create an "I've got this" aura; say what you'll do and do it; follow up when you can't.
-4. **Focus on impact** — to customers and the business. "Impact solves all PM issues."
-5. **Facilitate the pace and quality of decision-making** — not make all decisions yourself.
-6. **Write well** — the only scalable way to influence a large product org; recommends *On Writing* by Stephen King.
-7. **Be data-fluent** — quantitative, survey, and qualitative data all count; insights that inform higher-probability product bets.
-8. **Have product taste** — creative intuition developed through immersion; recommends *Creative Selection* (about early iPhone dev and Steve Jobs).
-9. **Optimize for the pace of learning** — know when to sacrifice near-term impact for long-term discovery.
-10. **Live in the future and work backwards** (reiterated as the most senior-level trait).
+For early-career PMs: focus on execution, impact (even local impact), and data/research fluency.
+For senior PMs: focus on facilitating decision quality, long-horizon strategy, and writing.
 
-For early-career PMs: prioritize execution, impact, and data fluency.
-For senior PMs: prioritize facilitating decision-making, long-term strategy, and writing.
+### Complaint-Storms: Structured Empathy Building
 
-### AI and ML at Scale
+Noah's process for developing fresh eyes on your own software, especially when the team has become too expert to see friction.
 
-Noah's 15-year perspective on building AI-infused products:
-- **Promise of UI must match quality of the data.** LLMs appearing "supremely confident" while hallucinating is a failure of this principle — it undermines trust.
-- **Build virtuous cycles.** Natural feedback loops from product usage should generate training data (e.g., Netflix ratings, Slack reactions, thumbs-up on summaries).
-- **Slack's AI vision**: "Your own personal chief of staff who knew everything you cared about and read everything you could read" — not yet fully achievable, but the north star that guides experimentation.
-- **Team structure during rapid change**: Central ML/search infrastructure team + several parallel prototype teams focused on different customer problems. As AI matures, it folds into every product team's roadmap (like mobile is today).
+How it works:
+1. Assemble team including Stewart Butterfield (Slack's CEO) or equivalent founder/exec
+2. Start with a **competitor or adjacent product** first — walk through the customer journey from website through account creation to first value
+3. Everyone fills in every friction point, confusion, and pain point they observe as they go, projected on one screen
+4. After building the muscle on someone else's product, run the same process on your own product
 
-### Actionable Advice
-- Write down your product principles early; make them the common language for reviews with founders.
-- Use the U-curve model to involve founder-CEOs: early for strategy alignment, later for final polish — not in the middle where you need team autonomy.
-- Run a Complaint-Storm on a competitor's product before looking at your own to build the team's critical eye.
-- Establish quarterly Customer Love Sprints with a burndown list of high-impact, low-effort improvements.
-- If a metric plateaus: throw the roadmap away, spend a quarter on learning only, then rebuild with new hypotheses.
-- Find your "Successful Teams"-equivalent: a leading activation metric that predicts long-term retention and revenue.
-- For PMs: replace "mini-CEO" with "facilitator of decision pace and quality."
+Benefits:
+- Competitor first removes defensiveness ("everyone has issues — it's not just us")
+- Calibrates the team on product quality standards
+- Generates a prioritized burndown list for "customer love" work
+- Surfaces systemic issues that don't show up in any individual metric
 
-### Notable Quotes
-> "We're customer obsessed but competitor aware."
+Related: Slack has a **Customer Love Sprint** — a two-week hackathon where teams sprint on the lowest-effort/highest-impact changes from the complaint-storm list. Goal: ship all of them. Quarterly cadence for user-facing teams, twice-yearly for others.
 
-> "You can't just design for yourself anymore. You have to keep that beginner's mindset of what does the next audience need."
+### Slack's Self-Service Plateau and Turnaround (2019)
 
-> "Culture is like water. It flows downhill."
+Around 2019, Slack's self-service business metrics stopped being as healthy as they'd been in the 2014-2017 hypergrowth era. Root cause: the product had excellent product-market fit with technologically sophisticated early adopters, but the next wave of customers had fundamentally different needs.
 
-> "If you don't have some amount of word of mouth and customer love driven growth, it's hard to scale a big enough business."
+The turnaround approach:
+1. **Throw out the existing roadmap** rather than optimizing what already existed
+2. **Six-month learning sprint**: commit to no impact, only learning about new levers
+3. **Key insight on comprehension/desirability**: New users didn't comprehend what Slack was for or why they should care — not a product problem, but a framing and experience problem
+4. **Trial strategy**: Slack had never let users taste the paid product — they went from free tier directly to paid. Implementing a trial of premium features was one of the biggest levers
+5. **New north star metric — "Successful Teams"**: Research showed teams with 5+ people communicating in Slack the majority of the work week were 400% more likely to upgrade in 6 months. This low bar (not even daily usage!) became the shared goal across all product teams, shifting focus from top-of-funnel to early activation
 
-## Sources
-- [[noah-weiss]] — "The 10 traits of great PMs, AI, and Slack's approach to product"
+Result: doubled the rate of new paid customer growth over the following 1-2 years.
 
-## See Also
-- [[complaint-storms]]
-- [[word-of-mouth-growth]]
-- [[product-led-growth]]
-- [[product-market-fit]]
-- [[velocity]]
+### Working with Product-Minded Founders
+
+Noah has worked with both Dennis Crowley (Foursquare) and Stewart Butterfield (Slack) — both strongly opinionated founders in the PM's domain. Key lessons:
+
+**U-curve model of founder involvement**:
+- High involvement at the **start** (strategic buy-in, agreed principles, anti-goals)
+- Lower involvement during **team execution and exploration**
+- High involvement again at the **end** (quality bar, taste test the soup)
+
+The failure mode: not doing the final step, which means the founder sees the product for the first time at launch and is unhappy. Solution: founder joins the team in a live bug bash — everyone looking at real software together trying to raise the quality bar, not the founder reviewing static mocks saying "no."
+
+**Establishing shared principles**:
+Convert founder taste into a shared language. Slack's four product principles (largely stable for 4-5 years):
+1. **Be a great host** — relentlessly save people's steps; anticipatory design
+2. **Don't make me think** — design for people from diverse backgrounds who shouldn't need to customize much
+3. **Take bigger boulder bets** — actively resist incrementalism; the mental metaphor is "get to the next hill" to see the mountain range beyond
+4. **Customer-obsessed, competitor-aware** — obsess over customers, stay aware of but not paralyzed by competitors
+
+### AI in Products: 15 Years of Principles
+
+Noah worked on what became Google's Knowledge Graph, ran recommendation systems at Foursquare, and has been prototyping LLM-based products at Slack.
+
+Hard-won principles:
+- **The UI promise must match the quality of the underlying model**: LLMs appearing supremely confident while hallucinating is a trust-destroying mismatch. Be transparent about uncertainty
+- **Design for virtuous training cycles**: Product experiences should generate training data as a byproduct (Netflix ratings → better recommendations model)
+- **Parallel incubation**: When a new capability emerges (AI), create a few small parallel teams using shared ML infrastructure but exploring different customer problems, rather than forcing all existing teams to add AI to their roadmaps immediately. Steady state = AI becomes part of every team's roadmap just as mobile is today
+
+### Foursquare's Lessons: Framing and Competitive Timing
+
+The Foursquare decline offers a clear lesson on atomic unit framing. The company bet that the atomic unit of social sharing would be "a person at a place." Instagram (early Foursquare API user) discovered it was "a person having a moment" — sometimes with a place, often without. That single framing difference redirected all the social behavior to Instagram. Compounded by Google Maps eventually replicating local discovery on a 1B+ user distribution platform.
+
+The B2B pivot lesson: "The feedback you get from people willing to pay for your product is so much faster than can I build a large-scale consumer business and when they hope to have enough reach to slap ads onto it."
+
+## Key Quotes
+
+> "Mini-CEO is the most dangerous piece of advice ever in the history of product management." — Noah Weiss
+
+> "Impact solves all PM issues — if a team is consistently building things people love and changing the direction of the business, everything else is just an input." — Noah Weiss
+
+> "Product market fit is almost like you keep stacking these S-curves — you get PMF in a small group, then exponential growth, then you hit the ceiling and have to jump to the next S-curve." — Noah Weiss
+
+> "We're customer-obsessed, competitor-aware. We obsess about customers. We build something they'll love enough to tell their coworkers and the rest takes care of itself." — Noah Weiss
+
+> "Taking bigger boulder bets. Get to the next hill to see what the horizon looks like around you." — Noah Weiss
+
+## Actionable Advice
+
+- Replace "PM as mini-CEO" with "PM as decision-quality facilitator" — the team should make better decisions, with or without your input
+- Run complaint-storms on competitor products before running them on your own; calibrate team on quality standards first
+- When a growth metric plateaus, consider a 6-month learning sprint rather than optimization of existing bets
+- Define your activation metric as the early behavior that predicts long-term retention/revenue (Slack: 5 people communicating the majority of the workweek = 400% upgrade likelihood)
+- Get founders involved at the beginning of projects (strategy/anti-goals) and at the end (taste test in real software) — not throughout
+- For AI: design for uncertainty transparency and virtuous training cycles from day one
+- Create a pilot customer program with diverse industries/sizes and pain-tolerant champions to test features before broad launch
+
+## Related Pages
+
+- [[concepts/product-led-growth]]
+- [[concepts/product-market-fit]]
+- [[frameworks/radical-candor]]
+- [[frameworks/shape-up]]
+- [[concepts/experimentation-culture]]
