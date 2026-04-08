@@ -1,123 +1,126 @@
 ---
 guest: Ronny Kohavi
-role: Consultant and Instructor; former VP Technical Fellow at Airbnb, Technical Fellow at Microsoft, Director at Amazon
+role: Consultant, Teacher, Author; former VP & Technical Fellow at Airbnb, Technical Fellow at Microsoft, Director at Amazon
 episode: "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)"
 date: 2023-07-27
-topics: [experimentation, ab-testing, metrics, data-driven, growth, product-development]
+topics: [a-b-testing, experimentation, data-driven-culture, metrics, oec, trustworthy-experiments, statistics, product-development]
 ---
 
 # Ronny Kohavi
 
-> Ronny Kohavi is the world's leading expert on A/B testing and experimentation, author of Trustworthy Online Controlled Experiments, and has run experimentation platforms at Amazon, Microsoft, and Airbnb.
+> The world's foremost authority on A/B testing and online controlled experiments, who built experimentation platforms at Amazon, Microsoft (Bing), and Airbnb and authored the definitive book on the subject.
 
-## Content
+## Bio
 
-Ronny Kohavi spent his career at three of the world's most data-driven companies: Amazon (Director of Data Mining and Personalization), Microsoft (Corporate VP leading the Microsoft Experimentation Platform — ExP), and Airbnb (VP and Technical Fellow). He is the author of *Trustworthy Online Controlled Experiments* (all proceeds donated to charity), translated into Chinese, Korean, Japanese, and Russian. He now consults, teaches, and runs a cohort course on Maven.
+Ronny Kohavi, PhD, is a consultant and instructor who is widely considered the world expert on A/B testing. He was VP and Technical Fellow at Airbnb, Corporate VP at Microsoft (where he built the Microsoft Experimentation Platform and ran Bing experimentation), and Director of Data Mining and Personalization at Amazon. He is the author of *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing* (all proceeds donated to charity) and teaches a live cohort-based course on Maven.
 
-### The Most Surprising Experiment Result in History
+## Key Ideas
 
-Ronny's opening example: at Bing, someone proposed moving the second line of ad text to the first line, making the title larger. It had languished in the backlog for months — people rated it as uninteresting. An engineer spent a couple of days implementing it and launched it. Revenue alarms fired. Everyone assumed a bug. After extensive verification — no bug. This single change was **worth $100 million to Bing at the time**, the largest revenue impact in its history. The user experience metrics were not significantly harmed.
+### Most Ideas Fail — Embrace It
 
-The lesson: "We are often humbled by how bad we are at predicting the outcome of experiments."
+The single most important fact about experimentation: the majority of ideas fail. Across Ronny's career:
+- **Microsoft overall**: ~66% of ideas fail (two thirds)
+- **Bing** (highly optimized domain): ~85% failure rate
+- **Airbnb search relevance**: ~92% failure rate
 
-### The Real Failure Rate of Experiments
+These numbers are consistent with external benchmarks — Booking.com, Google Ads, and others report 80-90% failure rates. The implication: if you're not running experiments, you're likely shipping 70%+ of your features that are either neutral or harmful.
 
-Ronny has published three different failure rates from his career:
-- **Microsoft overall**: ~66% of ideas fail
-- **Bing specifically**: ~85% failure rate (harder to improve an already-optimized product)
-- **Airbnb search**: **92% failure rate** (only 8% of experiments improved the key metric)
+"Flat to me, if something is not statistically significant, that's a no-ship, because you've just introduced more code. Maintenance costs will go up."
 
-Industry benchmarks from Google Ads, Booking.com, and others: 80–90% failure rates are typical.
+### Surprise as the Signal for Learning
 
-This humbling reality is universal. Every new team that starts running experiments believes they will have a higher success rate than the industry. They are all wrong. The reason this matters: if you don't know that 66–92% of your ideas are failing, you are shipping a lot of things that are flat or negative without realizing it.
+Ronny defines "surprising" in a specific, useful way: an experiment is surprising when **the predicted outcome and actual outcome differ significantly**. Not just when the result is positive. Surprising losses (expected to win, massively negative) teach as much as surprising wins. The quarterly "most interesting experiments" meeting — not the most successful, but the most surprising — is one of the highest-leverage institutional learning rituals he recommends.
+
+The canonical example: a Bing engineer spent two days implementing a tiny change (promoting the second ad title line to the first position). Everyone ignored it in the backlog for months — it seemed like a "meh" idea. It generated $100 million in incremental revenue, the biggest single revenue improvement in Bing's history. Nobody predicted it.
 
 ### The OEC: Overall Evaluation Criterion
 
-The most common mistake in A/B testing is optimizing for the wrong thing. "Improve revenue" is an incomplete OEC because you can always increase revenue in the short term by hurting user experience (e.g., displaying more ads). A good OEC must:
+The most common mistake in A/B testing is optimizing for the wrong metric. Revenue is the obvious target, but you can always increase short-term revenue by degrading user experience (more ads, darker patterns). The OEC is the composite metric designed to be **causally predictive of long-term user lifetime value**.
 
-1. Be **causally predictive of lifetime value** — not just short-term metrics
-2. Include **countervailing guardrail metrics** — so you know if you're buying short-term wins at the cost of long-term retention
+A good OEC:
+- Balances revenue metrics with guardrail user experience metrics
+- Prevents short-term optimization that destroys long-term value
+- Should be directionally agreed-upon by the whole team before testing begins
 
-At Bing: they modeled the relationship between ad density and user session quality, then framed ad optimization as a *constraint satisfaction problem* — maximize revenue per pixel of vertical ad space. This prevented the "add more ads" local maxima.
+The Amazon email team case study: they initially measured "revenue from email-attributed clicks." More emails = more revenue credit. This led to spam. The fix: add the cost of unsubscribes (modeled at a few dollars each). More than half their email campaigns became negative once the unsubscribe cost was included. The OEC revealed the right behavior.
 
-At Amazon's email team: when recommendations were measured purely by clicks-from-email, the team scaled spam to maximize the metric. Fix: model the cost of unsubscribes as a dollar value, subtract from revenue. Result: more than half of active campaigns were actually net-negative once unsubscribe costs were included.
+The search ads OEC at Bing: number of ads is not free — Ronny's team ran experiments to map exactly how each additional ad reduced session success rate and increased churn, then set a "pixel budget" — a constraint that forced the ad team to achieve the same revenue within the same space, forcing actual quality improvement.
 
-At Airbnb: a good OEC for booking conversion includes not just whether someone booked, but whether they *liked the stay* — measurable months later. This requires building predictive models from historical data.
+### Trust Is the Foundation of Experimentation
 
-### When to Start Running Experiments
+The most commonly cited goal of experimentation is "speed." Ronny argues the actual bottleneck is trust. If your experimentation platform produces untrustworthy results, the organization will stop using it, cherry-pick results, or launch bad products with false confidence.
 
-The rule of thumb: you need **at least 200,000 users** to reliably detect 5%+ improvements. Below tens of thousands of users, statistics don't work for most product metrics. Startups should:
-- Below 200K: Start building the platform and culture. Run tests when you can but focus on large-effect experiments (5–10% improvements).
-- Above 200K: The magic begins. Test everything. Move toward zero marginal cost per experiment.
+The Optimizely case: early Optimizely used real-time P-value monitoring (stopping an experiment when the P-value crossed 0.05). This inflates the false positive rate from 5% to ~30%. Companies were seeing "wins" they couldn't replicate — and eventually lost trust in experimentation. Optimizely fixed it after researchers pointed this out.
 
-### Twyman's Law: If It Looks Too Good, It's Probably Wrong
-
-Twyman's Law (originally coined in UK radio/media): any figure that looks interesting or unusual is usually wrong.
-
-Ronny's application: if your typical experiment moves a metric 0.5–1% and you see a 10% movement, hold the celebration. In 9 out of 10 cases when he has invoked Twyman's Law, they found a flaw. The $100M Bing result was the exception, and it was replicated multiple times before acceptance.
-
-### Sample Ratio Mismatch: The Most Common Experiment Error
-
-If your experiment is designed 50/50 control/treatment and you get 50.2/49.8 — that might sound close but could be a red flag. For a million-user experiment, the probability of getting 50.2/49.8 by chance can be one in half a million. Something is wrong.
-
-At Microsoft, ~8% of experiments suffered from sample ratio mismatches. Common causes:
-- Bots (treatment changes a webpage, bots fail to parse it and retry disproportionately)
-- Data pipeline issues
-- Marketing campaigns that skew assignment distribution
-- Incorrect randomization logic
-
-Ronny's team responded by **blanking out experiment scorecards** when sample ratio mismatch was detected, forcing engineers to acknowledge the problem before seeing results — because warning banners were simply ignored.
+Ronny's trust-building practices:
+- **Sample ratio mismatch (SRM) detection**: if your 50/50 split produces 50.2/49.8, that's a red flag. At Microsoft, ~8% of experiments had SRM — caused by bots, data pipeline issues, or incorrect assignment. Blank out the scorecard when SRM is detected.
+- **A/A testing**: run an experiment where both variants are identical; any "significant" result is a false positive and reveals platform bugs.
+- **Replication**: for results at 0.01 < p < 0.05, run again and combine results using Fisher's or Stouffer's method.
 
 ### P-Values: The Common Misinterpretation
 
-Most practitioners believe: P-value of 0.02 means 98% probability the treatment is better. **This is wrong.**
+Most practitioners read a p-value of 0.02 as "98% probability the treatment is better than control." **This is wrong.** A P-value is the probability of seeing this data *assuming the null hypothesis is true* — not the probability that the treatment is better.
 
-P-values are *conditional probabilities* — they assume the null hypothesis is true and calculate the probability of seeing data this extreme by chance. To get the actual probability you want (probability treatment is truly better), you need Bayes' Rule, which requires knowing the prior probability of success.
+To get the probability most people actually want (is the treatment better?), you need Bayes' rule and a prior on your success rate. At Airbnb, with an 8% experiment success rate, a statistically significant result at p < 0.05 has a **26% false positive rate** — not 5%. This is why Ronny required replication for borderline results.
 
-Practical implication: at Airbnb search where only 8% of experiments succeed, a statistically significant result (P < 0.05) has a **26% false positive rate** — not 5%. The solution: require P < 0.01 for borderline results, and replicate results using Fisher's or Stouffer's combined test.
+### When to Start A/B Testing
 
-### Building an Experimentation Platform
+Practical threshold: you need at least **tens of thousands of users** for statistics to work on most metrics. For a retail site trying to detect 5%+ improvements in conversion rate, you need around **200,000 users**. Below that, start building the culture and platform infrastructure so you're ready when you scale.
 
-Key principles:
-- **Goal**: reduce marginal cost of running an experiment to near zero
-- At Microsoft/Bing: 20–25,000 experiments per year, ~100 new treatments per working day
-- Platforms should auto-generate scorecards so data scientists aren't bottlenecks
-- Build/buy is not zero-one: third-party tools today are much better than they were in Amazon's era
-- The best place to start: find a team that launches frequently (weekly/daily, not yearly) and has a clear OEC
+"Start below 200,000 users, but start building the culture, platform, and integration so that as you scale, you start to see the value."
 
-For culture change: find a beach-head team. Share surprising results broadly. Cross-pollination of people trained in experimentation is the most reliable way to spread the culture.
+### Experimentation Shouldn't Block Big Bets
 
-### Big Redesigns Almost Always Fail
+A common objection: "experimentation leads to local maxima and prevents innovation." Ronny's response: the solution is a portfolio approach, not abandoning experimentation.
+- ~70-80% of experiments: incremental improvements in known directions
+- ~20-30%: high-risk, high-reward bets designed to break out of local maxima
 
-Ronny has documented numerous large product redesigns that significantly hurt key metrics. The right approach: incrementalize. Instead of shipping 17 changes at once (where most will fail), ship one factor at a time (OFAT: one factor at a time), learn, adjust. Of 17 changes, maybe 4 are genuinely good — ship those.
+For big redesigns: decompose the redesign into the smallest possible independent factors (OFAT — one factor at a time). Test incrementally toward the new design. Even if you do a full redesign, run it as a test — "be ready to fail 80% of the time." The sunk cost fallacy is real: teams invest months in a redesign, it tests negative, and they ship it anyway.
 
-Sunk cost fallacy trap: "We already spent six months building this." A data-driven organization will not launch something that's negative for users regardless of investment. Don't.
+### Institutional Memory
 
-### Actionable Advice
-- Define your OEC to be causally predictive of lifetime value, with countervailing guardrail metrics
-- Expect 66–92% of your experiments to fail — this is not a sign of bad teams, it's the universal reality
-- Always run sample ratio mismatch checks on your experiments
-- Treat statistically significant results with skepticism proportional to their magnitude (Twyman's Law)
-- Use Bayesian priors (historical success rate) to estimate true false positive rates
-- Do quarterly reviews of your most surprising experiments — build institutional memory
-- Replicate borderline results rather than shipping on P < 0.05 alone
+The value of experiments isn't just in individual decisions — it's in accumulated organizational knowledge. Ronny's practices:
+- Maintain a searchable database of all past experiments with keywords
+- Run quarterly "most interesting experiments" reviews to surface surprises
+- Document what was expected vs. what happened (surprise = valuable learning)
 
-### Notable Quotes
-> "I'm very clear that I'm a big fan of test everything — any code change that you make, any feature that you introduce has to be in some experiment."
+Without institutional memory, hard-won lessons get forgotten as people leave. Ronny re-introduced the "open link in new tab" pattern at Airbnb after discovering it had been a significant win at Microsoft 10+ years earlier but had been forgotten.
 
-> "We are often humbled by how bad we are at predicting the outcome of experiments."
+## Frameworks
 
-> "If you go for something big, try it out, but be ready to fail 80% of the time."
+### Hierarchy of Evidence
 
-> "If something is not statistically significant, that's a no-ship, because you've just introduced more code and increased maintenance overhead."
+When evaluating any claim or research finding, trust is proportional to the quality of the evidence:
+1. Anecdotal (lowest trust)
+2. Observational study
+3. Natural experiment
+4. Controlled experiment
+5. Multiple replicated controlled experiments (highest trust)
 
-> "If you think you've got a 5% type one error rate, using real-time P-value monitoring to stop experiments early, you'd probably have a 30% error rate."
+## Key Quotes
 
-## Sources
-- [[ronny-kohavi]] — "The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)"
+> "I'm very clear that I'm a big fan of test everything — any code change you make, any feature you introduce has to be in some experiment." — Ronny Kohavi
 
-## See Also
-- [[experimentation-culture]]
-- [[ab-testing-principles]]
-- [[long-term-holdout-experiments]]
-- [[overall-evaluation-criterion]]
+> "We are often humbled by how bad we are at predicting the outcome of experiments." — Ronny Kohavi
+
+> "When the result looks too good to be true — hold the celebratory dinner, investigate." (Twyman's Law) — Ronny Kohavi
+
+> "If you go for something big, try it out, but be ready to fail 80% of the time." — Ronny Kohavi
+
+> "If in peace time you're wrong two thirds to 80% of the time, why would you be subtly right in wartime?" — Ronny Kohavi (on COVID decision-making)
+
+## Actionable Advice
+
+- **Define your OEC before running your first experiment** — if your team can't agree on whether "more time on site" is good or bad, your OEC is broken.
+- **Build SRM detection into your platform from day one** — 8% of experiments at Microsoft were invalid due to sample ratio mismatches; catching this early prevents false decisions.
+- **Don't ship on flat** — neutral results mean code added without benefit. Don't do it unless legally required.
+- **Start with a beachhead team** — find one team that ships frequently, build the culture and platform there, then let success and cross-pollination spread it.
+- **Document surprises quarterly** — organize a "most interesting experiments" meeting, not just "most successful experiments."
+- **Replicate borderline results** — for p-values between 0.01 and 0.05, run the experiment again and combine results before declaring a winner.
+
+## Related Pages
+
+- [[concepts/experimentation-culture]]
+- [[frameworks/long-term-holdout-experiments]]
+- [[concepts/data-flywheel]]
+- [[frameworks/okrs-radical-focus]]

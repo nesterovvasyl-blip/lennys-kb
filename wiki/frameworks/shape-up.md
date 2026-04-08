@@ -1,7 +1,8 @@
 ---
 framework: "Shape Up"
-origin: "Ryan Singer & Jason Fried (37signals)"
+origin: "Jason Fried and Ryan Singer (37signals)"
 guests: [jason-fried, ryan-singer]
+date_added: 2026-04-08
 ---
 
 # Shape Up
@@ -45,27 +46,28 @@ During a cycle, the team and leadership continuously negotiate tradeoffs as new 
 ## How to Adopt Shape Up
 Jason's strong recommendation: **don't switch cold turkey**. Pick a low-criticality project and try it there first. You'll be bad at it the first time (like picking up a guitar for the first time). If you try it on something that matters and it fails, you'll burn the method forever. Build the skill on low-stakes work, then bring it to critical work.
 
+## Ryan Singer's Real-World Extensions
+
+Ryan Singer, the primary architect of the Shape Up book, has added several practical refinements after consulting with companies outside 37signals:
+
+**The 9-Box Kickoff Exercise**: At the start of a cycle, the build team draws a grid of nine boxes (or fewer) representing the major implementation scopes. Nine is the upper bound of the 7±2 cognitive limit — if everything can't fit in nine boxes, the scope is probably too large. This also creates coaching moments between senior and junior engineers.
+
+**Framing before shaping**: Upstream of the shaping session is a "framing" step — narrowing the problem to something specific and concrete. "Calendar" is not a frame. "Customers can't see empty spaces in their schedule" is. Good framing makes shaping fast.
+
+**The shaping session format**: A shaping session brings together a product person, a designer, and a senior technical person (not just any engineer — someone who knows the codebase). Sessions run 3+ hours, working in real time at a whiteboard, trying and breaking ideas. Total time to shape a project: 2–3 sessions if the technology is familiar.
+
+**The dominant failure mode**: The most common Shape Up failure is doing the six-week cycle without real shaping — the build team gets a PRD or Figma file and is told to "vary scope." This predictably fails. Shaping is the load-bearing element; the cycle length is secondary.
+
+**Basecamp is unusually well-suited**: Most companies can't replicate 37signals' conditions: designers who code, no sales team competing for engineering time, and founders in the room for problem definition up until 2021. Teams adopting Shape Up need to find equivalent conditions, not just copy the rituals.
+
+**Where the PM role shifts**: Under Shape Up, the PM moves upstream from sprint shepherding to deep problem framing — understanding the business context, narrowing problems with Jobs-to-be-Done research, negotiating what's really worth six weeks.
+
 ## Related
-- [[jason-fried]] — creator of the framework
-- [[constraints-as-advantage]] — the philosophy that small/constrained teams do better work
-- [[calm-company]] — the broader 37signals operating philosophy
-
-## Ryan Singer's Additions — Shape Up In Real Life
-
-Ryan Singer codified Shape Up and wrote the book (free at basecamp.com/shapeup). In a 2025 deep-dive episode with Lenny, he added significant nuance around how to apply it outside of Basecamp's unusual structure:
-
-**On shaping sessions:** Three hours is sufficient for a well-framed problem. All three perspectives (product, senior engineer, designer) must be present. The "grumpy old plumber" principle: the engineer should insist on opening the actual code before agreeing to any scope, to surface rabbit holes before the project starts.
-
-**On the 6-week ceiling:** Six weeks is a maximum, not a prescription. Growth teams might run 2-week time boxes. The key is that the ceiling forces you to ask what you can actually finish — not what you'd like to do.
-
-**On shaping output quality:** A well-shaped idea can be described in under 10 moving pieces. The test: can a technical person look at the output and say "I know what to go build"? If not, it needs more shaping.
-
-**The nine-box kickoff exercise:** At project kickoff, the team translates the shaped idea into nine major implementation scopes (9 or fewer). This surfaces scope issues early, creates natural coaching moments for junior engineers, and gives everyone a shared map of the work.
-
-**On when to adopt:** Problems typically become undeniable at 30–50 people in product+engineering. The trigger is often the first project where a founder fully delegates and it goes sideways. Start with a pilot on something meaningful but not critical.
-
-**The dominant failure mode in the real world:** Not enough detail in shaping. Teams regularly get fuzzy handoffs and then fail to ship, blame the method, and revert. The shaping work is where the hard thinking must happen.
+- [[guests/jason-fried]] — co-creator of the framework
+- [[guests/ryan-singer]] — primary author of the Shape Up book and real-world extensions
+- [[concepts/jobs-to-be-done]] — upstream research Ryan Singer recommends for framing
+- [[concepts/velocity]] — what Shape Up is trying to restore
 
 ## Sources
-- Jason Fried — "Jason Fried challenges your thinking on fundraising, goals, growth, and more" (Lenny's Podcast, 2023-12-17)
-- [[ryan-singer]] — "A better way to plan, build, and ship products" (2025-03-30)
+- [[guests/jason-fried]] — "Jason Fried challenges your thinking on fundraising, goals, growth, and more" (Lenny's Podcast, 2023-12-17)
+- [[guests/ryan-singer]] — "A better way to plan, build, and ship products | Ryan Singer (creator of Shape Up)" (Lenny's Podcast, 2025-03-30)

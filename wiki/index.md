@@ -215,6 +215,15 @@
 - [Rahul Vohra](guests/rahul-vohra.md) — Founder/CEO Superhuman; PMF engine, word-of-mouth, game design for products, pricing
 - [Ramesh Johari](guests/ramesh-johari.md) — Stanford professor; marketplace dynamics, two-sided platforms, experimentation, rating systems
 - [Ravi Mehta](guests/ravi-mehta.md) — Co-founder Outpace, ex-CPO Tinder; product strategy stack, PM archetypes, startup vs. big-co
+- [Ray Cao](guests/ray-cao.md) — Head of Monetization Product Strategy & Ops, TikTok; advertising culture, OKRs at scale, globalization
+- [Richard Rumelt](guests/richard-rumelt.md) — UCLA Professor, author Good Strategy Bad Strategy; kernel of strategy, diagnosis, guiding policy
+- [Robby Stein](guests/robby-stein.md) — VP Product Google Search; AI Overviews, AI Mode, search reinvention, relentless improvement
+- [Roger Martin](guests/roger-martin.md) — Rotman Professor, author Playing to Win; five strategic questions, where-to-play / how-to-win
+- [Ronny Kohavi](guests/ronny-kohavi.md) — Author Trustworthy Online Controlled Experiments; A/B testing at scale, OEC, experimentation culture
+- [Ryan Hoover](guests/ryan-hoover.md) — Founder Product Hunt, Partner Weekend Fund; consumer product launches, community-led growth
+- [Ryan J. Salva](guests/ryan-j-salva.md) — VP Product GitHub; GitHub Copilot incubation, AI product development, R&D vs. shipping
+- [Ryan Singer](guests/ryan-singer.md) — Creator of Shape Up, ex-Head of Strategy 37signals; framing, shaping, 9-box kickoff
+- [Sachin Monga](guests/sachin-monga.md) — Head of Product Substack, ex-Facebook/Cocoon; creator economy, recommendations, subscription growth
 
 ## Frameworks
 

@@ -1,75 +1,85 @@
 ---
 guest: Ryan J. Salva
-role: VP of Product, GitHub
+role: VP of Product at GitHub (Microsoft)
 episode: "The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub)"
 date: 2022-09-04
-topics: [ai, developer-tools, product-development, incubation, big-company-innovation]
+topics: [ai-products, incubation, product-development, github-copilot, r-and-d, developer-tools]
 ---
 
 # Ryan J. Salva
 
-> VP of Product at GitHub who led the incubation and launch of GitHub Copilot — one of the first AI-powered developer tools to achieve mass adoption.
+> VP of Product at GitHub who incubated and launched GitHub Copilot, Ryan Salva is a practitioner at the intersection of AI, developer tools, and large-company product innovation.
 
-## Background
+## Bio
 
-Ryan J. Salva spent over a decade at Microsoft working on developer tools, including Azure DevOps and Microsoft's internal One Engineering System, before moving to GitHub. His background is unusual for a technical product leader: he studied philosophy of aesthetics and 20th-century critical theory, with a focus on how humans express creativity and communicate experience. That humanistic lens shapes everything about his approach to product.
+Ryan J. Salva spent over 10 years at Microsoft before joining GitHub, where he leads product for multiple product lines including GitHub Copilot, Codespaces, and developer security tools. His academic background is in philosophy of aesthetics and 20th-century critical theory — an unusual foundation for a developer-tools leader, but one he credits with giving him an appreciation for human communication, dialogue, and how new mediums reshape creativity. He draws a direct line from philosophy to product work: "I wanted to be in the business of creativity."
 
-He describes his career motivation as wanting to be "in the business of creativity" — software development as the newest human creative medium, the equivalent of what oil painting or writing were in previous centuries.
+## Key Ideas
 
-### Incubating GitHub Copilot
+### Incubating Big Bets Inside Large Companies
 
-The origin story of Copilot is part accident, part deliberate structure. Microsoft and OpenAI had been collaborating on large language models, and the GitHub team noticed that programming languages are in some ways better subjects for LLMs than natural language — they have more constrained semantics and vocabulary.
+Copilot originated in GitHub's R&D group "GitHub Next," whose mandate is to explore second- and third-horizon projects — things that might be relevant three to five years out, measured more by ambiguity and confidence level than calendar dates. Ryan's three-horizon rough allocation:
+- **5–10%** of team capacity: truly uncertain experimental bets (GitHub Next work)
+- **25–30%**: operational maintenance of in-market products
+- **60%+**: incremental improvements to existing products
 
-The spark came when OpenAI was caught hammering GitHub's infrastructure to clone public repositories for training data. Rather than a confrontation, GitHub turned it into collaboration — they packaged the same Arctic Code Vault data snapshot they had already archived and gave it to OpenAI in a more structured way. From that collaboration emerged CodeX, and from CodeX emerged Copilot.
+The transition from GitHub Next to a shipping product followed a specific pattern:
+1. Researchers at Next generate a promising prototype
+2. Signal emerges from customers: "This is magical, this does something I couldn't do on my own"
+3. A small number of researchers transfer to a new EPD (Engineering, Product, Design) squad for a **finite period**, seeding the product team while doing knowledge transfer
+4. The EPD team takes over; researchers return to GitHub Next
+5. New EPD squads hire around the researchers' seed to carry the product forward
 
-The key UX insight was inline autocomplete: instead of a side-panel suggestion that broke flow, Copilot renders suggestions in italicized gray text directly in the editor. Getting to that interaction took deliberate experimentation — including figuring out that ~200 milliseconds is the latency ceiling beyond which developers feel interrupted.
+The critical insight: **researcher transfers must be based on replacement in seat, not calendar dates.** You can't pull the researcher back until someone has actually absorbed the domain expertise. Forcing a handoff by deadline creates capability gaps.
 
-### From R&D to Product
+### The Copilot Origin Story
 
-Copilot was incubated by GitHub Next, a dedicated horizon-two/three R&D team whose job is "moonshots" — projects not expected to produce revenue in one to two years. Ryan describes the three-horizon model informally:
-- Horizon 1: next year
-- Horizon 2: next three years
-- Horizon 3: next five years
+Copilot's origin was almost accidental. OpenAI was scraping GitHub's public repositories (a massive clone operation that triggered GitHub's infrastructure team). Rather than fight it, GitHub packaged the data responsibly through the Arctic Code Vault snapshot and brought it to OpenAI. The question became: what can we do with large language models trained on public code?
 
-But he emphasizes that these are better understood as measures of ambiguity and confidence than calendar dates.
+Key discovery: code languages are much more constrained semantically than natural languages — fewer "words," stricter grammar. This makes code particularly well-suited for language model training. The team then spent months experimenting with **prompt crafting** (how to structure the input to the model to get useful suggestions) and UX (the gray italicized inline autocomplete was the result of many experiments, not an obvious choice). Latency experiments determined ~200ms as the sweet spot — fast enough to stay in developer flow.
 
-The moment to graduate a project from R&D to EPD (Engineering, Product, Design) is when three things align: a representative customer with a genuine problem, medium-confidence signal that the solution works, and early prototype feedback showing "this is magical." For Copilot, that signal was the "crazy mind-blown emoji tweets" during technical preview.
+### AI as Augmentation, Not Replacement
 
-The transition itself required careful people management: researchers from GitHub Next temporarily moved into the EPD squad to transfer knowledge, then gradually returned to R&D as replacement talent was hired and onboarded. The rule: don't move the researcher back until a replacement is fully in seat.
+Ryan is explicit: Copilot's goal is not to replace developers. The "AI pair programmer" framing is deliberate — a pair programmer whispers suggestions but doesn't write code unilaterally. This framing also governs content moderation: you wouldn't tolerate a pair programmer who injects offensive or irrelevant content while you're trying to work. The goal is to remove drudgery (syntax recall, parameter ordering, boilerplate data structures) so developers can focus on creative, outcome-oriented work.
 
-### Lessons on Big Company Incubation
+His vision for 5–10 years: AI infuses the entire dev stack — PR summarization, code review, build queue management, security scanning — progressively removing "rote memorization of syntax" so engineers focus on design patterns and outcomes.
 
-Ryan's resource allocation framework for large product portfolios:
-- **5–10%** of capacity on bold experimental research (horizon 2/3)
-- **~25–30%** on operations — keeping in-market products meeting expectations
-- **~60%** on incremental iteration of existing products
+### Scaling Ethical AI Products
 
-At startups, the percentages are radically different — effectively 100% on the big bet.
+Copilot faces challenges that most products don't:
+- **Supply chain for compute**: specialized GPUs in scarce global supply
+- **Community trust**: training on public code requires ongoing dialogue about consent, attribution, and responsible AI
+- **Content moderation**: block lists are fragile; they eventually transitioned to Azure's Responsible AI models for semantic-level content detection
+- **Skepticism as healthy**: Ryan genuinely wants developers to be skeptical of Copilot, treating it as a spur to keep improving safety and quality rather than a problem to be suppressed
 
-### AI Ethics and the Copilot Persona
+### Hiring Interview Technique: Teach Me Something in One Minute
 
-Managing ethical concerns around AI-generated code required an unusual approach: anthropomorphizing the product. By framing Copilot as an "AI pair programmer," the team had a clear mental model for what constitutes appropriate behavior — it should stay focused on the task, avoid offensive or distracting output, and never try to replace the developer's judgment.
+For early-to-mid career PMs, Ryan asks candidates to teach him something new in one minute, evaluated on three criteria: **completeness** (did they finish?), **complexity** (was the topic substantive?), and **clarity** (did he actually learn something?). He notes the most impressive answer was from a university student who taught him about 18th century art's connection to religious trends of the period.
 
-When early models produced offensive content, simple word block lists were too blunt (some medical or technical terms have legitimate uses). GitHub eventually leveraged Azure's Responsible AI models to detect sentiment in context, which was both more accurate and less brittle than the block-list approach.
+## Key Quotes
 
-### Actionable Advice
-- When incubating a moonshot inside a large company, ring-fence a dedicated R&D team explicitly exempt from normal product requirements (security, accessibility, uptime, etc.)
-- The graduation criteria from R&D to EPD should not be calendar-based — it must be signal-based: customer validation that the thing is "magical"
-- When transitioning researchers to a product team, move them temporarily rather than permanently; staff up behind them so they can return to R&D work
-- Give the new product team full ownership of roadmap — don't let R&D retain control after handoff
-- Engineering fundamentals (reliability, security, privacy) feel unnatural to researchers; expect cultural change management during the transition
+> "What I care about is helping people create... software development and the worlds it creates wasn't possible maybe 50, 60 years ago." — Ryan J. Salva
 
-### Notable Quotes
-> "We had a model that was amazingly good — a step level change in actual intelligence. Then marrying that against a really good use case that actually changes developers' fundamental creative process."
+> "We do not want Copilot auto generating code where a thinking, reasoning, breathing human being is not on the other side of that keyboard." — Ryan J. Salva
 
-> "We want Copilot to augment. The idea here is really that AI is an enabler for developers to focus on the creative work, to stay in the flow, to be able to move faster."
+> "The criteria for moving researchers back into their R&D team can't be based on a calendar. It needs to be based on replacement in seat." — Ryan J. Salva
 
-> "I was born at the turn of the 21st century, and so I work in engineering. If I'd been born in the 1700s, I probably would've been the guy making new colors of paint and paint brushes."
+> "We want AI to augment. The idea is that AI is an enabler for developers to focus on the creative work, to stay in the flow." — Ryan J. Salva
 
-## Sources
-- [[ryan-j-salva]] — "The role of AI in new product development" (2022-09-04)
+## Actionable Advice
 
-## See Also
-- [[developer-experience]]
-- [[ai-training-data]]
-- [[prompt-crafting]]
+- Ring-fence a small team (5–10% of capacity) for genuinely uncertain exploratory bets, fully separated from operational product teams
+- When transitioning research projects to product, bring a subset of researchers into the EPD squad temporarily — don't just "hand off" the knowledge
+- Only transition researchers back when domain knowledge has fully transferred — never on a calendar deadline
+- Give the product team full ownership of the roadmap; don't outsource innovation exclusively to R&D
+- Teach engineers about engineering fundamentals through cultural change management, not mandates
+- Frame AI products around a strong "use case persona" — the framing helps guide ethical and content decisions
+- Expect healthy skepticism from your user community; welcome it as a forcing function for quality
+
+## Related Pages
+
+- [[concepts/developer-experience]]
+- [[concepts/ai-training-data]]
+- [[concepts/ai-evals]]
+- [[topics/ai-products]]
+- [[topics/incubation-and-r-and-d]]

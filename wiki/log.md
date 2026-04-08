@@ -545,3 +545,12 @@
 - Created: 10 guest pages, concepts/asking-for-help, concepts/data-flywheel, concepts/marketplaces, frameworks/candidate-market-fit, frameworks/five-pm-archetypes, frameworks/founder-led-sales, frameworks/grow-model, frameworks/job-search-council, frameworks/nonviolent-communication, frameworks/pathless-path-framework, frameworks/pm-wheel, frameworks/product-market-fit-engine, frameworks/product-strategy-stack
 - Updated: concepts/burnout (rachel-lockett), concepts/pricing-strategy (rahul-vohra), concepts/word-of-mouth (rahul-vohra)
 - Topic tags: life-design/creator (paul-millerd), founder-led-sales/gtm (pete-kazanjy), ai-products/hiring/archetypes (peter-deng), pm-coaching/competency (petra-wille), job-search/peer-learning (phyl-terry), pmf/b2b-marketing (raaz-herzberg), coaching/burnout (rachel-lockett), pmf-engine/game-design (rahul-vohra), marketplace-dynamics (ramesh-johari), product-strategy/coaching (ravi-mehta)
+
+## [2026-04-08] ingest | Batch 13 partial (continuous) — ray-cao through sachin-monga (2 parallel agents, hit rate limit)
+
+- Processed: ray-cao, richard-rumelt, robby-stein, roger-martin, ronny-kohavi, ryan-hoover, ryan-j-salva, ryan-singer, sachin-monga (9 episodes — sahil-mansuri not reached due to rate limit)
+- Skipped: none
+- Note: ray-cao and ryan-hoover transcripts have mislabeled raw frontmatter (wrong episode titles) — agent extracted correct content from transcript body
+- Created: 9 guest pages
+- Updated: wiki/frameworks/shape-up.md (merged ryan-singer's real-world extensions)
+- Topic tags: monetization/advertising/tiktok (ray-cao), strategy/diagnosis (richard-rumelt), ai-search/google (robby-stein), strategy/playing-to-win (roger-martin), a-b-testing/experimentation (ronny-kohavi), consumer/product-hunt (ryan-hoover), ai-products/github-copilot (ryan-j-salva), shape-up/product-process (ryan-singer), creator-economy/substack (sachin-monga)

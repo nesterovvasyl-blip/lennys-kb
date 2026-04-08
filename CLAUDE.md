@@ -142,11 +142,11 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**216 / 303 episodes ingested** (last updated: 2026-04-08)
+**225 / 303 episodes ingested** (last updated: 2026-04-08)
 
 Full list: `wiki/ingested.md`
 
-Next batch starts at: **ray-cao** (alphabetically after ravi-mehta)
+Next batch starts at: **sahil-mansuri** (alphabetically after sachin-monga; batch 13 hit rate limit before reaching this episode)
 
 ## Commands
 

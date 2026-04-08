@@ -1,115 +1,99 @@
 ---
 guest: Richard Rumelt
-role: Professor Emeritus, UCLA Anderson School of Management; Strategy Consultant
+role: Professor Emeritus, UCLA Anderson School of Management; Author of Good Strategy Bad Strategy and The Crux
 episode: "Good Strategy, Bad Strategy | Richard Rumelt"
 date: 2024-01-21
-topics: [strategy, leadership, startups, organizational-dynamics, decision-making]
+topics: [strategy, leadership, competitive-advantage, organizational-dynamics, startups]
 ---
 
 # Richard Rumelt
 
-> Richard Rumelt is the author of Good Strategy/Bad Strategy and The Crux, and is widely regarded as one of the world's foremost authorities on strategy.
+> The foremost academic practitioner of business strategy, whose work on "good strategy vs. bad strategy" and the kernel model has influenced how a generation of leaders think about competitive advantage.
 
-## Content
+## Bio
 
-Richard Rumelt is professor emeritus at UCLA Anderson School of Management and was previously on the faculty at Harvard Business School. He has consulted on strategy with Apple, Microsoft, Intel, the U.S. Army Special Operations Command, and the U.S. Department of Defense. His book *Good Strategy/Bad Strategy* is one of the most-gifted strategy books among Lenny's podcast guests.
+Richard Rumelt is professor emeritus at UCLA Anderson School of Management, previously on the faculty of Harvard Business School, and is widely considered one of the world's leading strategy thinkers. He is the author of *Good Strategy Bad Strategy* (2011) and *The Crux: How Leaders Become Strategists* (2022). He has consulted on strategy with Apple, Microsoft, Intel, the U.S. Army Special Operations Command, and Don Rumsfeld's Department of Defense.
 
-### What Strategy Actually Is
+## Key Ideas
 
-Rumelt's foundational definition: strategy is a design for overcoming a high-stakes challenge. It combines policy and action to deal with something — whether an opportunity or a threat. The word itself comes from the Greek "Strategos," the ten elected strategic leaders of Athens who dealt with the pressing issues of the day.
+### Strategy Is Problem Solving
 
-Strategy is always about a challenge or a problem. Not a vision statement, not a set of ambitions — a specific problem you are trying to solve.
+Rumelt's central thesis: strategy is always about dealing with a challenge — never about stating aspirations or listing goals. The word "strategy" comes from the Greek *Strategos*, referring to elected Athenian leaders who dealt with day-to-day challenges (invasions, plagues, finances). A strategy is a design for overcoming a high-stakes challenge.
 
-### The Kernel of Good Strategy
+Good strategy = understanding the situation + a coherent response. Bad strategy = goals dressed up as strategy, "word salad," or incoherent actions.
 
-Rumelt's three-part "kernel" of good strategy:
+### The Kernel: Three Essential Elements
 
-1. **Diagnosis** — A deep understanding of the situation you face. Not just "we're not growing fast enough" (that's a statement of desired value), but *why* you're not growing and what specifically is holding you back. Diagnosis is a hypothesis about the nature of reality that guides where to pay attention.
+Every good strategy must have all three components:
 
-2. **Guiding Policy** — How you're going to deal with the challenge. Not a list of goals or priorities — a focused stance. "Our policy is we're going to embrace our enterprise customers and serve them better than anyone else," as Gerstner did at IBM. The guiding policy sets direction without specifying every action.
+1. **Diagnosis**: An understanding of the challenge — not just "we want to grow" but *why* growth is hard, what is actually holding you back. Diagnosis requires deciding what to pay attention to and forming a hypothesis about how things connect.
 
-3. **Coherent Actions** — Concrete things you are going to do that implement the guiding policy and address the diagnosis. They must be coherent in two ways: they have to address the diagnosis and guiding policy, and they must not fight each other. "We're going to burn less oil and import more oil" is an example of incoherent action.
+2. **Guiding policy**: The core directional choice — how are we going to deal with this situation? This is NOT a laundry list of 17 priorities (a company Rumelt consulted for once had 17 "priorities" — the opposite of a guiding policy). It's a focused direction.
 
-If any of the three is missing, you don't have a strategy — you have something else.
+3. **Coherent actions**: What you actually do. Actions must be coherent with each other (not self-contradictory) and must flow from the guiding policy. Companies routinely commit to "grow AND increase profit margin simultaneously" — which Rumelt calls "baby talk" because the two objectives often conflict.
 
-### Bad Strategy: The Most Common Mistakes
+If any of the three elements is missing, it's not actually a strategy.
 
-The most common bad strategy is **mistaking goals for strategy**. "We're going to grow 20% and improve profitability" is not a strategy — it's a set of ambitions. Strategy is the *how*, not just the *what*.
+### Bad Strategy: The Four Symptoms
 
-Other hallmarks of bad strategy:
-- **Fluff**: word salad that sounds strategic but says nothing actionable
-- **Missing diagnosis**: jumping from "there's a problem" to "therefore we should do X" without explaining *why* the problem exists
-- **Incoherent actions**: strategic goals that contradict each other (e.g., simultaneously growing revenue and return on equity without explaining how)
-- **17 priorities**: a laundry list of everything you wish would happen is not strategy; the word "priority" literally means *the first*
+1. **Missing diagnosis** — stating what you want without explaining what's in the way
+2. **Goals as strategy** — a list of performance targets is not a strategy
+3. **Fluff** — abstract word salad that sounds strategic but says nothing
+4. **Incoherent actions** — things that fight each other or don't connect to the diagnosis
 
-### Power: The Source of Strategic Advantage
+### Power and Focus
 
-For a strategy to work, it needs a source of power — an asymmetry between you and your competitors. Without power, you're betting on 50/50 odds. Rumelt's types of power include:
-- Asymmetric knowledge or skills
-- Reputation (though it can also become a constraint)
-- Customer relationships
-- Network effects (especially relevant today)
-- Scale advantages in data (Google's search improvement flywheel)
+A strategy works when you focus power on a target that can actually be affected. Rumelt's magnifying glass metaphor: a magnifying glass focuses the sun's rays on a black thread — the power source (sun), the focus (lens), and the susceptible target (black thread) are all necessary. Diffusing effort across too many targets destroys the power of any advantage.
 
-The most important sources of power today in tech are **network effects** and **data-driven feedback loops** — the bigger the user base, the better the product, the harder the position to attack.
+Sources of power include: asymmetry (doing something rivals can't), reputation, relationships, patents, network effects, data advantages, first-mover position. Power is inherently temporary and must be maintained against inertia and entropy.
 
-### The Crux: Focus on the Hardest Part
+### The Crux: Find the Hardest Solvable Problem
 
-The concept behind his newer book *The Crux* (named for the hardest move in a rock climb): great strategists focus on the hardest part of the problem. When you focus deeply on what makes the problem difficult, insight tends to emerge.
+From his later book *The Crux*, Rumelt refines the kernel model: a great strategy focuses specifically on the **crux** — the hardest part of the challenge that, if solved, makes everything else achievable. Like in rock climbing, if you can't handle the crux, don't attempt the climb.
 
-Examples:
-- I.M. Pei designing the Louvre pyramid: build in glass so it doesn't obscure the palace
-- Elon Musk on reusable rockets: "Why not just land it on its rocket engine?"
-- Darwin's insight on evolution arriving as he stepped off a carriage
+Strategy = identifying which challenges are both important AND addressable, then focusing all coherent action there.
 
-Insight isn't magical — it comes from **immersing yourself in the nature of the problem**. Rumelt recommends the "action agenda" framing over "strategy": state the problem clearly, then specify the concrete actions you're going to take to address it.
+### Action Agenda, Not Strategy
 
-### Organizational Dynamics as the Biggest Barrier
+Rumelt's most practical advice: stop calling it a "strategy" and call it an **action agenda**. "What are we going to do about this problem?" strips away the mystique and forces concreteness. The steps:
+1. Accept all ambitions on the table
+2. Filter to challenges that are both important AND addressable
+3. Define specific actions (not goals) to address those challenges
 
-The hardest part of strategy in organizations is not intellectual — it's political. Organizations have people with different interests, different private agendas, and different sources of power. Making strategic choices means someone's agenda gets deprioritized.
+### Organizational Politics as the Real Enemy
 
-CEOs and leaders are increasingly hesitant to make decisive choices. Rumelt traces this to the rise of "transformational leadership" literature that suggests the right leader just needs to perfect themselves and people will follow — without ever having to say "we're doing this, not that."
+The biggest obstacle to good strategy inside organizations is not analysis — it's the diversity of interests. Senior executives know the company's challenges, but their personal positions of power make focused action threatening. Someone who's been "the alpha" may lose status if strategy goes a different direction. CEOs increasingly hesitate to make clear choices, partly because modern leadership culture (with its focus on "vision" and "transformation") makes decisiveness feel impolitic.
 
-His blunt take: someone has to decide. Strategy requires hierarchy and a decider. The longer organizations avoid hard choices out of fear of conflict, the more their strategy becomes a list of everything everyone wants.
+The solution: someone in the organization has to be the decider. A foundry process (Rumelt's consulting format) — two to three days of intense focused discussion with the senior team — surfaces the 25-50 challenges, then filters to the one or two that are truly important and addressable.
 
-### For Startups: The Search Process
+### History as Strategic Thinking Training
 
-For pre-PMF founders, Rumelt frames the early stages as a bet. You're betting there are customers who want something you can provide. Research on startups shows that most initial product-market hypotheses fail. The ones that survive **switch** — adjusting their target customer, their product, or their positioning until something starts to click.
+Rumelt believes the best training for strategic thinking is reading history and biographies — not business school theory. Historical cases provide analogies when facing unprecedented situations. Strategy isn't physics; you can't derive it from equations. You have to develop intuition through exposure to many different situations across time.
 
-The metaphor: like a truffle hound, searching. Great founders are of two minds simultaneously: committed enough to execute hard, but honest enough to shift when the evidence says to.
+## Key Quotes
 
-### Betterment Over Perfection
+> "Don't call it a strategy, call it an action agenda. Begin to try to identify the one or two key challenges that can actually be addressed and what are we going to do about it?" — Richard Rumelt
 
-Rather than seeking the perfect strategy, Rumelt recommends focusing on the most painful gap you face — the gap between outcomes you're getting and outcomes you want — and making one set of choices to close it. Then repeat. This "betterment" orientation compounds over time better than seeking grand strategy breakthroughs.
+> "Bad strategy is a document or a set of intentions or a set of verbalizations where it's not a strategy. There's no diagnosis." — Richard Rumelt
 
-A professor who won "teacher of the year" at UCLA every year for 25 years used exactly this approach: he polled students on every session and simply replaced the lowest-rated session each year. No revolution, just relentless betterment.
+> "Focus is the fundamental source of power in strategy. Trying to do too many different things is defocusing." — Richard Rumelt
 
-### Actionable Advice
-- Call your strategy an "action agenda" — what are the concrete things we're going to do?
-- Start with diagnosis: what specifically makes this problem hard?
-- Reduce to a few (not 17) coherent, focused actions
-- Identify your source of power — the asymmetry that makes your bet better than 50/50
-- Use history and biography to practice strategic thinking; there is no "natural strategist," only practiced ones
-- Resist the pressure to add things to your strategy — "each time you say yes, you risk turning a nascent good strategy into a bad strategy"
+> "Strategy's not mysterious. It's about solving the most important problem you're facing that you actually can do something about." — Richard Rumelt
 
-### Notable Quotes
-> "Strategy is a design for overcoming a high-stakes challenge."
+> "He who forecasts the future lies, even if he tells the truth." (Arab saying Rumelt endorses)
 
-> "Don't call it a strategy, call it an action agenda. What are we going to do about this problem?"
+## Actionable Advice
 
-> "Lacking diagnosis is one of the key reasons for bad strategy."
+- **State the problem before anything else** — if you can't articulate what's making your situation hard, you can't have a strategy.
+- **Call it an action agenda, not a strategy** — this forces you to focus on concrete actions over aspirational declarations.
+- **Limit coherent actions to a few** — not 17 priorities. Focus is power. Every yes risks turning a nascent good strategy into a bad one.
+- **Push past the first diagnosis** — ask "is there a bigger piece of wood I can grab?" before committing to your initial framing of the problem.
+- **Immerse in history** — read biographies of business leaders and study historical business situations to build strategic intuition.
+- **For startups**: be of two minds — commit fully to your current direction while staying genuinely ready to pivot when reality changes.
 
-> "Focus is the fundamental source of power in strategy. The magnifying glass focuses the sun's rays."
+## Related Pages
 
-> "Strategy's not mysterious. It's about solving the most important problem you're facing that you can actually do something about."
-
-> "I have never met this mythical beast called a great natural strategist. Great strategists have all one thing in common — they just practice."
-
-## Sources
-- [[richard-rumelt]] — "Good Strategy, Bad Strategy | Richard Rumelt"
-
-## See Also
-- [[playing-to-win-strategy]]
-- [[good-strategy-bad-strategy-kernel]]
-- [[strategy-choice-cascade]]
-- [[7-powers]]
+- [[frameworks/playing-to-win-strategy]]
+- [[frameworks/7-powers]]
+- [[concepts/competitive-advantage]]
+- [[concepts/network-effects]]

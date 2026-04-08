@@ -1,103 +1,106 @@
 ---
 guest: Roger Martin
-role: Professor Emeritus, Rotman School of Management; Strategy Advisor
+role: Professor Emeritus, Rotman School of Management; Author of Playing to Win; Strategy Advisor
 episode: "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)"
 date: 2024-07-25
-topics: [strategy, competitive-advantage, product-strategy, leadership, decision-making]
+topics: [strategy, competitive-advantage, playing-to-win, differentiation, low-cost, capabilities, management-systems]
 ---
 
 # Roger Martin
 
-> Roger Martin is the author of Playing to Win, the world's #1 ranked management thinker (Thinkers50, 2017), and one of the most influential strategy advisors of his generation.
+> The author of *Playing to Win* and one of the world's most trusted strategy advisors, whose "Strategy Choice Cascade" provides the most operational framework for building a winning strategy.
 
-## Content
+## Bio
 
-Roger Martin served as dean of the Rotman School of Management at the University of Toronto for 15 years and was named Global Dean of the Year in 2013. He spent 40+ years in strategy consulting and wrote *Playing to Win* with A.G. Lafley (former P&G CEO), which many product leaders consider the definitive practical strategy book. He is a significant critic of the academic strategy establishment and of how strategy is typically taught in business schools.
+Roger Martin is professor emeritus at the Rotman School of Management at the University of Toronto, where he served as dean for 15 years. Named Global Dean of the Year in 2013 and the world's #1 management thinker by Thinkers50 in 2017. He is co-author (with A.G. Lafley) of *Playing to Win: How Strategy Really Works* and has written extensively for Harvard Business Review. He has consulted for Procter & Gamble, Lego, Four Seasons, and many others over 42 years.
 
-### Why Strategy Is Hard
+## Key Ideas
 
-Roger identifies three reasons people struggle with strategy:
+### Strategy Is Compelling Desired Customer Action
 
-1. **Intellectual complexity** — Strategy is integrative. You're not answering one question, you're answering a set of questions that must fit together and reinforce each other.
-2. **Emotional difficulty** — Strategy requires making explicit choices to *not* do things, and people find it emotionally intimidating to commit and be held accountable.
-3. **Bad education** — Most business schools have abandoned useful strategy in favor of "resource-based view of the firm" theory, which Roger considers academically captured and practically useless. He literally could not teach his own approach at his own school while dean.
+Roger's definition: **Strategy is an integrated set of choices that compels desired customer action.** The key insight is that companies control many things (factories, R&D spend, advertising, headcount) but cannot control whether a customer reaches into their pocket and pays. Strategy is the set of choices on the controllable side that will cause that uncontrollable customer action to happen.
 
-### Roger's Definition of Strategy
+This customer-centric definition distinguishes Roger's approach: if you can't describe how your choices will cause a customer to choose you, you don't have a strategy — you have ambitions.
 
-Strategy is an **integrated set of choices that compels desired customer action**. Everything you control — factories, R&D, advertising, hiring — must combine in ways that cause customers to choose you over alternatives or non-consumption. The output is always customer action, never internal metrics.
+### The Strategy Choice Cascade: Five Questions
 
-### The Strategy Choice Cascade
+Roger's operational framework, developed between 1987 and 1995, for creating a winning strategy:
 
-Roger's famous five-question framework, developed over eight years of consulting (1987–1995):
+1. **What is our winning aspiration?** — Not just a mission statement, but what does "winning" look like in customer terms? (Not "grow revenue" — that's an internal goal. "Make this customer's life materially better in this specific way.")
 
-1. **Winning Aspiration** — What are you trying to accomplish? Frame it in terms of customer benefit, not internal growth goals. "We want our customers who love Figma to also have the best team collaboration tool" is stronger than "we want to expand our addressable market."
+2. **Where will we play?** — Which customers? Which geographies? Which value chain stage? (Being a hotel management company vs. hotel owner vs. hotel developer are three different "where to play" choices — as Four Seasons learned when it exited real estate and construction to focus purely on hotel management.)
 
-2. **Where to Play** — What specific territory are you competing in? This includes:
-   - Which customers (specific segments, not everyone)
-   - Which geographies
-   - What distribution channels
-   - What position in the value chain (finished product vs. component vs. platform)
+3. **How will we win?** — Being either **differentiated** (customers say "I want that brand specifically") or **lowest cost** (competitors can't match your price). There is no third option. Playing in the middle makes you permanently vulnerable.
 
-3. **How to Win** — There are only two options: be **differentiated** (customers want you specifically, not a coin-flip between you and competitors) or be the **cost leader** (lowest cost structure in your territory, which requires dominant scale). Playing to play — being mediocre at neither — is a slow death. Competitors who are truly differentiated or cost-leading can bully you out of your market at will.
+4. **What capabilities must we have?** — The specific activities you must be excellent at that your competitors don't have equal access to. Four Seasons needed an HR/training system that produced 10% annual employee turnover instead of the industry average of 80%.
 
-4. **Capabilities** — What must you be great at that competitors aren't? Capabilities must be hard to replicate. Westlaw's 100-year head start of having lawyers write head-notes for every U.S. legal case = 1,500 full-time lawyers' worth of accumulated capability that no competitor would rationally build. Four Seasons' hiring, training, and retention model produces 10% annual turnover vs. industry standard of 80%.
+5. **What management systems are required?** — The systems that build and maintain those capabilities over time. The moat isn't just having capabilities — it's the management system that makes them hard to replicate.
 
-5. **Management Systems** — What systems, processes, and measures maintain and develop your capabilities? This is both what *builds* your moat and what *maintains* it. Multifaceted, mutually reinforcing systems are what prevent competitors from simply copying your strategy.
+The five questions must be answered as an integrated whole — they cascade from aspiration down to management systems. Changing one requires revisiting all others.
 
-All five questions must be answered *together* — each choice constrains and enables the others. Changing "where to play" necessarily changes "how to win" and therefore the required capabilities and systems.
+### You Must Play to Win, Not Play to Play
 
-### Playing to Win vs. Playing to Play
+The signs you're "playing to play" rather than "playing to win":
+- Customers treat your brand and competitors as interchangeable (coin flip)
+- Competitors can match your price and you have no structural cost advantage
+- You can't articulate a capability that your competitors genuinely can't replicate
 
-Signs you're playing to play (not to win):
-- Customers flip a coin between you and your competitor (no differentiation)
-- When a competitor lowers their price, you can't match it without losing money (you're not the cost leader)
-- Your market share drifts down whenever a focused competitor enters your segment
+Playing to play means you will eventually be bullied by whoever is actually playing to win. Southwest, Vanguard, Procter & Gamble, Lego — these companies cannot be bullied because they genuinely own either the low-cost or differentiated position.
 
-Playing to win means either customers want *you specifically* (Lego — kids say a toy store without Lego is not a toy store) or you have the lowest cost position (Vanguard with index funds, Southwest with airlines).
+### Differentiation vs. Low Cost: Both Are Hard
 
-### Counter-Positioning and Making Competitors Reluctant to Follow
+Counter to the conventional wisdom that "don't compete on price," Roger argues both differentiation and low cost are legitimate winning strategies — but:
 
-The strongest competitive positions are ones where the dominant player *won't* replicate you, not just *can't*. Roger's example: Olay/Oil of Olay at P&G could have been killed by Estée Lauder bringing Clinique into mass-market channels. They didn't, because doing so would have cannibalized their entire prestige distribution strategy. This "fault line" made Olay's position safe.
+- **Low cost** almost always requires dominant scale in your category. You cannot be a niche low-cost provider. You must be the biggest to sustain the lowest costs. (Vanguard had to get enormous to sustain their cost position. Southwest had to keep expanding routes.)
+- **Differentiation** requires capabilities that are genuinely hard to replicate. Saying "we're better" is not differentiation unless customers are willing to pay more and your competitors can't easily match you.
 
-Similarly, Southwest's model requires: selling off all non-737 aircraft, dismantling hub-and-spoke routing, shifting labor relations, eliminating travel agents, and convincing customers to book online. Any incumbent replicating this destroys their existing business. So they don't.
+The strategic implication: choose one path and pursue it with conviction. The "stuck in the middle" companies — trying to be both — are the ones who get destroyed.
+
+### Capabilities and Management Systems Are the Moat
+
+Most people use "moat" as shorthand for competitive advantage. Roger's deeper insight: **capabilities and management systems are what build and maintain the moat**. A simple single-source advantage (the biggest polyethylene plant in the world) will be replicated as soon as rivals see how profitable it is. A complex system of capabilities and management practices — like Four Seasons' hiring, training, and career development system that produces 10% turnover instead of 80% — is almost impossible to replicate because it requires dismantling your entire existing system first.
+
+This is also why counter-positioning works: Estée Lauder couldn't take Clinique mass-market even though that would have destroyed Olay/Procter & Gamble, because doing so would have destroyed all their existing prestige channel relationships.
 
 ### Betterment Over Perfection
 
-Roger's practical advice for people who feel overwhelmed by strategy: don't try to achieve perfect strategy. Instead, identify your most painful gap (the delta between current outcomes and desired outcomes), make a different set of choices to close it, then repeat.
+Roger's most tactical advice for overwhelmed strategists: forget trying to have a perfect strategy. Instead, find **the single most painful gap** between your current outcomes and your desired outcomes, and make one set of choices to close that gap. Then find the next gap. This "betterment" approach produces continuous compounding improvement rather than paralysis chasing the perfect strategy.
 
-The teacher who wins "Professor of the Year" most: polls students on every session, replaces the lowest-ranked session each year. No grand redesigns. Just relentless betterment. After 25 years, the course is extraordinary.
+A professor of the year used this exact approach: 13 course sessions per year, poll students after each, drop the single lowest-rated session each year and replace it with something new. Over 25 years, the course became exceptional.
 
-Applied to strategy: "What is the single most painful gap I'm currently facing? What different choices could I make around where to play, how to win, capabilities, or management systems to close it?"
+### Why Strategy Is Hard (Three Reasons)
 
-### Water Finds Its Level
+1. **Intellectually hard** — it's integrative; all choices must fit together and reinforce each other
+2. **Emotionally hard** — strategy requires cutting off options, being accountable for specific choices, and potentially losing existing power structures
+3. **Training failure** — business schools have largely abandoned practical strategy for the "resource-based view of the firm," a theory Roger considers useless in practice that has almost no practitioners but controls academic hiring
 
-On Google's AI dilemma (and incumbents facing disruption generally): "Water finds its way to flow. You can't hold back the tide." Vanguard's Jack Bogle didn't like ETFs, thought they were worse than mutual funds for customers, but ultimately had to follow when customer demand was clear. Companies that try to hold back customer-driven tides via their market power always eventually lose.
+## Key Quotes
 
-Roger's measure of Microsoft's decline: not PC operating system share (still high) but *share of minutes spent staring at smart screens* — where smartphones and tablets have obliterated Windows. The customers won.
+> "Strategy is an integrated set of choices that compels desired customer action." — Roger Martin
 
-### Actionable Advice
-- Frame your strategy as "winning aspiration → where to play → how to win → capabilities → management systems" — all five must fit together
-- Your differentiation strategy must make customers say "I want *that* brand" — if it's a coin flip, you're not differentiated
-- Capabilities that take 100+ years to build (Westlaw) or require transforming your entire business model (Southwest) are sustainable moats
-- State the most painful problem you're currently facing, then work on betterment toward closing that gap
-- Never try to compete with a fully differentiated or cost-leading competitor at their own game — find a different where to play
+> "You have to be either differentiated or low cost. There's no way to protect yourself if you're not one of those two." — Roger Martin
 
-### Notable Quotes
-> "Strategy is an integrated set of choices that compels desired customer action."
+> "The ultimate way to compete to win is to never actually be forced to compete." — Roger Martin (on Southwest Airlines)
 
-> "I have never met this mythical beast called a great natural strategist. Great strategists have all one thing in common — they just practice."
+> "I have never met this mythical beast called a great natural strategist. Great strategists have all one thing in common — they just practice." — Roger Martin
 
-> "You have to be either differentiated or low cost. There's no way to protect yourself if you're not one of those two."
+> "Water finds a way to flow. You cannot stop that, even if you're one of the most powerful three firms on the face of the planet." — Roger Martin (on technology transitions)
 
-> "The ultimate way to compete to win is to never actually be forced to compete."
+> "Betterment is making that gap go away. And guess what happens? You can turn your attention to the next gap." — Roger Martin
 
-> "Water finds its own level. You can't hold back the tide. Even if you're one of the most powerful three firms on the face of the planet."
+## Actionable Advice
 
-## Sources
-- [[roger-martin]] — "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)"
+- **Frame strategy in customer terms** — "satisfy customers who want X" is stronger than "enter market Y" as your winning aspiration.
+- **Answer all five questions together** — partial strategies (only vision and goals, no capabilities or management systems) don't work.
+- **Choose differentiation or low cost — commit** — the middle is the most dangerous position strategically.
+- **Design capabilities that discourage imitation** — the more multifaceted and expensive-to-replicate your capability system, the stronger the moat.
+- **Use betterment if overwhelmed** — identify the single most painful gap, make it go away, then find the next gap.
+- **Practice strategy constantly** — it is a learnable skill that improves with deliberate practice, not a talent you're born with.
 
-## See Also
-- [[playing-to-win-strategy]]
-- [[strategy-choice-cascade]]
-- [[7-powers]]
-- [[richard-rumelt]]
+## Related Pages
+
+- [[frameworks/playing-to-win-strategy]]
+- [[frameworks/7-powers]]
+- [[guests/richard-rumelt]]
+- [[concepts/competitive-advantage]]
+- [[concepts/network-effects]]
