@@ -537,3 +537,11 @@
 - Created: 10 guest pages, concepts/word-of-mouth, concepts/forest-time, concepts/sharp-problem, concepts/tactical-retention, frameworks/indistractable-framework, frameworks/hooked-model, frameworks/complaint-storm, frameworks/differentiation-table-stakes, frameworks/workflow-quadrant
 - Updated: concepts/viral-growth-loop (nikita-bier), concepts/product-led-growth (noah-weiss), concepts/freemium-subscription (patrick-campbell), concepts/jobs-to-be-done (paul-adams), concepts/pricing-strategy (nilan-peiris)
 - Topic tags: consumer-viral-apps (nikita-bier), team-alignment/pm-career (nikita-miller), word-of-mouth/fintech (nilan-peiris), focus/habits (nir-eyal), pm-traits/enterprise-saas (noah-weiss), turnarounds/0-to-1 (noam-lovinsky), sharp-problems/virality (oji-udezue), coaching/skeptic-management (paige-costello), pricing/bootstrapping/retention (patrick-campbell), ai-strategy/jtbd (paul-adams)
+
+## [2026-04-08] ingest | Batch 12 (continuous) — paul-millerd through ravi-mehta (2 parallel agents)
+
+- Processed: paul-millerd, pete-kazanjy, peter-deng, petra-wille, phyl-terry, raaz-herzberg, rachel-lockett, rahul-vohra, ramesh-johari, ravi-mehta (10 episodes)
+- Skipped: none
+- Created: 10 guest pages, concepts/asking-for-help, concepts/data-flywheel, concepts/marketplaces, frameworks/candidate-market-fit, frameworks/five-pm-archetypes, frameworks/founder-led-sales, frameworks/grow-model, frameworks/job-search-council, frameworks/nonviolent-communication, frameworks/pathless-path-framework, frameworks/pm-wheel, frameworks/product-market-fit-engine, frameworks/product-strategy-stack
+- Updated: concepts/burnout (rachel-lockett), concepts/pricing-strategy (rahul-vohra), concepts/word-of-mouth (rahul-vohra)
+- Topic tags: life-design/creator (paul-millerd), founder-led-sales/gtm (pete-kazanjy), ai-products/hiring/archetypes (peter-deng), pm-coaching/competency (petra-wille), job-search/peer-learning (phyl-terry), pmf/b2b-marketing (raaz-herzberg), coaching/burnout (rachel-lockett), pmf-engine/game-design (rahul-vohra), marketplace-dynamics (ramesh-johari), product-strategy/coaching (ravi-mehta)

@@ -2,62 +2,45 @@
 framework: Five PM Archetypes
 created_by: Peter Deng
 guests: [peter-deng]
-topics: [product-management, hiring, team-building]
+date_added: 2026-04-08
 ---
 
 # Five PM Archetypes
 
-> A framework developed at Uber identifying five fundamentally different types of product managers — each wired to lead with a different kind of thinking — used for hiring and team composition decisions.
+> A framework for understanding that product managers are not a monotype — five distinct archetypes with different primary strengths, motivations, and instincts — useful for team composition and career self-awareness.
 
 ## Overview
 
-Peter Deng developed this framework informally with colleagues at Uber as a tool for hiring and team building. It has held up across his subsequent stints at Airtable, OpenAI, Instagram, and Felicis. The core insight: "product manager" is a single job title that encompasses at least five fundamentally different cognitive orientations. The most effective product teams contain multiple archetypes in healthy tension. Hiring only for one type creates a monoculture.
+Developed by Peter Deng and colleagues in a brainstorm session at Uber to improve hiring decisions. Peter has applied and validated it across every subsequent company (Instagram, Airtable, OpenAI) and now uses it in his investing practice at Felicis to assess founder-market fit.
 
-Each person has a **primary archetype** (dominant orientation) and a **secondary archetype** (counterbalancing tendency). This prevents pigeonholing and acknowledges that great product people typically lead with one lens while maintaining depth in another.
+The central insight: when people hear "PM," they often think of one archetype (usually consumer/craft) and optimize hiring toward it. But the most effective product teams require multiple archetypes with healthy tension between them — especially between Consumer and Growth PMs. Everyone has a primary archetype and a secondary one.
 
 ## Components / Steps
 
-**1. Consumer PM**
-Half designer, half product person. Leads with vibe, aesthetic, and craft. "Is it delightful? This is three pixels off. This complexity is wrong. I can feel that this is better." They are the quality conscience of the team — obsessed with the details that make products feel right. Sometimes criticized as "the criticism PM," but the best Consumer PMs channel their taste into decisive direction rather than just critique.
+**The Five Archetypes:**
 
-*Works best in*: consumer products, high-craft B2C, design-led companies.
+1. **Consumer PM** — Half designer, half product person. Obsessed with delight, craft, and details. "Three pixels off drives me nuts. This interaction is not right." They feel the vibe; they trust their taste. This is the "criticism PM" — they notice what's wrong before they notice what's right.
 
-**2. Growth PM**
-Half data scientist, half product person. Leads with measurement and skepticism. "Show me the data. I don't believe you. Let's run a test and prove it before we commit." These people are wired to instrument, experiment, and drive metrics. They are the antidote to vibe-based decision-making.
+2. **Growth PM** — Half data scientist, half product person. Starts with skepticism: "Show me the data. Let's run a test and prove it." Wired to find bottlenecks, run experiments, and move metrics. Natural counterweight to the consumer PM.
 
-*Works best in*: growth teams, monetization, large-scale A/B testing environments.
+3. **GM/Business PM** — Half MBA, half product person. Thinks first about business models, margins, incentives, and value creation. Great marketplace PMs often have this wiring. They ask "what are the incentives here?" when others ask "what's the UX?"
 
-*Healthy tension*: A Consumer PM and a Growth PM in a room will push each other productively — "I feel that this is better" vs. "prove it."
+4. **Platform PM** — Deeply wired to build tools for other people. Often overlooked, but they build the systems (internal platforms, shared services, integrations) that allow everything else to scale. Their satisfaction comes from enabling others.
 
-**3. GM/Business PM**
-Half MBA, half product person. Leads with business model and incentives. "What are the margins? Where's the value being created? What's the incentive structure?" These people think in terms of unit economics and marketplace dynamics. Common as marketplace PMs at companies like Uber, Airbnb, or DoorDash.
+5. **Research/AI PM** — Half researcher, half engineer, half product person. Deep understanding of the technical layer (algorithms, models, data pipelines) combined with product taste. Previously called "algorithms PM" — now essential in AI-native companies.
 
-*Works best in*: marketplace products, monetization, B2B SaaS economics.
+## Application
 
-**4. Platform PM**
-Deeply wired to build tools and infrastructure for other people, rather than end-user experiences. These PMs love building systems that enable others to go faster — internal platforms, developer tools, APIs. Often overlooked but essential for scaling, because they're the ones who design the systems that compound into velocity.
+**Team building:** An effective product team has Consumer + Growth PMs in creative tension. Consumer PMs push for craft; Growth PMs push for measurement. The debate between them produces better outcomes than either would alone. Add Business, Platform, and Research PMs as the product and organization matures.
 
-*Works best in*: platform engineering, developer products, internal tooling.
+**Self-awareness:** Identify your primary and secondary archetypes. This helps you recognize what contexts you'll thrive in (a consumer PM in a boring regulated industry may be miserable) and what blind spots to compensate for.
 
-**5. Research/AI PM** (formerly Algorithms PM)
-Half researcher, half engineer, half product person. These PMs have product taste but deeply understand the underlying technology — models, algorithms, how systems are trained. They can influence the "brain" of the product, not just the UI on top. In the AI era, this is the PM who can work closely with ML researchers and post-training teams to shape model behavior toward product goals.
+**Hiring:** When interviewing, ask which archetype the candidate leads with. Have they ever shipped a 10x consumer experience? Do they obsess over data? Can they describe a system they built for others? The primary type tells you what they'll naturally gravitate toward; the secondary tells you where they can flex.
 
-*Works best in*: AI products, search/ranking systems, recommendation engines, foundational model companies.
+**Investor lens (Peter's usage):** Assess founder-market fit through archetypes. A growth PM founder in a marketplace business may be a great fit; a consumer PM founder at an enterprise data platform may struggle.
 
-## How to Apply
-
-**For team composition**: Audit your team's archetypes. If everyone is a Consumer PM, you lack rigorous measurement discipline. If everyone is a Growth PM, you may lose product taste over time. Actively hire to create coverage across all five types.
-
-**For hiring**: When assessing a candidate, identify their primary and secondary archetypes — does their type match what the role actually needs? A Consumer PM hired to build a heavily regulated B2B platform is likely to be frustrated and underperform, not because they're a bad PM but because the fit is wrong.
-
-**For investor evaluation**: Peter uses this framework at Felicis to assess founder-market fit — a platform PM building developer tooling is a natural match; a consumer PM building something in a regulated, relationship-driven industry may struggle with the craft of that market.
-
-**For self-awareness**: Knowing your own archetypes helps you understand which roles will energize you and which will drain you. Life is too short to be a growth PM who hates data.
+**The primary + secondary dynamic:** Peter identifies as Consumer PM (primary) + Growth PM (secondary). He notices craft details and appreciates them deeply, but ultimately defaults to "we need to measure this." This pairing is particularly powerful because taste without measurement drifts, and measurement without taste produces hollow products.
 
 ## Sources
-- [[peter-deng]] — "Peter Deng" (Lenny's Podcast, 2025)
 
-## See Also
-- [[product-ops]]
-- [[product-market-fit]]
-- [[talent-density]]
+- [[guests/peter-deng]] — Peter Deng

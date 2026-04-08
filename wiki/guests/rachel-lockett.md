@@ -1,127 +1,122 @@
 ---
 guest: Rachel Lockett
-role: Executive Coach, Lockett Coaching (formerly HR leader at Stripe and Pinterest)
+role: Executive Coach, Lockett Coaching; former HR Leader at Stripe and Pinterest
 episode: "A guide to difficult conversations, building high-trust teams, and designing a life you love"
 date: 2025-11-23
-topics: [leadership, coaching, burnout, co-founder-relationships, difficult-conversations, team-building]
+topics: [leadership, coaching, burnout, cofounder-relationships, difficult-conversations, career]
 ---
 
 # Rachel Lockett
 
-> Executive coach and former HR leader at Stripe and Pinterest who helps CEOs, founders, and tech leaders develop emotional intelligence, navigate conflict, and design careers around their gifts.
+> An executive coach who teaches technical leaders that the "human side of business building" is both learnable and essential — with practical frameworks for coaching, difficult conversations, burnout prevention, and co-founder relationships.
 
 ## Bio
 
-Rachel Lockett spent years as an HR Business Partner at Stripe (where she created top-talent retention programs for 50 senior leaders under Patrick Collison) and Pinterest before founding Lockett Coaching. She came to coaching via an indirect path: while running a UX Research team at Remind, she was asked to become a PM. She excelled at motivating the team but found product strategy depleting — a colleague pointed out her real gift was people. She became a trained coach and has since worked with CEOs and co-founders for over a decade, including clients at Coinbase, Brex, and Bridge.
+Rachel Lockett is a sought-after executive coach and former HR leader at Stripe and Pinterest. She works with CEOs, founders, and tech leaders on emotional intelligence, resilience, leadership development, and co-founder relationships. She trained as a coach after recognizing that her zone of genius was helping people lead — not product strategy — and has spent over a decade working with executives across Silicon Valley's fastest-scaling companies.
 
-### When to Coach vs. Advise
+## Key Ideas
 
-Rachel's core thesis: leaders over-rotate toward having all the answers, which trains their teams to bring every problem back up. The alternative is coaching — creating space for people to solve their own problems.
+### Coaching vs. Advising: The Monkey Problem
 
-**Coach when:** The person has the context and skills to find the answer themselves. You want them to grow. You want buy-in to the solution they create.
+The biggest gap Rachel sees in technical leaders is not knowing when to coach versus when to advise. Leaders climbed the ladder by being the smartest person in the room with all the answers — but that approach trains teams to bring every problem upward and disables their ability to solve hard things independently.
 
-**Advise when:** There's urgency and you know the right answer. The person genuinely lacks the skill. You have specific context they don't.
+Coaching is the alternative: shifting into curiosity when someone brings a problem, asking questions that help them discover their own solution. When to advise: (1) the person doesn't have the skills or context they need, (2) there's genuine urgency, or (3) you know the specific answer and need them to act on it. Most leaders over-index on these cases.
 
-A practical heuristic: shift 15% of your one-on-one time to open-ended questions rather than answers.
-
-### The GROW Model
-
-A four-category framework for powerful coaching questions:
-
-- **G — Goal:** What does success look like? What outcome do you want?
-- **R — Reality:** Where are you stuck? What have you tried? What are your current constraints?
-- **O — Options:** What paths could you take? What are your choices?
-- **W — Way forward:** What will you do next? What's the one small step?
-
-The model is non-linear — use whichever category unlocks insight. The power is creating space for people to arrive at their own conclusions, which increases buy-in dramatically.
+> "When you try to advise and have the answer all the time, you're not actually equipping your team to go solve the hard problems. You're training your team to come to you with all of the hard problems."
 
 ### Three Levels of Listening
 
-- **Level 1 — Internal:** Listening while thinking about yourself and the implications for you. Most people default here.
-- **Level 2 — Focused:** Listening to the words being said and able to repeat them back. Typical good one-on-one quality.
-- **Level 3 — Global:** Listening beneath the words — to tone, body language, what's *not* being said, the emotional content. This is where coaching happens.
+Rachel teaches three listening levels:
 
-Great leaders drop to Level 3 when influencing, pitching, or coaching. Even 60 seconds of Level 3 listening creates profound connection.
+- **Level 1 (Internal)**: You're focused on yourself — your own inner dialogue, how this affects you
+- **Level 2 (Focused)**: You can repeat back the words being said — standard one-on-one problem solving
+- **Level 3 (Global)**: You hear what's beneath the words — body language, tone, emotional undercurrent, context
+
+Great leaders drop into Level 3 when coaching, selling, pitching vision, or navigating conflict. Most people operate at Level 1 most of the time (as the Fight Club quote goes: "People don't listen. They just wait for their turn to talk").
+
+### The GROW Model for Coaching Conversations
+
+A four-question framework for leader-as-coach moments. You don't need to use these in order; they're categories of questions to unlock insight:
+
+- **G — Goal**: What does success look like? What's the outcome you want?
+- **R — Reality**: Where are you stuck? What have you tried? What's your current challenge?
+- **O — Options**: What paths exist? What could you do next?
+- **W — Way Forward**: What are you going to do? What's the next concrete step?
+
+Even 15% more space for open-ended questions in one-on-ones can unlock significantly better team performance and morale.
+
+### Burnout: Energy Mapping and Zone of Genius
+
+Rachel's approach to preventing burnout: design your work to be 80% in your zone of genius. When people operate mostly in their natural strengths, they have dramatically more energy.
+
+Practical tool: For two weeks, every evening write down five things that gave you energy and five things that depleted you. Look for patterns. This reveals your zone of genius and identifies the slow energy leaks.
+
+She also recommends asking 5-10 people who know you well: "When I walk in the room, what shows up? What are my gifts?" And reviewing your calendar for themes: which meetings do you dread vs. anticipate?
+
+The broader principle: "It's no one else's job to help you live in your gifts. Your manager's job is to help you perform in the job you were hired to do. It's your job to navigate your career."
+
+Rachel's path to coaching is itself a case study: while leading a PM team at Remind, she realized her gifts were people and coaching, not product strategy. A colleague named Zach Abrams pointed out she was spending all her energy on a thing that depleted her, while effortlessly doing something extraordinary. She took the courageous horizontal career move to pursue coaching.
 
 ### Nonviolent Communication (NVC) for Difficult Conversations
 
-Rachel uses Marshall Rosenberg's NVC framework as the core model for navigating interpersonal conflict:
+Based on Marshall Rosenberg's framework, Rachel teaches a four-step approach to reframing difficult conversations as moments of mutual understanding (not argument-winning):
 
-1. **Observations** — State only factual, observable behavior. "I noticed that in the last three sprint planning meetings, you didn't include me." Avoid interpretation or inference.
-2. **Feelings** — Share your emotional response without blame. "I felt anxious" not "I felt like you were ignoring me" (that's a thought, not a feeling).
-3. **Needs** — Name the universal human needs at stake: clarity, collaboration, connection, respect.
-4. **Request** — Make a small, specific, achievable ask that gives the other person a way to meet you.
+1. **Observations**: State what happened factually — "I noticed that in the last three sprint planning meetings, you didn't include me." Photograph-level facts only.
+2. **Feelings**: Express emotions without blame — "I felt anxious and confused." (Note: "I feel *like* you're being difficult" is not a feeling — name the actual emotion.)
+3. **Needs**: Universal human needs behind the feelings — "I have a need for clarity and collaboration."
+4. **Request**: A small, achievable ask — "Next time, I'd like to receive the roadmap after you align on it."
 
-Key reframe: **the goal of any conflict is mutual understanding, not convincing the other person they're wrong.** When you enter a conflict to prove your point, you trigger defense. When you enter to create understanding, you invite openness.
+Key reframe: "The goal of any conflict is to create mutual understanding, not to convince the other person they're wrong."
 
-### Burnout and Designing Life Around Gifts
+### Co-Founder Relationships: Vows and Rhythm
 
-Rachel's framework for avoiding burnout: spend at least 80% of time in your "gifts" — the things you're naturally good at and that give you energy.
+Rachel treats the co-founder relationship like a marriage — it requires intentional investment, not just assumption of compatibility. 65% of startups fail because of co-founder conflict.
 
-**Two-week energy audit:** Each night, write down 5 things that gave you energy and 5 things that depleted it. After two weeks, the patterns reveal your gifts and your drains.
+Key elements of healthy co-founder relationships:
+1. **Self-awareness**: Use tools like the Enneagram to give a shared language to each person's patterns and tendencies
+2. **Conscious commitment**: Create explicit "co-founder vows" — how will we make decisions? How will we handle conflict?
+3. **Regular rhythm**: Weekly virtual check-ins, quarterly in-person sessions. Being "on the balcony" (looking down at the dance floor) is critical.
 
-Additional techniques:
-- Ask 5–10 people: "When I walk in the room, what shows up? What are my strengths?"
-- Review your calendar: which meetings do you look forward to? Which do you dread and why?
-- Zone of genius vs. zone of competence: just because you're good at something doesn't mean it energizes you
+When conflict is already present, the intervention is to name current state honestly, understand each other's gaps and exhaustion, and recommit with a new rhythm. Sometimes the clarity from going through this process is that one co-founder needs to leave — and Rachel treats that as success, not failure.
 
-Once you know your gifts: tell your manager, redesign your role, hire around weaknesses. It's **your** job to navigate your career — not your manager's.
+### "Would I Enthusiastically Rehire This Person?"
 
-### Co-Founder Relationships
+A decision tool she learned at Stripe for talent clarity: asking "Would I enthusiastically rehire this person for the same role?" is more clarifying than any performance review rubric. It's binary and triggers an honest physical response. If the answer is no, action is needed — even if it's just a direct conversation. In rapidly scaling companies, the leadership team's job requirements change every 6-12 months; many people who were right for earlier stages are wrong for later ones.
 
-Rachel calls the co-founder relationship one of the most important and least-supported relationships in tech. 65% of startups fail due to co-founder conflict.
+## Frameworks
 
-Her three building blocks:
-1. **Self-awareness tools** (she favors the Enneagram): understand your own patterns and how they interact with your co-founder's. Classic dynamic: visionary CEO who "sells ahead of reality" vs. skeptical CTO who wants depth and certainty before moving. Knowing the dance prevents stepping on each other's toes.
-2. **Conscious commitment** — just like a marriage needs date nights, co-founders need scheduled space to ask: "Are we still aligned? What's not being said? What's frustrating you about how I'm working?" She co-wrote a First Round article with weekly/monthly/annual check-in templates.
-3. **Regular in-person time** — virtual doesn't fully substitute. Quarterly in-person check-ins are the minimum for a healthy co-founder dynamic.
+### The GROW Coaching Model
 
-When things are already broken: get a facilitator (coach, HR leader, or trusted advisor) and create space for honest vulnerability. Sometimes the outcome is recommitment; sometimes it's clarity that one person should leave — both are success.
+See Key Ideas above. Core structure: Goal → Reality → Options → Way Forward.
 
-### "Would You Enthusiastically Rehire This Person?"
+### Nonviolent Communication (NVC)
 
-Rachel worked at Stripe when this question was the talent management standard. Binary, gut-check clarifying: if the honest answer is no, something needs to change — role redesign, performance management, or eventual departure. The physical reaction to the question is usually faster and more honest than any analytical framework.
+See Key Ideas above. Core structure: Observe → Feelings → Needs → Request.
 
-### The One-Page Plan
+## Key Quotes
 
-For company alignment, Rachel recommends a single-page document with four columns:
-1. **Vision and values** — the why and the culture
-2. **Strategic intentions and KPIs** — the how and what we measure
-3. **Annual goals** — what success looks like this year
-4. **Quarterly goals** — what we're doing this quarter
+> "When people are in their gifts and their strengths, they have more energy. We all have more energy when we're operating from the things we naturally are good at." — Rachel Lockett
 
-Used with a quarterly operating rhythm (kick off, reflect, "what's the inconvenient truth?"), this creates clarity and connection across the organization. Based on Alpine Investors' "People First Operating Rhythm," which their portfolio data shows leads to higher returns.
+> "The goal of any conflict is to create mutual understanding." — Rachel Lockett
+
+> "It's no one else's job to help you live in your gifts. Your manager's job is to help you perform in the job you were hired to do. It's your job to navigate your career." — Rachel Lockett
+
+> "Professionals have feelings. It's completely emotional. And if we ignore our feelings, they will bubble up, and we will be unconsciously acting from them." — Rachel Lockett
+
+> "What's important here? What do I have to learn here? — the question to ask yourself when you're avoiding something." — Rachel Lockett
 
 ## Actionable Advice
 
-- In every conversation: ask yourself "do they want advice, or do they want space to think it through?"
-- Run the two-week energy audit to discover your gifts and drains
-- Before a difficult conversation: enter wanting mutual understanding, not to prove a point
-- Use NVC: observations → feelings → needs → request (no "you" statements in the feelings step)
-- To clarify a talent decision: "Would I enthusiastically rehire this person for the same role?"
-- Start small: one behavior change tomorrow, not a life redesign
+- In your next one-on-one, try shifting 15% of your time from advising to asking powerful questions from the GROW model
+- For two weeks, log five energy-givers and five energy-drainers each evening; look for patterns
+- Aim for 80% of your work to be in your zone of genius — tell your manager what your gifts are
+- Before having a difficult conversation, use NVC: write down observations, your feelings, your underlying needs, and the small request you'll make
+- Ask yourself "Would I enthusiastically rehire this person?" to get clarity on talent decisions
+- Co-founders: create a regular rhythm of check-ins beyond the daily work grind
 
-## Notable Quotes
+## Related Pages
 
-> "Most leaders, especially technical leaders, assume they have to have all the answers. When you try to advise and have the answer all the time, you're not actually equipping your team to go solve the hard problems. You're training your team to come to you with all of the hard problems."
-
-> "The goal of any conflict is to create mutual understanding."
-
-> "It's no one else's job to help you live in your gifts. It's your job to navigate your career."
-
-> "When people are in their gifts and their strengths, they have more energy. We all have more energy when we're operating from the things we naturally are good at."
-
-> "Difficult conversations are difficult because something important is at stake. We care deeply. So instead of avoiding it, lean in — come out having built a skill."
-
-## Sources
-
-- [[rachel-lockett]] — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
-
-## See Also
-
-- [[grow-model]]
-- [[nonviolent-communication]]
-- [[burnout]]
-- [[conscious-leadership]]
-- [[founder-prenup]]
-- [[radical-candor]]
+- [[frameworks/grow-model]]
+- [[frameworks/nonviolent-communication]]
+- [[concepts/burnout]]
+- [[concepts/coaching-vs-advising]]

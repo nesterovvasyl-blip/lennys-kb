@@ -1,6 +1,8 @@
 ---
-aliases: []
+concept: Burnout
+aliases: [exhaustion, depletion, chronic stress]
 guests: [andy-johns, andrew-wilkinson, jonny-miller, rachel-lockett]
+date_added: 2026-04-08
 ---
 
 # Burnout
@@ -42,34 +44,27 @@ Most people wait for the dump truck. The goal is noticing the feather.
 
 **Organizational dimension**: "The nervous system of an organization is a reflection of the nervous system of the CEO." Burnout is contagious through emotional contagion — a leader in chronic stress creates chronic stress in their team.
 
-### Rachel Lockett: Design Your Life Around Your Gifts
+### Rachel Lockett: Zone of Genius and the 80% Design
 
-Rachel Lockett frames burnout as a structural mismatch: people deplete themselves doing work that doesn't play to their natural strengths, rather than protecting the work that energizes them.
+Lockett approaches burnout prevention through the lens of energy design rather than recovery. Her framework: when people spend most of their time in their zone of genius (natural strengths they love using), they have dramatically more sustainable energy. When they're stuck doing depleting work, the slow leak eventually empties the tank.
 
-**The energy audit:** For two weeks, write down each evening the 5 things that gave you energy and the 5 things that depleted you. Patterns reveal your "gifts" (natural strengths that energize) vs. your drains.
+**The Energy Audit**: For two weeks, write down every evening (1) five things that gave you energy and (2) five things that depleted you. Patterns reveal your zone of genius and your energy leaks. Lockett also recommends asking 5-10 people who know you well: "When I walk in the room, what shows up? What are my gifts?"
 
-**Target:** Spend at least 80% of your time in your gifts. The remaining 20% is unavoidable logistics.
+**The 80% goal**: Aim to spend 80% of your time in activities that draw on your zone of genius. "You're always going to have 20% of things you don't love doing." This requires courage — sometimes it means lateral career moves that feel like steps backward.
 
-**The gift-finding toolkit:**
-- Ask 5–10 people: "When I walk in the room, what shows up? What are my gifts?"
-- Review your calendar: which meetings excite you? Which do you dread?
-- Notice what you do where you lose track of time
+**The founder trap**: Technical founders often start with a problem they're obsessed with, solve it, and then find themselves running a board and a management team — a completely different job from the one that played to their strengths. They don't notice the drift until burnout has set in.
 
-**Critical principle:** It's your job to navigate your career, not your manager's. People who blame their organization for making their job uninteresting are ceding agency. Name your gifts to your manager. Design around your weaknesses. If it requires a horizontal move, take it.
+**Organizational solution**: Be explicit with your manager about your gifts and where you want to grow. People who are performing well have the currency to negotiate for work that's more aligned with their strengths. "It's no one else's job to help you live in your gifts."
 
-**Start small:** Don't redesign your life; plug one energy leak. Stop going to optional meetings that drain you. Add one energizing activity back into your day. These small changes compound.
-
-**Organizational echo:** When Rachel ran top-talent coaching at Stripe, she saw the pattern at scale — entire cohorts of brilliant people physically exhausted by years of high performance. The antidote was reconnecting people to purpose and the specific work that lit them up, not just rest.
+Lockett also notes that burnout is visible in organizations: "The nervous system of an organization is a reflection of the nervous system of the CEO." Leaders in chronic stress spread it through emotional contagion.
 
 ## Sources
 - [[andy-johns]] — "When your core behaviors get disrupted, it's undeniable that something detrimental to your wellbeing is going on" (When enough is enough)
 - [[andrew-wilkinson]] — "No amount of money or success had done what this little tiny yellow pill could do for my mental state" (I've run 75+ businesses)
 - [[jonny-miller]] — "The feather might be waking up feeling a little tired. The dump truck is a full-blown health crisis a year later. Notice the feather." (Managing nerves, anxiety, and burnout)
-
-- [[rachel-lockett]] — "The 80% in gifts rule; two-week energy audit; it's your job to navigate your career" (A guide to difficult conversations)
+- [[guests/rachel-lockett]] — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
 
 ## See Also
 - [[four-steps-personal-transformation]]
 - [[career-strategy]]
 - [[leadership]]
-- [[energy-management]]

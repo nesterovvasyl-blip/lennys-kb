@@ -1,54 +1,57 @@
 ---
 framework: GROW Model
-created_by: Marshall Goldsmith / John Whitmore (popularized in executive coaching)
+created_by: John Whitmore (popularized by Rachel Lockett and others)
 guests: [rachel-lockett]
-topics: [leadership, coaching, management, communication]
+date_added: 2026-04-08
 ---
 
 # GROW Model
 
-> A four-category framework of powerful questions that helps leaders coach rather than advise, enabling team members to arrive at their own solutions and build ownership.
+> A four-category coaching framework for helping people unlock their own solutions — rather than telling them what to do.
 
 ## Overview
 
-The GROW model is a structured approach to coaching conversations that Rachel Lockett teaches leaders in tech as part of a broader shift from always-advising to sometimes-coaching. It is not a rigid sequence — the categories are types of questions, not steps. The power is in creating conversational space for the person to access their own knowledge and generate solutions they'll be more committed to executing.
+The GROW model (Goal, Reality, Options, Way Forward) is a classic coaching framework that gives leader-coaches a structure for helping reports solve their own problems. Rachel Lockett teaches this framework to tech executives as an accessible entry point to the "leader as coach" mode.
 
-Coach when: the person has the context and skills to solve the problem themselves. Don't coach when: the answer is urgent and known, or the person genuinely lacks the skill.
+The key insight behind the model: most people already have the context and knowledge to solve their own problems — they just need structured space and the right questions to arrive at the solution. Coaching works best when the person being coached has the relevant context. When they don't, advising is appropriate.
 
 ## Components / Steps
 
-**G — Goal**
-Questions that define success. "What outcome do you want?" "What does success look like?" "What would be different if this were resolved?" Helps both parties understand the destination before exploring the path.
+### G — Goal
+Questions that help define what success looks like:
+- "What does success look like here?"
+- "What would the ideal outcome be?"
+- "What are you trying to achieve?"
 
-**R — Reality**
-Questions that map the current state. "Where are you stuck?" "What have you tried?" "What constraints are you working within?" "What's actually happening right now?" Often the most clarifying step — people realize the blocker is different from what they assumed.
+### R — Reality
+Questions that clarify the current situation and obstacles:
+- "What's happening today?"
+- "Where are you stuck?"
+- "What have you tried so far?"
+- "What's getting in the way?"
 
-**O — Options**
-Questions that expand possibility. "What paths could you take?" "What could you do next?" "What haven't you considered?" "If you had no constraints, what would you do?" This step widens the solution space before converging.
+### O — Options
+Questions that expand the set of possible paths forward:
+- "What are all the ways you could approach this?"
+- "What would you do if you had unlimited resources?"
+- "What are the different paths you could take?"
 
-**W — Way Forward**
-Questions that commit to action. "What will you do next?" "What's the one step you'll take this week?" "Who needs to be involved?" "When will you do it?" Converts insight into a specific, accountable commitment.
+### W — Way Forward
+Questions that create commitment to a concrete next step:
+- "What are you going to do next?"
+- "What's the first step?"
+- "What will you commit to before we next talk?"
 
-## How to Apply
+## Application
 
-The model works in a one-on-one or any coaching conversation. It does not require an hour-long session — Rachel demonstrates it working in minutes. The key is creating space rather than filling it:
+You don't have to follow G-R-O-W sequentially — these are categories of questions. The person may already be very clear on their goal (skip G), or may primarily need help identifying options (spend more time on O).
 
-- When someone brings you a problem, resist the impulse to immediately offer solutions
-- Ask what success looks like (G) before jumping to options
-- Let the person articulate reality (R) in their own words — the blocker they name may surprise you
-- Expand options (O) by asking broadly before evaluating
-- End with a specific, small, time-bound commitment (W) — not a vague intention
+The model works in 5-minute check-ins, not just formal coaching sessions. Even 15% more open-ended questions in a one-on-one — replacing "here's what I think you should do" with "what do you think you should do?" — changes team dynamics meaningfully.
 
-If you have a strong reaction to their solution, get curious: "Help me understand how you came to that conclusion, because here's my reaction." You're still allowed to share perspective — coaching doesn't mean hiding yours.
+Pair with active listening (Level 3 listening: hearing what's beneath the words, not just what's said). When someone shares their problem, reflect back both the content and the emotional undercurrent you observe before jumping to questions.
 
-The 15% rule: even shifting 15% of your one-on-one time from advising to GROW questions measurably changes team ownership, motivation, and problem-solving capability.
+**When to advise instead of coach**: urgency, the person lacks the requisite skills, or you know the specific answer you want them to reach and don't want to play guessing games.
 
 ## Sources
 
-- [[rachel-lockett]] — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
-
-## See Also
-
-- [[nonviolent-communication]]
-- [[radical-candor]]
-- [[conscious-leadership]]
+- [[guests/rachel-lockett]] — "A guide to difficult conversations, building high-trust teams, and designing a life you love"

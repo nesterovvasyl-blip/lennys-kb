@@ -1,7 +1,7 @@
 ---
 concept: Word of Mouth
 aliases: [WOM, organic referral, peer recommendation]
-guests: [nilan-peiris, noah-weiss]
+guests: [nilan-peiris, noah-weiss, rahul-vohra]
 date_added: 2026-04-08
 ---
 
@@ -39,10 +39,21 @@ Weiss's framing: "We obsess about customers. We build something they'll love eno
 
 Weiss also connects WOM to competitive moat: "It's really hard to scale a big enough business if you don't have some amount of word of mouth and customer love driven growth." Customer-obsessed competitor-aware is Slack's principle — obsess over customers, stay aware of competitors.
 
+### Rahul Vohra (Superhuman)
+
+Vohra credits Elliot Shmukler (LinkedIn's head of Growth) with teaching him the foundational truth: there is no such thing as a truly viral product in the sense of a sustained viral coefficient above 1.0. Even Facebook in its heyday had a viral factor of ~0.7; LinkedIn's infamous address book import had a lifetime viral factor of ~0.4. All viral mechanics eventually plateau.
+
+The true secret, Shmukler told him, is **word of mouth** — the unmeasurable, non-mechanic, spontaneous recommendation from one user to another. This isn't a feature you can build; it emerges from making something remarkable enough that people can't help but tell others.
+
+Vohra made this insight operational at Superhuman by baking the preconditions for WOM directly into company values: "create delight," "deliver remarkable quality," and "build the extraordinary." The cocktail party test he uses: eavesdrop on how people pitch your product to others. If the pitch is "dude, you have to use it, it's really f***ing fast" — that's your positioning. The authenticity of spontaneous pitches reveals what people actually love.
+
+Vohra also found that manual 1:1 onboarding created superfans — the earliest cohort of highly engaged, delighted users who then generate disproportionate word-of-mouth and brand momentum that paid marketing can't replicate at any price.
+
 ## Sources
 
 - [[guests/nilan-peiris]] — "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
 - [[guests/noah-weiss]] — "The 10 traits of great PMs, AI, and Slack's approach to product"
+- [[guests/rahul-vohra]] — "Superhuman's secret to success | Rahul Vohra (CEO and founder)"
 
 ## See Also
 

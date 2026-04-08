@@ -1,138 +1,131 @@
 ---
 guest: Ravi Mehta
-role: Co-founder and CEO, Outpace (formerly CPO at Tinder, Product Director at Facebook, VP Product at Tripadvisor)
-episode: "How to build your product strategy stack"
+role: Co-founder and CEO, Outpace; former CPO at Tinder, Product Director at Facebook, VP Product at Tripadvisor
+episode: "How to build your product strategy stack | Ravi Mehta (Tinder, Facebook, Tripadvisor, Outpace)"
 date: 2023-01-19
-topics: [product-strategy, product-management, leadership, coaching, startup-transition, okrs]
+topics: [product-strategy, product-leadership, okrs, prioritization, startup-vs-bigco, coaching]
 ---
 
 # Ravi Mehta
 
-> Former CPO at Tinder, product director at Facebook, and VP of Product at Tripadvisor who distilled his experience into a product strategy stack framework and a 12-competency PM skills model, and now builds Outpace to make expert coaching accessible.
+> Product leader who distilled strategy clarity into the "Product Strategy Stack" and redefined PM career growth through 12 competencies — now building Outpace to make expert coaching accessible.
 
 ## Bio
 
-Ravi Mehta began coding at age 9, started a game company in high school, and joined the Xbox Live team at Microsoft as one of its first members. After business school, he became employee #1 at a FinTech startup, then worked with Brian Balfour at his first startup, before taking product leadership roles at Tripadvisor (head of consumer product), Facebook (product director), and Tinder (CPO). He helped build and teach Reforge's product leadership and product strategy programs, and launched Outpace — a coaching platform combining expert coaching and AI — to make elite career coaching accessible.
+Ravi Mehta has been in tech since the mid-90s, starting as a coder at age 9. He joined Xbox Live as one of its first employees, spent six years at Microsoft, then moved through Tripadvisor (VP Product, consumer), Facebook (Product Director), and Tinder (CPO). He spent time at Reforge as an EIR helping build the Product Leadership and Product Strategy programs. He co-founded Outpace, a coaching platform that combines expert coaches with AI to make coaching more accessible and more effective.
+
+## Key Ideas
 
 ### The Product Strategy Stack
 
-The stack answers: what framework are you using to make decisions? Ravi developed it to diagnose why teams struggle to prioritize — in his experience, the root cause is almost always a gap somewhere in this hierarchy.
+A hierarchical framework for separating concepts that companies often conflate — mission, strategy, product strategy, roadmap, and goals. The stack helps PMs prioritize and debug strategy by working top-down (building) or bottom-up (diagnosing):
 
-**Five levels (top to bottom):**
-1. **Company mission** — the qualitative, aspirational purpose; the change the company wants to bring to the world. Vision can be folded in here.
-2. **Company strategy** — rigorously logical plan for achieving the mission. Specific, not aspirational.
-3. **Product strategy** — the connective tissue between company strategy and day-to-day product decisions.
-4. **Product roadmap** — the sequence of things the product team will build.
-5. **Product goals** — the metrics that track progress on the roadmap.
+1. **Company Mission**: The change the company wants to bring to the world — qualitative, aspirational, directional
+2. **Company Strategy**: The logical plan for achieving the mission — rigorous, specific, "how we'll get there"
+3. **Product Strategy**: The connective tissue between company strategy and day-to-day product work — what the product team will build and why
+4. **Product Roadmap**: The sequence of specific initiatives derived from product strategy
+5. **Product Goals**: Measurable outcomes tied to the roadmap
 
-**How to use it:**
-- **Working top-down:** start from mission to drive strategy to drive roadmap to drive goals
-- **Debugging bottom-up:** if goals aren't moving, check the roadmap; if the roadmap isn't right, check the product strategy; if product strategy is unclear, check whether you truly understand company strategy and mission
+Diagnosis works bottom-up: if you can't hit your goals, check if the roadmap supports them; if not, check whether product strategy is clear; if not, check whether company strategy is understood; if not, go back to mission.
 
-### Goals After Roadmap (Contrarian)
+> "If a PM is looking to define strategy, they can work top to bottom, and if they're looking to debug strategy, they can actually work bottom to top."
 
-Ravi deliberately puts goals *after* roadmap in the stack — the opposite of most OKR implementations.
+**Tinder vs. Hinge as example**: Hinge's mission is "designed to be deleted" (temporary, relationship-oriented); Tinder's is to "make single life more fun" (ongoing, lifestyle-oriented). Same underlying use case, radically different strategies — Hinge avoids swiping, invests in profiles with "prongs" for conversation; Tinder keeps it lightweight and serendipitous. Same roadmap items emerge (video chat during COVID) but for different strategic reasons.
 
-The roads-trip analogy: if you decide to drive to Vegas, "250 miles" becomes a useful goal because it's in service of the destination. Starting with "we need to drive 250 miles" without knowing the destination drives aimless optimization.
+### Strategy Documents Need Wireframes
 
-When companies start with a goal (e.g., "increase retention by 20%"), they often move the metric without understanding why, or do things that move the metric while undermining the underlying strategy.
+Ravi argues that strategy documents without wireframes are ambiguous — everyone walks away with a different interpretation. Visual representation ("blueprint") forces specificity and reveals trade-offs that words hide. The classic test: your mobile app can only have 4-5 nav items. If your strategy can't tell you what those are, it's not specific enough.
 
-### Tinder vs. Hinge as Strategy Stack Example
+Tools: basic sketches on paper or Balsamiq (a fast wireframing tool) are enough. PMs shouldn't depend on designers to think visually about product.
 
-Both are dating apps. Very different stacks:
+### Goals After Roadmap: The Road Trip Analogy
 
-- **Mission:** Tinder = "make single life more fun" (continuous use case). Hinge = "designed to be deleted" (temporary use case to find a lasting relationship).
-- **Product strategy:** Tinder built a lightweight, serendipitous, swipe-based experience with minimal filters — deliberately preventing "search engine for people" behavior. Hinge built profile depth (prompts) to encourage real conversations.
-- **Feature choices:** Tinder resisted adding detailed filters by design, even when competitors added them — the lack of filters is strategic, not a feature gap.
+Ravi's most controversial point: goals belong *after* roadmap in the stack, not before. Most companies do it the other way (set goals → figure out how to hit them), which he calls a road trip where you start by committing to "drive 250 miles" without deciding where you're going. Better: decide on Vegas (mission + strategy), design the route (product strategy + roadmap), and then "250 miles" becomes the measurement of success, not the starting point.
 
-The stack shows *why* two products in the same market make such different decisions.
+The problem with goals-first: goals drive roadmaps that optimize for metric movement without strategic coherence. Example from Tripadvisor: teams were constantly optimizing for in-session bookings, which actually undermined the strategy of getting users to plan entire trips on Tripadvisor (planning behavior reduces immediate bookings in the short term).
 
-### Wireframes as Strategy
+### The Frontier of Understanding: Better OKRs
 
-Strategy docs without wireframes create alignment theater — everyone nods, then builds different things. Because products are ultimately pixels on a screen, the strategy isn't complete until you can show what the pixels will look like.
+Four types of risk inform what kind of goal a team should set:
 
-Wireframes don't need to be high-fidelity. Even Balsamiq sketches force the hard choices: what's on the nav bar? What's above the fold? These questions, answered early, prevent expensive downstream misalignment.
+1. **Understanding Risk**: We don't know what moves this metric → goal is "increase our understanding," not "move the metric"
+2. **Dependency Risk**: We understand the levers but don't have the tools/resources → goal is removing the dependency
+3. **Execution Risk**: We have hypotheses and resources → goal is "ship 20 experiments this quarter"
+4. **Strategic Risk**: We have a hypothesis → goal is proving it right or wrong
 
-Accessible tools for non-designers: sketches on paper, Balsamiq, or basic wireframe tools.
+Too many teams skip to outcome-based goals when they're still at the understanding or execution stage. This creates a theater of confidence. The fix is to name where you actually are on the frontier.
 
-### Frontier of Understanding and Goal Types
+### Velocity vs. Latency: Startup vs. Bigco Speed
 
-When a team doesn't know how to move a metric, committing to an outcome-based goal leads to random experimentation. Ravi's framework: before committing to an outcome, understand where your frontier of knowledge is.
+Startups are not *faster* than big companies — they have lower *latency*. Big companies can do more in total (higher velocity). But startups can go from idea to test in hours or days (low latency), while big companies need weeks or months. The advantage of startups is the short cycle time between hypothesis and validation, not raw throughput.
 
-Four goal types based on your current frontier:
-1. **Understanding goals** — "We'll run X customer interviews to understand why users churn." Right when you don't know what moves the lever.
-2. **Dependency goals** — "We'll build the analytics infrastructure needed to run experiments." Right when you know *what* to do but lack tools.
-3. **Execution goals** — "We'll run 20 experiments this quarter." Right when you have hypotheses but need to validate them.
-4. **Outcome goals** — "We'll improve retention by 15%." Right when you understand the lever and know how to pull it.
+The car analogy: a fast car has trouble turning quickly. A slower car can turn on a dime. Startups are the latter.
 
-The 2x2 for evaluating performance: did we hit our goals? Do we know why? Best is upper-right (hit + understand). The dangerous quadrant is lower-left (missed + don't know why) — that's where companies circle.
+### The 12 PM Competencies
 
-### PM Competency Framework (12 Competencies)
+Ravi's framework from Tripadvisor's PM Rotational Program, organized into four categories:
 
-Originally developed at Tripadvisor to structure a rotational PM program, these 12 competencies remain constant from APM to CPO — the *scope* changes, not the framework:
+**Product Execution**:
+- Functional Specification
+- Product Delivery
+- Product Quality
 
-**Product Execution (building)**
-1. Functional specification — defining what to build (PRDs, specs)
-2. Product delivery — working with engineering and design to ship
-3. Product quality — ensuring technical, design, and business quality
+**Customer Insight**:
+- Data Fluency
+- Voice of the Customer
+- User Experience Design
 
-**Customer Insight (understanding what to build)**
-4. Data fluency — using data to understand users and make decisions
-5. Voice of the customer — being the customer advocate throughout the org
-6. User experience design — thinking holistically about the experience (not just UI — includes APIs, ML systems)
+**Product Strategy**:
+- Business Outcome Ownership
+- Product Vision and Roadmapping
+- Strategic Impact
 
-**Product Strategy (connecting to the business)**
-7. Business outcome ownership — connecting features to business metrics
-8. Product vision and roadmapping — sequencing work toward the strategy
-9. Strategic impact — sequencing *outcomes* (not just features) toward strategy
+**Leadership**:
+- Stakeholder Inclusion
+- Team Leadership
+- Managing Up
 
-**Leadership (influencing and scaling)**
-10. Stakeholder inclusion — rallying cross-functional partners
-11. Team leadership — developing direct reports (only relevant once you have them)
-12. Managing up — winning support from leadership
+The framework is equally applicable from APM to CPO — the specifics change (APM thinks about individual contribution; CPO thinks about the systems that enable teams), but the 12 categories remain the same. Use it for self-assessment, manager feedback, and calibration conversations.
 
 ### Selective Micromanagement
 
-Leaders avoid micromanagement as a rule. Ravi argues this is wrong: the real failure modes are (1) constant micromanagement with no end state and (2) completely hands-off leadership that leaves teams directionless.
+Ravi reframes micromanagement for product leaders: it's not inherently bad — the failure mode is *chronic, unintentional* micromanagement. He defines a 2x2:
 
-The right model: **scalable leadership** (team has autonomy; you have confidence in direction) as the target state. **Selective micromanagement** as a temporary mode when the team is off track: zoom in hard to correct direction, share the framework explicitly, then zoom back out. The goal is to hand the team the framework so they can make decisions independently.
+- **Confident + Team has autonomy** = Scalable leadership (ideal)
+- **Not confident in direction + intervening temporarily** = Selective micromanagement (effective, if temporary)
+- **Hands-off when team is going wrong** = Failure (team drifts)
+- **No confidence + no autonomy + no end in sight** = Micro-mismanagement (the bad kind)
 
-Dynamic range > just being high-level. A great CPO can zoom into button copy and zoom out to company strategy.
+The goal of selective micromanagement is to set the team on the right track, communicate the framework driving your decisions, then pull back and re-establish autonomy. Success = the team makes decisions *better than you would have* because they internalized the framework.
 
-### Startup vs. Large Company Transitions
+### Exponential Feedback
 
-Key shifts when moving from product leader to founder:
-- **Velocity vs. latency:** Big companies have higher velocity (more done). Startups have lower latency (faster cycle time from idea to test to learning). The car analogy: a fast car can't turn quickly; a slow car can pivot on a dime.
-- **Experimental vs. conviction-based decisions:** Big companies A/B test everything. Startups don't have users to test with — must develop informed conviction and move.
-- **Different networks:** Big company networks skew toward people comfortable in structured environments. Early-stage networks (indie hackers, angels, early-stage operators) are different people entirely.
+Surface-level feedback addresses symptoms; exponential feedback addresses root causes that compound. The 12 PM Competencies provide a common language for exponential feedback — instead of "you're not being strategic enough," you can say "your product strategy competency is strong but your strategic impact competency needs focus, here's why."
+
+Ask your manager to rate you on each competency independently; do the same self-assessment; compare and discuss gaps. This is more productive in 15 minutes than most annual reviews.
+
+## Key Quotes
+
+> "The framework I like to use with product leaders that I'm coaching is to think about a matrix. Your ideal goal is to lead in a scalable way, which means you feel really confident about the direction of your team and your team has the autonomy to move in that direction." — Ravi Mehta
+
+> "The advantage a smaller company has is really in latency. You can have an idea one day, you can test it the next day." — Ravi Mehta
+
+> "Too often teams get so focused on the goals, they get less focused on the learning." — Ravi Mehta
+
+> "The goal of the product strategy stack is to help people take a set of terms that are normally conflated together — goals, roadmap, strategy — and separate them into really clearly defined parts." — Ravi Mehta
 
 ## Actionable Advice
 
-- Diagnose prioritization confusion by walking up the product strategy stack — the gap is usually at strategy or mission
-- Use wireframes in strategy docs to force specificity and alignment
-- Match goal type to your actual frontier of understanding — don't commit to outcome goals when you need understanding goals
-- Evaluate your PM skills against the 12 competencies; use it for structured feedback conversations
-- When a team is off-track, use selective micromanagement briefly with explicit framework transfer, not indefinitely
-- Measure "did we hit our goals?" AND "do we know why?" — treating the second question as equally important
+- Draw wireframes as part of every strategy document — ambiguous words create different visions
+- When diagnosing why a team is struggling, work bottom-up through the strategy stack
+- Before setting outcome-based goals, identify which of the four frontiers (understanding/dependency/execution/strategic risk) you're actually on
+- As a product leader, increase your "dynamic range" — spend most time on strategy, but be willing and able to go deep on tactical problems
+- Use the 12 competencies to generate focused feedback conversations (both giving and receiving)
+- When feeling like you need to micromanage: do it briefly, communicate the framework, then pull back
 
-## Notable Quotes
+## Related Pages
 
-> "The goal is to lead in a scalable way, which means you feel really confident about the direction of your team and your team has the autonomy to move in that direction."
-
-> "The advantage a smaller company has is in latency. You can have an idea one day, you can test it the next day."
-
-> "Goals after roadmap is contrarian. It's a little like taking a road trip and starting by saying, 'We need to drive 250 miles.' First decide where you're driving to."
-
-> "Micromanagement as a category is not a bad thing. The two effective modes are scalable leadership and selective micromanagement. What's bad is micro *mismanagement* — no autonomy, no confidence, no end in sight."
-
-## Sources
-
-- [[ravi-mehta]] — "How to build your product strategy stack"
-
-## See Also
-
-- [[product-strategy-stack]]
-- [[pm-competency-framework]]
-- [[okrs-radical-focus]]
-- [[solar-system-product-strategy]]
-- [[product-vision-framework]]
+- [[frameworks/product-strategy-stack]]
+- [[frameworks/pm-competencies]]
+- [[concepts/okrs]]
+- [[concepts/product-market-fit]]

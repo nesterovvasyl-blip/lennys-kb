@@ -2,58 +2,65 @@
 framework: Nonviolent Communication (NVC)
 created_by: Marshall Rosenberg
 guests: [rachel-lockett]
-topics: [leadership, conflict-resolution, communication, team-building]
+date_added: 2026-04-08
 ---
 
 # Nonviolent Communication (NVC)
 
-> A four-step framework for difficult conversations that creates mutual understanding without triggering defensiveness, by separating observable facts from feelings, needs, and requests.
+> A four-step communication framework for having difficult conversations that create mutual understanding instead of defensiveness — observe, feel, need, request.
 
 ## Overview
 
-Developed by Marshall Rosenberg and taught by Rachel Lockett as the core model for interpersonal conflict at work, NVC is built on a key reframe: the goal of any conflict is not to convince the other person they're wrong — it's to create **mutual understanding**. When people enter conflict to win, both sides go defensive. When they enter to be understood, connection becomes possible.
+Developed by psychologist Marshall Rosenberg and widely used in conflict resolution contexts, NVC gives tech leaders a practical script for conversations that feel confrontational. Rachel Lockett teaches this framework as the antidote to the most common failure mode in difficult conversations: coming in armored and trying to prove you're right, rather than creating mutual understanding.
 
-The framework helps leaders stay "on their side of the net" (a Stanford GSB Touchy Feely concept): sharing emotions and needs without making accusations or assumptions about the other person's motivations.
-
-NVC is most valuable when: you have a need that isn't being met, you feel something is wrong in a relationship, or you've been avoiding a conversation because it feels too charged.
+The key reframe: the goal of any conflict is *not* to convince the other person they're wrong. It is to create mutual understanding. Once both parties genuinely understand each other's experience, the conversation can move productively.
 
 ## Components / Steps
 
-**1. Observations**
-State only what is factually, observably true — what a camera could record. "In the last three sprint planning meetings, I wasn't included." No interpretation, no attribution of intent. If the other person could argue with the statement as a fact, it's not an observation — it's an interpretation.
+### 1. Observations
+State what happened as a factual, objective observation — something you could photograph or video record. No interpretation, no blame.
 
-**2. Feelings**
-Express your emotional response without blame. "I felt anxious." "I felt confused." Not "I felt like you were ignoring me" — that's a thought, not a feeling. The test: a feeling ends in a single emotion word. If you say "I feel *like*" or "I feel *that*" — you're probably about to make an accusation. Feelings must not include "you" or assign blame.
+**Good**: "In the last three sprint planning meetings, you didn't invite me or share the roadmap with me."
+**Bad**: "You keep leaving me out of decisions." (This is interpretation/judgment)
 
-Why it matters: professionals have feelings. Ignoring them doesn't make them disappear — they bubble up unconsciously. Naming feelings allows the other party to empathize rather than defend.
+Ask yourself: "Could I take a picture of this?" If not, it may be an interpretation rather than an observation.
 
-**3. Needs**
-Name the universal human needs at stake — not requirements of the other person, just what you need. "I have a need for clarity." "I have a need for collaboration." "I need to feel respected in decision-making." This step helps the other person understand what's actually going on beneath the surface, without yet asking them to do anything.
+### 2. Feelings
+Express your emotional response without blame or assumption. Use actual emotion words — not "I feel like you're being a jerk" (that's a thought about the other person, not a feeling).
 
-**4. Request**
-Make a small, specific, achievable ask. "I'd like to ask that next time you have sprint planning, you include me as optional or send me the roadmap afterward." The request is an olive branch — something simple enough for the other person to easily succeed at, which creates a bridge rather than a demand.
+**Good**: "I felt anxious and confused."
+**Bad**: "I felt like you were excluding me on purpose." (Blame embedded in the "feeling")
 
-The other person doesn't have to comply. They may offer a counter-proposal. But by this point, mutual understanding is in place, and the conversation can proceed without defensiveness.
+Test: after "I feel," is there an emotion word (anxious, confused, frustrated, hurt, overwhelmed)? Or is there "like" or "that" followed by a statement about the other person?
 
-## How to Apply
+### 3. Needs
+Identify and express the universal human need that underlies your feelings. This is not a request — it's just helping the other person understand your underlying motivation.
 
-Print the four steps and keep them visible. Before a difficult conversation:
-- Write out your observations (facts only — remove all interpretations)
-- Identify the emotion you actually feel (check: is this a feeling or a thought?)
-- Name the need underneath (what universal need is not being met?)
-- Craft a small, concrete request
+**Good**: "I have a need for clarity and collaboration. I need to feel connected to the work my team is doing."
 
-In conversation: share in order. Don't skip to the request. The emotions and needs are what create empathy; without them, the request sounds like a demand.
+Universal needs include: clarity, collaboration, recognition, autonomy, connection, safety, fairness, understanding.
 
-After you've shared your side: ask if the other person is open to sharing theirs. "Does that make sense? Would you be willing to share your perspective?" Once you're vulnerable, they usually will be too.
+### 4. Request
+Make a small, specific, achievable request — something the other person can actually do. The request should be an "olive branch" that makes it easy for the other person to take a step toward you.
+
+**Good**: "I'd like to ask you to include me as optional in the sprint planning meeting next week, or send me the roadmap document after you've aligned."
+**Not a request**: "I just want you to include me." (Vague)
+
+Important: the other person can say no to your request, or make a counter-proposal. That's fine — the goal is conversation, not compliance. If they understand your feelings and needs (steps 2 and 3), they're more likely to want to help even if your specific request isn't feasible.
+
+## Application
+
+Use NVC when something is not working in a relationship and you need to address it directly. It's particularly powerful when:
+- You've been avoiding a conversation because you're afraid of it
+- The other person tends to get defensive when you raise concerns
+- You're the less powerful party (addressing a peer or superior)
+- The relationship matters and you want to preserve it
+
+**Combine with humility**: Rachel emphasizes that no communication model works without entering the conversation with genuine curiosity about the other person's experience. "There is always something we're doing to contribute to the conflict, even if it feels like the other person is insane." Ask yourself (Jerry Colonna's question): "How am I complicit in creating the conditions I say I don't want?"
+
+**In practice**: write out your observation, feelings, needs, and request before the conversation. Having them explicit prevents you from reverting to blame under pressure.
 
 ## Sources
 
-- [[rachel-lockett]] — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
-
-## See Also
-
-- [[grow-model]]
-- [[conscious-leadership]]
-- [[radical-candor]]
-- [[observable-facts-feedback]]
+- [[guests/rachel-lockett]] — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
+- Original source: Marshall Rosenberg, *Nonviolent Communication: A Language of Life*

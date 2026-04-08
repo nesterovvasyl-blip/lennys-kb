@@ -1,97 +1,87 @@
 ---
 guest: Raaz Herzberg
 role: CMO and VP Product Strategy, Wiz
-episode: "Building Wiz: the fastest-growing startup in history"
+episode: "Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)"
 date: 2024-11-17
-topics: [product-market-fit, b2b-sales, marketing, brand, startup-growth, cloud-security]
+topics: [product-market-fit, marketing, b2b-sales, startup-growth, culture, leadership]
 ---
 
 # Raaz Herzberg
 
-> CMO and VP of Product Strategy at Wiz — the fastest-growing software startup in history — who pivoted from engineer to PM to CMO by following the heat.
+> The first product manager at Wiz who pivoted the company to cloud security, then became CMO — proving that deep product and domain knowledge can trump traditional marketing experience.
 
 ## Bio
 
-Raaz Herzberg was one of the first employees at Wiz (joining around employee #7), serving as the first product manager. Before Wiz, she led security products at Microsoft including Azure Sentinel. With a background as an engineer who moved into product, Raaz took an unconventional path to become CMO when Wiz's CEO Assaf asked her to lead marketing two and a half years into the company's life. Wiz hit $100M ARR in 18 months — the fastest growth in software history — and has grown to over $500M ARR with about 50% of Fortune 100 companies as customers.
+Raaz Herzberg is CMO and VP of Product Strategy at Wiz, the fastest-growing software company in history ($100M ARR in 18 months). She joined as the first product manager when the founders were still searching for a product direction, helped identify the pivot to cloud security that led to explosive growth, and was later asked to lead marketing despite no prior marketing experience. Before Wiz, she led security products at Microsoft, including Azure Sentinel.
 
-### Finding Product-Market Fit at Wiz
+## Key Ideas
 
-Wiz started as "Beyond Networks" focused on network security — not cloud security. In the early days of COVID, the founding team ran 10–15 customer calls per day. Raaz noticed that despite finishing calls with people saying "sounds interesting," she couldn't articulate what they were actually building. She raised this openly, which catalyzed a five-hour founders' discussion that led to pivoting to cloud security.
+### Finding Product-Market Fit: Looking for Pull, Not Affirmation
 
-The signal that the new direction worked: the *type* of questions changed. Instead of "sounds interesting," customers started asking "how are you pricing this?", "when can we start a POV?", and "I know exactly who I need to connect you to." These pull signals — customer initiative rather than polite enthusiasm — validated the pivot.
+Wiz started as "Beyond Networks" focused on network security. In the early weeks, the team held 10-15 customer calls per day. Raaz describes the dangerous trap: customers were polite and said "sounds interesting," but the team was listening for affirmation rather than signals of genuine need. The turning point came when she admitted she didn't actually understand what they were building — and this confession opened a five-hour founding team discussion that led to pivoting to cloud security.
 
-Key lesson from the Wiz pivot:
-- **Look for pull, not just positive responses.** Polite interest from smart people is meaningless. Real enthusiasm shows up as customers asking about price, requesting next steps, and filling out detailed questionnaires overnight.
-- **The dummy check.** Raaz's habit of saying "I don't understand" — which felt embarrassing at the time — turned into the question that unlocked the entire company's direction. If you can't explain what you're building simply, you probably haven't figured it out yet.
+After the pivot, the signal change was unmistakable. Instead of "sounds interesting," calls ended with: "How much does this cost? When can we start a POV? Let me connect you to my security team." Raaz articulates the core lesson: look for *pull*, not just interest. Proof of pull is customers doing hard things they don't have to do — like filling out a lengthy technical questionnaire the day after you send it.
 
-### From PM to CMO: Following the Heat
+> "When it works, it works, and you do know when it works. Don't be too afraid to get the pull from the customer. It's okay. You need that pull from the other end."
 
-Wiz's challenge, two years in: they were winning every POV, but losing deals because customers had already signed with a competitor before hearing about Wiz. The problem was brand and awareness.
+### The Heat Map: Where Organizational Energy Should Flow
 
-Raaz describes company-building as heat moving between functions:
-1. **Early days**: Heat is in product — what are we building?
-2. **After product**: Heat moves to engineering — build it.
-3. **After engineering**: Heat moves to sales — close deals.
-4. **After sales**: Heat moves to marketing — create pipeline and awareness.
+Raaz describes how the "heat" in an organization naturally shifts as a startup scales:
 
-She took the CMO role without any marketing background, spending a weekend talking to CMOs and listening to podcasts to understand the domain. Her unfair advantage: deep knowledge of the customer (CISOs), the market, and the product.
+1. **Product kitchen**: Everyone waiting to know what to build
+2. **Engineering**: Build the thing now that demand is identified  
+3. **Sales**: Close the deals, grow the pipeline
+4. **Marketing**: Create awareness so sales has people to close
 
-### Marketing as Opposite of Product
+She moved from product to marketing because she followed the heat — she goes where the critical bottleneck is. At the point she took over marketing, Wiz was winning every POV it entered, but customers kept saying "I wish I'd heard of you before I signed with your competitor." Awareness was the constraint.
 
-One of Raaz's core insights from moving from product to marketing: the risk calculus is opposite.
+### Contrarian Marketing: The Dummy Explanation
 
-In product, adding a feature has compounding costs — engineering time, product complexity, maintenance, and technical debt. Mistakes are hard to reverse. **In marketing, there's almost no cost to experimentation.** A bad LinkedIn video just disappears tomorrow. This realization unlocked her approach: try everything, make noise, keep changing.
+As a non-traditional marketer (engineer → PM → CMO), Raaz brought two key product insights to marketing:
 
-At RSA (the "Super Bowl" of cybersecurity), she replaced the standard dark-and-brooding security booth with a full Wizard of Oz theme — Dorothy, actors, bright colors. Booth traffic increased 5x versus the prior year. This led to Wiz adopting pink and bright blue branding in a category defined by red-and-black fear marketing.
+**Marketing is low-cost experimentation**: Unlike product where every feature adds technical debt forever, a marketing campaign that flops is just gone. This freed her to try anything. Her first major move: turn the RSA cybersecurity conference booth into a Wizard of Oz theme at a show dominated by dark hoodies and red/black color schemes. Visitor count was 5x the prior year.
+
+**The dummy explanation**: She constantly reminds herself and her team that they live in a "Wiz bubble." Customers don't live in that bubble. Every piece of communication should be understandable without assumed knowledge. Example: Wiz's core technology is built on a graph database — but writing "Wiz Graph Database" in external comms assumes knowledge nobody outside Wiz has. She also shifted Wiz's brand from dark/scary (typical for cybersecurity) to pink, bright blue, optimistic — standing out visually in a fear-dominated category.
+
+> "You are the only one that is sick of it. Your customers are just learning what you put there 10 months ago."
 
 ### Why CMOs Often Fail
 
-Raaz's diagnosis: CMOs need two things traditional external hires rarely have:
-1. **Deep trust with the founding team** — everything marketing does is visible and touches the brand the founders care about most. One bad ad breaks the trust.
-2. **Deep connection to the product and market** — especially in technical markets, you can't market what you don't viscerally understand.
+Raaz identifies two structural reasons CMOs struggle: (1) they lack deep trust with the founding team, and marketing touches things the founders care deeply about — one bad ad can break that trust; (2) they don't have deep enough connection to the product and the market. She believes it's nearly impossible to be a successful CMO at a highly technical company without coming from that domain — you can't truly know what messages will resonate with a CISO audience if you haven't lived in that world.
 
-### The Dummy Explanation
+### Embracing Failure and the Imposter Mindset
 
-In marketing and communications, Raaz constantly fights the "bubble problem": her team lives inside Wiz every day, while customers are just starting to learn about it. Principles she applies:
-- Never assume customers know your jargon or product terminology
-- Resist updating brand/messaging just because *you're* tired of it — customers are still learning the old version
-- Google what customers actually search for ("cloud security solution"), not what your engineers call it ("CNAP")
+Raaz offers a contrarian take on imposter syndrome: rather than trying to build confidence and eliminate the feeling, embrace it. Almost everything she's done — joining Wiz, moving to marketing — she was pretty sure she'd fail at. "If you think you're not good enough, perfect. That's on them, to not accept you. Give yourself the opportunity."
 
-### Founder-Selling and Early Sales
+Her philosophy: friction is good. Her mother taught her to "brush harder where there's a little blood" — push most into the areas where you're least confident.
 
-Wiz's founders — including Raaz — closed the company's first several million ARR themselves before hiring salespeople. This is something she recommends: if founders can't sell it, a salesperson won't magically fix it. Doing it yourself builds deep learning, and when you do hire, you can credibly say "we already sold $2M of this."
+## Frameworks
 
-### Contrarian Takes
+### Selling Before You Have a Sales Team
 
-- **Embrace being an imposter** — rather than fighting imposter syndrome by building confidence, Raaz embraces it. "I feel like an imposter, and I'm going to attempt this anyway. Let them find out." This removes the barrier to taking on roles outside your background.
-- **Friction signals commitment** — from sending difficult questionnaires to prospects to making herself do uncomfortable things as a child, Raaz sees friction as validation of real interest.
+Wiz's founding team closed the first few million ARR in sales themselves before hiring their first salesperson. Raaz frames this as essential learning: if founders can't sell it, a hired salesperson won't magically solve it. Selling yourself teaches you what actually resonates, builds the conviction that future salespeople can draw on, and creates a forcing function to understand what customers actually want.
+
+## Key Quotes
+
+> "I think naturally, as human beings, you want to get affirmation from the other side. So you have a bias to look for affirmation, versus a bias to look for what you don't want to hear." — Raaz Herzberg
+
+> "If you can't do it one time end to end, and you're the core group — the chances of just bringing somebody from the outside to solve that problem is wishful, in some ways." — Raaz Herzberg
+
+> "Friction is good. If you brush your teeth and there's a bit of blood somewhere, then you need to brush harder there." — Raaz Herzberg (paraphrasing her mother)
+
+> "I feel like an imposter, and I know there's always those statistics about many people feeling that way. So maybe just — embrace it." — Raaz Herzberg
 
 ## Actionable Advice
 
-- In B2B discovery: listen for questions about price and next steps, not just "sounds interesting"
-- Use the "dummy explanation" test — if you can't explain it simply, you haven't figured it out
-- Follow the heat in the organization — put your best people where the company most needs to unlock the next stage
-- In marketing, experiment aggressively — there's no technical debt or maintenance cost
-- Founders should close the first $1–2M ARR themselves before hiring salespeople
-- Ask yourself: "If something is too complex to explain, maybe it's not the right solution yet"
+- In early customer discovery, listen for questions about pricing and next steps, not just "sounds interesting"
+- When you find PMF, create hurdles for potential customers to qualify their commitment — genuine enthusiasm means they'll clear them
+- Founders should close the first few million ARR before hiring salespeople
+- Follow the heat in your organization — move to where the critical bottleneck is
+- In marketing, try everything — unlike product, bad marketing leaves no legacy costs
+- Communicate from outside your own bubble; what's obvious inside isn't obvious to customers
 
-## Notable Quotes
+## Related Pages
 
-> "I think naturally, as human beings, you want to get affirmation from the other side. You have a bias to look for affirmation, versus a bias to look for what you don't want to hear."
-
-> "We would come to a customer, and they would be like, 'Oh, I wish we heard of Wiz, we just signed with a competitor,' which it breaks your heart, because I know they would have chosen me, had they heard about me in time."
-
-> "If you build a company with the right type of culture, it's not a shame to say 'I don't understand, or please explain again.'"
-
-> "Marketing is quite the opposite of product. If tomorrow I post a video that nobody likes — nothing happened. Tomorrow, I'll post a different video, no maintenance, bye-bye."
-
-## Sources
-
-- [[raaz-herzberg]] — "Building Wiz: the fastest-growing startup in history"
-
-## See Also
-
-- [[product-market-fit]]
-- [[word-of-mouth-growth]]
-- [[b2b-buyer-indecision]]
-- [[category-creation]]
+- [[concepts/product-market-fit]]
+- [[concepts/word-of-mouth]]
+- [[frameworks/product-market-fit-engine]]

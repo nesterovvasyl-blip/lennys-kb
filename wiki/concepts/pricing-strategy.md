@@ -1,7 +1,7 @@
 ---
 concept: Pricing Strategy
 aliases: [monetization strategy, pricing and packaging, value-based pricing]
-guests: [naomi-ionita, patrick-campbell, paul-adams]
+guests: [naomi-ionita, patrick-campbell, paul-adams, rahul-vohra]
 date_added: 2026-04-08
 ---
 
@@ -66,11 +66,26 @@ Adams' perspective from Intercom's decade-long pricing evolution:
 
 **Pricing is deceptively difficult design**: As hard as onboarding. Easy to think it's just setting a number; extremely hard to execute well. Treat it with the same rigor as core product design.
 
+### Rahul Vohra (Superhuman)
+
+Vohra's rule: **position first, then price**. You cannot pick the right price point without knowing what your product stands for. Superhuman's position was "the fastest email tool on the market, built for high-performing teams and individuals." Only after establishing this position could pricing follow logically.
+
+**Van Westendorp Price Sensitivity Model**: Vohra asked ~100 early users four questions:
+1. At what price would it be so expensive you wouldn't consider buying it?
+2. At what price would it be so cheap you'd worry about quality?
+3. At what price would it start to feel expensive (but you'd still consider it)?
+4. At what price would it be a bargain?
+
+Most startups target price point #4 (bargain). Superhuman targeted #3 (starts to feel expensive but worth it). The median answer to question #3 was $30/month — and that became their price. This aligned with premium positioning and the ROI story (saving 4+ hours per week × hourly rate > $30/month easily for professionals).
+
+**Market size sanity check**: Once a price is chosen, verify the market math. At $30/month with a 10x ARR multiple for a $1B valuation, you need $100M ARR → 300,000 subscribers. Vohra asked: can we get there without additional tricks (no upsell, no enterprise premium)? Yes. So the price held.
+
 ## Sources
 
 - [[guests/naomi-ionita]] — How to price your product | Naomi Ionita (Menlo Ventures)
 - [[guests/patrick-campbell]] — 10 lessons on bootstrapping a $200m business
 - [[guests/paul-adams]] — What AI means for your product strategy
+- [[guests/rahul-vohra]] — "Superhuman's secret to success | Rahul Vohra (CEO and founder)"
 
 ## See Also
 

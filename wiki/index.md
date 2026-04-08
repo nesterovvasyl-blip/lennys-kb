@@ -205,6 +205,16 @@
 - [Paige Costello](guests/paige-costello.md) — Head of Core Product Asana; asking right questions, projecting confidence, winning skeptics
 - [Patrick Campbell](guests/patrick-campbell.md) — Founder ProfitWell ($200M exit); pricing, retention, bootstrapping, tactical churn reduction
 - [Paul Adams](guests/paul-adams.md) — CPO Intercom; AI product strategy, differentiation vs. table stakes, JTBD
+- [Paul Millerd](guests/paul-millerd.md) — Author The Pathless Path; redefining success, life design, work identity, creator economy
+- [Pete Kazanjy](guests/pete-kazanjy.md) — Author Founding Sales; founder-led sales, early GTM, hiring first sales reps
+- [Peter Deng](guests/peter-deng.md) — GP Felicis, ex-VP Product OpenAI/Instagram/Facebook; five PM archetypes, data flywheel, AI product hiring
+- [Petra Wille](guests/petra-wille.md) — Product leadership coach, author Strong Product People; PMwheel, coaching PMs, product storytelling
+- [Phyl Terry](guests/phyl-terry.md) — Author Never Search Alone; job search councils, candidate-market fit, asking for help
+- [Raaz Herzberg](guests/raaz-herzberg.md) — CMO/VP Product Strategy Wiz; fastest-growing startup, PMF, marketing-product alignment
+- [Rachel Lockett](guests/rachel-lockett.md) — Executive coach; GROW model, NVC, burnout zone-of-genius, difficult conversations
+- [Rahul Vohra](guests/rahul-vohra.md) — Founder/CEO Superhuman; PMF engine, word-of-mouth, game design for products, pricing
+- [Ramesh Johari](guests/ramesh-johari.md) — Stanford professor; marketplace dynamics, two-sided platforms, experimentation, rating systems
+- [Ravi Mehta](guests/ravi-mehta.md) — Co-founder Outpace, ex-CPO Tinder; product strategy stack, PM archetypes, startup vs. big-co
 
 ## Frameworks
 
@@ -308,6 +318,16 @@
 - [Indistractable Framework](frameworks/indistractable-framework.md) — Nir Eyal's system for managing distraction: traction vs. distraction, timeboxing, identity
 - [Workflow Quadrant](frameworks/workflow-quadrant.md) — Oji Udezue's framework: map problems by workflow compression and zone of benefit to find unicorn opportunities
 - [Pendulum Swinging](frameworks/pendulum-swinging.md) — Paul Adams: product strategy oscillates between extremes; recognize the cycle to avoid overcorrection
+- [Candidate Market Fit](frameworks/candidate-market-fit.md) — Phyl Terry: treat job search like PMF — find roles where your skills are uniquely valued
+- [Five PM Archetypes](frameworks/five-pm-archetypes.md) — Peter Deng: Growth, Product Quality, Platform, Founding, and Core PM archetypes
+- [Founder-Led Sales](frameworks/founder-led-sales.md) — Pete Kazanjy: structured playbook for founders doing early sales before hiring a team
+- [GROW Model](frameworks/grow-model.md) — Goal-Reality-Options-Will coaching framework applied to product leadership
+- [Job Search Council](frameworks/job-search-council.md) — Phyl Terry's peer accountability group for job seekers: small group meets weekly, shares leads
+- [Nonviolent Communication (NVC)](frameworks/nonviolent-communication.md) — Rosenberg's observations-feelings-needs-requests model for difficult conversations
+- [The Pathless Path](frameworks/pathless-path-framework.md) — Paul Millerd's framework for building a life around work that is intrinsically motivating
+- [PMwheel](frameworks/pm-wheel.md) — Petra Wille's competency map: eight skills of strong product people
+- [Superhuman PMF Engine](frameworks/product-market-fit-engine.md) — Rahul Vohra's quantitative PMF survey: "very disappointed" threshold at 40%
+- [Product Strategy Stack](frameworks/product-strategy-stack.md) — Ravi Mehta: vision → strategy → goals → roadmap hierarchy with feedback loops
 
 ## Concepts
 
@@ -387,6 +407,9 @@
 - [Sharp Problem](concepts/sharp-problem.md) — Oji Udezue: a product problem that's specific, measurable, and worth solving
 - [Tactical Retention](concepts/tactical-retention.md) — Patrick Campbell: cancellation flows, payment failure recovery, and other mechanical churn reducers
 - [Word of Mouth](concepts/word-of-mouth.md) — Nilan Peiris's WOM flywheel: product quality → NPS → referral loops
+- [Asking for Help](concepts/asking-for-help.md) — Phyl Terry: structured help-seeking as career superpower; vulnerability enables peer support
+- [Data Flywheel](concepts/data-flywheel.md) — Peter Deng: proprietary data advantage compounds over time; AI products require data moats
+- [Marketplace Dynamics](concepts/marketplaces.md) — Ramesh Johari: liquidity, two-sided matching, rating systems, thick vs. thin markets
 
 ## Topics
 

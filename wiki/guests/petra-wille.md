@@ -3,109 +3,89 @@ guest: Petra Wille
 role: Independent Product Leadership Coach; Author, Strong Product People
 episode: "How to be the best coach to product people | Petra Wille (Strong Product People)"
 date: 2022-11-27
-topics: [product-management, leadership, coaching, storytelling, community, career-development]
+topics: [product-management, coaching, product-leadership, storytelling, community, career-development]
 ---
 
 # Petra Wille
 
-> Independent product leadership coach based in Hamburg, Germany, who has directly coached 130+ product leaders and shaped ~50,000 product professionals through her book, workshops, and community work.
+> Independent product leadership coach and author of Strong Product People who has worked with over 130 product leaders and influenced an estimated 50,000+ product people through coaching, writing, and community building.
 
-## Content
+## Bio
 
-Petra Wille has been coaching product teams since 2013. Her work focuses specifically on the **middle layer** of product organizations — first-line managers, directors, and product team leads — who have the most day-to-day impact on PM development but are often undertrained. Her book *Strong Product People: A Complete Guide to Developing Great Product Managers* covers how to coach PMs across all dimensions of the role. She also organizes local product events in Hamburg (the Product Engage conference) and has run extensive research on communities of practice in product organizations.
+Petra Wille is an independent product leadership coach based in Hamburg, Germany. Since 2013, she's been helping product teams expand their skill sets. She works primarily with product leads and first-line managers — directors, heads of product, CPOs at smaller companies — who often come from non-product backgrounds and need to develop both product craft knowledge and coaching skills. Her book Strong Product People: A Complete Guide to Developing Great Product Managers is available on Amazon. She also organizes product events in Hamburg and is a prolific speaker and writer. She estimates she has reached 50,000+ product people through her various channels.
 
-### The Five Ingredients of PM Coaching Excellence
+## Key Ideas
 
-The core framework from her book for product leaders who want to develop their PMs:
+### The Missing Middle Layer
 
-1. **A clear definition of "good"**: Know what a competent PM looks like in your specific context — articulate the skills, knowledge, and personality traits required. Most product leads have this as an implicit feeling; making it explicit is step one. (Use existing frameworks like the PMwheel, Marty Cagan's assessment, or the PM Daisy as starting templates, then customize heavily.)
+Petra's distinctive focus is on the "middle layer" of product leadership — first-line managers, directors, team leads — rather than ICs or senior executives. This layer is critically important because: (1) they interact with PMs every day and shape all day-to-day decisions, (2) many come from non-product backgrounds (engineering, marketing, data, business) and lack basic product management empathy, and (3) no one has curated their development, leaving ICs to learn everything alone without guidance.
 
-2. **Know where each PM is today**: Assess current capabilities — where are they strong, where are they developing? Combine with a vision of where they could be in the future, and identify the *next bigger challenge* that would stretch them toward that vision
+The meta-problem: if your manager has never been a product person, they can't point you to the right book or framework when you're struggling. They can't say "that problem has already been solved — here's the resource." This forces ICs into inefficient self-directed learning and means product communities and coaching become even more important.
 
-3. **Alignment on the vision**: Share your vision for each PM with them; often your vision opens up possibilities they hadn't considered for themselves. This requires explicit conversation, not just implicit assumptions.
+### The Eight-Legged Creature (PM Role Complexity)
 
-4. **A development plan**: This is mostly the PM's responsibility to author — you can't grow from someone else's branches. Your role is helping them identify the gap between their current profile and "good," and brainstorm concrete steps (books, talks, experiments, new responsibilities) that move them closer
+T-shaped isn't sufficient for PMs. The role requires deep competence across: understanding business and user problems, finding solutions, planning (roadmaps, goals), execution/delivery, listening and learning (qualitative + quantitative), iterating on shipped work, team dynamics/collaboration, personal growth, and agile ways of working. This is better captured as an "eight-legged creature" — many domains, all of which need to be developed over a career.
 
-5. **Follow-up**: The most underrated ingredient. A weekly or biweekly nudge — at the water cooler or in a one-on-one — asking "how's the development goal going?" is low effort but high return. Consistency beats intensity.
+### Five Ingredients for Being a Great PM Coach
 
-**Where to start**: Petra recommends starting with the development plan (step 4), not step 1. Most PMs already know something they want to improve — use that as an entry point. You don't need a complete competency framework before you start helping people grow.
+1. **Clear definition of "good"**: Have an explicit, written compass of what a strong PM looks like in your context — personality traits (hard to develop) and skills (coachable). Don't wait for company-wide alignment; start with your own team.
+2. **Know where each PM is today**: Assess current state. Identify the "next bigger challenge" that would stretch each person — write it down quarterly. When the opportunity arises, you'll recognize it.
+3. **Shared vision**: Have a conversation where you share your vision for their growth — they may not have thought that big. Align on where they're going and what success looks like.
+4. **Development plan**: This belongs to the PM, not the manager. You can't grow someone's branches. Help them define specific, actionable steps toward their goals — a book, a presentation, a new technique to try.
+5. **Follow-up and consistency**: Small nudges beat intensive reviews. A question at the water cooler ("how's your discovery practice going?") costs almost nothing and maintains momentum. Ask them how they want to be reminded.
 
-### The PMwheel
-
-Petra's framework for assessing PM capabilities across eight buckets:
-
-1. **Understand** — Can they identify the underlying problems users and the business actually have?
-2. **Find solutions** — Are they good at ideating solutions to those problems?
-3. **Plan** — Can they create roadmaps and goals that align the team?
-4. **Get it done** — Can they ship with their team (backlog items, execution)?
-5. **Listen and learn** — Can they gather and synthesize qualitative and quantitative data after launch?
-6. **Team** — Do they understand team dynamics, motivation, and how to work with groups rather than individuals?
-7. **Personal growth** — Are they intentionally investing in their own development?
-8. **Agile** — Do they understand the underlying values and principles of agile ways of working (not just the rituals)?
-
-Each bucket has 15+ framing questions. Petra recommends: self-assessment + line manager assessment + team member assessment to get a multi-perspective view.
+Starting point: don't wait for the perfect compass. Start with the development plan — PMs usually know what they want to improve first, and that's enough to get going.
 
 ### Storytelling for Product Leaders
 
-Storytelling is a career accelerator for PMs — not optional for advancement. Petra's core points:
+Two foundational truths about product storytelling: (1) it takes much more time than people think — Petra's rule of thumb is two weeks of work (1-2 hours/day) for a solid three-to-four-month team story; (2) great stories use natural language, not business jargon — jargon causes "banner blindness" and prevents emotional engagement.
 
-**The overlooked truth**: Great storytellers invest enormous amounts of time. A product vision story for the next quarter takes approximately **two weeks of part-time work** (one to two hours per day) to craft well. People underestimate this and wonder why their stories don't land.
+Practical technique: prepare your story in three lengths — a 75-second elevator pitch, a 6-minute stand-alone version, and an 80-minute deep presentation (TED talk length, chosen because of attention span research). Have both spoken and written versions. Use a proven story structure (Hero's Journey) and put either the team or the user at the center — make them the hero, describe the demons they must fight to reach a brighter future.
 
-**Use language that speaks to hearts and minds**: Avoid business jargon and three-letter abbreviations — people are blind to them. Use natural language: sensory details, emotional resonance, what their lives would feel like with the product built. This is physiologically different — it releases different neurochemicals than abstract business language.
+On public speaking nerves: start with small, friendly audiences (team meetings, local product meetups). Get feedback from strangers (polite but gap-spotting) and peers (harsh but accurate). Pre-stage calming technique: the "thymus tap" — softly tapping the chest — is Petra's preferred approach, with the Superman pose as an alternative.
 
-**Story structures that work**:
-- For team motivation: make *them* the hero, name the monsters they're fighting, paint the brighter future
-- For user stories: make the user the hero, describe how their world changes when the product exists
-- Hero's journey is a reliable framework even for product strategy stories
+### Community of Practice: The Underutilized Development Tool
 
-**Three lengths, four formats**: Every story should exist in:
-- A 75-second elevator pitch version
-- A 6-minute "before we start planning" version
-- An ~18-minute (TED-length) full version
-- Written, spoken, illustrated, and video formats (for async teams)
+Research finding: many product organizations have internal communities of practice but don't know about external communities (Product Tank, Mind the Product, Teresa Torres's community, Lenny's Slack). This isolation forces repeated reinvention.
 
-**Public speaking as career skill**: Getting promoted is harder without storytelling ability. You can compensate with a strong team, but it's a "career staller" to avoid developing this skill. Petra's advice for nervous speakers: start with very small, friendly audiences (your team, a product meetup of 30 people); get feedback from both strangers (polite, spot gaps) and peers (harsher, but know the domain).
+Why communities beat courses: they're cheaper, they create retention (people who are learning stay), they reduce the coaching burden on product leads, and they create real learning — explaining something to peers deepens understanding more than reading it alone.
 
-**Book recommendation**: Material from Nancy Duarte and Duarte Inc. for leadership storytelling.
+Signs of a healthy community: people are learning something new occasionally (not necessarily daily), relationships form and people enjoy being there, there's mutual contribution (not just consumption), and activity level is sufficient to sustain exchange.
 
-### The Power of Product Community
+Anti-metric: engagement for its own sake is a trap. Signal-to-noise ratio is a better measure of community health than raw activity.
 
-Petra's research finding: most product organizations have informal internal community but few PMs know about external product communities. The impact of finding a great community:
+## Frameworks
 
-- **Retention**: People stay at companies where they're learning and growing
-- **Reduced manager burden**: A healthy community of practice offloads people development work from individual product leads
-- **Cost efficiency**: Community is far cheaper than conferences or external training, yet delivers comparable learning
-- **Compounding quality**: Sharing what you've learned with others clarifies your own thinking
+### The PMwheel
 
-Signs a community is worth your time: you meet interesting people, you learn something new every few weeks, contribution feels natural, there's genuine mutual trust, and the community has active participation (not dead).
+Petra's framework for assessing PM development across eight domains: (1) Problem understanding (user + business), (2) Solution finding, (3) Planning (roadmaps, goals), (4) Get it done (delivery, backlog, engineering partnership), (5) Listen and learn (qualitative + quantitative, post-launch iteration), (6) Team (collaboration, motivation, team dynamics), (7) Personal growth (self-directed development), (8) Agile (understanding principles, not just rituals).
 
-**Warning on engagement as a metric**: Engagement is not the right success metric for communities. Signal-to-noise ratio is. A community with lower volume but higher quality discussions is more valuable than a noisy high-volume one.
+Each domain contains 15+ framing questions. Recommended use: self-assessment by the PM, followed by manager assessment, then optional peer assessment from teammates. The resulting picture identifies where to focus development energy.
 
-**For internal communities of practice**: Petra uses a "community canvas" framework — define purpose (which evolves with membership), articulate values, define success metrics, find good rituals and cadence, and distribute leadership. Communities that rest on one or two people's shoulders are not sustainable.
+Provenance: Petra created it to have a starting point for coaching conversations, especially when companies (who are paying for coaching) send PMs who show up without a clear agenda.
 
-### Actionable Advice
-- Start developing your PMs from wherever they are — don't wait for a perfect competency framework
-- Create quarterly development plans with your PMs; ask them to lead the authorship
-- Build a go-to list of 10–15 great coaching questions for one-on-ones; use them when you're unprepared
-- Ask "tell me about the last time you did X" in interviews — specific behavioral examples beat abstract answers
-- For storytelling: budget two weeks of part-time work for any major product story (vision, strategy)
-- Test your stories in spoken form first — it's easier to refine a story than a prototype
-- To build confidence in public speaking: start with your team, then product meetups of 30 people; always have a friendly face in the front row
+## Key Quotes
 
-### Notable Quotes
-> "It's not a role, it's a career being in product — there are so many things to learn and so many things to get good at."
+> "It's not a role, it's a career being in product — there are so many things to learn and so many things to get good at." — Petra Wille
 
-> "Getting promoted is way harder if you're not good in telling stories and rallying the team behind the shared goal."
+> "Consistency beats intensity. The smaller time investments on a weekly basis — for the PM's learning and for the lead's coaching — are more sustainable and more effective." — Petra Wille
 
-> "Consistency beats intensity."
+> "Getting promoted is way harder if you're not good at telling stories and rallying the team behind the shared goal. I would consider it a bit of a career staller if you don't reach a decent level of storytelling." — Petra Wille
 
-> "Engagement is maybe not the predominant success factor for a community."
+> "Use one template that is close to what you want to achieve, then heavily customize it." — Petra Wille (on PM assessment frameworks)
 
-## Sources
-- [[petra-wille]] — "How to be the best coach to product people | Petra Wille (Strong Product People)" (Lenny's Podcast, 2022-11-27)
+## Actionable Advice
 
-## See Also
-- [[product-management]]
-- [[personal-operating-manual]]
-- [[community-led-growth]]
-- [[product-ops]]
+- Keep a running list of "next bigger challenges" for each direct report — review quarterly; assign when opportunities arise.
+- Create your PM compass (definition of "good") even if the company hasn't created an official one — start with your team.
+- Start coaching conversations with development plans rather than assessments — PMs usually know what they want to work on.
+- Prepare a list of 10-15 great one-on-one coaching questions so you never show up empty-handed.
+- For storytelling: prepare three lengths — elevator pitch (75s), stand-alone brief (6min), and full presentation (80min).
+- For growing as a public speaker: start with team meetings or 30-person local meetups, get feedback from strangers and peers, and always have a friendly face in the front row.
+- Evaluate your community memberships by asking: am I occasionally learning something new? Do I enjoy the people? Am I contributing?
+
+## Related Pages
+
+- [[frameworks/pm-wheel]]
+- [[frameworks/five-ingredients-pm-coaching]]
+- [[concepts/community-led-growth]]

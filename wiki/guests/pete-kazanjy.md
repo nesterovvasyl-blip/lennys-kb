@@ -1,105 +1,88 @@
 ---
 guest: Pete Kazanjy
-role: Author, Founding Sales; Founder, Atrium and Modern Sales Pros
+role: Author, Founding Sales; Founder, Atrium & Modern Sales Pros
 episode: "Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)"
 date: 2022-12-15
-topics: [sales, founder-led-sales, b2b, hiring, go-to-market]
+topics: [sales, founder-led-sales, b2b, hiring, go-to-market, product-led-growth]
 ---
 
 # Pete Kazanjy
 
-> B2B sales expert and author of *Founding Sales* who came from a product management background and built two software companies — including Atrium, a data-driven sales management SaaS.
+> Author of the definitive guide to early B2B sales who learned everything by building two companies — and argues anyone can learn to sell.
 
-## Content
+## Bio
 
-Pete Kazanjy has a background in product marketing and product management (VMware, then TalentBin), not traditional sales. After acquiring TalentBin, he wrote *Founding Sales: The Early Stage Go-to-Market Handbook* — the book he wished had existed when he started. He also founded Modern Sales Pros, a 30,000-member community for sales operations and leadership, and launched Atrium, a SaaS company for data-driven sales management.
+Pete Kazanjy started his tech career at VMware in product marketing and product management, then founded TalentBin (a recruiting software company acquired by Monster Worldwide in 2014). He wrote Founding Sales: The Early Stage Go-to-Market Handbook — the book he wished had existed — which is available in full online at foundingsales.com. He also runs Modern Sales Pros, an invite-only community of 30,000+ sales operations and leadership professionals, and founded Atrium, a data-driven sales management software company.
 
-### Why Founders Must Do Sales First
+## Key Ideas
 
-The core thesis of *Founding Sales*: founders cannot outsource sales before they've done it themselves. Reasons:
+### Why Founders Must Sell First
 
-1. **Product feedback loop**: Early sales conversations reveal whether the problem is real and whether the solution resonates — insights lost if mediated by a third party
-2. **Message development**: Only by doing the conversations yourself can you figure out how to talk about your product effectively
-3. **The "while loop" you need to package**: Scaling B2B means adding salespeople who run your playbook — you can't package what you haven't built and tested yourself
-4. **Subject matter advantage**: As a founder you are likely the world's greatest expert on your specific problem; no hired rep can match that early on
+The canonical B2B progression is: (1) validate the problem, (2) build the minimum feature set, (3) get someone to pay reliably. Step three can't be outsourced. The founder is the world's foremost expert on their problem domain — it's faster for them to learn to sell than to teach a third party the subject matter. Founders who skip this lose the feedback loop between customer response and product direction, creating a "telephone game" with reality.
 
-Steve Blank's observation: startups can't scale without firing their first VP of sales — usually because the founder hired a sales leader before building the repeatable "while loop" themselves.
+The corollary: this is why Steve Blank says "startups can't scale without firing their first VP of sales" — they skipped the founder-selling phase and hired before the motion was proven.
 
-The race: can innovation get to distribution before distribution gets to innovation? Founders are closer to the innovation side; learning to sell is faster than trying to teach someone else the innovation.
+### The "While Loop" of Sales
 
-### The Sales While Loop
+Pete frames a validated sales motion like software that runs reliably on your local machine. You don't deploy to production until it doesn't error out. Benchmark: can you reliably close 15-25% of qualified first meetings across 50-100 attempts? Only then is it safe to try to get the motion running in another person's brain.
 
-Pete's central metaphor: a B2B sales motion is like software you test and iterate. Every customer conversation is a chance to update the "source code" — update your slides when you get an objection you couldn't handle, refine your discovery questions when they're not surfacing the right pain, adjust your demo flow when it doesn't land. 
+When you hire the first rep, don't onboard 10 at once. Get 2 succeeding first, then scale to 4, then 8. This staged doubling forces you to fix each gap before amplifying it.
 
-The process:
-1. Run 50–100 "at-bats" (first meetings with arm's-length prospects — not your mother-in-law)
-2. Target a 15–25% win rate as the signal of repeatability
-3. Iterate your pitch, slides, demo, and objection handling after every round
-4. Only when it "runs reliably on your local machine" should you hire reps to see if it "runs in the cloud"
+### Leading Indicators in Sales
 
-### When to Hire Your First Sales Rep
+The mistake most founders make: waiting months for revenue data to judge sales performance. The solution: track leading indicators at each stage of the funnel. At Atrium:
+1. Are first meetings getting onto the calendar? (If not, you know within a month.)
+2. Of first meetings, what % get to second meetings?
+3. What % get to proposal?
+4. What % close?
 
-Key conditions:
-- You've closed 20–30 deals yourself from arm's-length prospects (not friends or warm intros)
-- You have a 15–25% win rate across a statistically meaningful sample
-- You've documented the process: slides, discovery questions, demo script, email templates
+Pete's analogy: if you're not getting second dates, you need a shower or a haircut — fix the problem at the earliest possible stage. The same logic applies to sales: diagnose the bottleneck at the most leading indicator.
 
-Why two reps, not one: with a single rep you can't distinguish individual failure from playbook failure. Two reps let you triangulate.
+### Modern vs. Old-School Sales
 
-Profile to hire: not a VP/Head of Sales, but "early-stage pioneer sellers" — people who were 2–3 years into a successful sales org at a comparable company (similar ACV, similar buyer persona). Someone like an early-stage AE at a competitor, not a current director of sales who hasn't been actively selling.
+Old-school sales is "selling ice to an Eskimo." Modern sales is: be a consultant who has a particular predilection for your solution. Go find people who almost certainly have the problem you solve, then through directed discovery questions, make that pain visible — and then reveal that you happen to represent the solution. Good sellers don't manipulate; they match supply to demand at scale and make the economy function better.
 
-### Leading Indicators vs. Lagging Indicators
+### Hiring the First Salesperson
 
-Don't just track deals closed (lagging). Track the full funnel:
-- Are they getting first meetings? (Month 1 signal)
-- Are 50%+ of first meetings converting to second meetings? ("Getting second dates")
-- Are proposals progressing to commercial conversations?
-- What does email activity look like?
+Don't hire a VP of sales first. Hire 2 early-stage "pioneer sellers" who are willing to work from a messy playbook. Look for people 2-3 years into their career at a closely analogous company (similar ICP, similar ACV) — not managers of managers, but recent sellers who are not far from the craft. 
 
-You can know within a month if someone isn't getting first meetings at all. You should know within two to three months if the funnel is broken at a specific stage. Waiting nine months is too long — "you would've known two months in."
+The job simulation / written screen is better than traditional interview questions: give candidates a Google Doc with 12 biographical questions ("tell me about something you built that you're proud of"). 57% won't complete it — useful signal. The rest reveal whether they can communicate with structure, attention to detail, and genuine give-a-shit.
 
-### Modern Sales vs. Old Sales
+### Remote is Bad for Junior Sales Reps
 
-Old sales: "I'm going to sell something to a mark; I can sell ice to an Eskimo."
+Senior sellers who have run for years in the field can succeed remotely. But junior reps learn through osmosis — sitting near other reps, getting live corrections from a manager immediately after a call, not 24 hours later via async Loom. The correction loops are too slow remotely, and there's a generation of SDRs who've been robbed of these learning environments.
 
-Modern sales: you're a consultant with a predilection for a particular solution. You go out and find people who *actually have the problem your product solves*, use directed questioning (discovery) to help them surface and articulate that pain, and then reveal that you happen to have a solution. This means *not* selling to people who don't fit your ICP — Pete turns away Atrium prospects with fewer than 10 salespeople because they'd be unhappy and churn.
+## Frameworks
 
-### ICP Clarity as a Sales Superpower
+### Turbo Rapport
 
-ICP (Ideal Customer Profile) = the characteristics of accounts that are a great fit, plus the personas of the humans who participate in the buying decision.
+Build rapport by practicing with people who are used to being treated indifferently — bartenders, baristas, flight attendants. The goal: can you break through shields-up energy in 60-90 seconds? This transfers directly to sales, where the starting blocks position gives you a tight window to establish trust.
 
-Being extremely tight on ICP is one of the highest-leverage sales improvements: more time on the right conversations, less time on people who can't or won't buy. Most founders are too broad. Specificity in ICP lets you identify exactly which companies to target and which people to talk to within those companies.
+### ICP + Persona Clarity
 
-### Working In-Person for Early Reps
+ICP (Ideal Customer Profile) has two layers: (1) account-level attributes — industry, size, revenue model, tech stack; (2) persona-level attributes — who participates in the buying decision, who are the users vs. buyers vs. budget owners. Being extremely crisp on ICP is the highest-leverage non-behavioral improvement a founder-seller can make.
 
-Pete's strong opinion: junior salespeople need to be physically co-located with their manager and peers, especially in the first year. The feedback loops for sales behavior are so tight that asynchronous correction is far too slow. The learning happens in real-time coaching: listening to calls, giving immediate corrections, watching behavior.
+## Key Quotes
 
-This is a "learning loss" problem in the current remote-work era — a generation of SDRs and junior AEs have never developed skills at the pace they would have sitting shoulder-to-shoulder with experienced colleagues.
+> "The thing I just like to encourage founders and product managers is just don't be afraid of sales. Those people telling you it's magical or you've got to be a born seller are just talking their book." — Pete Kazanjy
 
-### Actionable Advice
-- Don't fear sales — it's a skill set, not a personality type; if Pete (a product person) learned it, anyone can
-- Practice "turbo rapport" in everyday life: make eye contact with strangers, start conversations at Starbucks or crosswalks
-- Track leading indicators, not just deals closed — it tells you faster whether something's working
-- Use a written screening questionnaire before interviews; filters out low-commitment candidates and assesses communication skills
-- Before hiring a rep, document everything in your brain: slides, scripts, discovery questions, demo flow, objection handling
-- Never mistake your lead-gen flywheel for your business — PLG without eventual sales leaves big ARR on the table
+> "Never mistake your lead gen for your business." — Pete Kazanjy (on PLG without sales)
 
-### Notable Quotes
-> "Don't be afraid of sales. Those people are just talking their book... just getting good at those behaviors, it's going to benefit you in a myriad of ways."
+> "If you're selling ice to an Eskimo, you're an asshole. What is wrong with you?" — Pete Kazanjy (on old-school sales tactics)
 
-> "You can't outsource that behavior — the founder's got to do that stuff."
+> "The Score Takes Care of Itself — if you focus on leading indicators and do them in a high quantity and high quality way, the score will take care of itself." — Pete Kazanjy (paraphrasing Bill Walsh)
 
-> "Never mistake your lead gen for your business."
+## Actionable Advice
 
-> "Are we getting second dates? Because if we're not getting second dates, probably something's amiss."
+- Do 50-100 at-bats before you evaluate whether your sales motion is validated; don't judge on 10.
+- After every sales conversation, update your "source code" — add a slide, refine a script, sharpen an answer.
+- When hiring the first rep: look for someone 2-3 years at an analogous company, still close to selling, not just managing.
+- Use a written screening doc with biographical questions — it filters for initiative, communication, and attention to detail.
+- Practice rapport-building daily in ordinary life (barista, elevator strangers) to develop the reflex.
+- For B2B PLG founders: read "The Transition: Layering on Sales to Product-led Growth" (Lenny's Newsletter / Pete Kazanjy).
 
-> "The score takes care of itself, if you do a high quantity of high-quality actions."
+## Related Pages
 
-## Sources
-- [[pete-kazanjy]] — "Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)" (Lenny's Podcast, 2022-12-15)
-
-## See Also
-- [[enterprise-sales-stages]]
-- [[product-led-growth]]
-- [[product-led-sales]]
-- [[b2b-buyer-indecision]]
+- [[concepts/product-led-sales]]
+- [[concepts/product-led-growth]]
+- [[frameworks/founder-led-sales]]
