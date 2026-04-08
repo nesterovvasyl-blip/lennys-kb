@@ -142,11 +142,13 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**254 / 303 episodes ingested** (last updated: 2026-04-08)
+**262 / 303 episodes ingested** (last updated: 2026-04-08) — ALL DIRECTORIES PROCESSED
 
 Full list: `wiki/ingested.md`
 
-Next batch starts at: **vijay** (alphabetically after varun-parmar)
+All 303 raw episode directories have been reviewed. 262 unique episodes ingested; remainder are duplicates or non-guest compilations (see skipped list in `wiki/ingested.md`).
+
+Next batch starts at: N/A — ingest complete. Next step: Topic Synthesis Pass (due: Batch 12 per schedule above).
 
 ## Commands
 

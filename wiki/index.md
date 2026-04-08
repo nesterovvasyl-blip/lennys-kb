@@ -253,6 +253,13 @@
 - [Uri Levine](guests/uri-levine.md) — Co-founder of Waze; fall in love with the problem, PMF timing data, crisis management, serial entrepreneurship
 - [Varun Mohan](guests/varun-mohan.md) — Co-founder/CEO Windsurf (Codeium); AI code editor, 1M+ developers in 4 months, pivoting to AI, high agency
 - [Varun Parmar](guests/varun-parmar.md) — CPO of Miro; AMPED org structure, PLG+enterprise, product culture, competitive strategy in collaboration tools
+- [Vijay Iyengar](guests/vijay.md) — Head of Product at Mixpanel; invest profits not people, core focus recovery, NPS from 16→50 through ruthless churn prioritization
+- [Vikrama Dhiman](guests/vikrama-dhiman.md) — Head of Product at Gojek; Three W's PM career framework, outputs→outcomes→direction progression, top PM leader in Asia
+- [Wes Kao](guests/wes-kao.md) — Co-creator altMBA, co-founder Maven; CEDAF delegation, MOO framework, executive communication and managing up
+- [Will Larson](guests/will-larson.md) — CTO at Carta, author of An Elegant Puzzle and Staff Engineer; engineering strategy, treat engineers like adults, writing as leadership
+- [Yuhki Yamashita](guests/yuhki-yamashata.md) — CPO of Figma; community-led growth, storytelling as PM skill, OKR criteria (legibility/actionability/authenticity)
+- [Yuriy Timen](guests/yuriy-timen.md) — Head of Growth at Grammarly/Canva/Airtable; subscription growth, three-box SEO framework, virality prerequisites
+- [Zoelle Egner](guests/zoelle-egner.md) — Early growth at Airtable; elevate a profession vs. create a category, CS-before-sales motion, champion-driven PLG
 
 ## Frameworks
 
@@ -391,6 +398,10 @@
 - [Accordion Method](frameworks/accordion-method.md) — Tristan de Montebello's talk preparation technique using time compression/expansion to internalize rather than memorize
 - [Bow and Arrow Method](frameworks/bow-and-arrow-method.md) — Tristan de Montebello's framework for designing any talk around one memorable takeaway (arrow) supported by weight (bow)
 - [AMPED Structure](frameworks/amped-structure.md) — Miro's cross-functional product org: Analytics, Marketing, Product, Engineering, Design embedded in each product stream
+- [CEDAF Delegation Framework](frameworks/cedaf-framework.md) — Wes Kao's structured delegation method ensuring clarity on Context, Expectations, Deliverables, Authority, and Feedback
+- [MOO — Most Obvious Objection](frameworks/moo-framework.md) — Wes Kao's technique: proactively address the most predictable pushback before your audience voices it
+- [Three W's PM Career Framework](frameworks/three-ws-pm-career.md) — Vikrama Dhiman's growth model: What you produce, What you bring to the table, What your operating model is
+- [SEO Three-Box Framework](frameworks/seo-three-box-framework.md) — Yuriy Timen's checklist for evaluating any SEO investment: editorial, programmatic, and data angles
 
 ## Concepts
 
@@ -495,6 +506,10 @@
 - [AI-First Product Development](concepts/ai-first-product-development.md) — Tomer Cohen: AI as strategic operating model; product leaders as algorithm owners; LinkedIn's diverge-then-converge AI transformation
 - [Fall in Love with the Problem](concepts/fall-in-love-with-the-problem.md) — Uri Levine: the problem is the North Star, the solution is a hypothesis; pivot solutions freely while keeping the problem constant
 - [Equanimity](concepts/equanimity.md) — Upasna Gautam: mental calmness under pressure as a core PM skill; the pause before reacting; developed through mindfulness practice
+- [Engineering Strategy](concepts/engineering-strategy.md) — Will Larson: written strategy as a debuggable, improvable artifact; every company has a strategy, most just haven't written it down
+- [Managing Up](concepts/managing-up.md) — Wes Kao: proactive communication with leadership to create alignment, build trust, and reduce surprises; a skill that compounds
+- [Storytelling for PMs](concepts/storytelling-pm.md) — Yuhki Yamashita: PMs as synthesizers and meme-makers; escaping the curse of knowledge; the "one thing" test for clarity
+- [Invest Profits, Not People](concepts/invest-profits-not-people.md) — Vijay Iyengar: when expanding product lines, use profit or capital — never divert engineers from the core, or you invite disruption
 
 ## Topics
 

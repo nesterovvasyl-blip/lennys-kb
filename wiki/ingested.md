@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (244 unique / 303 total)
+## Episodes (262 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -259,6 +259,13 @@
 253. uri-levine
 254. varun-mohan
 255. varun-parmar
+256. vijay
+257. vikrama-dhiman
+258. wes-kao
+259. will-larson
+260. yuhki-yamashata
+261. yuriy-timen
+262. zoelle-egner
 
 ## Skipped
 
@@ -267,6 +274,8 @@
 - april-dunford-20 (duplicate of april-dunford)
 - tomer-cohen-20 (duplicate of tomer-cohen, same YouTube URL R-zCfLQD_84)
 - uri-levine-20 (duplicate of uri-levine, same YouTube URL lQdogVBHMdA)
+- wes-kao-20 (duplicate of wes-kao, same video_id 4jtGsyz4jLs)
+- yamashata (duplicate of yuhki-yamashata, same video_id NepFo4zXyK4)
 
 ### Non-guest episodes
 - teaser_2021 (promo/teaser)

@@ -1,6 +1,6 @@
 ---
 aliases: [community-driven-growth, clg]
-guests: [camille-ricketts, claire-butler]
+guests: [camille-ricketts, claire-butler, yuhki-yamashata]
 ---
 
 # Community-Led Growth
@@ -57,9 +57,18 @@ The critical distinction from traditional brand ambassadors: Figma's advocates w
 
 Butler's second insight: community events built as *celebrations* rather than lead-gen events generate more loyalty. Figma's "Config" conference was designed to celebrate designers as a professional community — not to sell Figma. This distinction was visible to attendees and created a qualitatively different relationship between Figma and its community than typical vendor-sponsored events.
 
+### Yuhki Yamashita ([[yuhki-yamashata]]): Sales Empowers Champions, Not Replaces Them
+
+Yuhki (CPO at Figma) adds an operational perspective on how community-led growth integrates with a B2B sales motion. At Figma, the sales team doesn't generate demand — it amplifies the internal champions (designers who already love the product). Sales connects these advocates to the rest of their organizations and equips them with data, customer stories, and contacts to make a stronger internal case for broader deployment.
+
+The Friends of Figma program formalizes this community: passionate Figma users across geographies gather in a Discord channel, meet regularly, and are structurally supported by Figma. This program was a deliberate investment in creating conditions for champions to self-organize.
+
+Yuhki's prerequisite: the product must give users a *philosophical* cause to champion, not just a useful tool. "It's not just that they're championing for a tool, they're also championing for a new way of working." Controversy or resistance to that new way (e.g., "if this is the future of design, I'm quitting") is actually signal that you're part of a genuine movement — which makes advocacy more emotionally compelling.
+
 ## Sources
 - [[camille-ricketts]] — "Community-led growth is when your community helps you achieve such ubiquity and name recognition that it allows you to start moving upmarket." (How Notion leveraged community to build a $10B business)
 - [[claire-butler]] — "We didn't run Config as a sales conference. We ran it as a celebration of designers. That's what made people want to come — and what made them love Figma more when they left." (How Figma built a movement, not just a product)
+- [[yuhki-yamashata]] — "An inside look at how Figma builds product" (Friends of Figma program; sales-as-champion-enablement)
 
 ## See Also
 - [[camille-ricketts]]

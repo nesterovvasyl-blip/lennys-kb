@@ -1,6 +1,6 @@
 ---
 author: Christina Wodtke
-guests: [christina-wodtke]
+guests: [christina-wodtke, yuhki-yamashata]
 ---
 
 # OKRs (Radical Focus)
@@ -38,8 +38,26 @@ Christina Wodtke's "Radical Focus" approach to OKRs is the most practitioner-ori
 
 **Celebration is non-negotiable**: Weekly "what was the most awesome thing that happened this week?" builds momentum, belonging, and forward energy. Many teams see culture improvements from starting Friday celebrations weeks before they're ready to launch full OKRs.
 
+### Yuhki Yamashita's OKR Journey at Figma ([[yuhki-yamashata]])
+
+Yuhki (CPO at Figma) provides a candid case study of OKR failure modes and iteration in practice:
+
+**Phase 1 — to-do lists**: Teams treated OKRs as a checklist of tasks to complete by quarter end, not outcomes to move toward. Reviews became spreadsheet exercises where leaders couldn't understand what teams actually cared about.
+
+**Phase 2 — deprecated OKRs**: Yuhki removed OKRs entirely and asked teams for a "headline" — a philosophical statement of what they were trying to accomplish. No measurement requirements. Just clarity of direction. Less rigor, more comprehension.
+
+**Phase 3 — reintroduced OKRs with better data infrastructure**: After hiring a Head of Data, they brought OKRs back with more rigorous metrics. Better than before, but a new problem emerged: OKRs felt like "post-rationalizations of the projects you're working on anyway" rather than genuine commitments. Engineers couldn't recite their team's OKRs from memory.
+
+**Yuhki's three criteria for a good OKR** (regardless of what you call it):
+1. **Legibility** — anyone can understand what it means
+2. **Actionability** — it inspires specific action; you look at it and know what to do differently today
+3. **Authenticity** — it honestly describes what the team is actually doing, not a post-hoc rationalization
+
+His key insight: the name doesn't matter (OKRs, commitments, goals). What matters is whether people think about these targets on a daily basis and can articulate them without prompting.
+
 ## Sources
 - [[christina-wodtke]] — "The ultimate guide to OKRs | Christina Wodtke (Stanford)" (Radical Focus book)
+- [[yuhki-yamashata]] — "An inside look at how Figma builds product" (OKR failure modes and the three criteria)
 
 ## See Also
 - [[strategy]]
