@@ -328,6 +328,7 @@
 - [PMwheel](frameworks/pm-wheel.md) — Petra Wille's competency map: eight skills of strong product people
 - [Superhuman PMF Engine](frameworks/product-market-fit-engine.md) — Rahul Vohra's quantitative PMF survey: "very disappointed" threshold at 40%
 - [Product Strategy Stack](frameworks/product-strategy-stack.md) — Ravi Mehta: vision → strategy → goals → roadmap hierarchy with feedback loops
+- [Five Ingredients for PM Coaching](frameworks/five-ingredients-pm-coaching.md) — Petra Wille: context, trust, skill, will, and time as prerequisites for effective PM coaching
 
 ## Concepts
 
