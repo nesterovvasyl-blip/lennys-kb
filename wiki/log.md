@@ -2,6 +2,164 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 15 — Episodes shishir-mehrotra through tim-holley
+
+### Processed Episodes (10 unique, 10 attempted)
+1. **Shishir Mehrotra** — "The rituals of great teams"
+2. **Shreyas Doshi** — "The art of product management"
+3. **Shweta Shrivastava** — "Product lessons from Waymo"
+4. **Sri Batchu** — "Lessons from scaling Ramp"
+5. **Sriram Krishnan & Aarthi Ramamurthy** — "Hot takes and techno-optimism from tech's top power couple"
+6. **Stewart Butterfield** — "Mental models for building products people love"
+7. **Tamar Yehoshua** — "Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack"
+8. **Tanguy Crusson** — "Hard-won lessons building 0 to 1 inside Atlassian"
+9. **Teresa Torres** — "Build better products with continuous product discovery"
+10. **Tim Holley** — "Inside Etsy's product, growth, and marketplace evolution"
+
+### Skipped
+- **shreyas-doshi-live**: Duplicate of shreyas-doshi (same video_id YP_QghPLG-8)
+- **teaser_2021**: Promo/teaser, not a guest episode (already in skipped list)
+
+### Created
+- **Guests (10):** shishir-mehrotra, shreyas-doshi, shweta-shriva, sri-batchu, sriram-and-aarthi, stewart-butterfield, tamar-yehoshua, tanguy-crusson, teresa-torres, tim-holley
+- **Frameworks (9):** dory-pulse-ritual, eigenquestion-framework, lighthouse-users-program, lno-framework, opportunity-solution-tree, pre-mortem-framework, pshe-talent-framework, three-levels-product-work, wonder-explore-make-impact
+- **Concepts (6):** continuous-discovery, dont-make-me-think, high-agency, hyperrealistic-work-like-activities, owners-delusion, utility-curves
+
+### Updated
+- wiki/concepts/jobs-to-be-done.md — additional perspective
+- wiki/concepts/two-sided-marketplace-dynamics.md — Tim Holley's Etsy perspective
+
+## [2026-04-07] ingest | Batch 14 — Episodes sam-schillace through shaun-clowes
+
+### Processed Episodes (10 unique, 10 attempted)
+1. **Sam Schillace** — "How to be more innovative"
+2. **Sanchan Saxena** — "Why Uber's CPO delivers food on weekends"
+3. **Sander Schulhoff** — "AI prompt engineering in 2025: What works and what doesn't"
+4. **Sander Schulhoff (ep. 2)** — "Why securing AI is harder than anyone expected"
+5. **Sarah Tavel** — "The hierarchy of engagement"
+6. **Scott Belsky** — "Lessons on product sense, AI, the first mile experience, and the messy middle"
+7. **Scott Wu** — "Inside Devin: The AI engineer"
+8. **Sean Ellis** — "The original growth hacker reveals his secrets"
+9. **Seth Godin** — "Seth Godin's best tactics for building remarkable products, strategies, brands and more"
+10. **Shaun Clowes** — "Why great AI products are all about the data"
+
+### Skipped
+- None
+
+### Created
+- **Guests (10):** sam-schillace, sanchan-saxena, sander-schulhoff, sander-schulhoff-20, sarah-tavel, scott-belsky, scott-wu, sean-ellis, seth-godin, shaun-clowes
+- **Frameworks (5):** bricklayer-to-architect, hierarchy-of-engagement, hierarchy-of-marketplaces, ice-prioritization-framework, sean-ellis-test
+- **Concepts (4):** brand-as-promise, first-mile-experience, prompt-engineering, prompt-injection
+
+### Updated
+- wiki/concepts/jevons-paradox-software.md — Scott Wu's Devin/Cognition perspective
+- wiki/concepts/product-market-fit.md — Sean Ellis's 40% threshold context
+
+## [2026-04-07] ingest | Batch 13 — Episodes ray-cao through sahil-mansuri
+
+### Processed Episodes (9 unique, 10 attempted)
+1. **Ray Cao** — "Product management theater" (TikTok monetization)
+2. **Richard Rumelt** — "Good Strategy, Bad Strategy"
+3. **Robby Stein** — "Inside Google's AI turnaround: AI Mode, AI Overviews"
+4. **Roger Martin** — "5 essential questions to craft a winning strategy"
+5. **Ronny Kohavi** — "The ultimate guide to A/B testing"
+6. **Ryan J. Salva** — "The role of AI in new product development"
+7. **Ryan Singer** — "A better way to plan, build, and ship products"
+8. **Sachin Monga** — "Building Substack"
+9. **Sahil Mansuri** — "How to hit revenue targets in a recession"
+
+### Skipped
+- **ryan-hoover**: Mislabeled duplicate of ryan-singer — same video_id (GF-yUANql0c)
+
+### Created
+- **Guests (9):** ray-cao, richard-rumelt, robby-stein, roger-martin, ronny-kohavi, ryan-j-salva, ryan-singer, sachin-monga, sahil-mansuri
+- **Frameworks (4):** downturn-sales-playbook, good-strategy-kernel, r-and-d-to-product-transition (shape-up updated)
+- **Concepts (3):** ai-pair-programmer, sales-comp-alignment, substack-recommendations
+
+### Updated
+- wiki/frameworks/shape-up.md — Ryan Singer's deep-dive shaping mechanics
+- wiki/frameworks/playing-to-win-strategy.md — Roger Martin's additional perspective
+- wiki/concepts/experimentation-culture.md — Ronny Kohavi's A/B testing depth
+
+## [2026-04-07] ingest | Batch 12 — Episodes paul-millerd through ravi-mehta
+
+### Processed Episodes (10 unique, 10 attempted)
+1. **Paul Millerd** — "Redefining success, money, and belonging"
+2. **Pete Kazanjy** — "Founder-led sales"
+3. **Peter Deng** — "Peter Deng on product leadership"
+4. **Petra Wille** — "How to be the best coach to product people"
+5. **Phyl Terry** — "Land your dream job in today's market"
+6. **Raaz Herzberg** — "Building Wiz: the fastest-growing startup in history"
+7. **Rachel Lockett** — "A guide to difficult conversations, building high-trust teams, and designing a life you love"
+8. **Rahul Vohra** — "Superhuman's secret to success"
+9. **Ramesh Johari** — "Marketplace lessons from Uber, Airbnb, Bumble, and more"
+10. **Ravi Mehta** — "How to build your product strategy stack"
+
+### Skipped
+- None
+
+### Created
+- **Guests (10):** paul-millerd, pete-kazanjy, peter-deng, petra-wille, phyl-terry, raaz-herzberg, rachel-lockett, rahul-vohra, ramesh-johari, ravi-mehta
+- **Frameworks (8):** five-pm-archetypes, founder-led-sales-while-loop, grow-model, job-mission-okrs, nonviolent-communication, pm-competency-framework, pmwheel, product-strategy-stack, single-decisive-reason, superhuman-pmf-engine
+- **Concepts (3):** candidate-market-fit, game-design-principles, two-sided-marketplace-dynamics
+
+### Updated
+- wiki/concepts/creator-economy.md — Paul Millerd's Pathless Path perspective
+- wiki/concepts/enterprise-sales-stages.md — Pete Kazanjy's founder-led pre-stage
+- wiki/concepts/product-market-fit.md — Rahul Vohra's Superhuman PMF Engine
+- wiki/concepts/word-of-mouth-growth.md — Rahul Vohra's Superhuman WoM perspective
+
+## [2026-04-07] ingest | Batch 11 — Episodes nikita-bier through paul-adams
+
+### Processed Episodes (9 unique, 10 attempted)
+1. **Nikita Miller** — "Driving alignment within teams, work-life balance, and the changing PM landscape"
+2. **Nilan Peiris** — "How to drive word of mouth"
+3. **Nir Eyal** — "Strategies for becoming less distractible and improving focus"
+4. **Noah Weiss** — "The 10 traits of great PMs, AI, and Slack's approach to product"
+5. **Noam Lovinsky** — "The happiness and pain of product management"
+6. **Oji Udezue** — "Picking sharp problems, increasing virality, and unique product frameworks"
+7. **Paige Costello** — "How to ask the right questions, project confidence, and win over skeptics"
+8. **Patrick Campbell** — "10 lessons on bootstrapping a $200m business"
+9. **Paul Adams** — "What AI means for your product strategy"
+
+### Skipped
+- **nikita-bier**: Mislabeled duplicate — same video_id (4PhfAbRQpbI) as nikita-miller
+
+### Created
+- **Guests (9):** nikita-miller, nilan-peiris, nir-eyal, noah-weiss, noam-lovinsky, oji-udezue, paige-costello, patrick-campbell, paul-adams
+- **Frameworks (5):** complaint-storms, differentiation-vs-table-stakes, hooked-model, indistractable-framework, tempo-framework, workflow-quadrant, zone-of-benefit
+- **Concepts (4):** forest-time, nps-as-growth-lever, tactical-vs-strategic-retention, word-of-mouth-growth
+
+### Updated
+- wiki/concepts/velocity.md — Nikita Miller's velocity/output perspective
+- wiki/concepts/product-market-fit.md — Noah Weiss's S-curve PMF framing
+- wiki/concepts/word-of-mouth-growth.md — Noah Weiss's Slack perspective merged in
+- wiki/concepts/conscious-leadership.md, freemium-subscription.md, jobs-to-be-done.md, network-effects.md — additional perspectives added
+
+## [2026-04-07] ingest | Batch 10 — Episodes nabeel-s-qureshi through nikhyl-singhal
+
+### Processed Episodes (9 unique, 10 attempted)
+1. **Nabeel S. Qureshi** — "How Palantir built the ultimate founder factory"
+2. **Nan Yu** — "Linear's secret to building beloved B2B products"
+3. **Nancy Duarte** — "Storytelling: How to craft compelling presentations and tell a story that sticks"
+4. **Naomi Gleit** — "Meta's head of product on working with Mark Zuckerberg, early growth tactics, and more"
+5. **Naomi Ionita** — "How to price your product"
+6. **Nick Turley** — "Inside ChatGPT: The fastest growing product in history"
+7. **Nickey Skarstad** — "Translating vision into goals, operationalizing product quality, second-order decisions"
+8. **Nicole Forsgren** — "How to measure AI developer productivity in 2025"
+9. **Nikhyl Singhal** — "Building a long and meaningful career"
+
+### Skipped
+- **nicole-forsgren-20**: Duplicate — same video_id (SWcDfPVTizQ) as nicole-forsgren
+
+### Created
+- **Guests (9):** nabeel-s-qureshi, nan-yu, nancy-duarte, naomi-gleit, naomi-ionita, nick-turley, nickey-skarstad, nicole-forsgren, nikhyl-singhal
+- **Frameworks (6):** day-one-vs-day-100-pricing, dora-space-frameworks, extreme-clarity, forward-deployed-engineer, maximally-accelerated, what-is-what-could-be
+- **Concepts (4):** developer-experience, ex-growth-companies, second-order-thinking, shadows-of-superpowers
+
+### Updated
+- wiki/frameworks/understand-identify-execute.md — added Naomi Gleit's perspective
+
 ## [2026-04-07] ingest | Batch 9 — Episodes madhavan-ramanujam through molly-graham
 
 ### Processed Episodes (17 unique, 20 attempted)

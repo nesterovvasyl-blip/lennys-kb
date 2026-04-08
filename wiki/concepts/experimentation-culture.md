@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [albert-cheng, adam-fishman, jackson-shuttleworth, itamar-gilad]
+guests: [albert-cheng, adam-fishman, jackson-shuttleworth, itamar-gilad, ronny-kohavi]
 ---
 
 # Experimentation Culture
@@ -27,12 +27,19 @@ Experimentation culture goes beyond having A/B testing infrastructure — it mea
 
 **Itamar Gilad (GIST model)** provides the conceptual backbone for *why* experimentation culture matters: the [[confidence-meter]] makes explicit that all ideas start at near-zero confidence, and only earn investment through staged evidence. Experimentation is not a tool for testing product changes — it's the *default mode* for idea validation at every stage.
 
+**Ronny Kohavi's hard data** adds the empirical foundation that other accounts assume. Across Amazon (~50% failure rate), Microsoft (~66%), Bing (~85%), and Airbnb search (~92%), the universal pattern is that most ideas fail. Three implications for culture: (1) **celebrate negative results** — they are statistically more common than wins and equally informative; (2) **ship nothing flat** — a neutral result means you added code and maintenance burden with zero value; (3) **build institutional memory** — quarterly reviews of the most surprising results prevent the wheel from being reinvented.
+
+Ronny also adds the **OEC (Overall Evaluation Criterion)** discipline: the most common experimentation failure mode is optimizing the wrong metric. Teams must define a metric causally predictive of lifetime value, with countervailing guardrail metrics that prevent short-term wins at the cost of long-term user health.
+
+The **trust dimension** is Kohavi's distinctive contribution: experimentation platforms are safety nets and oracles — they only work if the organization trusts the results. Platforms that produce inflated false positive rates (e.g., early Optimizely's real-time P-value monitoring) destroy the organization's ability to learn from experiments, because results become disconnected from reality.
+
 ## Sources
 
 - [[albert-cheng]] — "1,000 experiments/year at Chess.com — the number is a forcing function for investing in tooling and culture"
 - [[adam-fishman]] — Key elements of experimentation culture: growth model, instrumentation, no-code tools, cross-functional testing, socialization of learnings
 - [[jackson-shuttleworth]] — "600+ experiments on Duolingo streaks; copy testing systematically underrated; neutral experiments usually not worth shipping"
 - [[itamar-gilad]] — "Confidence meter; staged validation steps; experimentation as default mode for product development"
+- [[ronny-kohavi]] — "The ultimate guide to A/B testing"; 66–92% failure rates across Microsoft/Bing/Airbnb; OEC discipline; Twyman's Law; sample ratio mismatch; trust as foundational to experimentation platforms
 
 ## See Also
 

@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [andy-johns, andrew-wilkinson, jonny-miller]
+guests: [andy-johns, andrew-wilkinson, jonny-miller, rachel-lockett]
 ---
 
 # Burnout
@@ -42,12 +42,34 @@ Most people wait for the dump truck. The goal is noticing the feather.
 
 **Organizational dimension**: "The nervous system of an organization is a reflection of the nervous system of the CEO." Burnout is contagious through emotional contagion — a leader in chronic stress creates chronic stress in their team.
 
+### Rachel Lockett: Design Your Life Around Your Gifts
+
+Rachel Lockett frames burnout as a structural mismatch: people deplete themselves doing work that doesn't play to their natural strengths, rather than protecting the work that energizes them.
+
+**The energy audit:** For two weeks, write down each evening the 5 things that gave you energy and the 5 things that depleted you. Patterns reveal your "gifts" (natural strengths that energize) vs. your drains.
+
+**Target:** Spend at least 80% of your time in your gifts. The remaining 20% is unavoidable logistics.
+
+**The gift-finding toolkit:**
+- Ask 5–10 people: "When I walk in the room, what shows up? What are my gifts?"
+- Review your calendar: which meetings excite you? Which do you dread?
+- Notice what you do where you lose track of time
+
+**Critical principle:** It's your job to navigate your career, not your manager's. People who blame their organization for making their job uninteresting are ceding agency. Name your gifts to your manager. Design around your weaknesses. If it requires a horizontal move, take it.
+
+**Start small:** Don't redesign your life; plug one energy leak. Stop going to optional meetings that drain you. Add one energizing activity back into your day. These small changes compound.
+
+**Organizational echo:** When Rachel ran top-talent coaching at Stripe, she saw the pattern at scale — entire cohorts of brilliant people physically exhausted by years of high performance. The antidote was reconnecting people to purpose and the specific work that lit them up, not just rest.
+
 ## Sources
 - [[andy-johns]] — "When your core behaviors get disrupted, it's undeniable that something detrimental to your wellbeing is going on" (When enough is enough)
 - [[andrew-wilkinson]] — "No amount of money or success had done what this little tiny yellow pill could do for my mental state" (I've run 75+ businesses)
 - [[jonny-miller]] — "The feather might be waking up feeling a little tired. The dump truck is a full-blown health crisis a year later. Notice the feather." (Managing nerves, anxiety, and burnout)
 
+- [[rachel-lockett]] — "The 80% in gifts rule; two-week energy audit; it's your job to navigate your career" (A guide to difficult conversations)
+
 ## See Also
 - [[four-steps-personal-transformation]]
 - [[career-strategy]]
 - [[leadership]]
+- [[energy-management]]

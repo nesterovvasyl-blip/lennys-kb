@@ -1,6 +1,6 @@
 ---
 aliases: [product velocity, engineering velocity, shipping speed]
-guests: [geoff-charles, farhan-thawar, gaurav-misra]
+guests: [geoff-charles, farhan-thawar, gaurav-misra, nikita-miller]
 ---
 
 # Velocity
@@ -57,6 +57,16 @@ Multiple guests make the same counter-intuitive point (also validated by Nicole 
 3. High-velocity culture = A+ engineers are attracted = higher baseline quality of decisions
 4. Lower cost-per-decision = teams willing to revert and try again rather than defending sunk costs
 
+### Nikita Miller (The Knot Worldwide / Trello) — Velocity as PM Accountability
+
+Nikita frames velocity primarily as a decision-making and output accountability problem — the PM's responsibility to drive urgency:
+
+- **Velocity of decision-making** is the most common bottleneck: how long from "we need to do a thing" to defining it, deciding whether to do it, and doing it. This falls mainly on PMs.
+- **Execution velocity** (actually shipping to production) falls jointly on PM and engineering. Nikita looks at cycle time for individual tickets and watches the ratio of optimizations vs. bigger bets.
+- Her diagnostic question: "What did you deliver this sprint? What did you deliver to production? How long have you been working on that? What was the cycle time?" — asked without accusation, just to surface patterns.
+- **Outcomes vs. output**: Nikita observed widespread overcorrection toward outcome-only thinking. Teams focused on OKRs but not on whether they were actually shipping. Her prescription: monitor both. Output (things shipped) is a leading indicator of outcomes. "If you're not shipping a lot of things to market quickly enough, it just doesn't matter that much."
+- **Competition as urgency**: keeping a pulse on competitive activity is one of the simplest ways to maintain team urgency without being heavy-handed.
+
 ### Common Velocity Killers
 
 Across all three guests:
@@ -71,6 +81,7 @@ Across all three guests:
 - [[geoff-charles]] — "Velocity over everything: How Ramp became the fastest-growing SaaS startup ever" (Lenny's Podcast, 2023-08-06)
 - [[farhan-thawar]] — "How Shopify builds a high-intensity culture" (Lenny's Podcast, 2024-12-19)
 - [[gaurav-misra]] — "Inside the expert network training every frontier AI model" (Lenny's Podcast, 2023-02-12)
+- [[nikita-miller]] — "Driving alignment within teams, work-life balance, and the changing PM landscape" (Lenny's Podcast, 2023-04-06)
 
 ## See Also
 - [[product-management]]

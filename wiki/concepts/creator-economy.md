@@ -1,6 +1,6 @@
 ---
-aliases: [newsletters, paid newsletter, creator path, indie writer]
-guests: [gergely, fareed-mosavat]
+aliases: [newsletters, paid newsletter, creator path, indie writer, pathless path, indie work]
+guests: [gergely, fareed-mosavat, paul-millerd]
 ---
 
 # Creator Economy
@@ -74,9 +74,22 @@ Both Gergely and Fareed agree on the underlying pattern:
 4. Work at recognizable companies that make your story easy to tell
 5. When ready to transition: external commitment (announcing a newsletter, taking an EIR slot) creates the accountability that makes the work happen
 
+### The Pathless Path (Paul Millerd Perspective)
+
+Paul Millerd's *The Pathless Path* offers the most psychologically grounded take on why people enter the creator economy — and what actually sustains them once they're in it. Unlike the VC-funded "creator economy" narrative (startups building tools for creators), Paul's version is about individual people betting on themselves to find work they actually want to keep doing.
+
+**The real motivation**: Not money. Not fame. A better relationship with work. Paul left consulting at 32 specifically to escape the implicit contract that work must be tolerated rather than enjoyed. He spent years on low income ($24K–$50K) prioritizing exploration, creativity, and self-knowledge. His eventual income eclipsed his consulting career — but that came later.
+
+**The energy signal as compass**: Follow what gives you energy, not what seems lucrative. Paul tried advising (drained energy), podcasting (energized), and writing (energized). This approach led him to a self-published book that earned $200K+.
+
+**Designing against bad self-employment jobs**: The creator economy trap is creating for yourself the same jobs you were trying to escape. Writing in a niche you don't care about, taking advisory work that drains you, optimizing for growth instead of joy. Paul actively designs slack into his days — 95% of days have no meetings — to protect creative energy.
+
+**Income trajectory**: Year 1 ($50K) → Year 2 ($30K) → Year 3 ($24K) → Year 4 ($30K) → Year 5+ (exceeds consulting salary). The first years are not about income optimization — they're about learning, self-knowledge, and finding the work worth protecting.
+
 ## Sources
 - [[gergely]] — "Leaving big tech to build the #1 technology newsletter" (Lenny's Podcast, 2022-11-17)
 - [[fareed-mosavat]] — "How to build trust and grow as a product leader" (Lenny's Podcast, 2022-10-23)
+- [[paul-millerd]] — "Redefining success, money, and belonging | Paul Millerd (The Pathless Path)" (Lenny's Podcast, 2023-11-19)
 
 ## See Also
 - [[career-development]]

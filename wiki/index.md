@@ -186,6 +186,63 @@
 - [Megan Cook](guests/megan-cook.md) — Head of Product Atlassian; influence without authority, psychological safety
 - [Melanie Perkins](guests/melanie-perkins.md) — Co-founder/CEO Canva; 100+ rejections to $40B, Column B thinking
 - [Molly Graham](guests/molly-graham.md) — ex-Facebook/Google/Quip; Give Away Your Legos, waterline model, scaling yourself
+- [Nabeel S. Qureshi](guests/nabeel-s-qureshi.md) — ex-Palantir VP Biz Dev, writer; forward deployed engineer model, founder factory culture
+- [Nan Yu](guests/nan-yu.md) — Head of Product at Linear; opinionated B2B product philosophy, quality over growth
+- [Nancy Duarte](guests/nancy-duarte.md) — CEO Duarte Inc.; What Is/What Could Be presentation structure, communication and influence
+- [Naomi Gleit](guests/naomi-gleit.md) — Head of Product at Meta; longest-tenured Facebook PM; Extreme Clarity operating principle
+- [Naomi Ionita](guests/naomi-ionita.md) — Partner Menlo Ventures, ex-VP Growth Invoice2go; pricing strategy, Day One vs. Day 100 framework
+- [Nick Turley](guests/nick-turley.md) — Head of ChatGPT at OpenAI; built fastest-growing consumer product in history; Maximally Accelerated philosophy
+- [Nickey Skarstad](guests/nickey-skarstad.md) — Director of Product Duolingo (ex-Airbnb, Etsy, Shopify); second-order thinking, product quality operationalization
+- [Nicole Forsgren](guests/nicole-forsgren.md) — Sr. Director Google, ex-GitHub VP Research; creator of DORA and SPACE frameworks, AI developer productivity measurement
+- [Nikhyl Singhal](guests/nikhyl-singhal.md) — VP Product Meta, founder The Skip CPO Community; shadows of superpowers, job-after-next career framework
+- [Nikita Miller](guests/nikita-miller.md) — SVP Product at The Knot Worldwide; cross-functional R&R contracts, outcomes vs. output, work-life balance frameworks
+- [Nilan Peiris](guests/nilan-peiris.md) — CPO of Wise; 70% word-of-mouth acquisition via NPS-as-growth-lever and 10x product improvements
+- [Nir Eyal](guests/nir-eyal.md) — Author of Hooked and Indistractable; Hooked Model for habit formation, Indistractable Framework for focus
+- [Noah Weiss](guests/noah-weiss.md) — CPO of Slack; 10 traits of great PMs, Complaint-Storms ritual, Successful Teams metric
+- [Noam Lovinsky](guests/noam-lovinsky.md) — CPO of Grammarly; 0-to-1 incubation, consumer subscription turnaround, product strategy
+- [Oji Udezue](guests/oji-udezue.md) — CPO of Typeform; Workflow Quadrant for B2B unicorns, Zone of Benefit (3x threshold), Forest Time
+- [Paige Costello](guests/paige-costello.md) — Head of Core Product at Asana; coaching, career development, winning over skeptics
+- [Patrick Campbell](guests/patrick-campbell.md) — Founder ProfitWell; tactical vs. strategic retention, Tempo Framework, bootstrapping to $200M
+- [Paul Adams](guests/paul-adams.md) — CPO of Intercom; differentiation vs. table stakes, AI product strategy, Jobs to Be Done
+- [Paul Millerd](guests/paul-millerd.md) — Author of The Pathless Path; former strategy consultant who built a creative business around "coming alive over getting ahead"
+- [Pete Kazanjy](guests/pete-kazanjy.md) — Author of Founding Sales; codified the founder-led B2B sales playbook before hiring salespeople
+- [Peter Deng](guests/peter-deng.md) — 4th PM at Facebook, Head of Product Instagram, VP Product OpenAI, GP at Felicis; Five PM Archetypes framework
+- [Petra Wille](guests/petra-wille.md) — Independent product leadership coach, author of Strong Product People; PMwheel for comprehensive PM assessment
+- [Phyl Terry](guests/phyl-terry.md) — Author of Never Search Alone; Job Search Councils, Candidate Market Fit, Job Mission OKRs negotiation tactic
+- [Raaz Herzberg](guests/raaz-herzberg.md) — CMO and VP Product Strategy at Wiz; fastest-growing startup in history, brand-led enterprise GTM
+- [Rachel Lockett](guests/rachel-lockett.md) — Executive coach (ex-Stripe/Pinterest HR); difficult conversations, high-trust teams, GROW model, NVC
+- [Rahul Vohra](guests/rahul-vohra.md) — Founder/CEO Superhuman; PMF Engine, game design in products, Single Decisive Reason, obsessive product craft
+- [Ramesh Johari](guests/ramesh-johari.md) — Stanford professor; two-sided marketplace dynamics, experimentation at Uber/Airbnb/Bumble
+- [Ravi Mehta](guests/ravi-mehta.md) — Co-founder Outpace, ex-CPO Tinder; Product Strategy Stack, 12 PM Competencies framework
+- [Ray Cao](guests/ray-cao.md) — Global Head of Monetization Product Strategy at TikTok; advertising, globalization, culture-driven product development
+- [Richard Rumelt](guests/richard-rumelt.md) — Professor Emeritus UCLA Anderson; author of Good Strategy Bad Strategy; Good Strategy Kernel framework
+- [Robby Stein](guests/robby-stein.md) — VP of Product at Google Search; AI Mode, AI Overviews, consumer product building at scale
+- [Roger Martin](guests/roger-martin.md) — Professor Emeritus Rotman School; 5 essential strategy questions, Playing to Win co-author
+- [Ronny Kohavi](guests/ronny-kohavi.md) — Former VP at Airbnb/Microsoft/Amazon; the definitive guide to A/B testing, OEC metrics, experimentation culture
+- [Ryan J. Salva](guests/ryan-j-salva.md) — VP Product at GitHub; incubated GitHub Copilot; AI pair programmer concept, R&D-to-product transition
+- [Ryan Singer](guests/ryan-singer.md) — Creator of Shape Up at 37signals; shaping session mechanics, appetites vs. estimates, predictable shipping
+- [Sachin Monga](guests/sachin-monga.md) — Head of Product at Substack; built Recommendations (1-in-3 new subs from network), creator economy growth
+- [Sahil Mansuri](guests/sahil-mansuri.md) — CEO of Bravado; B2B SaaS sales, downturn playbooks, fixing misaligned comp plans
+- [Sam Schillace](guests/sam-schillace.md) — Microsoft deputy CTO, creator of Google Docs; innovation philosophy, AI as platform shift, What If/Why Not heuristic
+- [Sanchan Saxena](guests/sanchan-saxena.md) — Former Head of Product Instagram/Airbnb, VP Product Coinbase; intentionality over A/B testing, crisis leadership
+- [Sander Schulhoff](guests/sander-schulhoff.md) — Creator of first prompt engineering guide, HackAPrompt founder; 5 high-impact prompting techniques, what no longer works
+- [Sander Schulhoff (ep. 2)](guests/sander-schulhoff-20.md) — AI security episode: why guardrails fail, prompt injection on agents, what actually works
+- [Sarah Tavel](guests/sarah-tavel.md) — Benchmark GP, Pinterest's first PM; Hierarchy of Engagement and Hierarchy of Marketplaces frameworks
+- [Scott Belsky](guests/scott-belsky.md) — Adobe CSO, founder of Behance; First Mile Experience, the Messy Middle, product sense and simplicity
+- [Scott Wu](guests/scott-wu.md) — Co-founder/CEO Cognition (Devin); AI engineering agents, Bricklayer-to-Architect model, future of software engineering
+- [Sean Ellis](guests/sean-ellis.md) — Coined "growth hacking"; invented ICE framework and Sean Ellis Test (40% "very disappointed" benchmark)
+- [Seth Godin](guests/seth-godin.md) — Author, marketer; brand as promise, Purple Cow, remarkable products, systems thinking
+- [Shaun Clowes](guests/shaun-clowes.md) — CPO Confluent, first Head of Growth Atlassian; AI products, data-driven PLG, B2B SaaS defensibility
+- [Shishir Mehrotra](guests/shishir-mehrotra.md) — Co-founder/CEO Coda, ex-VP Product/Engineering YouTube; team rituals, Eigenquestion framework, PSHE talent model
+- [Shreyas Doshi](guests/shreyas-doshi.md) — ex-Director PM Stripe; LNO framework, Three Levels of Product Work, Pre-Mortem, High Agency mindset
+- [Shweta Shrivastava](guests/shweta-shriva.md) — Sr. Director PM Waymo, ex-CPO Nauto, Head of PM AWS; autonomous vehicles product, hardware-software integration
+- [Sri Batchu](guests/sri-batchu.md) — Head of Growth Ramp, ex-Head of Growth Instacart; B2B growth scaling, payback period metrics, north star metrics
+- [Sriram Krishnan & Aarthi Ramamurthy](guests/sriram-and-aarthi.md) — a16z partner and angel investor co-hosts of The Good Time Show; techno-optimism, networking, personal brand
+- [Stewart Butterfield](guests/stewart-butterfield.md) — Co-founder of Slack and Flickr; utility curves, owner's delusion, "don't make me think" UX principle
+- [Tamar Yehoshua](guests/tamar-yehoshua.md) — President of Product & Technology Glean, ex-CPO Slack, Google Search lead; follow great people career philosophy
+- [Tanguy Crusson](guests/tanguy-crusson.md) — Head of Jira Product Discovery Atlassian; 10-year 0-to-1 practitioner, Lighthouse Users Program, Wonder→Explore→Make→Impact
+- [Teresa Torres](guests/teresa-torres.md) — Author of Continuous Discovery Habits, creator of Opportunity Solution Tree; trained 12,000+ PMs
+- [Tim Holley](guests/tim-holley.md) — VP Product Etsy; marketplace dynamics, cultural transformation, experimentation culture
 
 ## Frameworks
 
@@ -278,6 +335,47 @@
 - [JOLT Method](frameworks/jolt-method.md) — Matt Dixon's four steps for overcoming buyer indecision: Judge, Offer, Limit, Take-risk-off
 - [Low-Impact PM Death Spiral](frameworks/low-impact-pm-death-spiral.md) — Matt LeMay's pattern: busy work crowds out customer contact, leading to irrelevance
 - [Waterline Model](frameworks/waterline-model.md) — Molly Graham's framework for when to make decisions autonomously vs. surface upward
+- [Day One vs. Day 100 Pricing](frameworks/day-one-vs-day-100-pricing.md) — Naomi Ionita's framework for deciding which features belong in free vs. premium tiers based on user lifecycle
+- [DORA and SPACE Frameworks](frameworks/dora-space-frameworks.md) — Nicole Forsgren's complementary frameworks for measuring developer productivity and experience
+- [Extreme Clarity](frameworks/extreme-clarity.md) — Naomi Gleit's Meta operating principle: ensure all stakeholders share the same factual understanding before acting
+- [Forward Deployed Engineer (FDE)](frameworks/forward-deployed-engineer.md) — Palantir's model of embedding engineers at customer sites to solve real problems in real time
+- [Maximally Accelerated](frameworks/maximally-accelerated.md) — Nick Turley's forcing function: if this were the most important thing, what would you do to truly maximize speed?
+- [What Is / What Could Be](frameworks/what-is-what-could-be.md) — Nancy Duarte's alternating presentation structure between current reality and possible future
+- [Complaint-Storms](frameworks/complaint-storms.md) — Noah Weiss / Slack's ritual of cataloging competitor flaws to regain critical eyes, feeding Customer Love Sprints
+- [Differentiation vs. Table Stakes](frameworks/differentiation-vs-table-stakes.md) — Paul Adams' framework: every roadmap feature either attracts customers or removes blockers; knowing which determines whether your product can win
+- [Hooked Model](frameworks/hooked-model.md) — Nir Eyal's Trigger→Action→Variable Reward→Investment loop for building habit-forming products
+- [Indistractable Framework](frameworks/indistractable-framework.md) — Nir Eyal's four-step system: master internal triggers, time-box calendar, hack external triggers, make pacts
+- [Tempo Framework](frameworks/tempo-framework.md) — Patrick Campbell's principle: define what "good" shipping frequency looks like before setting org design
+- [Workflow Quadrant](frameworks/workflow-quadrant.md) — Oji Udezue's 2×2 mapping B2B SaaS opportunities by workflow breadth and frequency to predict unicorn potential
+- [Zone of Benefit](frameworks/zone-of-benefit.md) — Oji Udezue's 3x threshold: people only switch products when the new solution is at least 3x better at what they care most about
+- [Five PM Archetypes](frameworks/five-pm-archetypes.md) — Peter Deng's Consumer/Growth/GM/Platform/Research-AI PM types for team composition and hiring
+- [Founder-Led Sales While Loop](frameworks/founder-led-sales-while-loop.md) — Pete Kazanjy's iterative framework for building a repeatable B2B sales motion before hiring salespeople
+- [GROW Model](frameworks/grow-model.md) — Coaching framework: Goal, Reality, Options, Will — used by Rachel Lockett for leadership development
+- [Job Mission OKRs](frameworks/job-mission-okrs.md) — Phyl Terry's tactic: draft your own OKRs for a role privately, then share with hiring managers to demonstrate initiative
+- [Nonviolent Communication (NVC)](frameworks/nonviolent-communication.md) — Marshall Rosenberg's framework for conflict resolution; observations, feelings, needs, requests
+- [PM Competency Framework](frameworks/pm-competency-framework.md) — Ravi Mehta's 12 competencies across four domains for PM assessment and development
+- [PMwheel](frameworks/pmwheel.md) — Petra Wille's eight-bucket framework for comprehensive PM assessment: Understand, Find Solutions, Plan, Get It Done, Listen and Learn, Team, Personal Growth, Agile
+- [Product Strategy Stack](frameworks/product-strategy-stack.md) — Ravi Mehta's layered model: vision → strategy → roadmap → OKRs, each informing the next
+- [Single Decisive Reason](frameworks/single-decisive-reason.md) — Reid Hoffman (via Rahul Vohra): when faced with a hard decision, find the one reason that makes everything else irrelevant
+- [Superhuman PMF Engine](frameworks/superhuman-pmf-engine.md) — Rahul Vohra's quantitative PMF survey method using "very disappointed" benchmark and segmentation
+- [Downturn Sales Playbook](frameworks/downturn-sales-playbook.md) — Sahil Mansuri's five-part GTM adjustment when new-business pipeline freezes: reforecast, comp redesign, retention focus, advisory value, warm intros
+- [Good Strategy Kernel](frameworks/good-strategy-kernel.md) — Richard Rumelt's three-part structure: diagnosis, guiding policy, coherent actions
+- [R&D to Product Transition](frameworks/r-and-d-to-product-transition.md) — Ryan J. Salva's six-step framework for graduating an experimental project from research to operational product inside a large company
+- [Strategy Choice Cascade](frameworks/strategy-choice-cascade.md) — Roger Martin's five linked choices: winning aspiration → where to play → how to win → capabilities → management systems
+- [Bricklayer to Architect](frameworks/bricklayer-to-architect.md) — Scott Wu's model: AI agents shift engineers from writing code (bricklayer) to designing systems (architect)
+- [Hierarchy of Engagement](frameworks/hierarchy-of-engagement.md) — Sarah Tavel's three-level framework: core action → retention through habitual use → self-perpetuating growth
+- [Hierarchy of Marketplaces](frameworks/hierarchy-of-marketplaces.md) — Sarah Tavel's three levels: focused thimble → tip the market → dominate
+- [ICE Prioritization Framework](frameworks/ice-prioritization-framework.md) — Sean Ellis's Impact × Confidence × Ease scoring for growth experiment prioritization
+- [Sean Ellis Test](frameworks/sean-ellis-test.md) — The "very disappointed" PMF survey: 40%+ threshold signals product-market fit
+- [Dory/Pulse Ritual](frameworks/dory-pulse-ritual.md) — Shishir Mehrotra's meeting ritual: async question collection (Dory) + real-time sentiment pulse for high-trust team communication
+- [Eigenquestion Framework](frameworks/eigenquestion-framework.md) — Shishir Mehrotra: find the one question whose answer determines the answer to all others before building
+- [LNO Framework](frameworks/lno-framework.md) — Shreyas Doshi: categorize all PM work as Leverage, Neutral, or Overhead to maximize high-impact time
+- [Lighthouse Users Program](frameworks/lighthouse-users-program.md) — Tanguy Crusson's structured 10→100→1,000 early-customer development approach for new products
+- [Opportunity Solution Tree](frameworks/opportunity-solution-tree.md) — Teresa Torres's visual framework: outcomes → opportunities → solutions → assumption tests
+- [Pre-Mortem Framework](frameworks/pre-mortem-framework.md) — Shreyas Doshi's Tigers/Paper Tigers/Elephants analysis: identify blockers before they kill a project
+- [PSHE Talent Framework](frameworks/pshe-talent-framework.md) — Shishir Mehrotra: evaluate hires on Problem, Solution, How, Execution fit across growth stages
+- [Three Levels of Product Work](frameworks/three-levels-product-work.md) — Shreyas Doshi: Impact (what matters), Execution (getting it done), Optics (how it appears)
+- [Wonder → Explore → Make → Impact](frameworks/wonder-explore-make-impact.md) — Atlassian's Tanguy Crusson: four-stage incubation framework with shared vocabulary for corporate innovation
 
 ## Concepts
 
@@ -348,6 +446,36 @@
 - [Model Maximalism](concepts/model-maximalism.md) — Kevin Weil's AI product strategy: default to most powerful model, then optimize
 - [Personal Operating Manual](concepts/personal-operating-manual.md) — "How to Work with Me" document that surfaces working preferences to teammates
 - [User-Centered Performance](concepts/user-centered-performance.md) — Judd Antin's framework for research that drives product outcomes
+- [Developer Experience (DevEx)](concepts/developer-experience.md) — The full environment shaping day-to-day software development: flow state, cognitive load, feedback loops
+- [Ex-Growth Companies](concepts/ex-growth-companies.md) — ZIRP-era startups with high valuations but no true PMF; career trap warning from Nikhyl Singhal
+- [Second-Order Thinking](concepts/second-order-thinking.md) — Mapping how today's product decisions cascade into future system states; from Nickey Skarstad
+- [Shadows of Superpowers](concepts/shadows-of-superpowers.md) — Every professional strength casts a shadow; early-career drivers become development areas at the next level
+- [Forest Time](concepts/forest-time.md) — Oji Udezue's practice: scheduled time to zoom out from execution for strategic perspective before costly decisions
+- [NPS as Growth Lever](concepts/nps-as-growth-lever.md) — Wise's discovery that each NPS band doubles referral rate; NPS improvement compounds as viral growth investment
+- [Tactical vs. Strategic Retention](concepts/tactical-vs-strategic-retention.md) — Patrick Campbell: churn has two root causes (product/fit vs. payment failures); most teams only fix one
+- [Word-of-Mouth Growth](concepts/word-of-mouth-growth.md) — How Wise and Slack built products that spread through referral and authentic advocacy
+- [Product-Market-Story Fit](concepts/product-market-story-fit.md) — Paul Adams: great products in great markets still fail without the right story explaining why they're different and better
+- [Candidate Market Fit](concepts/candidate-market-fit.md) — Phyl Terry: job search success depends on labor market conditions, not just inherent worth; apply product thinking to your search
+- [Game Design Principles in Product](concepts/game-design-principles.md) — Rahul Vohra: applying variable rewards, mastery, and feedback loops to drive product engagement and retention
+- [Two-Sided Marketplace Dynamics](concepts/two-sided-marketplace-dynamics.md) — Ramesh Johari: supply/demand interdependence, interference, experimentation challenges unique to marketplaces
+- [AI Pair Programmer](concepts/ai-pair-programmer.md) — Ryan J. Salva: framing AI coding assistance as collaborative partner; the model behind Copilot's design
+- [Sales Comp Alignment](concepts/sales-comp-alignment.md) — Sahil Mansuri: mismatch between new-ARR comp structures and retention-driven models; how to fix with renewal kickers
+- [Substack Recommendations](concepts/substack-recommendations.md) — Sachin Monga: writer-controlled cross-promotion driving 1-in-3 subscriptions; trust-based viral growth case study
+- [Context, No Control](concepts/context-no-control.md) — Ray Cao / Netflix principle: give teams full context on goals and constraints, then trust them to make decisions without seeking approval
+- [Overall Evaluation Criterion (OEC)](concepts/overall-evaluation-criterion.md) — Ronny Kohavi: the single composite metric that combines all business goals, enabling automated experiment decisions
+- [Brand as Promise](concepts/brand-as-promise.md) — Seth Godin: a brand is a promise about what someone will experience; promise + delivery = trust
+- [First Mile Experience](concepts/first-mile-experience.md) — Scott Belsky: the first interactions a new user has; more important than features because it determines whether they return
+- [Prompt Engineering](concepts/prompt-engineering.md) — Sander Schulhoff: crafting LLM inputs for better outputs; 5 techniques that work, what no longer works
+- [Prompt Injection and AI Security](concepts/prompt-injection.md) — Sander Schulhoff: attack vectors against LLM systems; why guardrails fail; what actually works for agentic deployments
+- [Activation-First Growth](concepts/activation-first-growth.md) — Sean Ellis: nail activation before scaling acquisition; LogMeIn 5%→50% activation unlocked 100x channel scale
+- [Data Quality for AI Products](concepts/data-quality-for-ai.md) — Shaun Clowes/Scott Wu: AI product value is determined by data quality and freshness, not model capability
+- [Messy Middle](concepts/messy-middle.md) — Scott Belsky: the volatile years between founding and outcome; conviction, micro-milestones, and merchandised progress
+- [Continuous Discovery](concepts/continuous-discovery.md) — Teresa Torres: weekly customer feedback loops built into normal product cadence; habits over projects
+- [Don't Make Me Think](concepts/dont-make-me-think.md) — Stewart Butterfield: the real UX goal is reducing cognitive load (comprehension), not just reducing clicks
+- [High Agency](concepts/high-agency.md) — Shreyas Doshi: PMs who act like owners, find paths despite obstacles, take initiative without being asked
+- [Hyperrealistic Work-Like Activities](concepts/hyperrealistic-work-like-activities.md) — Stewart Butterfield: activities that look like work but generate no value; emerge when headcount outpaces known-valuable work
+- [Owner's Delusion](concepts/owners-delusion.md) — Stewart Butterfield: product creators design for themselves (engaged, attentive) rather than distracted, low-intent users
+- [Utility Curves](concepts/utility-curves.md) — Stewart Butterfield's S-curve model for deciding where you are on a feature's investment-to-value curve
 
 ## Topics
 

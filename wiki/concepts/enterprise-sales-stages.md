@@ -1,7 +1,7 @@
 ---
 title: Enterprise Sales Stages
 tags: [sales, enterprise, b2b, founder-led-sales]
-guests: [jen-abel, jason-m-lemkin]
+guests: [jen-abel, jason-m-lemkin, pete-kazanjy]
 ---
 
 # Enterprise Sales Stages
@@ -57,9 +57,21 @@ The professional buying layer that most founders underestimate. Key lessons:
 
 **Trust is the primary currency**: "If you are a trusted salesperson, people will recommend you all day." Don't sell to prove you can — sell when the fit is real.
 
+## Pete Kazanjy — Founder-Led Sales Before Stages
+
+Pete Kazanjy ([[pete-kazanjy]]) emphasizes that before any formal sales stages can be designed, founders must personally run at least 50–100 sales conversations from scratch — and build a "repeatable while loop" — before thinking about hiring sales talent or formalizing a process. His view:
+
+- You can't outsource discovery of your sales motion; the founder's deep domain knowledge is your only advantage early on
+- Only after achieving a consistent 15–25% win rate across arm's-length prospects should you try to package and replicate
+- The stages model applies once you have a repeatable process; the while loop is how you get *to* a repeatable process
+- PLG companies eventually need this too — "never mistake your lead gen for your business"
+
+See [[founder-led-sales-while-loop]] for the full Kazanjy framework.
+
 ## Related Concepts and Guests
 
 - [[jen-abel]] — primary source
 - [[jason-m-lemkin]] — "would I buy from them?" criterion; two AEs at once
 - [[jeanne-grosser]] — GTM engineer replacing high-volume SDR work
 - [[b2b-buyer-indecision]] — buying is as hard as selling
+- [[pete-kazanjy]] — founder-led sales while loop; when to hire first rep

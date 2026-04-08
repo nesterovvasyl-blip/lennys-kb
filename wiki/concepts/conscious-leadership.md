@@ -1,6 +1,6 @@
 ---
 aliases: []
-guests: [john-mark-nickels, jonny-miller]
+guests: [john-mark-nickels, jonny-miller, paige-costello]
 ---
 
 # Conscious Leadership
@@ -54,9 +54,16 @@ Nickels applies it to:
 
 Miller's nervous system work provides the physiological complement: Conscious Leadership gives the conceptual framework; body-based practices (breathwork, interoception) give the physiological tools to actually execute the shift.
 
+### Paige Costello ([[paige-costello]]): Above/Below the Line in Day-to-Day Product Work
+
+Paige applies the above/below-the-line model concretely in product management. All new Asana employees receive the book and two-day training from the Conscious Leadership Group. Her key addition: the question "How might the opposite be true?" as a daily tool for breaking out of below-the-line scarcity thinking. When feeling trapped ("I can't do X and Y"), asking this question opens alternative possibilities that weren't visible from the defensive posture. She described using it the morning of a major presentation to break a scarcity spiral: "My shoulders dropped. I was like, 'Oh yeah, I can do both.'"
+
+She also applies the framework to feedback culture: being below the line in a performance review means "I'm going to defend my work" rather than "I'm here to learn what impact I'm having." Catching the shift is more valuable than the content of any feedback technique.
+
 ## Sources
 - [[john-mark-nickels]] — "The 15 Commitments of Conscious Leadership by Diana Chapman and Jim Dethmer — those were my early coaches and teachers almost 10 years ago" (How emotions make you a better leader)
 - [[jonny-miller]] — recommends the book as the best leadership book he's come across (Managing nerves, anxiety, and burnout)
+- [[paige-costello]] — "How to ask the right questions, project confidence, and win over skeptics | Paige Costello (Asana)"
 
 ## See Also
 - [[john-mark-nickels]]

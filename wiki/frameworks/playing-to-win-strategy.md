@@ -1,6 +1,6 @@
 ---
-author: annie-pearl
-guests: [annie-pearl, drew-houston]
+author: roger-martin
+guests: [annie-pearl, drew-houston, roger-martin]
 ---
 # Playing to Win Strategy
 
@@ -36,9 +36,20 @@ Houston's version: kill Carousel (after Google Photos offered free unlimited sto
 
 The move worked: Dropbox turned cash flow positive in 2016, hit $1B ARR in 2017, and went public in 2018.
 
+### Roger Martin — The Author's Own Perspective
+
+Roger Martin co-authored *Playing to Win* with A.G. Lafley ([[roger-martin]]). He emphasizes that the five questions must be answered *together* — each constrains and enables the others. Changing "where to play" necessarily changes "how to win" and therefore capabilities and systems.
+
+Key additions from his podcast conversation:
+- **Only two ways to win**: be differentiated (customers want you specifically — coin flip = not winning) or be the cost leader (requires dominant scale in your territory). "Playing to play" (neither) is a slow death.
+- **Betterment over perfection**: don't seek the perfect strategy — identify your most painful current gap and make choices to close it, then repeat.
+- **Counter-positioning as protection**: the best moats are where competitors *won't* replicate you (not just can't). Estée Lauder could have killed Olay by taking Clinique mass-market, but doing so would have destroyed their prestige distribution business.
+- **Water finds its level**: customers ultimately triumph over even the most powerful incumbents. Vanguard resisted ETFs until customer demand made it undeniable. Microsoft's PC OS monopoly eroded as customers moved to smartphones.
+
 ## Sources
 - [[annie-pearl]] — "Strategy is really just an integrated set of choices that outline how you're going to win in whatever marketplace you choose" (Behind the scenes of Calendly's rapid growth)
 - [[drew-houston]] — "CEOs want options. Strategic inflection points require the opposite." (Behind the founder | Drew Houston, Lenny's Podcast, 2025-01-09)
+- [[roger-martin]] — "5 essential questions to craft a winning strategy" (author of Playing to Win, direct perspective on the framework)
 
 ## See Also
 - [[strategy]]

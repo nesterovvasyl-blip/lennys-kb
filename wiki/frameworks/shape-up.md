@@ -1,7 +1,7 @@
 ---
 framework: "Shape Up"
-origin: "Jason Fried (37signals)"
-guests: [jason-fried]
+origin: "Ryan Singer & Jason Fried (37signals)"
+guests: [jason-fried, ryan-singer]
 ---
 
 # Shape Up
@@ -50,5 +50,22 @@ Jason's strong recommendation: **don't switch cold turkey**. Pick a low-critical
 - [[constraints-as-advantage]] — the philosophy that small/constrained teams do better work
 - [[calm-company]] — the broader 37signals operating philosophy
 
+## Ryan Singer's Additions — Shape Up In Real Life
+
+Ryan Singer codified Shape Up and wrote the book (free at basecamp.com/shapeup). In a 2025 deep-dive episode with Lenny, he added significant nuance around how to apply it outside of Basecamp's unusual structure:
+
+**On shaping sessions:** Three hours is sufficient for a well-framed problem. All three perspectives (product, senior engineer, designer) must be present. The "grumpy old plumber" principle: the engineer should insist on opening the actual code before agreeing to any scope, to surface rabbit holes before the project starts.
+
+**On the 6-week ceiling:** Six weeks is a maximum, not a prescription. Growth teams might run 2-week time boxes. The key is that the ceiling forces you to ask what you can actually finish — not what you'd like to do.
+
+**On shaping output quality:** A well-shaped idea can be described in under 10 moving pieces. The test: can a technical person look at the output and say "I know what to go build"? If not, it needs more shaping.
+
+**The nine-box kickoff exercise:** At project kickoff, the team translates the shaped idea into nine major implementation scopes (9 or fewer). This surfaces scope issues early, creates natural coaching moments for junior engineers, and gives everyone a shared map of the work.
+
+**On when to adopt:** Problems typically become undeniable at 30–50 people in product+engineering. The trigger is often the first project where a founder fully delegates and it goes sideways. Start with a pilot on something meaningful but not critical.
+
+**The dominant failure mode in the real world:** Not enough detail in shaping. Teams regularly get fuzzy handoffs and then fail to ship, blame the method, and revert. The shaping work is where the hard thinking must happen.
+
 ## Sources
 - Jason Fried — "Jason Fried challenges your thinking on fundraising, goals, growth, and more" (Lenny's Podcast, 2023-12-17)
+- [[ryan-singer]] — "A better way to plan, build, and ship products" (2025-03-30)
