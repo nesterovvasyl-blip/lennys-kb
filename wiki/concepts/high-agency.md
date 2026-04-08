@@ -1,5 +1,5 @@
 ---
-guests: [shreyas-doshi]
+guests: [shreyas-doshi, upasna-gautam, varun-mohan]
 aliases: [high-agency-PM, agency, ownership-mindset]
 ---
 
@@ -41,8 +41,16 @@ Shreyas does not believe it's entirely innate — it can be developed. The key p
 
 **Shreyas Doshi** ([[shreyas-doshi]]): Coined the PM-specific framework of high agency as ownership + creative execution + resilience. Explicitly identifies it as the top differentiating trait in PM performance, above pedigree, cognitive ability, or domain expertise.
 
+**Upasna Gautam** ([[upasna-gautam]]): Tests for high agency directly in her hiring process at CNN. Favorite interview question: "What's something that would not exist without your initiative?" She looks for specific, tangible answers — vagueness signals low agency. At CNN, where journalists can cancel any meeting at any moment for breaking news, high agency under chaos is the foundational PM skill. You cannot wait for conditions to stabilize; you have to make progress under whatever conditions exist.
+
+**Varun Mohan** ([[varun-mohan]]): Identifies agency as the most undervalued skill in the AI era. As AI takes over more of pure code execution, the scarce resource shifts to "people that want to build something" — people who identify what should be built, prioritize ruthlessly, and drive outcomes without being told what to do. He observes that most engineering education optimizes for execution-on-well-defined-problems (P-sets with clear answers) rather than agency (figure out what the problem is and go solve it). At Windsurf, they explicitly look for high agency because "by default, if we don't innovate and do crazy things, we're going to die."
+
+An illustrative consequence: after launching Windsurf internally, every employee including sales and marketing staff built apps with it. The head of partnerships built a custom partner portal and replaced a SaaS product they were going to buy. That outcome is only possible for people with high enough agency to go try something new without being told to.
+
 ## Sources
 - [[shreyas-doshi]] — "The art of product management | Shreyas Doshi (Stripe, Twitter, Google, Yahoo)"
+- [[upasna-gautam]] — "An inside look at how CNN builds product"
+- [[varun-mohan]] — "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf"
 
 ## See Also
 - [[shreyas-doshi]]

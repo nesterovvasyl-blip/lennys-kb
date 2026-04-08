@@ -243,6 +243,16 @@
 - [Tanguy Crusson](guests/tanguy-crusson.md) — Head of Jira Product Discovery Atlassian; 10-year 0-to-1 practitioner, Lighthouse Users Program, Wonder→Explore→Make→Impact
 - [Teresa Torres](guests/teresa-torres.md) — Author of Continuous Discovery Habits, creator of Opportunity Solution Tree; trained 12,000+ PMs
 - [Tim Holley](guests/tim-holley.md) — VP Product Etsy; marketplace dynamics, cultural transformation, experimentation culture
+- [Timothy Davis](guests/timothy-davis.md) — Head of Paid Growth at Shopify; paid acquisition strategy, performance marketing, creative testing at scale
+- [Tobi Lütke](guests/tobi-lutke.md) — Co-founder/CEO Shopify; first-principles thinking, infinite games, maximizing human potential, founder leadership
+- [Todd Jackson](guests/todd-jackson.md) — Partner at First Round Capital; four-level PMF model, Four Ps pivot system, dollar-driven customer discovery
+- [Tom Conrad](guests/tom-conrad.md) — Former CTO Pandora, ex-Quibi/Pets.com; business model equation, billion-dollar failure analysis, career resilience
+- [Tomer Cohen](guests/tomer-cohen.md) — CPO of LinkedIn; AI-first product development, product-leader-as-algorithm-owner, organizational AI transformation
+- [Tristan de Montebello](guests/tristan-de-montebello.md) — Public speaking coach; Accordion Method, Bow and Arrow Method, overcoming performance anxiety
+- [Upasna Gautam](guests/upasna-gautam.md) — VP Product at CNN, ex-YouTube; media product, newsroom dynamics, equanimity as PM skill, stakeholder management
+- [Uri Levine](guests/uri-levine.md) — Co-founder of Waze; fall in love with the problem, PMF timing data, crisis management, serial entrepreneurship
+- [Varun Mohan](guests/varun-mohan.md) — Co-founder/CEO Windsurf (Codeium); AI code editor, 1M+ developers in 4 months, pivoting to AI, high agency
+- [Varun Parmar](guests/varun-parmar.md) — CPO of Miro; AMPED org structure, PLG+enterprise, product culture, competitive strategy in collaboration tools
 
 ## Frameworks
 
@@ -376,6 +386,11 @@
 - [PSHE Talent Framework](frameworks/pshe-talent-framework.md) — Shishir Mehrotra: evaluate hires on Problem, Solution, How, Execution fit across growth stages
 - [Three Levels of Product Work](frameworks/three-levels-product-work.md) — Shreyas Doshi: Impact (what matters), Execution (getting it done), Optics (how it appears)
 - [Wonder → Explore → Make → Impact](frameworks/wonder-explore-make-impact.md) — Atlassian's Tanguy Crusson: four-stage incubation framework with shared vocabulary for corporate innovation
+- [PMF Levels Framework](frameworks/pmf-levels-framework.md) — Todd Jackson's four-level B2B PMF model (Nascent/Developing/Strong/Extreme) with Four Ps pivot navigation and dollar-driven discovery
+- [First Principles Thinking](frameworks/first-principles-thinking.md) — Tobi Lütke's approach to deriving decisions from building blocks rather than adapting existing patterns
+- [Accordion Method](frameworks/accordion-method.md) — Tristan de Montebello's talk preparation technique using time compression/expansion to internalize rather than memorize
+- [Bow and Arrow Method](frameworks/bow-and-arrow-method.md) — Tristan de Montebello's framework for designing any talk around one memorable takeaway (arrow) supported by weight (bow)
+- [AMPED Structure](frameworks/amped-structure.md) — Miro's cross-functional product org: Analytics, Marketing, Product, Engineering, Design embedded in each product stream
 
 ## Concepts
 
@@ -476,6 +491,10 @@
 - [Hyperrealistic Work-Like Activities](concepts/hyperrealistic-work-like-activities.md) — Stewart Butterfield: activities that look like work but generate no value; emerge when headcount outpaces known-valuable work
 - [Owner's Delusion](concepts/owners-delusion.md) — Stewart Butterfield: product creators design for themselves (engaged, attentive) rather than distracted, low-intent users
 - [Utility Curves](concepts/utility-curves.md) — Stewart Butterfield's S-curve model for deciding where you are on a feature's investment-to-value curve
+- [Business Model Equation](concepts/business-model-equation.md) — Tom Conrad: every company has an underlying math formula; broken equations can't be fixed by product quality alone
+- [AI-First Product Development](concepts/ai-first-product-development.md) — Tomer Cohen: AI as strategic operating model; product leaders as algorithm owners; LinkedIn's diverge-then-converge AI transformation
+- [Fall in Love with the Problem](concepts/fall-in-love-with-the-problem.md) — Uri Levine: the problem is the North Star, the solution is a hypothesis; pivot solutions freely while keeping the problem constant
+- [Equanimity](concepts/equanimity.md) — Upasna Gautam: mental calmness under pressure as a core PM skill; the pause before reacting; developed through mindfulness practice
 
 ## Topics
 

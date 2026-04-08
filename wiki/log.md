@@ -2,6 +2,37 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-08] ingest | Batch 16 — Episodes timothy-davis through varun-parmar
+
+### Processed Episodes (10 unique, 12 attempted)
+1. **Timothy Davis** — "The ultimate guide to paid growth | Timothy Davis (Shopify)"
+2. **Tobi Lütke** — "Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential"
+3. **Todd Jackson** — "A framework for finding product-market fit | Todd Jackson (First Round Capital)"
+4. **Tom Conrad** — "Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Zero)"
+5. **Tomer Cohen** — "Why AI is disrupting traditional product management | Tomer Cohen (LinkedIn CPO)"
+6. **Tristan de Montebello** — "Why most public speaking advice is wrong—and how to finally overcome anxiety"
+7. **Upasna Gautam** — "An inside look at how CNN builds product"
+8. **Uri Levine** — "A founder's guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur)"
+9. **Varun Mohan** — "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf"
+10. **Varun Parmar** — "An inside look at how Miro builds product | Varun Parmar (CPO of Miro)"
+
+### Skipped
+- **tomer-cohen-20**: Duplicate of tomer-cohen (same YouTube URL R-zCfLQD_84)
+- **uri-levine-20**: Duplicate of uri-levine (same YouTube URL lQdogVBHMdA)
+
+### Created
+- **Guests (10):** timothy-davis, tobi-lutke, todd-jackson, tom-conrad, tomer-cohen, tristan-de-montebello, upasna-gautam, uri-levine, varun-mohan, varun-parmar
+- **Frameworks (5):** pmf-levels-framework, first-principles-thinking, accordion-method, bow-and-arrow-method, amped-structure
+- **Concepts (4):** business-model-equation, ai-first-product-development, fall-in-love-with-the-problem, equanimity
+
+### Updated
+- wiki/concepts/product-market-fit.md — added Todd Jackson's four-level framework and Uri Levine's retention-as-PMF-metric perspective
+- wiki/concepts/founder-mode.md — added Tobi Lütke's "heat injection" framing
+- wiki/concepts/word-of-mouth-growth.md — added Uri Levine's frequency-dependency insight
+- wiki/concepts/high-agency.md — added Upasna Gautam's and Varun Mohan's perspectives
+
+---
+
 ## [2026-04-07] ingest | Batch 15 — Episodes shishir-mehrotra through tim-holley
 
 ### Processed Episodes (10 unique, 10 attempted)

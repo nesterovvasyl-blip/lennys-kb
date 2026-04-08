@@ -1,6 +1,6 @@
 ---
 aliases: [PMF]
-guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss, rahul-vohra, sean-ellis]
+guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss, rahul-vohra, sean-ellis, todd-jackson, uri-levine]
 ---
 
 # Product-Market Fit
@@ -66,6 +66,27 @@ Half the roadmap goes to doubling down on what "very disappointed" users love. H
 
 Superhuman ran manual one-on-one onboarding for every user for years — up to 20 people doing it at peak. This created the early cohort of super-fans whose word-of-mouth bootstrapped Superhuman's brand before any marketing investment.
 
+**Todd Jackson's Four-Level PMF Framework (via [[todd-jackson]]):**
+
+**Todd Jackson** (First Round Capital) contributes the most structured multi-level framework in the knowledge base. He defines PMF across four levels with three key dimensions: satisfaction, demand, and efficiency. Crucially, efficiency (viable unit economics) is often omitted from PMF definitions but is load-bearing — the "$100 vending machine" has demand and satisfaction but is not viable. The four levels:
+
+- **L1 Nascent** (3–5 customers, $0–500K ARR): satisfaction-first. Wizard-of-Oz execution is fine. Get paid customers who would genuinely miss you.
+- **L2 Developing** (5–25 customers, $500K–$5M ARR): demand focus. Crack the first scalable channel. Stop grinding every customer through willpower.
+- **L3 Strong** (25–100 customers, $5M–$25M ARR): efficiency comes into focus. Gross margin >60–70%, burn multiple <3, NRR >110%. "The boulder is rolling downhill."
+- **L4 Extreme** (100+ customers, $25M+ ARR): maintain all three; expand TAM with new products/markets.
+
+Jackson's data: roughly 60–70% of startups get permanently stuck at L1 or L2. The **marginal customer test** — is the next customer getting progressively easier to acquire and serve? — is the most reliable ongoing signal of PMF progression.
+
+When stuck at any level, the four levers are: **persona, problem, promise, and product** (the Four Ps). Most founders need to make a "200% pivot," not a "10% adjustment." See [[pmf-levels-framework]] for the full framework.
+
+**Uri Levine's PMF definition:**
+
+**Uri Levine** (Waze co-founder, via [[uri-levine]]) offers the most elemental definition: PMF has exactly one metric — retention. "If you create value, they will come back. If they're not coming back, that means that you are not creating value." He extends this with the observation that once a company achieves PMF, the core product stops changing. Google search works today the same way it worked the first time. WhatsApp, Waze, Netflix — users interact with them the same way now as when they first tried them. The product locked in when it became good enough.
+
+On timing: Waze took four years. Microsoft took five. Netflix took ten. ChatGPT (OpenAI) was seven years old before the world heard of it. PMF is a multi-year process, not a launch milestone.
+
+On frequency and PMF signals: for high-frequency products, look at three-month retention rates of 30–40% as a healthy indicator. Watch when users convert from trying to habitual use — Waze's signal was when a driver used it a third or fourth time, suggesting they'd decided it was reliable enough to depend on.
+
 ## Sources
 
 - [[adam-grenier]] — "Assume you've lost PMF when economic conditions shift — the customer base has changed fundamentally"
@@ -74,6 +95,8 @@ Superhuman ran manual one-on-one onboarding for every user for years — up to 2
 - [[ivan-zhao]] — "PMF as a gradual ramp; hiding vision behind accessible form factor"
 - [[noah-weiss]] — "PMF as stacked S-curves; Slack's self-service plateau and Successful Teams metric"
 - [[sean-ellis]] — PMF test creator; sequencing growth from activation first to acquisition last; LogMeIn activation case study
+- [[todd-jackson]] — Four-level PMF framework (Nascent/Developing/Strong/Extreme); Four Ps pivot GPS; dollar-driven customer discovery methodology
+- [[uri-levine]] — "Retention is the only PMF metric"; PMF timing examples (Waze=4 years, ChatGPT=7 years); frequency-based retention benchmarks
 
 ## See Also
 

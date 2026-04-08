@@ -1,6 +1,6 @@
 ---
 concept: Word-of-Mouth Growth
-guests: [nilan-peiris, noah-weiss, rahul-vohra]
+guests: [nilan-peiris, noah-weiss, rahul-vohra, uri-levine]
 topics: [growth, product-strategy, virality]
 ---
 
@@ -56,6 +56,14 @@ Superhuman operationalizes remarkableness through company values: "Create deligh
 
 The cocktail party test: if your best users pitch your product in one memorable sentence ("dude, you have to use it, it's really fucking fast"), you have a position worth owning.
 
+### Uri Levine ([[uri-levine]])
+
+Levine identifies word-of-mouth as Waze's dominant growth channel: if you asked 100 Waze users how they heard about it, 95–99 would say "someone told me." His structural insight on WoM: **it is frequency-dependent**. You can only get WoM if you have high frequency of use. A tax filing app, even one people love, can generate at most one referral per year per user. Waze generates one per day.
+
+The implication: companies with low-frequency use cannot rely on WoM and must therefore build their business model *before* scaling growth (because their paid acquisition channels are the only option). Companies with high-frequency use should prioritize growth *before* business model because WoM will do most of the work.
+
+An exception Levine acknowledges: "coolness" can compensate for low frequency (as with early Airbnb — low frequency, but such a novel experience that people told many people). The key is that something must create an irresistible reason to share.
+
 ## Actionable Takeaways
 - Measure WoM directly — ask users how they heard about you; integrate it into the product flow.
 - Track NPS as a leading growth indicator, not just a satisfaction score. Read every comment.
@@ -67,6 +75,7 @@ The cocktail party test: if your best users pitch your product in one memorable 
 - [[nilan-peiris]] — "How to drive word of mouth | Nilan Peiris (CPO of Wise)"
 - [[noah-weiss]] — "The 10 traits of great PMs, AI, and Slack's approach to product"
 - [[rahul-vohra]] — "Superhuman's secret to success"
+- [[uri-levine]] — "A founder's guide to crisis management"; WoM as frequency-dependent; Waze as the canonical WoM story
 
 ## See Also
 - [[viral-growth-loop]]
