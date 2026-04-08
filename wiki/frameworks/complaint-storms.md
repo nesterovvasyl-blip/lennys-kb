@@ -29,7 +29,9 @@ Stripe uses a similar process called [[friction-logging]]. Noah notes that Compl
 
 5. **Repeat with your own product** — now apply the same rigor. The prior calibration on the competitor makes it easier to say hard things about your own product.
 
-6. **Prioritize the output into a burndown list** — sort by impact and effort. This becomes the input for a **Customer Love Sprint**: a two-week team sprint focused solely on shipping the highest-priority, lowest-effort improvements (not prototypes — shipped to production).
+6. **Prioritize the output into a burndown list** — sort by impact and effort. This becomes the input for a **Customer Love Sprint**: a two-week team sprint focused solely on shipping the highest-priority, lowest-effort improvements (not prototypes — shipped to production). Goal: ship all of them. The sprint creates a change of pace from big-feature work and generates rapid customer delight.
+
+**Calibration benefit**: Beyond the specific insights, the complaint-storm calibrates the whole team on product quality standards — everyone ends up with a shared felt sense of what "frustrating UX" looks like, which improves every future design decision.
 
 ## How to Apply
 

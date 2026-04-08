@@ -195,6 +195,7 @@
 - [Nickey Skarstad](guests/nickey-skarstad.md) — Director of Product Duolingo (ex-Airbnb, Etsy, Shopify); second-order thinking, product quality operationalization
 - [Nicole Forsgren](guests/nicole-forsgren.md) — Sr. Director Google, ex-GitHub VP Research; creator of DORA and SPACE frameworks, AI developer productivity measurement
 - [Nikhyl Singhal](guests/nikhyl-singhal.md) — VP Product Meta, founder The Skip CPO Community; shadows of superpowers, job-after-next career framework
+- [Nikita Bier](guests/nikita-bier.md) — Entrepreneur, co-creator of tbh and Gas; viral consumer apps, sequential validation, growth hacking
 - [Nikita Miller](guests/nikita-miller.md) — SVP Product at The Knot Worldwide; cross-functional R&R contracts, outcomes vs. output, work-life balance frameworks
 - [Nilan Peiris](guests/nilan-peiris.md) — CPO of Wise; 70% word-of-mouth acquisition via NPS-as-growth-lever and 10x product improvements
 - [Nir Eyal](guests/nir-eyal.md) — Author of Hooked and Indistractable; Hooked Model for habit formation, Indistractable Framework for focus
@@ -219,6 +220,7 @@
 - [Robby Stein](guests/robby-stein.md) — VP of Product at Google Search; AI Mode, AI Overviews, consumer product building at scale
 - [Roger Martin](guests/roger-martin.md) — Professor Emeritus Rotman School; 5 essential strategy questions, Playing to Win co-author
 - [Ronny Kohavi](guests/ronny-kohavi.md) — Former VP at Airbnb/Microsoft/Amazon; the definitive guide to A/B testing, OEC metrics, experimentation culture
+- [Ryan Hoover](guests/ryan-hoover.md) — Founder of Product Hunt, Managing Partner Weekend Fund; community building, product launches, angel investing
 - [Ryan J. Salva](guests/ryan-j-salva.md) — VP Product at GitHub; incubated GitHub Copilot; AI pair programmer concept, R&D-to-product transition
 - [Ryan Singer](guests/ryan-singer.md) — Creator of Shape Up at 37signals; shaping session mechanics, appetites vs. estimates, predictable shipping
 - [Sachin Monga](guests/sachin-monga.md) — Head of Product at Substack; built Recommendations (1-in-3 new subs from network), creator economy growth
@@ -336,13 +338,13 @@
 - [Low-Impact PM Death Spiral](frameworks/low-impact-pm-death-spiral.md) — Matt LeMay's pattern: busy work crowds out customer contact, leading to irrelevance
 - [Waterline Model](frameworks/waterline-model.md) — Molly Graham's framework for when to make decisions autonomously vs. surface upward
 - [Day One vs. Day 100 Pricing](frameworks/day-one-vs-day-100-pricing.md) — Naomi Ionita's framework for deciding which features belong in free vs. premium tiers based on user lifecycle
-- [DORA and SPACE Frameworks](frameworks/dora-space-frameworks.md) — Nicole Forsgren's complementary frameworks for measuring developer productivity and experience
+- [DORA Metrics](frameworks/dora-metrics.md) — Nicole Forsgren's four key metrics for measuring speed and stability of a software delivery pipeline
 - [Extreme Clarity](frameworks/extreme-clarity.md) — Naomi Gleit's Meta operating principle: ensure all stakeholders share the same factual understanding before acting
 - [Forward Deployed Engineer (FDE)](frameworks/forward-deployed-engineer.md) — Palantir's model of embedding engineers at customer sites to solve real problems in real time
 - [Maximally Accelerated](frameworks/maximally-accelerated.md) — Nick Turley's forcing function: if this were the most important thing, what would you do to truly maximize speed?
 - [What Is / What Could Be](frameworks/what-is-what-could-be.md) — Nancy Duarte's alternating presentation structure between current reality and possible future
 - [Complaint-Storms](frameworks/complaint-storms.md) — Noah Weiss / Slack's ritual of cataloging competitor flaws to regain critical eyes, feeding Customer Love Sprints
-- [Differentiation vs. Table Stakes](frameworks/differentiation-vs-table-stakes.md) — Paul Adams' framework: every roadmap feature either attracts customers or removes blockers; knowing which determines whether your product can win
+- [Differentiation vs. Table Stakes](frameworks/differentiation-table-stakes.md) — Paul Adams' framework: every roadmap feature either attracts customers or removes blockers; knowing which determines whether your product can win
 - [Hooked Model](frameworks/hooked-model.md) — Nir Eyal's Trigger→Action→Variable Reward→Investment loop for building habit-forming products
 - [Indistractable Framework](frameworks/indistractable-framework.md) — Nir Eyal's four-step system: master internal triggers, time-box calendar, hack external triggers, make pacts
 - [Tempo Framework](frameworks/tempo-framework.md) — Patrick Campbell's principle: define what "good" shipping frequency looks like before setting org design
@@ -354,7 +356,7 @@
 - [Job Mission OKRs](frameworks/job-mission-okrs.md) — Phyl Terry's tactic: draft your own OKRs for a role privately, then share with hiring managers to demonstrate initiative
 - [Nonviolent Communication (NVC)](frameworks/nonviolent-communication.md) — Marshall Rosenberg's framework for conflict resolution; observations, feelings, needs, requests
 - [PM Competency Framework](frameworks/pm-competency-framework.md) — Ravi Mehta's 12 competencies across four domains for PM assessment and development
-- [PMwheel](frameworks/pmwheel.md) — Petra Wille's eight-bucket framework for comprehensive PM assessment: Understand, Find Solutions, Plan, Get It Done, Listen and Learn, Team, Personal Growth, Agile
+- [PMwheel](frameworks/pm-wheel.md) — Petra Wille's eight-bucket framework for comprehensive PM assessment: Understand, Find Solutions, Plan, Get It Done, Listen and Learn, Team, Personal Growth, Agile
 - [Product Strategy Stack](frameworks/product-strategy-stack.md) — Ravi Mehta's layered model: vision → strategy → roadmap → OKRs, each informing the next
 - [Single Decisive Reason](frameworks/single-decisive-reason.md) — Reid Hoffman (via Rahul Vohra): when faced with a hard decision, find the one reason that makes everything else irrelevant
 - [Superhuman PMF Engine](frameworks/superhuman-pmf-engine.md) — Rahul Vohra's quantitative PMF survey method using "very disappointed" benchmark and segmentation
@@ -376,11 +378,22 @@
 - [PSHE Talent Framework](frameworks/pshe-talent-framework.md) — Shishir Mehrotra: evaluate hires on Problem, Solution, How, Execution fit across growth stages
 - [Three Levels of Product Work](frameworks/three-levels-product-work.md) — Shreyas Doshi: Impact (what matters), Execution (getting it done), Optics (how it appears)
 - [Wonder → Explore → Make → Impact](frameworks/wonder-explore-make-impact.md) — Atlassian's Tanguy Crusson: four-stage incubation framework with shared vocabulary for corporate innovation
+- [Candidate Market Fit](frameworks/candidate-market-fit.md) — Phyl Terry's product-thinking approach to job search: understand supply/demand dynamics in your specific labor market
+- [Five Ingredients for PM Coaching](frameworks/five-ingredients-pm-coaching.md) — Petra Wille's structured framework for product leads to systematically develop their PMs
+- [Founder-Led Sales](frameworks/founder-led-sales.md) — Pete Kazanjy's model: founders do all early sales themselves before hiring salespeople for direct feedback loops
+- [Job Search Council](frameworks/job-search-council.md) — Phyl Terry's peer support group of 6-8 job seekers combining accountability, emotional support, and shared intelligence
+- [Pathless Path](frameworks/pathless-path-framework.md) — Paul Millerd's framework for questioning the default path and designing work around conscious choice
+- [Pendulum Swinging](frameworks/pendulum-swinging.md) — Paul Adams' observation: organizations correcting an undesirable state almost always over-correct
+- [PMF Framework for Candidates](frameworks/pmf-framework-candidates.md) — Adam Fishman's People/Mission/Financials heuristic for evaluating job opportunities
+- [Product-Market Fit Engine](frameworks/product-market-fit-engine.md) — Rahul Vohra's algorithmic framework for measuring and systematically increasing product-market fit
+- [SPACE Framework](frameworks/space-framework.md) — Nicole Forsgren's five-dimension framework for understanding developer experience without prescribing specific metrics
+- [Vision-Mission-Strategy-OKR Pyramid](frameworks/vision-mission-strategy-pyramid.md) — Nickey Skarstad's top-down framework connecting 10-year vision to 90-day team actions
 
 ## Concepts
 
 - [AI Non-determinism](concepts/ai-non-determinism.md) — Unbounded inputs + probabilistic outputs
 - [B2B Buyer Indecision](concepts/b2b-buyer-indecision.md) — 40-60% of B2B purchases end in no decision
+- [Disagreeable Givers](concepts/disagreeable-giver.md) — Naomi Gleit's model: people who give freely but push back on ideas; most effective collaborators
 - [Diversity as Product Velocity](concepts/diversity-product-velocity.md) — Diverse teams ship global products faster
 - [Experimentation Culture](concepts/experimentation-culture.md) — Building organizational experimentation habits
 - [Observable Facts Feedback](concepts/observable-facts-feedback.md) — Behavior-anchored performance feedback
@@ -404,7 +417,7 @@
 - [Adjacent User Theory](concepts/adjacent-user-theory.md) — Finding growth by targeting users just outside current product experience
 - [Freemium Subscription](concepts/freemium-subscription.md) — Freemium model mechanics and conversion patterns
 - [Inner Scorecard vs. Outer Scorecard](concepts/inner-scorecard-outer-scorecard.md) — Internal vs. external success metrics (Buffett)
-- [PMF Framework for Candidates](concepts/pmf-framework-candidates.md) — People, Mission, Financials job evaluation heuristic
+- [PMF Framework for Candidates](frameworks/pmf-framework-candidates.md) — People, Mission, Financials job evaluation heuristic
 - [Three Inflection Points](concepts/three-inflection-points.md) — Technology, behavior, and business model inflections must align
 - [Category Creation](concepts/category-creation.md) — Three prerequisites and mechanics for creating a new category
 - [Jobs to Be Done](concepts/jobs-to-be-done.md) — Four forces model, context+outcome framing, career application
@@ -455,7 +468,6 @@
 - [Tactical vs. Strategic Retention](concepts/tactical-vs-strategic-retention.md) — Patrick Campbell: churn has two root causes (product/fit vs. payment failures); most teams only fix one
 - [Word-of-Mouth Growth](concepts/word-of-mouth-growth.md) — How Wise and Slack built products that spread through referral and authentic advocacy
 - [Product-Market-Story Fit](concepts/product-market-story-fit.md) — Paul Adams: great products in great markets still fail without the right story explaining why they're different and better
-- [Candidate Market Fit](concepts/candidate-market-fit.md) — Phyl Terry: job search success depends on labor market conditions, not just inherent worth; apply product thinking to your search
 - [Game Design Principles in Product](concepts/game-design-principles.md) — Rahul Vohra: applying variable rewards, mastery, and feedback loops to drive product engagement and retention
 - [Two-Sided Marketplace Dynamics](concepts/two-sided-marketplace-dynamics.md) — Ramesh Johari: supply/demand interdependence, interference, experimentation challenges unique to marketplaces
 - [AI Pair Programmer](concepts/ai-pair-programmer.md) — Ryan J. Salva: framing AI coding assistance as collaborative partner; the model behind Copilot's design
@@ -476,6 +488,14 @@
 - [Hyperrealistic Work-Like Activities](concepts/hyperrealistic-work-like-activities.md) — Stewart Butterfield: activities that look like work but generate no value; emerge when headcount outpaces known-valuable work
 - [Owner's Delusion](concepts/owners-delusion.md) — Stewart Butterfield: product creators design for themselves (engaged, attentive) rather than distracted, low-intent users
 - [Utility Curves](concepts/utility-curves.md) — Stewart Butterfield's S-curve model for deciding where you are on a feature's investment-to-value curve
+- [Asking for Help](concepts/asking-for-help.md) — Phyl Terry: proactively seeking support is a sign of confidence, not weakness; 85% of senior leaders credit it as key
+- [Behavioral Activation](concepts/behavioral-activation.md) — CBT technique applied to leadership by Hilary Gridley: behavior changes emotion, act your way into feeling better
+- [Data Flywheel](concepts/data-flywheel.md) — Self-reinforcing loop where product usage generates proprietary training data that improves AI model quality
+- [Friction Logging](concepts/friction-logging.md) — Systematically documenting every point of confusion or failure while using a product as a real user
+- [Marketplace Dynamics](concepts/marketplaces.md) — Two-sided platforms that create value by removing transaction costs between buyers and sellers
+- [Opinionated Defaults](concepts/opinionated-defaults.md) — Karri Saarinen's product philosophy: make deliberate choices about how work should be done rather than offering infinite configurability
+- [Pricing Strategy](concepts/pricing-strategy.md) — Systematic process of deciding when, what, and how to charge; highest-leverage and most mismanaged growth lever
+- [Sharp Problem](concepts/sharp-problem.md) — Oji Udezue: a problem that materially steals time/energy/money, whose solution delivers 3x+ improvement
 
 ## Topics
 

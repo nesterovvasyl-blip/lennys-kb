@@ -46,4 +46,4 @@ His definition of "product": the solution to the market's problem. Product-marke
 - [[product-market-fit]]
 - [[april-dunford]]
 - [[category-creation]]
-- [[differentiation-vs-table-stakes]]
+- [[differentiation-table-stakes]]

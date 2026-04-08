@@ -474,14 +474,14 @@
 - Created: 9 guest pages, frameworks/okrs-radical-focus, frameworks/operators-strategy-process, concepts/network-effects, concepts/reference-customers, concepts/zirp-pm
 - Updated: topics/strategy (Janakiraman five-phase, Wodtke OKRs, Winters founder intuition), topics/feedback (Robin three realities), topics/growth (Dietrich hypergrowth, Winters network effects), topics/ai-products (Huyen RAG/post-training), topics/leadership (Robin interpersonal competence, Conley Modern Elder)
 
-## [2026-04-07] ingest | Batch 7 — christine-itwaru through dan-shipper
+## [2026-04-07] ingest | Batch 7b — christine-itwaru through dan-shipper (PR #4)
 
 - Processed: christine-itwaru, christopher-lochhead, christopher-miller, claire-butler, claire-hughes-johnson, claire-vo, crystal-w, dalton-caldwell, dan-hockenmaier, dan-shipper (10 episodes)
 - Skipped: none
 - Created: 10 guest pages, frameworks/category-design, frameworks/bottom-up-gtm, frameworks/growth-model-framework, frameworks/personal-operating-principles, frameworks/backcasting, concepts/product-ops, concepts/tar-pit-ideas, concepts/ai-operations-role, concepts/startup-resilience, concepts/context-engineering
 - Updated: concepts/category-creation (Lochhead perspective), concepts/community-led-growth (Butler designer advocates), topics/growth (Hockenmaier, Crystal W, Miller), topics/leadership (Hughes Johnson, Vo), topics/positioning (Lochhead category design), topics/ai-products (Shipper context engineering), topics/career-strategy (Vo clock speed)
 
-## [2026-04-07] ingest | Batch 8 — daniel-lereya through drew-houston
+## [2026-04-07] ingest | Batch 8b — daniel-lereya through drew-houston (PR #4)
 
 - Processed: daniel-lereya, david-placek, david-singleton, deb-liu, dhanji-r-prasanna, dharmesh-shah, dmitry-zlokazov, donna-lichaw, dr-fei-fei-li, drew-houston (10 episodes)
 - Skipped: none
@@ -489,7 +489,7 @@
 - Created: 10 guest pages, frameworks/friction-logging, frameworks/identify-invent-implement, concepts/world-models, concepts/local-ceo-model
 - Updated: concepts/startup-resilience (Houston), concepts/founder-mode (Houston), concepts/viral-growth-loop (Houston), frameworks/playing-to-win-strategy (Houston), frameworks/personal-operating-manual (Lichaw), topics/ai-products (Prasanna, Li), topics/career-strategy (Liu, Lichaw), topics/leadership (Lichaw, Lereya), topics/growth (Houston)
 
-## [2026-04-07] ingest | Batch 9 — dylan-field through ethan-smith (2 parallel agents)
+## [2026-04-07] ingest | Batch 9b — dylan-field through ethan-smith (PR #4, 2 parallel agents)
 
 - Processed: dylan-field, dylan-field-20, ebi-atawodi, edwin-chen, eeke-de-milliano, elena-verna, elena-verna-20, elena-verna-40, eli-schwartz, elizabeth-stone, emilie-gerber, emily-kramer, eoghan-mccabe, eric-ries, eric-simons, ethan-evans, ethan-evans-20, ethan-smith (18 episodes)
 - Skipped: elena-verna-30 (duplicate of elena-verna-20), ethan-evans-20 (duplicate of ethan-evans), eoy-review (non-guest)
@@ -498,7 +498,7 @@
 - Updated: concepts/founder-mode (McCabe), concepts/outcomes-based-pricing (McCabe)
 - Topic tags deferred to synthesis pass (new process)
 
-## [2026-04-07] ingest | Batch 10 — evan-lapointe through hamel-husain-shreya-shankar (2 parallel agents)
+## [2026-04-07] ingest | Batch 10b — evan-lapointe through hamel-husain-shreya-shankar (PR #4, 2 parallel agents)
 
 - Processed: evan-lapointe, fareed-mosavat, farhan-thawar, garrett-lord, gaurav-misra, geoff-charles, geoffrey-moore, gergely, gia-laudi, gibson-biddle, gina-gotthilf, gokul-rajaram, graham-weaver, grant-lee, guillermo-rauch, gustaf-alstromer, gustav-söderström, hamel-husain-shreya-shankar (18 episodes)
 - Skipped: failure (compilation), fei-fei (duplicate of dr-fei-fei-li)
@@ -507,7 +507,7 @@
 - Updated: concepts/jobs-to-be-done (Laudi), concepts/inner-scorecard-outer-scorecard (Weaver), concepts/ai-evals (Hamel/Shreya)
 - Topic tags deferred to synthesis pass
 
-## [2026-04-07] ingest | Batch 11 — hamelshreya through jason-feifer (2 parallel agents)
+## [2026-04-07] ingest | Batch 11b — hamelshreya through jason-feifer (PR #4, 2 parallel agents)
 
 - Processed: hamilton-helmer, hari-srinivasan, heidi-helfand, hila-qu, hilary-gridley, howie-liu, ian-mcallister, inbal-s, itamar-gilad, ivan-zhao, jackie-bavaro, jackson-shuttleworth, jag-duggal, jake-knapp-john-zeratsky, janna-bastow, jason-droege, jason-feifer (17 episodes)
 - Skipped: hamelshreya (duplicate of hamel-husain-shreya-shankar), interview-q-compilation (non-guest), jake-knapp-john-zeratsky-20 (duplicate)

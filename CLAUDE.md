@@ -142,7 +142,7 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**244 / 303 episodes ingested** (last updated: 2026-04-07)
+**241 / 303 episodes ingested** (last updated: 2026-04-08)
 
 Full list: `wiki/ingested.md`
 

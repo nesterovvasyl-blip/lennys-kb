@@ -56,6 +56,8 @@ Superhuman operationalizes remarkableness through company values: "Create deligh
 
 The cocktail party test: if your best users pitch your product in one memorable sentence ("dude, you have to use it, it's really fucking fast"), you have a position worth owning.
 
+Vohra also found that manual 1:1 onboarding created superfans — the earliest cohort of highly engaged, delighted users who then generate disproportionate word-of-mouth and brand momentum that paid marketing can't replicate at any price.
+
 ## Actionable Takeaways
 - Measure WoM directly — ask users how they heard about you; integrate it into the product flow.
 - Track NPS as a leading growth indicator, not just a satisfaction score. Read every comment.
