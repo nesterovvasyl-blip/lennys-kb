@@ -223,6 +223,16 @@
 - [Ryan Singer](guests/ryan-singer.md) — Creator of Shape Up at 37signals; shaping session mechanics, appetites vs. estimates, predictable shipping
 - [Sachin Monga](guests/sachin-monga.md) — Head of Product at Substack; built Recommendations (1-in-3 new subs from network), creator economy growth
 - [Sahil Mansuri](guests/sahil-mansuri.md) — CEO of Bravado; B2B SaaS sales, downturn playbooks, fixing misaligned comp plans
+- [Sam Schillace](guests/sam-schillace.md) — Microsoft deputy CTO, creator of Google Docs; innovation philosophy, AI as platform shift, What If/Why Not heuristic
+- [Sanchan Saxena](guests/sanchan-saxena.md) — Former Head of Product Instagram/Airbnb, VP Product Coinbase; intentionality over A/B testing, crisis leadership
+- [Sander Schulhoff](guests/sander-schulhoff.md) — Creator of first prompt engineering guide, HackAPrompt founder; 5 high-impact prompting techniques, what no longer works
+- [Sander Schulhoff (ep. 2)](guests/sander-schulhoff-20.md) — AI security episode: why guardrails fail, prompt injection on agents, what actually works
+- [Sarah Tavel](guests/sarah-tavel.md) — Benchmark GP, Pinterest's first PM; Hierarchy of Engagement and Hierarchy of Marketplaces frameworks
+- [Scott Belsky](guests/scott-belsky.md) — Adobe CSO, founder of Behance; First Mile Experience, the Messy Middle, product sense and simplicity
+- [Scott Wu](guests/scott-wu.md) — Co-founder/CEO Cognition (Devin); AI engineering agents, Bricklayer-to-Architect model, future of software engineering
+- [Sean Ellis](guests/sean-ellis.md) — Coined "growth hacking"; invented ICE framework and Sean Ellis Test (40% "very disappointed" benchmark)
+- [Seth Godin](guests/seth-godin.md) — Author, marketer; brand as promise, Purple Cow, remarkable products, systems thinking
+- [Shaun Clowes](guests/shaun-clowes.md) — CPO Confluent, first Head of Growth Atlassian; AI products, data-driven PLG, B2B SaaS defensibility
 
 ## Frameworks
 
@@ -342,6 +352,11 @@
 - [Good Strategy Kernel](frameworks/good-strategy-kernel.md) — Richard Rumelt's three-part structure: diagnosis, guiding policy, coherent actions
 - [R&D to Product Transition](frameworks/r-and-d-to-product-transition.md) — Ryan J. Salva's six-step framework for graduating an experimental project from research to operational product inside a large company
 - [Strategy Choice Cascade](frameworks/strategy-choice-cascade.md) — Roger Martin's five linked choices: winning aspiration → where to play → how to win → capabilities → management systems
+- [Bricklayer to Architect](frameworks/bricklayer-to-architect.md) — Scott Wu's model: AI agents shift engineers from writing code (bricklayer) to designing systems (architect)
+- [Hierarchy of Engagement](frameworks/hierarchy-of-engagement.md) — Sarah Tavel's three-level framework: core action → retention through habitual use → self-perpetuating growth
+- [Hierarchy of Marketplaces](frameworks/hierarchy-of-marketplaces.md) — Sarah Tavel's three levels: focused thimble → tip the market → dominate
+- [ICE Prioritization Framework](frameworks/ice-prioritization-framework.md) — Sean Ellis's Impact × Confidence × Ease scoring for growth experiment prioritization
+- [Sean Ellis Test](frameworks/sean-ellis-test.md) — The "very disappointed" PMF survey: 40%+ threshold signals product-market fit
 
 ## Concepts
 
@@ -429,6 +444,10 @@
 - [Substack Recommendations](concepts/substack-recommendations.md) — Sachin Monga: writer-controlled cross-promotion driving 1-in-3 subscriptions; trust-based viral growth case study
 - [Context, No Control](concepts/context-no-control.md) — Ray Cao / Netflix principle: give teams full context on goals and constraints, then trust them to make decisions without seeking approval
 - [Overall Evaluation Criterion (OEC)](concepts/overall-evaluation-criterion.md) — Ronny Kohavi: the single composite metric that combines all business goals, enabling automated experiment decisions
+- [Brand as Promise](concepts/brand-as-promise.md) — Seth Godin: a brand is a promise about what someone will experience; promise + delivery = trust
+- [First Mile Experience](concepts/first-mile-experience.md) — Scott Belsky: the first interactions a new user has; more important than features because it determines whether they return
+- [Prompt Engineering](concepts/prompt-engineering.md) — Sander Schulhoff: crafting LLM inputs for better outputs; 5 techniques that work, what no longer works
+- [Prompt Injection and AI Security](concepts/prompt-injection.md) — Sander Schulhoff: attack vectors against LLM systems; why guardrails fail; what actually works for agentic deployments
 
 ## Topics
 

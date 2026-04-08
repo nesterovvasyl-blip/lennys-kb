@@ -2,6 +2,32 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 14 — Episodes sam-schillace through shaun-clowes
+
+### Processed Episodes (10 unique, 10 attempted)
+1. **Sam Schillace** — "How to be more innovative"
+2. **Sanchan Saxena** — "Why Uber's CPO delivers food on weekends"
+3. **Sander Schulhoff** — "AI prompt engineering in 2025: What works and what doesn't"
+4. **Sander Schulhoff (ep. 2)** — "Why securing AI is harder than anyone expected"
+5. **Sarah Tavel** — "The hierarchy of engagement"
+6. **Scott Belsky** — "Lessons on product sense, AI, the first mile experience, and the messy middle"
+7. **Scott Wu** — "Inside Devin: The AI engineer"
+8. **Sean Ellis** — "The original growth hacker reveals his secrets"
+9. **Seth Godin** — "Seth Godin's best tactics for building remarkable products, strategies, brands and more"
+10. **Shaun Clowes** — "Why great AI products are all about the data"
+
+### Skipped
+- None
+
+### Created
+- **Guests (10):** sam-schillace, sanchan-saxena, sander-schulhoff, sander-schulhoff-20, sarah-tavel, scott-belsky, scott-wu, sean-ellis, seth-godin, shaun-clowes
+- **Frameworks (5):** bricklayer-to-architect, hierarchy-of-engagement, hierarchy-of-marketplaces, ice-prioritization-framework, sean-ellis-test
+- **Concepts (4):** brand-as-promise, first-mile-experience, prompt-engineering, prompt-injection
+
+### Updated
+- wiki/concepts/jevons-paradox-software.md — Scott Wu's Devin/Cognition perspective
+- wiki/concepts/product-market-fit.md — Sean Ellis's 40% threshold context
+
 ## [2026-04-07] ingest | Batch 13 — Episodes ray-cao through sahil-mansuri
 
 ### Processed Episodes (9 unique, 10 attempted)

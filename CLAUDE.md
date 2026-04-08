@@ -142,11 +142,11 @@ Periodic health check. Run with **"lint wiki"**.
 
 ## Ingest Progress
 
-**224 / 303 episodes ingested** (last updated: 2026-04-07)
+**234 / 303 episodes ingested** (last updated: 2026-04-07)
 
 Full list: `wiki/ingested.md`
 
-Next batch starts at: **sam-schillace** (alphabetically after sahil-mansuri)
+Next batch starts at: **shishir-mehrotra** (alphabetically after shaun-clowes)
 
 ## Commands
 

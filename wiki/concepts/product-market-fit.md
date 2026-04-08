@@ -1,6 +1,6 @@
 ---
 aliases: [PMF]
-guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss, rahul-vohra]
+guests: [adam-grenier, adriel-frederick, jag-duggal, ivan-zhao, noah-weiss, rahul-vohra, sean-ellis]
 ---
 
 # Product-Market Fit
@@ -33,12 +33,25 @@ Duggal's additional technique: when aggregate Sean Ellis scores are mediocre (e.
 
 Slack's self-service plateau in 2019 was precisely this: PMF with early adopters did not extend to the mainstream. The fix required abandoning the existing roadmap entirely for six months to re-learn what the next audience needed — discovering that comprehension ("what is this for?"), desirability ("why should I care?"), and free trial of paid features were the new levers. The resulting north star metric — "Successful Teams" (5+ people using Slack the majority of the work week) — predicted 400% higher upgrade likelihood over 6 months and unified the whole product org.
 
+**Sean Ellis's own framing:**
+
+**Sean Ellis** (the creator of the test) describes it explicitly as a **leading indicator**, not a final judgment — retention cohorts are the ground truth. The test's value is speed: you can get a PMF signal on day one without waiting for longitudinal data. Ellis's full methodology:
+
+1. Survey active users (2+ uses, within the past 1-2 weeks; min 30 responses)
+2. Dig into the "very disappointed" cohort — run open-ended and multiple-choice benefit surveys
+3. Ask "why is that benefit important to you?" — the contextual answer becomes your best acquisition hook
+4. Don't obsess on "somewhat disappointed" users unless they share the core benefit of your must-have users (the Superhuman approach)
+5. Sequence your growth work: understand must-have value → optimize activation → build engagement/referral → refine revenue → then scale acquisition channels
+
+The canonical activation case study: at LogMeIn, 95% of signups never completed a remote control session. A company-wide feature freeze to focus on this single metric improved signup-to-usage from 5% to 50% in three months, unlocking customer acquisition channels from $10K/month to $1M/month.
+
 **Practical implications:**
 - Continuously resurvey customers after major market events
 - Treat each new user segment as a separate PMF question
 - Watch retention and activation metrics for early signs of fit erosion
 - Use the Sean Ellis score as a launch gate, not just measurement; define your threshold based on your specific customer base
 - Find the bullseye cohort (highest PMF segment) and design toward them
+- Sequence growth work: nail activation before scaling acquisition
 
 **Rahul Vohra's PMF Engine:**
 
@@ -60,6 +73,7 @@ Superhuman ran manual one-on-one onboarding for every user for years — up to 2
 - [[jag-duggal]] — "Sean Ellis score as a launch gate; bullseye cohort methodology at Nubank"
 - [[ivan-zhao]] — "PMF as a gradual ramp; hiding vision behind accessible form factor"
 - [[noah-weiss]] — "PMF as stacked S-curves; Slack's self-service plateau and Successful Teams metric"
+- [[sean-ellis]] — PMF test creator; sequencing growth from activation first to acquisition last; LogMeIn activation case study
 
 ## See Also
 
