@@ -341,6 +341,7 @@
 - [Downturn Sales Playbook](frameworks/downturn-sales-playbook.md) — Sahil Mansuri's five-part GTM adjustment when new-business pipeline freezes: reforecast, comp redesign, retention focus, advisory value, warm intros
 - [Good Strategy Kernel](frameworks/good-strategy-kernel.md) — Richard Rumelt's three-part structure: diagnosis, guiding policy, coherent actions
 - [R&D to Product Transition](frameworks/r-and-d-to-product-transition.md) — Ryan J. Salva's six-step framework for graduating an experimental project from research to operational product inside a large company
+- [Strategy Choice Cascade](frameworks/strategy-choice-cascade.md) — Roger Martin's five linked choices: winning aspiration → where to play → how to win → capabilities → management systems
 
 ## Concepts
 
@@ -426,6 +427,8 @@
 - [AI Pair Programmer](concepts/ai-pair-programmer.md) — Ryan J. Salva: framing AI coding assistance as collaborative partner; the model behind Copilot's design
 - [Sales Comp Alignment](concepts/sales-comp-alignment.md) — Sahil Mansuri: mismatch between new-ARR comp structures and retention-driven models; how to fix with renewal kickers
 - [Substack Recommendations](concepts/substack-recommendations.md) — Sachin Monga: writer-controlled cross-promotion driving 1-in-3 subscriptions; trust-based viral growth case study
+- [Context, No Control](concepts/context-no-control.md) — Ray Cao / Netflix principle: give teams full context on goals and constraints, then trust them to make decisions without seeking approval
+- [Overall Evaluation Criterion (OEC)](concepts/overall-evaluation-criterion.md) — Ronny Kohavi: the single composite metric that combines all business goals, enabling automated experiment decisions
 
 ## Topics
 
