@@ -2,6 +2,19 @@
 
 > Append-only chronological record of all ingest operations.
 
+## [2026-04-07] ingest | Batch 16 (partial) — timothy-davis, tobi-lutke, upasna-gautam
+
+### Processed Episodes (3 unique — partial batch, rate limit hit)
+1. **Timothy Davis** — "The ultimate guide to paid growth"
+2. **Tobi Lütke** — "Tobi Lütke's leadership playbook: First principles, infinite games, and maximizing human potential"
+3. **Upasna Gautam** — "An inside look at how CNN builds product"
+
+### Skipped
+- None
+
+### Remaining (rate limit — resume next session)
+- todd-jackson, tom-conrad, tomer-cohen, tomer-cohen-20, tristan-de-montebello, uri-levine, uri-levine-20, varun-mohan, varun-parmar, vijay, vikrama-dhiman, wes-kao, wes-kao-20, will-larson, yuhki-yamashata, yuriy-timen, zoelle-egner
+
 ## [2026-04-07] ingest | Batch 15 — Episodes shishir-mehrotra through tim-holley
 
 ### Processed Episodes (10 unique, 10 attempted)

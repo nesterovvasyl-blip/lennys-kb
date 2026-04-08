@@ -2,7 +2,7 @@
 
 > Auto-maintained list of all ingested episodes. Updated after each batch.
 
-## Episodes (244 unique / 303 total)
+## Episodes (247 unique / 303 total)
 
 1. ada-chen-rekhi
 2. adam-fishman
@@ -249,6 +249,9 @@
 243. tanguy-crusson
 244. teresa-torres
 245. tim-holley
+246. timothy-davis
+247. tobi-lutke
+248. upasna-gautam
 
 ## Skipped
 

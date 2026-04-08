@@ -243,6 +243,9 @@
 - [Tanguy Crusson](guests/tanguy-crusson.md) — Head of Jira Product Discovery Atlassian; 10-year 0-to-1 practitioner, Lighthouse Users Program, Wonder→Explore→Make→Impact
 - [Teresa Torres](guests/teresa-torres.md) — Author of Continuous Discovery Habits, creator of Opportunity Solution Tree; trained 12,000+ PMs
 - [Tim Holley](guests/tim-holley.md) — VP Product Etsy; marketplace dynamics, cultural transformation, experimentation culture
+- [Timothy Davis](guests/timothy-davis.md) — Head of Performance Marketing Shopify; paid growth, attribution, performance marketing strategy
+- [Tobi Lütke](guests/tobi-lutke.md) — Founder and CEO Shopify; first-principles thinking, infinite games, maximizing human potential
+- [Upasna Gautam](guests/upasna-gautam.md) — PM at CNN Digital; media-tech product, mindfulness in product work, newsroom dynamics
 
 ## Frameworks
 
